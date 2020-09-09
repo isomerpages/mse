@@ -1,0 +1,25 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Research
+    url: /research/
+  - title: Get Involved
+    url: /get-involved/
+  - title: Safe Distancing
+    url: /safe-distancing/
+  - title: About Us
+    collection: about-us
+  - title: Careers
+    collection: careers
+  - title: Learn The Issues
+    collection: learn-the-issues
+  - title: News
+    resource_room: true
