@@ -7,19 +7,13 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Research
-    url: /research/
-  - title: Get Involved
-    url: /get-involved/
-  - title: Safe Distancing
-    url: /safe-distancing/
-  - title: About Us
-    collection: about-us
-  - title: Careers
-    collection: careers
-  - title: Learn The Issues
-    collection: learn-the-issues
+  - title: Feature
+    url: /feature/
   - title: News
     resource_room: true
+  - title: What Can I Do?
+    collection: get-involved
+  - title: Resources
+    collection: resources
+  - title: About Us
+    collection: about-us
