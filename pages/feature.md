@@ -1,0 +1,4 @@
+---
+title: Feature
+permalink: /feature/
+---
