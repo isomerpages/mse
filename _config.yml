@@ -22,7 +22,7 @@ colors:
 collections:
   about-us:
     output: true
-  get-involved:
+  take-action:
     output: true
   resources:
     output: true

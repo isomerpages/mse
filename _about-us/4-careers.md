@@ -1,6 +1,6 @@
 ---
-title: Organisation Chart & Divisions
-permalink: /about-us/organisation-chart/
+title: Careers
+permalink: /about-us/careers/
 ---
 org chart + divisions
 and committees and councils if needed
