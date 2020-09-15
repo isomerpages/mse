@@ -22,9 +22,9 @@ colors:
 collections:
   about-us:
     output: true
-  careers:
+  get-involved:
     output: true
-  learn-the-issues:
+  resources:
     output: true
 resources_name: news
 
