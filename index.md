@@ -9,22 +9,21 @@ sections:
         background: /images/hero-banner.jpg 
         url: /contact-us/
     - infobar:
-        title: Infobar title haha
-        description: We are committed to providing Singaporeans with a clean and sustainable environment, and resilient supplies of safe food and water. 
+        title: Ensuring a sustainable, resource-efficient, and climate-resilient Singapore
+        description:  
     - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values/
+        title: Climate Action Plan
+        subtitle: What we are doing
+        button: Learn more
+        url: https://climategamechanger.sg/
         image: /images/infopic-1.png
-        alt: Members of the Ministry of ABC shaking hands
+        alt: Game changing climate change
     - infopic:
-        title: Professionalism
-        subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
-        button: Learn More
-        url: /core-values/
+        title: Sustainability is for Everyone
+        subtitle: What can you do?
+        description: 
+        button: Get Involved
+        url: /take-action/individuals
         image: /images/infopic-2.png
         alt: Members of the Ministry of ABC in suits
     - resources:
