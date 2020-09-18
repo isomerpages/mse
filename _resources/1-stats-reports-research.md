@@ -1,6 +1,6 @@
 ---
 title: Statistics, Reports, & Research
-permalink: /learn-the-issues/stats-reports-research/
+permalink: /stats-reports-research/
 ---
 
 

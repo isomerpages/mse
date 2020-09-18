@@ -9,7 +9,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Feature
     url: /feature/
-  - title: News
+  - title: Latest
     resource_room: true
   - title: Take Action
     collection: take-action
