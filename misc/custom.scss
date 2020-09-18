@@ -4,6 +4,17 @@
 
 @charset "utf-8";
 
+//////////////////// DAVID'S CUSTOM CSS //////////////////
+
+// Remove hero bg alpha
+.bp-hero-body {
+  background: rgba(0, 0, 0, 0) !important;
+
+
+////////////////////END OF DAVID'S CUSTOM CSS ////////////
+
+
+
 // Agency brand colors
 $primary: #00B2DD;
 $secondary: #00B2DD;

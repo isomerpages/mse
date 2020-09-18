@@ -2,14 +2,14 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/mse-logo.png
 permalink: /
 sections:
     - hero:
-        background: /images/hero-banner.jpg
+        background: /images/hero-banner.jpg 
         url: /contact-us/
     - infobar:
-        title: Infobar title
+        title: Infobar title haha
         description: We are committed to providing Singaporeans with a clean and sustainable environment, and resilient supplies of safe food and water. 
     - infopic:
         title: Integrity
