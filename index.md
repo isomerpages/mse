@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: MSE - Home
+description: Ministry of Sustainability and the Environment
 image: /images/mse-logo.png
 permalink: /
 sections:
@@ -27,7 +27,6 @@ sections:
         image: /images/infopic-2.png
         alt: Members of the Ministry of ABC in suits
     - resources:
-        title: Media
-        subtitle: Learn more
+        subtitle: Latest News
         button: View More
 ---

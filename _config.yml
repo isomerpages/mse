@@ -1,6 +1,6 @@
 title: Title
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 
 # Site colors
 colors:
@@ -8,15 +8,15 @@ colors:
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#323232'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#323232'
     - title: media-color-three
-      color: '#00838f'
+      color: '#323232'
     - title: media-color-four
-      color: '#00838f'
+      color: '#323232'
     - title: media-color-five
-      color: '#00838f'
+      color: '#323232'
 
 
 collections:
