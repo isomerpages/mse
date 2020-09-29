@@ -1,4 +1,0 @@
----
-title: Microsites
-permalink: /microsites
----

@@ -11,9 +11,9 @@ links:
     url: /feature/
   - title: Latest News
     resource_room: true
+  - title: Issues
+    collection: issues
   - title: Take Action
     collection: take-action
-  - title: Resources
-    collection: resources
   - title: About Us
     collection: about-us

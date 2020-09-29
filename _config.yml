@@ -24,7 +24,7 @@ collections:
     output: true
   take-action:
     output: true
-  resources:
+  issues:
     output: true
 resources_name: news
 
