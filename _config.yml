@@ -26,6 +26,8 @@ collections:
     output: true
   issues:
     output: true
+  resources:
+    output: true
 resources_name: news
 
 ##################################################################################################################

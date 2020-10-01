@@ -11,6 +11,16 @@
   background: rgba(0, 0, 0, 0) !important;
 }
 
+// Remove PDF icon before links
+a[href$=".pdf"]:before {
+  content: none;
+}
+
+a[href$=".pdf"]{
+  margin-left: 0;
+}
+
+
 ////////////////////END OF DAVID'S CUSTOM CSS ////////////
 
 
