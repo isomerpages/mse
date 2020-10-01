@@ -24,6 +24,31 @@ Our priorities are to:
 * Achieve Food Safety and Security Sustainably
 * Build a Liveable and Endearing Home
 
+
+
+### Our Vision
+
+A clean environment,  
+water and safe food for all.  
+Together, a liveable and  
+sustainable Singapore.
+
+### Our Mission
+
+To ensure a clean, sustainable  
+environment, and supply of  
+water and safe food for Singapore.
+
+### Our Core Values
+
+**S**ervice  
+**P**rofessionalism  
+**I**ntegrity  
+**R**espect  
+**I**nnovation  
+**T**eamwork
+
+
 #### [Learn more about Singapore's environmental issues](/learn-the-issues/ "Learn The Issues")
 
 <br>
