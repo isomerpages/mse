@@ -5,7 +5,7 @@ permalink: /resources/overview
 
 
 
-<h3> Key Environmetal Statistics 2019 </h3>
+<h3> Key Environmetal Statistics 2020 </h3>
 <a href="/resources/key-environmental-statistics.pdf" download>
   <img src="/images/key-environmental-statistics.png" style="width:300px;">
 </a>
@@ -37,14 +37,12 @@ The Zero Waste Masterplan sets a new waste reduction target for Singapore – to
 The latest publications of Singapore’s Climate Action Plan provides an update and summary of Singapore’s mitigation and adaptation plans. It sets out how Singapore intends to reduce greenhouse gas emissions and increase our energy efficiency to meet our 2030 climate pledge, and how Singapore may be affected by climate change and our strategy to prepare for them.
 
 
-<h5> Hawker Centre 3.0 Committee Report (2017) </h5>
-<a href="/resources/hawker-report.pdf" download>
-  <img src="/images/hawker-report.png" style="width:300px;">
-</a>
-
 
 
 <h3> Resources from NEA </h3>
+
+https://www.cgs.gov.sg/resources
+
 <a href="https://www.nea.gov.sg/corporate-functions/resources">
   <img src="https://www.nea.gov.sg/assets/images/design/logo.png" style="width:max-content;">
 </a>
@@ -72,3 +70,12 @@ Statistics from data.gov.sg
 
 
 
+
+https://www.towardszerowaste.gov.sg/resources/
+
+-   [Educational Materials](https://www.nea.gov.sg/corporate-functions/resources/educational-materials/exhibits): Brochures, posters, and other materials are available for download at the NEA website or collection at our customer service centre.
+-   [3R Guidebooks](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/3r-guidebooks): These guidebooks provide a step-by-step guide to implementing a 3R programme in hotels, industrial estates, offices and shopping malls; as well as during Meetings, Incentives, Conferences and Exhibition (MICE) events.
+-   [Food Waste Minimisation Guidebooks](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management): These guidebooks were developed by NEA and SFA for food retail establishments, supermarkets and food manufacturing establishments to reduce food waste across the supply chain.
+
+-   [Guide to Implementing Environmentally-Friendly Best Practices for Events](http://www.mewr.gov.sg/top/faqs/guide-to-environmentally-friendly-practices-for-events)  (MEWR)
+-   [Sustainability Guidelines for the Singapore MICE industry](http://www.google.com/url?sa=t&rct=j&q=sustainability%20guidlelines%20for%20singapore%20mice%20industry&source=web&cd=2&cad=rja&ved=0CDAQFjAB&url=http%3A%2F%2Fwww.yoursingapore.com%2Fcontent%2Fdam%2Fmice%2Fen%2Fwhysingapore%2FPDF%2FSTB_sustainability_guidelines_manual_november_2013.pdf&ei=YJX_UoSHJouYrgeygIHACg&usg=AFQjCNFdiQk8fzASWI14j89LLXiYGMCGTA&sig2=7xNpKSRt3BxtG0fEJVNWRQ&bvm=bv.61535280,d.bmk)
