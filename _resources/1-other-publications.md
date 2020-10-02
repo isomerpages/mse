@@ -1,5 +1,5 @@
 ---
-title: Other-publications
+title: Other Publications
 permalink: /other-publications
 ---
 

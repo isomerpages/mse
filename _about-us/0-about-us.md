@@ -28,16 +28,12 @@ Our priorities are to:
 
 ### Our Vision
 
-A clean environment,  
-water and safe food for all.  
-Together, a liveable and  
-sustainable Singapore.
+A clean environment, water and safe food for all.  
+Together, a liveable and sustainable Singapore.
 
 ### Our Mission
 
-To ensure a clean, sustainable  
-environment, and supply of  
-water and safe food for Singapore.
+To ensure a clean, sustainable environment, and supply of water and safe food for Singapore.
 
 ### Our Core Values
 
@@ -49,7 +45,7 @@ water and safe food for Singapore.
 **T**eamwork
 
 
-#### [Learn more about Singapore's environmental issues](/learn-the-issues/ "Learn The Issues")
+#### [Learn more about Singapore's environmental issues](/issues/overview/ "Learn The Issues")
 
 <br>
 <br>

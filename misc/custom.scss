@@ -27,7 +27,7 @@ a[href$=".pdf"]{
 
 // Agency brand colors
 $primary: #00B2DD;
-$secondary: #00B2DD;
+$secondary: #484848;
 $secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
