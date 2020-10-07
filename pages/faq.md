@@ -1,8 +1,8 @@
 ---
 title: FAQ
-permalink: /faq/
+permalink: /https://www.ifaq.gov.sg/MEWR/apps/fcd_faqmain.aspx/
 ---
-
+<!-- 
 ### **FAQ**
 
 **What is Singapore doing to tackle Climate Change?**
@@ -67,4 +67,4 @@ NEA checks the designs of industrial plants and pollution control equipment at t
 
 NEA conducts regular inspections on industries to ensure that pollution control equipment is maintained and operated properly. NEA also conducts source tests on gaseous emissions, fuel analyses and smoke observations of chimneys. 
 
-NEA’s Source Emission Test Scheme allows industries to monitor their air emissions regularly, and to take measures to ensure compliance with prescribed standards.
+NEA’s Source Emission Test Scheme allows industries to monitor their air emissions regularly, and to take measures to ensure compliance with prescribed standards. -->
