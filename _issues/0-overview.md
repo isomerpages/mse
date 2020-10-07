@@ -68,9 +68,14 @@ img {
 }
 
 @media screen and (min-width: 52em) {
-    .centered {
+    .img {
         max-width: 52em;
     }
+}
+
+@media screen and (max-width : 480px) {
+	.card { 
+        max-width: 100%; }
 }
 
 /*--------------------------------------------------------------
