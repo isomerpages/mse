@@ -24,25 +24,36 @@ img {
     margin: 1rem .25em;
 	background: white;
     margin-bottom: 2em;
-    border: 1px solid rgba(0,0,0,.2);
+    border: 0.13em solid rgba(0,0,0,.2);
     border-radius: 15px;
     /* box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3); */
 }
 
 .card a {
-	color: black;
-	text-decoration: none;
+  color: inherit;
+  text-decoration: none; /* no underline */
 }
 
-.card :hover {
-    /* box-shadow: 3px 3px 8px hsl(0, 0%, 80%); */
-}
-
-.card-content h6{
+.card-content h6 {
 	padding: 1em;
 	margin-top: 0.5em;
 	margin-bottom: .5em;
-	font-weight: bold;
+    font-weight: bold;
+    color: inherit;
+    text-decoration: none;
+}
+
+.card:hover {
+    transition: all 0.2s ease-out;
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 2px solid #cccccc;
+    background-color: white;
+  }
+
+.card a:hover {
+  color: black;
+  text-decoration: none; /* no underline */
 }
 
 /* Flexbox stuff */
