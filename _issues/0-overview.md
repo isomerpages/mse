@@ -4,7 +4,6 @@ permalink: /issues/overview/
 ---
 
 <style>
-
 /*--------------------------------------------------------------
 DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/

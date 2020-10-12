@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-//////////////////// DAVID'S CUSTOM CSS //////////////////
+/*  --------------------------------START OF DAVID'S CUSTOM CSS ----------------------------------------- */
 
 // Remove hero bg alpha
 .bp-hero-body {
@@ -20,8 +20,42 @@ a[href$=".pdf"]{
   margin-left: 0;
 }
 
+/////////////////// GRID 3-COLUMN FOR ABOUT US ////////////////////
 
-////////////////////END OF DAVID'S CUSTOM CSS ////////////
+.flex-grid-thirds {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: middle;
+}
+
+.flex-grid-thirds .col {
+  width: 32%;
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+@media (max-width: 400px) {
+  .flex-grid,
+  .flex-grid-thirds {
+    display: block;
+    .col {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
+  }
+}
+
+/////////////////// END GRID 3-COLUMN FOR ABOUT US ////////////////////
+
+
+/*  --------------------------------END OF DAVID'S CUSTOM CSS ----------------------------------------- */
+
+
+
+
 
 
 

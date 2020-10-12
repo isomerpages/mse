@@ -42,7 +42,7 @@ sections:
         description: Our work is wide-ranging and touches many aspects of our lives. <br>Learn how our policies to tackle these issues.
         url: /issues/overview/
         button: Discover More
-    # - resources:
-    #     subtitle: Latest News
-    #     button: View More
+    - resources:
+        subtitle: Latest News
+        button: View More
 ---
