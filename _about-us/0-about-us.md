@@ -3,13 +3,11 @@ title: About MSE
 permalink: /about-us/
 ---
 
-### About MSE 
+### **The Ministry of Sustainability and the Environment (MSE)** is committed to providing a clean and sustainable environment with resilient supplies of safe food and water for Singapore.
 
- The Ministry of Sustainability and the Environment (MSE) is committed to providing Singaporeans with a clean and sustainable environment, and resilient supplies of safe food and water. 
+We work alongside three statutory boards and realises its vision and mission through innovation, technology, and vibrant partnerships with the private, public and people (3P) sectors.
 
-MSE works alongside three statutory boards and realises its vision and mission through innovation, technology, and vibrant partnerships with the private, public and people (3P) sectors.
-
-<center>Statutory Boards under MSE:</center>
+<center>Our Statutory Boards</center>
 <div class="flex-grid-thirds">
   <div class="col">
     <a href="https://www.nea.gov.sg/"><img src="https://www.openinnovationnetwork.sg/images/network/NEA%20Logo.jpg" alt="..."></a>
@@ -22,7 +20,7 @@ MSE works alongside three statutory boards and realises its vision and mission t
   </div>
 </div>
 
-MSE’s key priorities are to ensure a sustainable, resource-efficient and climate-resilient Singapore. Our three strategic directions include economic resilience, resource resilience and climate resilience.
+Our key priorities are to ensure a sustainable, resource-efficient and climate-resilient Singapore. Our three strategic directions include economic resilience, resource resilience and climate resilience.
 
 **Climate Resilience**: to address existential threats of climate change especially rising sea levels and cope with rising temperatures and changing rainfall patterns to sustain a liveable environment. 
 

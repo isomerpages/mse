@@ -16,6 +16,11 @@ links:
   - title: Take Action
     collection: take-action
   - title: Resources
-    collection: resources
+    url: /resources
+    sublinks:
+      - title: Resources
+        url: /resources
+      - title: Other Publications
+        url: /other-publications
   - title: About Us
     collection: about-us

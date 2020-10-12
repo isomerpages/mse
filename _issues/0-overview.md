@@ -12,7 +12,7 @@ img {
 	display: block;
 	border: 0;
 	width: 100%;
-    height: 140px;
+    height: 150px;
     padding: 1em;
     border-radius: 15px 15px 0px 0px;
 }
@@ -22,8 +22,8 @@ img {
     box-sizing: border-box;
     margin: 1rem .25em;
 	background: white;
-    margin-bottom: 2em;
-    border: 0.13em solid rgba(0,0,0,.2);
+    margin-bottom: 1em;
+    /* border: 0.13em solid rgba(0,0,0,.2); */
     border-radius: 15px;
     /* box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3); */
 }
@@ -34,7 +34,7 @@ img {
 }
 
 .card-content h6 {
-	padding: 1em;
+	padding: .5em;
 	margin-top: 0.5em;
 	margin-bottom: .5em;
     font-weight: bold;
@@ -43,9 +43,9 @@ img {
 }
 
 .card:hover {
-    transition: all 0.2s ease-out;
+    transition: all 0.0s ease-out;
     box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
-    top: -4px;
+    /* top: -4px; */
     border: 2px solid #cccccc;
     background-color: white;
   }
