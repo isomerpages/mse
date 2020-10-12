@@ -13,7 +13,7 @@ We work alongside three statutory boards and realises its vision and mission thr
     <a href="https://www.nea.gov.sg/"><img src="https://www.openinnovationnetwork.sg/images/network/NEA%20Logo.jpg" alt="..."></a>
   </div>
   <div class="col">
-    <a href="https://www.pub.gov.sg//"><img src="https://www.logolynx.com/images/logolynx/9f/9f865ea56817d97ab1b4823270a952d9.png" alt="..."></a>
+    <a href="https://www.pub.gov.sg//"><img src="/images/pub-logo.png" alt="..."></a>
   </div>
   <div class="col">
     <a href="https://www.sfa.gov.sg/"><img src="https://www.sfa.gov.sg/images/default-source/food-for-thought/sfa-logo357b8e7e76af46cca45da61a2dde4a7e.tmb-600_315.png" alt="..."></a>
