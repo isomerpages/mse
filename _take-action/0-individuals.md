@@ -3,20 +3,27 @@ title: For Individuals
 permalink: /take-action/individuals
 ---
 
-## How can you help?
-
-**Start by practising good personal habits. Here's 10 easy ways you can do to reduce waste:**
-
-1.  Swap out plastic bags for reusable bags
-2.  Don’t leave the house without a full reusable water bottle.
-3.  Instead of ordering coffee to go, order coffee ‘to stay’
-4.  Ask for drinks without a straw
-5.  Opt for paperless statements for your credit cards, mobile phone or utilities bills
-6.  Order only what you can finish when dining out
-7.  Store your food properly to make it last longer.
-8.  When placing orders for food online, choose the ‘no cutlery’ option
-9.  Repair old items or donate them instead of throwing them away
-10.  Avoid impulse buys
+  <div class='grid-row'>
+    <div class='grid-column'>
+        <img src="/images/take-action-1.svg">
+    </div>
+    <div class='grid-column double-column'>
+        <div>
+            <h1><b>Let's start with good personal habits.</b></h1><br>
+                <b>Here are 10 easy ways to reduce waste as an individual: </b><br><br>
+                1.  Swap out plastic bags for reusable bags <br>
+                2.  Don’t leave the house without a full reusable water bottle<br>
+                3.  Instead of ordering coffee to go, order coffee ‘to stay’<br>
+                4.  Ask for drinks without a straw<br>
+                5.  Opt for paperless statements for phone, credit card, & utilities bills<br>
+                6.  Order only what you can finish when dining out<br>
+                7.  Store your food properly to make it last longer<br>
+                8.  When placing orders for food online, choose the ‘no cutlery’ option<br>
+                9.  Repair old items or donate them instead of throwing them away<br>
+                10.  Avoid impulse buys
+        </div>
+    </div>
+</div>
 
 -   [Reduce](https://www.towardszerowaste.gov.sg/reduce/)
 -   [Reuse](https://www.towardszerowaste.gov.sg/reuse/)

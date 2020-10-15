@@ -20,35 +20,50 @@ a[href$=".pdf"]{
   margin-left: 0;
 }
 
-/////////////////// GRID 3-COLUMN FOR ABOUT US ////////////////////
+/////////////////// GRID COLUMNS FOR ABOUT US AND TAKE ACTION ////////////////////
 
-.flex-grid-thirds {
+
+
+.grid-row {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
   justify-content: space-between;
   vertical-align: middle;
 }
 
-.flex-grid-thirds .col {
-  width: 32%;
-  vertical-align: middle;
+.grid-column {
   display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  vertical-align: middle;
   align-items: center;
   justify-content: flex-start;
-  padding: 10px;
+  padding: 20px;
 }
 
-@media (max-width: 400px) {
-  .flex-grid,
-  .flex-grid-thirds {
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2
+}
+
+@media (max-width: 600px) {
+  .grid-row {
     display: block;
-    .col {
+    .grid-column {
       width: 100%;
       margin: 0 0 10px 0;
     }
   }
 }
 
-/////////////////// END GRID 3-COLUMN FOR ABOUT US ////////////////////
+
+
+/////////////////// END GRID COLUMNS FOR ABOUT US AND TAKE ACTION////////////////////
 
 
 /*  --------------------------------END OF DAVID'S CUSTOM CSS ----------------------------------------- */

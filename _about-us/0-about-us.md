@@ -8,7 +8,7 @@ permalink: /about-us/
 We work alongside three statutory boards and realises its vision and mission through innovation, technology, and vibrant partnerships with the private, public and people (3P) sectors.
 
 <center>Our Statutory Boards</center>
-<div class="flex-grid-thirds">
+<div class="flex-grid">
   <div class="col">
     <a href="https://www.nea.gov.sg/"><img src="https://www.openinnovationnetwork.sg/images/network/NEA%20Logo.jpg" alt="..."></a>
   </div>
