@@ -3,14 +3,13 @@ title: For Individuals
 permalink: /take-action/individuals
 ---
 
+<div class='container'>
+
   <div class='grid-row'>
-    <div class='grid-column'>
-        <img src="/images/take-action-1.svg">
-    </div>
     <div class='grid-column double-column'>
         <div>
-            <h1><b>Let's start with good personal habits.</b></h1><br>
-                <b>Here are 10 easy ways to reduce waste as an individual: </b><br><br>
+            <h1><b>Let's start with good personal habits</b></h1><br>
+                Here are 10 easy ways to reduce waste as an individual: <br><br>
                 1.  Swap out plastic bags for reusable bags <br>
                 2.  Don’t leave the house without a full reusable water bottle<br>
                 3.  Instead of ordering coffee to go, order coffee ‘to stay’<br>
@@ -20,67 +19,78 @@ permalink: /take-action/individuals
                 7.  Store your food properly to make it last longer<br>
                 8.  When placing orders for food online, choose the ‘no cutlery’ option<br>
                 9.  Repair old items or donate them instead of throwing them away<br>
-                10.  Avoid impulse buys
+                10.  Avoid impulse buys <br><br>
+                In other words, 
+                <a href="https://www.towardszerowaste.gov.sg/reduce">reduce</a>, 
+                <a href="https://www.towardszerowaste.gov.sg/reuse">reuse</a>, 
+                <a href="https://www.towardszerowaste.gov.sg/recycle">recycle</a>
+        </div>
+    </div>
+    <div class='grid-column'>
+        <img src="/images/take-action-1.svg">
+    </div>
+</div>
+
+
+<div class='grid-row-no-padding' style="background-color:#F5F5F5;">
+    <div class='grid-column'>
+        <div>
+            <h3><b>Save Energy</b></h3><br>
+            Increase your air-conditioner temperature by 1°C, and save $15 a year on energy bills! Or use a fan instead.
+        </div>
+    </div>
+    <div class='grid-column'>
+        <div>
+            <h3><b>Save Water</b></h3><br>
+                Reduce your shower time by 2 minutes, and save 15L of water!
+                Try to wash clothes on full load, rinse vegetables in containers, and off the tap when brushing teeth.
+        </div>
+    </div>
+    <div class='grid-column'>
+        <div>
+            <h3><b>Go Local</b></h3><br>
+            Support our farmers, improve our food resilience. <a href="https://www.sfa.gov.sg/fromSGtoSG/where-to-buy">Local produce</a> is fresher, closer to home and thus have a lower carbon footprint.
         </div>
     </div>
 </div>
 
--   [Reduce](https://www.towardszerowaste.gov.sg/reduce/)
--   [Reuse](https://www.towardszerowaste.gov.sg/reuse/)
--   [Recycle right](https://www.towardszerowaste.gov.sg/recycle/)
 
-**You can also reduce your energy usage and carbon emissions:**
-
-1.  Increase your air-conditioner temperature by 1 degree *(and save an additional $15 a year on energy bills!)*
-2.  **Reduce your shower time by 2 minutes *(and save 15 litres of water!)*
-
-And while you're at it, save some water by remembering to:
-
-**W**ash clothes on full load   
-**A**lways use half-flush when possible   
-**T**urn off shower when soaping   
-**E**nsure tap is off when brushing teeth   
-**R**inse vegetables in a container   
-
-**Getting groceries? Try local.**
-
-Grown in Singapore, for Singapore, locally farmed food is closer to home, which means it is fresher and has a lower carbon footprint. By buying fresh local produce, you are doing your part to support our local farmers as we work towards becoming a more self-sufficient nation.
-
-[Where to buy local food](https://www.sfa.gov.sg/fromSGtoSG/where-to-buy)
+<!-- breaklines here because above is grid-row no padding with grey background colour -->
+<br>
+<br>
+<br>
 
 
 
+  <div class='grid-row'>
+    <div class='grid-column'>
+        <img src="/images/take-action-2.svg">
+    </div>
+    <div class='grid-column double-column'>
+        <div>
+            <h1><b>Volunteer & Participate</b></h1><br>
+                Want to do more? There are diverse opportunities to get involved - from events that promote environmental awareness, to beautifying our community spaces and garnering support for ground-up projects.<br><br>
+                Volunteer with <a href="https://www.cgs.sg/volunteer">NEA</a>, <a href="https://sec.org.sg/volunteer/">Singapore Environment Council</a>, or one of the many <a href="https://www.towardszerowaste.gov.sg/green-groups-in-singapore/"> green groups in Singapore.</a>
+                Join the <a href="http://www.byosingapore.com/byob/">“Bring Your Own” (BYO) movement</a>, encouraging Singaporeans to use reusable bags at supermarkets, or take part in a <a href="https://www.publichygienecouncil.sg/beachcleanup">beach clean-up</a>. <br><br>
+                If you cherish Singapore’s pristine water bodies like we do, get involved with the<a href="https://www.giving.sg/waterways-watch-society">Waterways Watch Society</a> which strives to preserve their beauty.<br><br>
+                Support initiatives to supplement the city’s food supply such as <a href="https://bollywoodveggies.com.sg/">Bollywood Veggies</a> and <a href="https://www.ediblegardencity.com/">Edible Garden City</a>, or help our food charities such as <a href="https://www.giving.sg/the-food-bank-singapore-ltd">The Food Bank</a> and <a href="https://www.giving.sg/free-food-for-all-limited">Free Food For All</a> to redistribute food and reduce waste.
+        </div>
+    </div>
+</div>
 
 
+  <div class='grid-row'>
+    <div class='grid-column'>
+        <h1 style="align-self: flex-start"><b>Start something in your community</b></h1><br>
+            <div>
+                Be the change you wish to see, and start something of your own! We have resources that can help kick-start your environmental event or initiative.<br><br>
+            </div>
+            <img src="/images/take-action-3.svg" style="max-width:33vh;"><br>
+            <a class="button_david" href="/resources/">View Resources</a>
+    </div>
+  </div>
 
-## Volunteer & Participate
-
-Want to take your zero waste passion one step further? NEA offers a variety of volunteer opportunities: participating in events to promote environmental awareness and conservation, beautifying our community spaces, and garnering support for ground-up environmental projects.
-
-Volunteer with [NEA](https://www.cgs.sg/volunteer), [Singapore Environment Council](https://sec.org.sg/volunteer/), or one of the many [environmental / green groups in Singapore](https://www.towardszerowaste.gov.sg/green-groups-in-singapore/)!
-
-You can also join one of the many [green groups in Singapore](https://www.towardszerowaste.gov.sg/green-groups-in-singapore/) such as [Repair Kopitiam](https://repairkopitiam.sg/), [Journey to Zero Waste Singapore](https://www.facebook.com/groups/ZeroWasteJourneySg/) and [Green Drinks Singapore](https://www.facebook.com/groups/greendrinkssingapore/).
-
-Participate in the [“Bring Your Own” (BYO) movement](http://www.byosingapore.com/byob/), encouraging Singaporeans to use reusable bags at supermarkets. 
-
-Taking part in a [beach clean-up](https://www.publichygienecouncil.sg/beachcleanup) is one way to keep the beaches and the environment healthy for everyone to enjoy.
-
-If you adore Singapore’s pristine water bodies, give to the  [Waterways Watch Society](https://www.giving.sg/waterways-watch-society)  which strives to preserve their immaculate condition.
-  
-To help our food charities, consider giving to [The Food Bank Singapore Ltd](https://www.giving.sg/the-food-bank-singapore-ltd) and [Free Food For All Limited](https://www.giving.sg/free-food-for-all-limited) to redistributes food to alleviate food insecurity and reduce food waste.
-
-Donate to [Garden City Fund’s Singapore Botanic Gardens Seed Bank](https://www.giving.sg/garden-city-fund/seedbank) where your donation can improve the variety of food crops. Support initiatives to protect the environment and supplement the city’s food supply such as [Bollywood Veggies](https://bollywoodveggies.com.sg/) and [Edible Garden City](https://www.ediblegardencity.com/).
-
-
-
-
-## Start something in your community!
-
-Here is a list of resources that can help you kick-start your environmental event or initiative.
-
-[3R Guidebooks](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/3r-guidebooks)
-
-
+</div>
 
 
 
