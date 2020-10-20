@@ -49,6 +49,7 @@ a[href$=".pdf"]{
   justify-content: space-between;
   vertical-align: middle;
   align-items: top;
+  flex: 0;
 }
 
 .grid-column {
@@ -70,11 +71,12 @@ a[href$=".pdf"]{
 }
 
 @media (max-width: 600px) {
-  .grid-row {
+  .grid-row, .logos-row, .grid-row-no-padding {
     display: block;
     .grid-column {
       width: 100%;
       margin: 0 0 10px 0;
+      flex: 1;
     }
   }
 }
