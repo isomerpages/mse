@@ -20,6 +20,32 @@ a[href$=".pdf"]{
   margin-left: 0;
 }
 
+// remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
+#org > div {
+  padding: 20px;
+  align-items: center;
+  div > div > h5 {
+  text-align: center;
+  font-weight: bold;
+    a {
+    text-decoration:none;
+    color:#484848; 
+    }
+    a:hover {
+    background: lightgrey;
+    }
+  }
+}
+
+
+// change <li> font to 16px
+#lists > ul > li {
+  font-size: 16px;
+  margin: 0px;
+  line-height: 1.5em;
+  list-style-position: outside;
+}
+
 /////////////////// FLEXBOX GRID COLUMNS FOR ABOUT US AND TAKE ACTION ////////////////////
 
 .logos-row {
@@ -62,6 +88,7 @@ a[href$=".pdf"]{
   justify-content: flex-start;
   padding: 15px;
 }
+
 
 .double-column {
   display: flex;
