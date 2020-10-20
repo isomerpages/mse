@@ -4,7 +4,7 @@ permalink: /about-us/our-history/
 ---
 
 
-The Ministry of Sustainability and the Environment (MSE) was set up in September 1972 as the Ministry of the Environment (ENV), to tackle issues such as pollution control, sewerage, drainage and environmental health.
+### **The Ministry of Sustainability and the Environment (MSE)** was set up in September 1972 as the Ministry of the Environment (ENV), to tackle issues such as pollution control, sewerage, drainage and environmental health.
 
 In 2001, recognising that Singapore’s water catchment and supply systems, drainage systems, water reclamation plants, and sewerage systems are part of a comprehensive water cycle, PUB was reconstituted to become Singapore’s national water authority, overseeing the entire water loop. The drainage and sewerage departments from ENV were transferred to PUB, while PUB itself was transferred from the Ministry of Trade and Industry to ENV.
 

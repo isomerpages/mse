@@ -8,7 +8,8 @@ permalink: /issues/overview/
 DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 
-img {
+/* refrain from using pure img selector as it changes the MSE logo size */
+#issues-container > section > div > a > img {
 	display: block;
 	border: 0;
 	width: 100%;
@@ -95,8 +96,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 
 
 
-<main class="main-area">
-
+<main id="issues-container">
 <section class="cards">
     <div class="card">
         <a href="/issues/clean-air">

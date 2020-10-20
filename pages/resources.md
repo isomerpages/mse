@@ -7,8 +7,9 @@ permalink: /resources/
 /*--------------------------------------------------------------
 DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
+/* refrain from using pure img selector as it changes the MSE logo size */
 
-img {
+#resources-container > div > div > a > img {
     display: block;
     border: 0;
     max-width: 180px;
@@ -94,6 +95,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 </style>
 
+<div id="resources-container">
 <div class="cards">
     <div class="card">
         <a href="/resources/key-environmental-statistics.pdf">
@@ -204,5 +206,6 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <img src="/images/hawker-report.png" style="width:300px;">
         </a>
     </div>
-
+</div>
+<!-- container end dic -->
 </div>

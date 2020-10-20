@@ -3,7 +3,9 @@ title: Our Practices
 permalink: /about-us/our-practices/
 ---
 
-## Environmental Health & Safety and Corporate Social Responsibility
+### **Our Organisational Practices**
+
+**Environmental Health & Safety and Corporate Social Responsibility**
 
 At MSE, we recognise our personal responsibility towards the community and the environment. On top of striving towards environmental sustainability, we hope to help the less fortunate by making a positive difference in their lives.
 
@@ -17,32 +19,31 @@ Our contribution towards environmental sustainability through activities such as
 
 -------
 
-
-**At MSE, we endeavour to create an organisational culture where resource conservation, health and safety at the workplace is second nature.**
+At MSE, we endeavour to create an organisational culture where resource conservation, health and safety at the workplace is second nature.
 
 We view our commitment to environmental protection and enhancement, health and safety seriously and desire to do our part in preserving the environment for future generations.
 
 Apart from instilling awareness in MSE staff, we take ownership by being active in pursuing safe, environmentally friendly resources to meet our organisational needs:
 
-#### Green Procurement and Partnership with Suppliers
+**Green Procurement and Partnership with Suppliers**
 We consider environmental, health and safety best practices when planning for contracts, procurement and operations as well as identify new green initiatives. We encourage our suppliers to implement similar environmental practices.
 
-#### Pollution Prevention
+**Pollution Prevention**
 We strive to ensure that all harmful impact on the environment as a result of our activities is minimised.
 
-#### Reduce, Reuse, Recycle
+**Reduce, Reuse, Recycle**
 -   We use our resources efficiently to reduce wastage.
 -   We develop innovative ways to reuse our resources.
 -   We promote opportunities to recycle.
 
-#### Efficiency
+**Efficiency**
 We monitor, evaluate and continually improve our environmental, health and safety management practices to ensure efficient use of resources.
 
-#### Compliance
+**Compliance**
 We actively ensure that all our activities and operations comply with the applicable legal and regulatory requirements through constant monitoring, evaluation and auditing of the implemented systems.
 
 
-## Service Standards
+**Service Standards**
 
 MSE values your feedback and comments and strives to attend to your calls, emails and letters as soon as we can.
 
