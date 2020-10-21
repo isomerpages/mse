@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MSE - Home
+title: Home - MSE
 description: Ministry of Sustainability and the Environment
 image: /images/mse-logo.png
 permalink: /
@@ -41,8 +41,8 @@ sections:
         title: <h2 style="font-family:'Cabin'">Want to find out more?</h2>
         description: Our work is wide-ranging and touches many aspects of our lives. <br>Learn how our policies to tackle these issues.
         url: /issues/overview/
-        button: Discover More
+        button: View Our Policies
     - resources:
-        subtitle: Latest News
-        button: View More
+        subtitle: <h2 style="font-family:'Cabin'">Latest News</h2>
+        button: News Catalogue
 ---

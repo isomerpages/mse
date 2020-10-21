@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Overview of Policies
 permalink: /issues/overview/
 ---
 

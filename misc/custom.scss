@@ -46,6 +46,33 @@ a[href$=".pdf"]{
   list-style-position: outside;
 }
 
+
+// START OF BUTTON
+.button_david {
+  color: #484848 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ffffff;
+  padding: 15px 20px;
+  border: 2px solid #484848;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+  border-radius: 15px;
+  font-weight: bold;
+  text-decoration: none !important;
+  }
+
+.button_david:hover {
+  color: #ffffff !important;
+  background: #4a96b0;
+  border-color: #4a96b0 !important;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+  }
+
+// END OF BUTTON
+
+
 /////////////////// FLEXBOX GRID COLUMNS FOR ABOUT US AND TAKE ACTION ////////////////////
 
 .logos-row {
@@ -97,7 +124,7 @@ a[href$=".pdf"]{
   flex: 2
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .grid-row, .logos-row, .grid-row-no-padding {
     display: block;
     .grid-column {
@@ -110,38 +137,9 @@ a[href$=".pdf"]{
 
 /////////////////// END GRID COLUMNS FOR ABOUT US AND TAKE ACTION////////////////////
 
-// START OF BUTTON IN TAKE ACTION
-
-.button_david {
-  color: #484848 !important;
-  text-transform: uppercase;
-  text-decoration: none;
-  background: #ffffff;
-  padding: 15px 20px;
-  border: 2px solid #484848;
-  display: inline-block;
-  transition: all 0.4s ease 0s;
-  border-radius: 15px;
-  font-weight: bold;
-  text-decoration: none !important;
-  }
-
-.button_david:hover {
-  color: #ffffff !important;
-  background: #4a96b0;
-  border-color: #4a96b0 !important;
-  transition: all 0.4s ease 0s;
-  text-decoration: none;
-  }
-
-// END OF BUTTON IN TAKE ACTION
-
-
 
 
 /*  --------------------------------END OF DAVID'S CUSTOM CSS ----------------------------------------- */
-
-
 
 
 

@@ -28,6 +28,7 @@ collections:
     output: true
   # resources:
   #   output: true
+# google_analytics: UA-8303170-1
 resources_name: news
 
 ##################################################################################################################
