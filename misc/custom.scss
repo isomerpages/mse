@@ -4,7 +4,10 @@
 
 @charset "utf-8";
 
-/*  --------------------------------START OF DAVID'S CUSTOM CSS ----------------------------------------- */
+
+/*================================================================
+=                         START OF DAVID'S CUSTOM CSS            =
+==================================================================*/
 
 // Remove hero bg alpha
 .bp-hero-body {
@@ -19,6 +22,32 @@ a[href$=".pdf"]:before {
 a[href$=".pdf"]{
   margin-left: 0;
 }
+
+// START OF Hero banner height too narrow, extended here
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #main-content > section.bp-hero.bg-hero > div {
+    padding: 5rem 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1365px) {
+  #main-content > section.bp-hero.bg-hero > div {
+    padding: 5.5rem 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1366px) and (max-width: 1679px){
+  #main-content > section.bp-hero.bg-hero > div {
+    padding: 6.5rem 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1680px) {
+  #main-content > section.bp-hero.bg-hero > div {
+    padding: 11rem 1.5rem;
+  }
+}
+// END OF Hero banner height too narrow, extended here
 
 
 // START OF remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
@@ -161,8 +190,9 @@ a[href$=".pdf"]{
 
 
 
-/*  --------------------------------END OF DAVID'S CUSTOM CSS ----------------------------------------- */
-
+/*=================================================================
+=                     END OF DAVID'S CUSTOM CSS                   =
+==================================================================*/
 
 
 
