@@ -17,3 +17,45 @@ On 1 April 2019, a new statutory board – the Singapore Food Agency (SFA) – w
 On 27 July 2020, MEWR was renamed MSE to better reflect the Government's emphasis on sustainability, and its plans to press on with major initiatives in carbon mitigation, coastal protection, zero waste and circular economy, as well as food and water security. MSE will also continue to work with international partners to collectively address global climate and sustainability challenges.
 
 Together with its statutory boards NEA, PUB and SFA, MSE continues to work towards ensuring a clean, sustainable environment, and supply of water and safe food for Singapore.
+
+
+
+#### Milestones in our journey:
+
+**1960s**
+
+- 1963 Tree Planting campaign was launched by the Government with the objective of making Singapore a green city. Every year, a minimum of 10,000 saplings were planted as part of this campaign. 
+
+- 1967 then PM Lee Kuan Yew articulated vision of Garden City
+
+**1970s**
+
+- 1971 Clean Air Act was passed in Parliament on 2 Dec 1971, to control industrial pollution
+
+- early 1970 Anti-Pollution Unit was set up in the Prime Minister’s Office 
+
+- 1972 Ministry of the Environment was established
+
+**1990s**
+
+- 1992 The Singapore Green Plan, Singapore’s first environmental blueprint was launched; 
+
+- 1999 Environmental Pollution Control Act 1999 replaced Clean Air Act
+
+**2000s** 
+
+- 2002 The Singapore Green Plan 2012 was launched – the plan set a series of environmental targets
+
+- 2005 BC introduced Green Mark Scheme for buildings 
+
+- 2009 Sustainable Singapore Blueprint was unveiled – set out strategies to reduce energy intensity, improve water conservation and recycling participation rate
+
+- 2009 Singapore pledged under UNFCCC framework to reduce greenhouse gas emissions by 16% below BAU scenario in 2020 when a global agreement is achieved 
+
+- 2014 SolarNova programme was launched
+
+- 2018 Singapore switches completely to Euro VI vehicular emission standards 
+
+- 2019 Carbon tax with no exemption introduced 
+
+-  April 2020 1 million trees movement launched 

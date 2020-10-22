@@ -96,6 +96,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 </style>
 
 <div id="resources-container">
+<h1><b> Grab Our Resources </b></h1>
 <div class="cards">
     <div class="card">
         <a href="/resources/key-environmental-statistics.pdf">
