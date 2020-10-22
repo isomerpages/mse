@@ -20,7 +20,8 @@ a[href$=".pdf"]{
   margin-left: 0;
 }
 
-// remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
+
+// START OF remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
 #org > div {
   padding: 20px;
   align-items: center;
@@ -36,15 +37,17 @@ a[href$=".pdf"]{
     }
   }
 }
+// END OF remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
 
 
-// change <li> font to 16px
-#lists > ul > li {
+// START OF change <li> font to 16px
+.lists > ul > li, .lists > ol > li {
   font-size: 16px;
   margin: 0px;
   line-height: 1.5em;
   list-style-position: outside;
 }
+// END OF change <li> font to 16px
 
 
 // START OF BUTTON
@@ -69,8 +72,27 @@ a[href$=".pdf"]{
   transition: all 0.4s ease 0s;
   text-decoration: none;
   }
-
 // END OF BUTTON
+
+// START OF HOMEPAGE LINK HOVER EFFECTS
+#homehoverlink1, #homehoverlink2, {
+  color: inherit;
+  text-decoration: none;
+  background-position-y: -0%;
+  background-image: linear-gradient( #F0F4F6 48%, #4a96b0 50%);
+  transition: background 100ms ease;
+  background-size: auto 190%; 
+}
+
+#homehoverlink2, {
+  background-image: linear-gradient( white 48%, #4a96b0 50%);
+}
+
+#homehoverlink1:hover, #homehoverlink2:hover, {
+  background-position-y: 100%;
+  color: white;
+}
+// END OF HOMEPAGE LINK HOVER EFFECTS
 
 
 /////////////////// FLEXBOX GRID COLUMNS FOR ABOUT US AND TAKE ACTION ////////////////////

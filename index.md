@@ -17,7 +17,7 @@ sections:
     - infopic:
         title: <h2 style="font-family:'Cabin'">Climate Action Plan</h2>
         # subtitle: What we are doing about climate change?
-        description: Find out <a href="https://climategamechanger.sg/">what we are doing</a> to strengthen our climate change resilience and transition to a low-carbon future.
+        description: Find out <a id="homehoverlink1" href="https://climategamechanger.sg/">what we are doing</a> to strengthen our climate change resilience and transition to a low-carbon future.
         # button: Learn more
         # url: https://climategamechanger.sg/
         image: /images/infopic-1.svg
@@ -25,7 +25,7 @@ sections:
     - infopic:
         title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
         # subtitle: What can you do?
-        description: Our <a href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
+        description: Our <a id="homehoverlink2" href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
         # url: /take-action/individuals
         image: /images/infopic-2.svg
         alt: Zero Waste Masterplan

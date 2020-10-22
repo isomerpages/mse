@@ -3,7 +3,7 @@ title: About MSE
 permalink: /about-us/
 ---
 
-### We are committed to providing a **clean and sustainable environment** with **resilient supplies of safe food and water** for Singapore.
+# **We are committed to a clean and sustainable environment with resilient supplies of safe food and water**.
 
 The Ministry of Sustainability and the Environment (MSE) works alongside three statutory boards and realises its vision and mission through innovation, technology, and vibrant partnerships with the private, public and people (3P) sectors.
 

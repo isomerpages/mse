@@ -7,23 +7,25 @@ permalink: /take-action/individuals
 
   <div class='grid-row'>
     <div class='grid-column double-column'>
-        <div>
+        <div class="lists">
             <h1><b>Let's start with good personal habits</b></h1><br>
-                Here are 10 easy ways to reduce waste as an individual: <br><br>
-                1.  Swap out plastic bags for reusable bags <br>
-                2.  Don’t leave the house without a full reusable water bottle<br>
-                3.  Instead of ordering coffee to go, order coffee ‘to stay’<br>
-                4.  Ask for drinks without a straw<br>
-                5.  Opt for paperless statements for phone, credit card, & utilities bills<br>
-                6.  Order only what you can finish when dining out<br>
-                7.  Store your food properly to make it last longer<br>
-                8.  When placing orders for food online, choose the ‘no cutlery’ option<br>
-                9.  Repair old items or donate them instead of throwing them away<br>
-                10.  Avoid impulse buys <br><br>
+                Here are 10 easy ways to reduce waste as an individual: <br>
+                <ol>
+                <li>Swap out plastic bags for reusable bags </li>
+                <li>Don’t leave the house without a full reusable water bottle</li>
+                <li>Instead of ordering coffee to go, order coffee ‘to stay’</li>
+                <li>Ask for drinks without a straw</li>
+                <li>Opt for paperless statements for phone, credit card, & utilities bills</li>
+                <li>Order only what you can finish when dining out</li>
+                <li>Store your food properly to make it last longer</li>
+                <li>When placing orders for food online, choose the ‘no cutlery’ option</li>
+                <li>Repair old items or donate them instead of throwing them away</li>
+                <li>Avoid impulse buys</li>
+                </ol>
                 In other words, 
-                <a href="https://www.towardszerowaste.gov.sg/reduce">reduce</a>, 
-                <a href="https://www.towardszerowaste.gov.sg/reuse">reuse</a>, 
-                <a href="https://www.towardszerowaste.gov.sg/recycle">recycle</a>
+                <a href="https://www.towardszerowaste.gov.sg/reduce">Reduce</a>, 
+                <a href="https://www.towardszerowaste.gov.sg/reuse">Reuse</a>, 
+                <a href="https://www.towardszerowaste.gov.sg/recycle">Recycle</a>
         </div>
     </div>
     <div class='grid-column'>
