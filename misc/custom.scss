@@ -68,7 +68,6 @@ a[href$=".pdf"]{
 }
 // END OF remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
 
-
 // START OF change <li> font to 16px
 .lists > ul > li, .lists > ol > li {
   font-size: 16px;
@@ -165,9 +164,6 @@ a[href$=".pdf"]{
   align-items: center;
   justify-content: flex-start;
   padding: 15px;
-  .fontawesome-card {
-    text-align: center
-  }
 }
 
 

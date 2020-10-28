@@ -6,7 +6,8 @@ permalink: /take-action/organisations/
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
 </head>
 
-<h1><b> What can you do as an organisation?</b></h1>
+<!-- not sure why margin top exists here -->
+<h1 style="margin-top: 0px"><b> What can you do as an organisation?</b></h1>
 
 <div class='container' id='org'>
     <div class='grid-row'>
@@ -21,7 +22,7 @@ permalink: /take-action/organisations/
 <!-- used id #org for line below to select link CSS instead of inline styles, refer to CSS -->
     <div class='grid-row' style="background-color:#f5f5f5;">
         <div class='grid-column'>
-            <div class='fontawesome-card'>
+            <div>
             <h5><i class="fas fa-recycle"></i></h5></div>
             <div>
                 <h5><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work">Practise 3R</a></h5>
