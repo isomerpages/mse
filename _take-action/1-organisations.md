@@ -2,6 +2,9 @@
 title: For Organisations
 permalink: /take-action/organisations/
 ---
+<head>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+</head>
 
 <h1><b> What can you do as an organisation?</b></h1>
 
@@ -18,16 +21,22 @@ permalink: /take-action/organisations/
 <!-- used id #org for line below to select link CSS instead of inline styles, refer to CSS -->
     <div class='grid-row' style="background-color:#f5f5f5;">
         <div class='grid-column'>
+            <div class='fontawesome-card'>
+            <h5><i class="fas fa-recycle"></i></h5></div>
             <div>
                 <h5><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work">Practise 3R</a></h5>
             </div>
         </div>
         <div class='grid-column'>
             <div>
+            <h5><i class="fas fa-plug"></i></h5></div>
+            <div>
                 <h5><a href="https://www.e2singapore.gov.sg/households/saving-energy-at-home/energy-saving-tips/more-energy-saving-practices-at-home">Boost Energy Efficiency</a></h5>
             </div>
         </div>
         <div class='grid-column'>
+            <div>
+            <h5><i class="fas fa-dumpster"></i></h5></div>
             <div>
                 <h5><a href="https://www.sec.org.sg/ecooffice/waste-management-recycling.php">Encourage Recycling</a></h5>
             </div>
@@ -36,15 +45,21 @@ permalink: /take-action/organisations/
     <div class='grid-row' style="background-color:#f5f5f5;">
         <div class='grid-column'>
             <div>
+            <h5><i class="fas fa-hand-holding-water"></i></h5></div>
+            <div>
                 <h5><a href="https://www.sec.org.sg/ecooffice/water-conversation.php">Conserve Water</a></h5>
             </div>
         </div>
         <div class='grid-column'>
             <div>
+            <h5><i class="fas fa-universal-access"></i></h5></div>
+            <div>
                 <h5><a href="https://www.sec.org.sg/ecooffice/organisational-awareness.php">Build Organisational Awareness</a></h5>
             </div>
         </div>
         <div class='grid-column'>
+            <div>
+            <h5><i class="fas fa-shopping-cart"></i></h5></div>
             <div>
                 <h5><a href="https://www.sec.org.sg/ecooffice/purchasing-operation.php">Conscious Purchasing</a></h5>
             </div>
