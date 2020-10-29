@@ -199,14 +199,6 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <img src="/images/data-resources.png" style="width:300px;">
         </a>
     </div>
-    <div class="card">
-        <a href="/resources/hawker-report.pdf">
-            <div class="card-content">
-                <h5> Hawker Centre 3.0 Committee Report (2017) </h5>
-            </div>
-        <img src="/images/hawker-report.png" style="width:300px;">
-        </a>
-    </div>
 </div>
 <!-- container end dic -->
 </div>
