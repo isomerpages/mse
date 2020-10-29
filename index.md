@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Home - MSE
-description: Ministry of Sustainability and the Environment — To be leaner, stronger, and kinder in providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
+description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
 image: /images/thumbnail.png
 permalink: /
 sections:
