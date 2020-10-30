@@ -1,8 +1,8 @@
 title: Ministry of Sustainability and the Environment
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon.ico
-# shareicon: /images/thumbnail.jpg
-is_government: false
+shareicon: /images/thumbnail.png
+# is_government: false
 
 # Site colors
 colors:
