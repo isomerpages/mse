@@ -17,7 +17,7 @@ To view our current job openings, kindly visit [Careers@Gov](http://www.careers.
 
 
 
-# LEARNING & DEVELOPMENT
+### LEARNING & DEVELOPMENT
 
 ![learningndevelopment01](https://www.mse.gov.sg/images/default-source/default-album/learningndevelopment01.jpg)
 
@@ -33,14 +33,13 @@ MSE also believes in enabling our people to develop to their fullest potential w
 
 ### TRAINING SPONSORSHIPS/SCHOLARSHIPS
 
-As part of our effort in promoting continuous learning, MSE also provides training sponsorships and scholarships to enhance our officers’ personal development.
-
+As part of our effort in promoting continuous learning, MSE also provides training sponsorships and scholarships to enhance our officers’ personal development.  
+Test
 
 -----
 
 
-
-# EMPLOYEE BENEFITS
+### EMPLOYEE BENEFITS
 
 ![employeebenefits01](https://www.mse.gov.sg/images/default-source/default-album/employeebenefits01.jpg)
 
