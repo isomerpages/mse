@@ -23,15 +23,15 @@ To view our current job openings, kindly visit [Careers@Gov](http://www.careers.
 
 In MSE, we value our staff and believe in helping our officers develop to their fullest potential. We have a comprehensive learning and development framework which comprises external and in-house training, job postings within and beyond the Ministry as well as opportunities for secondment to our statutory boards,  [NEA](http://www.nea.gov.sg/), [PUB](http://www.pub.gov.sg/) and  [SFA](https://www.sfa.gov.sg/).
 
-### LEARNING OPPORTUNITIES
+## LEARNING OPPORTUNITIES
 
 MSE has a comprehensive learning framework for officers to enhance their knowledge and expertise. An annual budget is set aside for your specialised learning needs. You can expect to attend external and in-house training, participate in divisional retreats and attend educational trips to MSE Family installations such as the Marina Barrage Sustainable Singapore Gallery, NEWater Visitor Centre, Pulau Semakau and Incineration Plants.
 
-### CAREER DEVELOPMENT
+## CAREER DEVELOPMENT
 
 MSE also believes in enabling our people to develop to their fullest potential while striving to meet both individual and organisational needs. While on the job, you will have opportunities to be exposed to different and varied job scopes. With the right attitude and aptitude, you will rise and assume more challenging roles. At suitable junctures in your career, you can also look forward to job postings within the MSE family which will enable you to gain a broader perspective of what we do.
 
-### TRAINING SPONSORSHIPS/SCHOLARSHIPS
+## TRAINING SPONSORSHIPS/SCHOLARSHIPS
 
 As part of our effort in promoting continuous learning, MSE also provides training sponsorships and scholarships to enhance our officers’ personal development.  
 Test
@@ -49,13 +49,13 @@ Joining the Ministry of Sustainability and the Environment (MSE) is more than ju
 
 Your starting monthly salary will commensurate with your qualifications and relevant work experience. On top of your monthly salary, you will receive other annual salary components including individual performance bonus, 13th month Non-Pensionable Annual Allowance (NPAA) and other variable bonuses.
 
-### MEDICAL / DENTAL / INSURANCE BENEFITS
+## MEDICAL / DENTAL / INSURANCE BENEFITS
 
 -   Subsidised Outpatient and Dental Treatment
 -   Additional 1% Medisave Contribution, subject to a cap of $70 per month
 -   Public Officers Group Insurance Scheme
 
-### LEAVE ENTITLEMENT
+## LEAVE ENTITLEMENT
 
 -   14 days/18 days annual vacation leave, depending on your scheme of service
 -   Marriage Leave
@@ -67,7 +67,7 @@ Your starting monthly salary will commensurate with your qualifications and rele
 -   Study Leave
 -   Leave for Representative Games
 
-### SOCIAL / RECREATIONAL BENEFITS
+## SOCIAL / RECREATIONAL BENEFITS
 
 -   Government holiday bungalows
 -   Civil Service Club Membership
