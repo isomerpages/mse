@@ -216,16 +216,14 @@ input:checked + label + .accordion-content {
 
 <h2>The Related Laws</h2>
 <ol>
-	<li><p>ENVIRONMENTAL PROTECTION AND MANAGEMENT ACT (Cap 94A)</p>
-		<p>The Act covers pollution control, hazardous substances control and licensing of industrial plant works among others.</p>
+	<li><p>ENVIRONMENTAL PROTECTION AND MANAGEMENT ACT (Cap 94A)<br>  The Act covers pollution control, hazardous substances control and licensing of industrial plant works among others.</p>
 	</li>
-	<li><p>ENVIRONMENTAL PUBLIC HEALTH ACT (Cap 95)</p>
-		<p>The Act lists out regulations for public services such as general waste collection, swimming pools and food hygiene among others.</p>
+	<li><p>ENVIRONMENTAL PUBLIC HEALTH ACT (Cap 95)<br>  The Act lists out regulations for public services such as general waste collection, swimming pools and food hygiene among others.</p>
 	</li>
-	<li><p>HAZARDOUS WASTE (CONTROL OF EXPORT, IMPORT AND TRANSIT) ACT (Cap 122A)</p>
-		<p>The Act regulates the movement of hazardous wastes among others.
+	<li><p>HAZARDOUS WASTE (CONTROL OF EXPORT, IMPORT AND TRANSIT) ACT (Cap 122A)<br>  The Act regulates the movement of hazardous wastes among others.</p>
 	</li>
-	<li><p>RADIATION PROTECTION ACT (Cap 262)</p>
-		<p>The Act controls the import and export of radioactive materials and other related apparatus as well as the disposal, accumulation and transport of radioactive.</p>
+	<li><p>RADIATION PROTECTION ACT (Cap 262)<br>  The Act controls the import and export of radioactive materials and other related apparatus as well as the disposal, accumulation and transport of radioactive.</p>
 	</li>
 </ol>
+
+
