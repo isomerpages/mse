@@ -17,8 +17,6 @@ To view our current job openings, kindly visit [Careers@Gov](http://www.careers.
 
 ### INTERNSHIPS  
 
-![internships01 (1)](https://www.mse.gov.sg/images/default-source/default-album/internships01-(1).jpg)  
-
 MSE offers internships to students via the internship programs administered by the Public Service Division (PSD). The duration of each PSD internship typically lasts between a few weeks to several months, depending on the nature of the project and the availability of the candidate. While MSE does offer internships outside of the PSD framework from time to time, it is subject to organisational needs.  
 
 The objectives of internships are:  
@@ -44,8 +42,6 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 ## LEARNING & DEVELOPMENT
 
-![learningndevelopment01](https://www.mse.gov.sg/images/default-source/default-album/learningndevelopment01.jpg)
-
 In MSE, we value our staff and believe in helping our officers develop to their fullest potential. We have a comprehensive learning and development framework which comprises external and in-house training, job postings within and beyond the Ministry as well as opportunities for secondment to our statutory boards,  [NEA](http://www.nea.gov.sg/), [PUB](http://www.pub.gov.sg/) and  [SFA](https://www.sfa.gov.sg/).
 
 ### LEARNING OPPORTUNITIES
@@ -64,8 +60,6 @@ As part of our effort in promoting continuous learning, MSE also provides traini
 
 
 ## EMPLOYEE BENEFITS
-
-![employeebenefits01](https://www.mse.gov.sg/images/default-source/default-album/employeebenefits01.jpg)
 
 Joining the Ministry of Sustainability and the Environment (MSE) is more than just a rewarding career move; it is a new way of life! Knowing that you play an important role towards making Singapore a pleasant place to live in is just one of the many rewards.
 
