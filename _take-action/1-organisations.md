@@ -16,8 +16,7 @@ permalink: /take-action/organisations/
         </div> 
     </div>
     <div>
-    <h5>Environmentally-friendly actions can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference. Going green on your company’s printing, air-conditioning, lighting, water usage and transport systems can have a huge accumulated impact. See more eco tips <a href="https://www.sec.org.sg/ecofnb/ecotips.html">here</a>.</h5>
-    <br>
+    <h5>Environmentally-friendly actions can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference. Going green on your company’s printing, air-conditioning, lighting, water usage and transport systems can have a huge accumulated impact. Learn about some eco tips below <em>(external links):</em></h5>
     </div>
 <!-- used id #org for line below to select link CSS instead of inline styles, refer to CSS -->
     <div class='grid-row' style="background-color:#f5f5f5;">
@@ -48,7 +47,7 @@ permalink: /take-action/organisations/
             <div>
             <h5><i class="fas fa-hand-holding-water"></i></h5></div>
             <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/water-conversation.php">Conserve Water</a></h5>
+                <h5><a href="https://www.pub.gov.sg/savewater/atwork">Conserve Water</a></h5>
             </div>
         </div>
         <div class='grid-column'>
