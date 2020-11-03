@@ -6,7 +6,7 @@ image: /images/thumbnail.png
 permalink: /
 sections:
     - hero:
-        background: /images/hero-banner.jpg
+        background: /images/banner.png
         # Pending video
         # For different fonts, use below
         title: <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&display=swap" rel="stylesheet"><h1 style="font-family:'Cabin','Lato'; font-weight:600; color:white;text-align:right;font-size:0.8em;line-height:1.1em">Sustainable.<br> Resource-efficient.<br>Climate-resilient.</h1><meta property="og:image" content="/images/thumbnail.jpg">
