@@ -51,7 +51,7 @@ input:checked + label + .accordion-content {
 
 <h1><b>Our Clean Energy Policy in a Nutshell</b></h1>
 
-<p><strong>REDUCATING SINGAPOREANS ABOUT ENERGY AND CLIMATE CHANGE</strong><br>  We encourage stakeholders in Singapore to learn about climate change, and learn how they can play their part to prevent it. Carbon emissions made up around 95% of our total greenhouse gas emissions in 2014. These emissions cause more heat to be trapped into the atmosphere, leading to climate change. Energy consumption is one of the main sources of carbon in Singapore. Our industrial and commercial activities, transport systems and household appliances all run on electricity and fossil fuel.</p>
+<p><strong>EDUCATING SINGAPOREANS ABOUT ENERGY AND CLIMATE CHANGE</strong><br>  We encourage stakeholders in Singapore to learn about climate change, and learn how they can play their part to prevent it. Carbon emissions made up around 95% of our total greenhouse gas emissions in 2014. These emissions cause more heat to be trapped into the atmosphere, leading to climate change. Energy consumption is one of the main sources of carbon in Singapore. Our industrial and commercial activities, transport systems and household appliances all run on electricity and fossil fuel.</p>
 
 <p><strong>PREPARING TO COPE WITH CLIMATE CHANGE</strong><br>  Singapore experiences the effects of climate change along with the rest of the world. The build-up of carbon dioxide - among other greenhouse gases in the atmosphere - makes our weather hotter and raises the sea level around us. Our role is to increase understanding of the science and impacts of climate change and keep Singapore prepared.</p>
 
@@ -67,7 +67,7 @@ However, we are constantly looking for ways to continue producing and consuming 
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Encouraging Energy Conservation And Efficiency</label>
 	<div class="accordion-content">
-		<p>The Energy Efficiency Programme Office (E2PO) drives energy conservation and efficiency efforts across various sectors. We strive to consume energy efficiently and minimise carbon emissions. Furthermore, we adopt right pricing of energy. We do not subsidise production or consumption of energy so as to encourage informed production and consumption choices.</p>
+		<p>The Energy Efficiency Programme Office (E<sup>2</sup>PO) drives energy conservation and efficiency efforts across various sectors. We strive to consume energy efficiently and minimise carbon emissions. Furthermore, we adopt right pricing of energy. We do not subsidise production or consumption of energy so as to encourage informed production and consumption choices.</p>
 	</div>
 	<input type="checkbox" id="title2"  /><label for="title2">Educating And Promoting Awareness Of Climate Change Issues</label>
 	<div class="accordion-content">
@@ -101,7 +101,7 @@ However, we are constantly looking for ways to continue producing and consuming 
 	<input type="checkbox" id="title7"  /><label for="title7">Our Efforts: Making The Most Out Of Energy</label>
 	<div class="accordion-content">
 		<p>Energy conservation does not mean changing lifestyles drastically. It encourages the using of energy in a smarter way to achieve the same results with less energy. Not only does it reduce carbon emissions and pollutants, but enables us to achieve savings in our utility bills.</p>
-		<p>The Energy Efficiency Programme Office (E2PO) is a multi-agency committee set up to improve energy efficiency across many different types of activities, such as: Households, Industry, Buildings, Power Generation, Transport and Infocomm.</p>
+		<p>The Energy Efficiency Programme Office (E<sup>2</sup>PO) is a multi-agency committee set up to improve energy efficiency across many different types of activities, such as: Households, Industry, Buildings, Power Generation, Transport and Infocomm.</p>
 		<p>Apart from direct measures, we work to find innovative technologies to drive energy efficiency.</p>
 		<p>For more information on energy efficiency initiatives in Singapore, head to <a href="https://www.e2singapore.gov.sg">Energy Efficient Singapore!</a></p>
 	</div>
