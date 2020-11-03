@@ -15,12 +15,12 @@ locations:
         description: Closed on weekends and public holidays
         maps_link: https://goo.gl/maps/5svi7Le4Wpj3er9d9
 contacts:
-  - title: Feedback and Enquiries
+  - title: 
     content:
-    - other: <br><a href="https://www.nea.gov.sg/corporate-functions/contact-us/overview"><b>Click here</b></a> for environmental-related matters
-    - other: <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx"><b>Click here</b></a> for water supply/drainage matters
-    - other: <a href="https://www.sfa.gov.sg/feedback"><b>Click here</b></a> for food safety/security matters<br><br>   For other general enquiries, reach us at <br>   
-    - phone: (65) 6731 9000
-    - email: mse_feedback@mse.gov.sg
+    - other: <br><a href="https://www.nea.gov.sg/corporate-functions/contact-us/overview"><b>Click here</b></a> for environmental-related matters such as dengue, smoking, and cleanliness
+    - other: <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx"><b>Click here</b></a> for water supply or drainage matters such as reporting leaks or chokes
+    - other: <a href="https://www.sfa.gov.sg/feedback"><b>Click here</b></a> for food safety or security matters such as hygiene standards<br><br>   For other general enquiries, reach us at 67319000 or mse_feedback@mse.gov.sg
+    # - phone: (65) 6731 9000
+    # - email: mse_feedback@mse.gov.sg
 ---
 
