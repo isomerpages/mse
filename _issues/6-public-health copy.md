@@ -73,7 +73,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>To achieve high standards of public health, we aim to increase community ownership for public health. The involvement of the wider community and private sector contributes to our public health as we move towards great self-regulation.</p>
 	</div>
-	<input type="checkbox" id="title2"  /><label for="title2">Finding Better Ways to Monitor and Control Vetor-Borne Diseases</label>
+	<input type="checkbox" id="title2"  /><label for="title2">Finding Better Ways to Monitor and Control Vector-Borne Diseases</label>
 	<div class="accordion-content">
 		<p>To safeguard the well-being of Singaporeans, we carry out research to study vector-borne diseases and explore better ways to control them.</p>
 	</div>
