@@ -12,7 +12,7 @@ description:
 
 **Details of Offences**  
 
-2 Details of the offences at the eight F&B outlets and the orders for closure are below (photos at Annex):  
+Details of the offences at the eight F&B outlets and the orders for closure are below (photos at Annex):  
 
 <ol type="a">
 	<li><p>On 12 September, officers detected a group of eight individuals seated across two tables and intermingling at Brewerkz, 30 Merchant Road, Riverside Point, #01-07, at 8.45pm. The Urban Redevelopment Authority (URA) issued an order requiring the operator to close the premises for a period of 10 days from 25 September to 4 October 2020 (both dates inclusive).</p>
@@ -33,17 +33,17 @@ description:
 	</li>
 </ol>
 
-3 Another 14 F&B outlets have been fined for breaching SMMs, such as admitting and seating groups of more than five together, allowing groups to intermingle between tables, seating groups of customers less than 1 metre apart, and not ensuring that food handlers wear their masks properly. Thirteen of the outlets were fined $1,000 for breaching the measures and one outlet was fined $2,000 for repeat offences.  
+Another 14 F&B outlets have been fined for breaching SMMs, such as admitting and seating groups of more than five together, allowing groups to intermingle between tables, seating groups of customers less than 1 metre apart, and not ensuring that food handlers wear their masks properly. Thirteen of the outlets were fined $1,000 for breaching the measures and one outlet was fined $2,000 for repeat offences.  
 
 **Additional Inspections of 240 F&B Outlets from 25 to 26 September 2020**  
 
-4 From 25 to 26 September 2020, government agencies conducted additional inspections on 240 F&B outlets in known hotspots. Among these, 15 were found to have breached SMMs. The breaches involved groups of more than five seated together or intermingling between tables, seating groups of customers less than 1 metre apart and the serving and consumption of alcohol past 10.30pm (see examples of breaches in Annex). Agencies are reviewing these breaches and the appropriate enforcement actions to be taken, including temporary closure of the outlets and the issuance of fines.  
+From 25 to 26 September 2020, government agencies conducted additional inspections on 240 F&B outlets in known hotspots. Among these, 15 were found to have breached SMMs. The breaches involved groups of more than five seated together or intermingling between tables, seating groups of customers less than 1 metre apart and the serving and consumption of alcohol past 10.30pm (see examples of breaches in Annex). Agencies are reviewing these breaches and the appropriate enforcement actions to be taken, including temporary closure of the outlets and the issuance of fines.  
 
 **Fines Issued to Individuals**  
 
-5 A total of 32 individuals will also be fined $300 each for not observing SMMs at F&B outlets. These breaches involved gathering and sitting in groups of more than five, intermingling between tables and not putting on masks promptly after eating or drinking.  
+A total of 32 individuals will also be fined $300 each for not observing SMMs at F&B outlets. These breaches involved gathering and sitting in groups of more than five, intermingling between tables and not putting on masks promptly after eating or drinking.  
 
-6 While the majority of patrons observe SMMs, there remains a minority which continue to breach them. The Government will continue to step up enforcement checks at F&B outlets around Singapore to ensure that they remain safe spaces for all. We also urge patrons to be socially responsible and observe the SMMs. Agencies will not hesitate to take enforcement actions against both patrons and premises that do not comply with SMMs.  
+While the majority of patrons observe SMMs, there remains a minority which continue to breach them. The Government will continue to step up enforcement checks at F&B outlets around Singapore to ensure that they remain safe spaces for all. We also urge patrons to be socially responsible and observe the SMMs. Agencies will not hesitate to take enforcement actions against both patrons and premises that do not comply with SMMs.  
 
 -End-  
 
@@ -101,5 +101,5 @@ On 26 September 2020, a group of seven patrons were found seated at a table at a
 
 ![](/news/news-images/press-release-2020-09-29-image-10.jpg)  
 
-(Photo Credit: Urban Redevleopment Authority)  
+(Photo Credit: Urban Redevelopment Authority)  
 
