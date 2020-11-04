@@ -45,4 +45,61 @@ description:
 
 6 While the majority of patrons observe SMMs, there remains a minority which continue to breach them. The Government will continue to step up enforcement checks at F&B outlets around Singapore to ensure that they remain safe spaces for all. We also urge patrons to be socially responsible and observe the SMMs. Agencies will not hesitate to take enforcement actions against both patrons and premises that do not comply with SMMs.  
 
--End-
+-End-  
+
+**Annex**
+
+On 12 September 2020, eight individuals were found seated across two tables inside Brewerkz at 30 Merchant Road and intermingling at 8.45pm.  
+
+![](/news/news-images/press-release-2020-09-29-image-1.jpg)  
+
+(Photo Credit: Urban Redevelopment Authority)  
+
+On 16 September 2020, customers at two tables were found consuming alcohol at Siam Square Mookata Pte Ltd at The Punggol Settlement at 10.45pm.  
+
+![](/news/news-images/press-release-2020-09-29-image-2.jpg)  
+
+![](/news/news-images/press-release-2020-09-29-image-3.jpg)  
+
+(Photo Credit: Singapore Food Agency)  
+
+On 16 September 2020, customers at four tables were found consuming alcohol at the outdoor refreshment area at 59 New Upper Changi Road at 10.50pm.  
+
+![](/news/news-images/press-release-2020-09-29-image-4.jpg)  
+
+(Photo Credit: Singapore Food Agency)  
+
+On 16 September 2020, 12 individuals were found seated across two tables at Ggang Tong, 62/64 Tanjong Pagar Road at 9.05pm.  
+
+![](/news/news-images/press-release-2020-09-29-image-5.jpg)  
+
+![](/news/news-images/press-release-2020-09-29-image-6.jpg)  
+
+(Photo Credit: Urban Redevelopment Authority)  
+
+An individual was observed to be consuming alcohol at 11.20pm at the outdoor refreshment area at a coffeeshop at Blk 26 Jalan Membina.  
+
+![](/news/news-images/press-release-2020-09-29-image-7.jpg)  
+
+(Photo Credit: Singapore Food Agency)  
+
+On 25 September 2020, two patrons were fined $300 each for not wearing their masks when talking to each other at an F&B outlet in Orchard at 2.50am, even though they had completed their meal and their table had been cleared.  
+
+![](/news/news-images/press-release-2020-09-29-image-8.jpg)  
+
+(Photo Credit: Singapore Tourism Board)  
+
+On 25 September, Café de Muse at Shaw House was ordered to close for failing to take the temperature of customers entering its premises, and for failing to ensure safe distancing between customers.  
+
+![](/news/news-images/press-release-2020-09-29-image-9.jpg)  
+
+(Photo Credit: Singapore Tourism Board)  
+
+On 25 September, a number of individuals were found intermingling with different groups of patrons seated at different tables at Jamboree Bar & Café at Orchard Towers.  
+
+On 26 September 2020, a group of seven patrons were found seated at a table at a Duxton Hill restaurant at 8.40pm.  
+
+![](/news/news-images/press-release-2020-09-29-image-10.jpg)  
+
+(Photo Credit: Urban Redevleopment Authority)  
+
