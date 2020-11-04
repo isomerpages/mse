@@ -1,5 +1,5 @@
 ---  
-title: Speech at the Opening Session of the Citizens' Workgroup on Reducing Excessive Consumption of Disposables by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, on 26 September 2020  
+title: Speech at the Opening Session of the Citizens' Workgroup on Reducing Excessive Consumption of Disposables by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment  
 permalink: /resource-room/category/2020-09-26-speech-on-reducing-excessive-consumption-of-disposables/  
 image:  
 file_url:  
