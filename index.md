@@ -6,7 +6,7 @@ image: /images/thumbnail.png
 permalink: /
 sections:
     - hero:
-        background: /images/banner-70.gif
+        background: images/banner-kx2-70-21mb.gif
         # <video autoplay muted loop id="myVideo"><source src="/images/pexel.mp4" type="video/mp4"></video>
         # Pending video
         # For different fonts, use below
