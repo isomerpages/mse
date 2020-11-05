@@ -53,8 +53,6 @@ input:checked + label + .accordion-content {
 
 <p><strong>MAINTAING A GOOD QUALITY OF LIFE</strong><br>  Public health standards contribute to the quality of life. High public health standards reflect a safe environment for Singaporeans to work and play.</p>
 
-<p><strong>ENSURING HIGH FOOD HYGIENE STANDARDS</strong><br>  Food hygiene standards have to be maintained at all times to protect the health of Singaporeans who eat at the many food and beverage establishments in Singapore.</p>
-
 <p><strong>CONTROLLING VECTOR POPULATION TO PROTECT PUBLIC HEALTH</strong><br>  Vectors spread diseases among the population by carrying viruses from one person to another. The control of vectors, especially mosquitoes, is one important way of protecting Singaporeans from diseases.</p>
 
 <p><strong>PROTECTING THE PUBLIC FROM SECOND HEALTH SMOKE</strong><br>  To protect Singaporeans from the harmful effects of second-hand smoke, the smoking ban was first introduced in October 1970. It has been progressively extended over the years to cover many public places.</p>
@@ -101,6 +99,8 @@ input:checked + label + .accordion-content {
 		<p>The NEA has stepped up its efforts to enforce the smoking ban by conducting daily patrols of various places, including 24-hour food and entertainment outlets. Members of the public can also report smoking violations via NEA's 24-hour call centre or its iPhone app, myENV.</p>
 		<p><em>Extending The Smoking Ban To More Areas</em></p>
 		<p>Efforts to protect non-smokers from second-home smoke began in 1970 when smoking was banned in cinemas, theatres and on omnibuses. Since then, the ban has been extended to cover 37 types of premises, particularly those where it is harder for non-smokers to avoid second-hand smoke. There have been increasing calls from the public to extend the smoking ban to more areas. The smoking ban now covers most areas where non-smokers are unable to avoid and will eventually be extended to all public places except designated smoking areas. This will be implemented incrementally, taking into account feedback from public and relevant stakeholders.</p>
+		<p>In Jan 2013, the smoking ban was extended to include common areas of residential buildings (such as common corridors, void decks, staircases, stairwells, as well as multi-purpose halls) covered walkways/ link ways, pedestrian overhead bridges, 5-metre radius from the edge of bus shelters, and hospital outdoor compounds.</p>
+		<p>From 1 Jun 2016, the smoking prohibition was further extended to the following areas: reservoirs, parks under the purview of JTC Corporation and parks in public housing estates managed by the respective Town Councils, and parks in private landed estates managed by NParks.</p>
 	</div>
 </div>
 
@@ -136,30 +136,6 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<a id="food-hygiene"></a>
-
-<h2>Food Hygiene</h2>
-<div>
-	<input type="checkbox" id="title9"  /><label for="title9">Making Sure Food is Safe For Everyone</label>
-	<div class="accordion-content">
-		<p>There are more than 38,000 food retail establishments, serving a huge variety of food choices in Singapore.</p>
-		<p>SFA regulates the food retail industry in Singapore to ensure that food sold at retail outlets and food stalls is prepared hygienically and safe for consumption.</p>
-	</div>
-	<input type="checkbox" id="title10"  /><label for="title10">The Challenge: Maintaing High Standards</label>
-	<div class="accordion-content">
-		<p>Food hygiene standards were put in place since 1960s when an island-wide registration of street hawkers was carried out. Since then, food sellers had to comply with stringent food hygiene requirements.</p>
-		<p>Before that, some 24,000 hawkers had been selling food on the streets. This created problems, including poor hygiene. Without proper equipment and water supply, street hawkers did not keep their utensils clean and protect their food from contamination. Food and liquid wastes also polluted streets, posing threats to public health.</p>
-	</div>
-	<input type="checkbox" id="title11"  /><label for="title11">Monitoring And Education</label>
-	<div class="accordion-content">
-		<p><em>Grading Foodstalls And Shops</em></p>
-		<p>Since 1997, all eating establishments and food stalls are graded annually, based on criteria like housekeeping, cleanliness, pest infestation, food hygiene and personal hygiene of food handlers.</p>
-		<p><em>Penalising Food Hygiene Lapses</em></p>
-		<p>Demerit points are given for each public health offence that is convicted in court or compounded. If a licensee accumulates 12 demerit points or more within 12 months, his licence will either be suspended for 2 weeks or 4 weeks, or be revoked, depending on past suspension records.</p>
-		<p><em>Educating Food Handlers</em></p>
-		<p>All food handlers are required by law to attend and pass a Food Hygiene Course before they are allowed to work. They must also attend and pass a Refresher Food Hygiene Course every 3 years.</p>
-	</div>
-</div>
 
 <a id="vector-control"></a>
 
@@ -183,6 +159,9 @@ input:checked + label + .accordion-content {
 		<p><em>Surveillance And Control</em></p>
 		<p>NEA maintains a close watch on the rodent population to keep it under control. Since 01 June 2011, NEA's vector control technicians (VCTs) conduct systematic inspections of both HDB and non-HDB estates island-wide as part of a dedicated rodent surveillance and control team under NEA. Between 2005 and 2007, NEA co-funded a dedicated rodent control programme for HDB estates, termed "Rat Attack". There were three phases in the programme.</p>
 		<p>For mosquitoes, NEA officers visit premises at least once every 3 to 6 months to check for potential breeding spots and remove existing breeding grounds. NEA also carries out virus surveillance on patient blood samples submitted by healthcare providers, to track the different variations of the dengue virus circulating in the community.</p>
+		<p><em>Keeping Dengue At Bay</em></p>
+		<p>While we cannot get rid of vectors completely, we have successfully kept outbreaks of diseases at bay.</p>
+		<p>Since its set up in 2002, NEA’s Environmental Health Institute (EHI) has been conducting research, surveillance and risk assessments on vector-borne diseases such as dengue, chikungunya and malaria. Accurate and rapid diagnosis of such diseases is important as it helps to minimise the chances of transmission.</p>
 	</div>
 </div>
 
@@ -191,8 +170,6 @@ input:checked + label + .accordion-content {
 	<li><p>CONTROL OF VECTORS AND PESTICIDES ACT (Cap 59)</p>
 	</li>
 	<li><p>ENVIRONMENTAL PUBLIC HEALTH ACT (Cap 95)</p>
-	</li>
-	<li><p>SALE OF FOOD ACT (Cap 283) (Part III)</p>
 	</li>
 	<li><p>SMOKING (PROHIBITION IN CERTAIN PLACES) ACT (Cap 310)</p>
 	</li>
