@@ -107,9 +107,14 @@ input:checked + label + .accordion-content {
         <p> <em>24-HOUR AIR QUALITY MONITORING NETWORK</em></p>
         <p>The ambient air in Singapore is monitored through a network of air monitoring stations located in different parts of Singapore. The monitoring stations measure concentration levels of particulate matter (PM10), fine particulate matter (PM2.5), sulphur dioxide (SO2), nitrogen dioxide (NO2), ozone (O3), and carbon monoxide (CO). These six pollutant parameters determine the Pollutant Standards Index (PSI).  </p>
         <p>The state of air quality has an impact on our health and quality of life.</p>
-        <p>As such, the 24-hour Pollutant Standards Index (PSI) readings of the 5 regions of Singapore are reported every hour on the  <a href="http://www.haze.gov.sg/home">Haze microsite</a>, and myENV  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app. The 24-hour and 1-hour PM2.5, 24-hour PM10, 24-hour SO2, 8-hour CO, 8-hour O3  and 1-hour NO2  concentration levels are also published every hour on the  <a href="http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control/psi/pollutant-concentrations">NEA website</a>.</p>
+        <p>As such, the 24-hour Pollutant Standards Index (PSI) readings of the 5 regions of Singapore are reported every hour on the  <a href="http://www.haze.gov.sg/home">Haze microsite</a>, and myENV  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app. The 24-hour and 1-hour PM2.5, 24-hour PM10, 24-hour SO<sub>2</sub>, 8-hour CO, 8-hour O3  and 1-hour NO<sub>2</sub>  concentration levels are also published every hour on the  <a href="http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control/psi/pollutant-concentrations">NEA website</a>.</p>
         <p><em>ACHIEVING HIGHER AIR QUALITY STANDARDS</em></p>
-        <p>MEWR has adopted the World Health Organisation (WHO) Air Quality Guidelines (AQG) for particulate matter (PM10), nitrogen dioxide (NO2), carbon monoxide (CO) and ozone (O3), and the WHO Interim Targets for fine particulate matter (PM2.5) and sulphur dioxide (SO2), as Singapore’s air quality targets for 2020. To attain these air quality targets by 2020, abatement measures are being implemented to reduce emissions from vehicles and industries.</p>
+        <p>MEWR has adopted the World Health Organisation (WHO) Air Quality Guidelines (AQG) for particulate matter (PM10), nitrogen dioxide (NO<sub>2</sub>), carbon monoxide (CO) and ozone (O<sub>3</sub>), and the WHO Interim Targets for fine particulate matter (PM2.5) and sulphur dioxide (SO<sub>2</sub>), as Singapore’s air quality targets for 2020. To attain these air quality targets by 2020, abatement measures are being implemented to reduce emissions from vehicles and industries.</p>
+        <p><em>NEW AIR QUALITY REPORTING SYSTEM</em></p>
+        <p>Since August 2012, NEA has been reporting the 24-hour PM2.5 concentration levels alongside the PSI. This was done as the part of the transition to the new air quality reporting system. From 1 April 2014 onwards, the 24-hour PM2.5 concentration levels has been incorporated into the PSI. The PSI now reflects a total of 6 pollutants – sulphur dioxide (SO<sub>2</sub>), particulate matter (PM10) and fine particulate matter (PM2.5), nitrogen dioxide (NO<sub>2</sub>), carbon monoxide (CO) and ozone (O<sub>3</sub>).</p>
+        <p>Under the new PSI system, the health advisory will be based on the new 24-hour PSI as it now directly takes into account PM2.5.</p>
+        <p>Previously, health advisories issued by the Government were based on 24-hour PSI and 24-hour PM2.5, whichever was worse. Moreover, the 3-hour PSI is calculated based on PM2.5 concentration levels averaged across three hours. The 1-hour PM2.5 readings, which reflect PM2.5 levels averaged across one hour, is now reported every hour on various NEA-managed platforms.</p>
+        <p>To learn more about the changes, visit <a href="http://www.haze.gov.sg/home">Haze microsite.</a></p>
     </div>
 </div>
 
@@ -123,7 +128,7 @@ input:checked + label + .accordion-content {
         <p>Haze not only gives our island a blurry facade, it could cause health effects over time. Singapore has measures in place, and works closely with ASEAN to manage the haze issue. </p>
         <p>One could sneeze or cough more often and one's eyes might be irritated. The elderly, children and individuals with existing heart or lung disease are most sensitive to the effects of haze. Haze also has the potential to lead to impairment of respiratory functions and aggravation of existing respiratory and cardiovascular disease.</p>
     </div>
-    <input type="checkbox" id="title8" /><label for="title8">The challenge - Land clearing and weather</label>
+    <input type="checkbox" id="title8" /><label for="title8">The Challenge - Powerless against the forces of nature</label>
     <div class="accordion-content">
         <p>Practising open burning to clear land for agricultural uses is common in certain areas in the region. The vastness of the land makes it difficult for local authorities to police this practice.</p>
         <p>A combination of dry season, wind direction, cloud formation and poor precipitation formation creates haze. Thus haze could potentially occur at any time of the year.</p>
@@ -139,6 +144,9 @@ input:checked + label + .accordion-content {
         <p>NEA has compiled a list of air cleaning devices for  <a href="http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution/psi/air-cleaning-devices">buildings with central air-conditioning system</a>.</p>
         <p><em>TIMELY UPDATES FOR THE PUBLIC</em></p>
         <p>The 24-hr PSI readings by the 5 regions of Singapore are made available on the myEnv  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app,  <a href="http://www.twitter.com/NEAsg">Twitter</a>  account and  <a href="http://www.nea.gov.sg/">website</a>.</p>
+        <p><em>MEASURES IN PLACE TO MANAGE TRANSBOUNDARY HAZE POLLUTION</em></p>
+        <p>In 2013, the ASEAN Leaders welcomed the adoption of the recommendation for an ASEAN Sub-Regional Haze Monitoring System to assist in the monitoring of hotspots and internal enforcement actions against irresponsible parties contributing to land and forest fires. MEWR has introduced a Transboundary Haze Pollution Bill, which holds entities accountable for causing or contributing transboundary haze in Singapore. The Bill, passed in Parliament in August 2014, is the first of its kind in the region to provide for criminal and civil liability for conduct of entities which causes or contributes to haze pollution in Singapore.</p>
+        <p>An International Advisory Panel on Transboundary Pollution (IAP) has also been appointed to study and advise the Government on the trends and developments in international laws related to transboundary pollution. The IAP will subsequently provide recommendations on solutions and practical steps Singapore can adopt.</p>
     </div>
 </div>
 
@@ -147,13 +155,16 @@ input:checked + label + .accordion-content {
 <h2> About Noise Pollution  </h2>
 
 <div class="container">
-    <input type="checkbox" id="title10" /><label for="title10">The challenge - Higher population density</label>
+    <input type="checkbox" id="title10" /><label for="title10">Excessive Noise Affects Quality Of Life</label>
+    <div class="accordion-content">
+        <p>Excessive noise can affect our quality of life. However, noise cannot be avoided completely as we become more urbanised and densely populated.</p>
+    <input type="checkbox" id="title11" /><label for="title11">The Challenge - Higher population density</label>
     <div class="accordion-content">
         <p>Singapore is a small and densely populated city-state with an average of over 7,000 residents in each square kilometre of land. Excessive noise can affect our quality of life. However, noise cannot be avoided completely as we become more urbanised and densely populated.</p>
         <p>Given our land constraint, there is a limit on setback distances and land buffers that we can provide to keep noise sources such as road and rail traffic away from residential areas.</p>
         <p>A balance between meeting residents&#39; expectations and the realities of a densely populated Singapore needs to be carefully maintained in the long run.</p>
     </div>
-    <input type="checkbox" id="title11" /><label for="title11">Our efforts - Regulating noise</label>
+    <input type="checkbox" id="title12" /><label for="title12">Our Efforts - Regulating noise</label>
     <div class="accordion-content">
         <p>NEA controls noise from construction sites and factories by stipulating maximum permissible noise levels for different times of day and night.</p>
         <p>Daytime - 65 Decibels  <br>
