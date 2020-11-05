@@ -55,7 +55,7 @@ input:checked + label + .accordion-content {
 
 <p><strong>CONTROLLING VECTOR POPULATION TO PROTECT PUBLIC HEALTH</strong><br>  Vectors spread diseases among the population by carrying viruses from one person to another. The control of vectors, especially mosquitoes, is one important way of protecting Singaporeans from diseases.</p>
 
-<p><strong>PROTECTING THE PUBLIC FROM SECOND HEALTH SMOKE</strong><br>  To protect Singaporeans from the harmful effects of second-hand smoke, the smoking ban was first introduced in October 1970. It has been progressively extended over the years to cover many public places.</p>
+<p><strong>PROTECTING THE PUBLIC FROM SECOND HAND SMOKE</strong><br>  To protect Singaporeans from the harmful effects of second-hand smoke, the smoking ban was first introduced in October 1970. It has been progressively extended over the years to cover many public places.</p>
 
 <h2 id="our-key-targets">Our Key Targets</h2>
 <ol>
