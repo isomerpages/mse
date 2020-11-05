@@ -104,6 +104,10 @@ However, we are constantly looking for ways to continue producing and consuming 
 		<p>The Energy Efficiency Programme Office (E<sup>2</sup>PO) is a multi-agency committee set up to improve energy efficiency across many different types of activities, such as: Households, Industry, Buildings, Power Generation, Transport and Infocomm.</p>
 		<p>Apart from direct measures, we work to find innovative technologies to drive energy efficiency.</p>
 		<p>For more information on energy efficiency initiatives in Singapore, head to <a href="https://www.e2singapore.gov.sg">Energy Efficient Singapore!</a></p>
+		<p><em>Improved Energy Efficiency</em></p>
+		<p>Although our electricity consumption has grown over the years, we are achieving more growth with each unit of energy used. This means that for every dollar of growth we are achieving, we are using less energy and generate less greenhouse gases and pollution.</p>
+		<p><em>Energy Conservation Act</em></p>
+		<p>One important tool in our efforts is the Energy Conservation Act. The Act requires large energy users in the industry and transport sectors to appoint energy managers, report energy use, and put in place good energy management practices. The Act also sets out minimum energy performance standards for industrial equipment and household appliances.</p>
 	</div>
 </div>
 
@@ -138,6 +142,7 @@ However, we are constantly looking for ways to continue producing and consuming 
 		<p>While we cannot completely do without conventional energy sources, we are using more natural gas, which is the cleanest of fossil fuels, to cut down our emissions.</p>
 		<p><em>Exploring The Use Of Solar Energy In Housing Estate And Beyond</em></p>
 		<p>Test-bedding solar energy is a whole-of-Singapore effort. The HDB has begun test-bedding solar energy since April 2009, installing solar panels in 30 housing estates across the island over 5 years. There is also an existing test-bed on Marina Barrage, the Met Service’s Centre for Climate Research Singapore (CCRS), as well as at various government facilities.</p>
+		<p>PUB is also in the process of implementing three floating solar photovoltaic (PV) systems on Bedok, Lower Seletar and Tengeh Reservoirs. The large-scale floating solar PV system at Tengeh Reservoir, will be one of the world’s largest inland floating solar PV systems, which will generate sufficient energy to power local water treatment plants.</p>
 	</div>
 </div>
 
@@ -177,7 +182,7 @@ However, we are constantly looking for ways to continue producing and consuming 
 		<p>Singapore experiences the effects of climate change along with the rest of the world. The build-up of carbon dioxide, among other greenhouse gases, in the atmosphere makes our weather hotter and raises the sea level around us.</p>
 		<p>Reducing our carbon emissions is one important way we can limit the effects of climate change in the coming decades.</p>
 	</div>
-	<input type="checkbox" id="title15"  /><label for="title15">Almost Everything We Do Emits Carbon</label>
+	<input type="checkbox" id="title15"  /><label for="title15">The Challenge: Almost Everything We Do Emits Carbon</label>
 	<div class="accordion-content">
 		<p>Energy consumption is one of the main sources of carbon in Singapore. Our household appliances, transport systems, industrial and commercial activities all run on electricity and fuel. A vibrant Singapore relies on consuming electricity.</p>
 		<p>However, as carbon dioxide is invisible and the negative effects of climate change take a long time to show, it is easy for people to consume electricity without realising the consequences.</p>
