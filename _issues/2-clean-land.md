@@ -115,6 +115,9 @@ input:checked + label + .accordion-content {
 		<p>Under the agreement, companies also agree to increase the amount of packaging recycled and use more recycled or recycle-able materials when producing packaging. Building owners and hotel and shopping mall managers have also signed the Agreement, committing to provide recycling facilities for their tenant.</p>
 		<p><em>Raising Awareness Among Consumers</em></p>
 		<p>Companies also try to raise awareness and educate consumers on the benefits of reducing packaging waste. For instance, Tetra Pak has been running educational programmes in the school to encourage students to recycle used beverage cartons since 2008.</p>
+		<p><em>Companies Cut Back On 10,000 Tonnes Of Packaging</em></p>
+		<p>Since the Singapore Packing Agreement was launched in 2007, the companies that signed the Agreement have reduced the amount of packaging produced by up to 46,000 tonnes.</p>
+		<p>These companies also saved $100 million in the process. The number of signatories has grown from 32 companies to the current 229.</p>
 	</div>
 </div>
 
@@ -133,11 +136,11 @@ input:checked + label + .accordion-content {
 		<p>However, we can do better. In 2018, only about half of the total amount of paper and cardboard waste were recycled and just 4% of plastics were recycled.</p>
 		<p>We aim to increase the recycling rate to 70% by 2030.</p>
 	</div>
-	<input type="checkbox" id="title10"  /><label for="title10">Our Efforts: Ramping Up The Infrastructure</label>
+	<input type="checkbox" id="title10"  /><label for="title10">Our Efforts</label>
 	<div class="accordion-content">
-		<p>Previously, every 5 blocks shared one recycling bin.</p>
-		<p>Now, there are recycling bins placed at every block in public housing estates. If you live in public housing developments launched after 2014, you will have dual chutes for refuse and recyclables on your floor.</p>
-		<p>Recycling bins are also given to every household living in landed homes. All condominiums will also have recycling bins within their estates.</p>
+		<p>More than 80,000 bins have been placed in HDB and landed estates across the island.</p>
+		<p>Since April 2018, all new non-landed private residential developments above four storeys are required to install dual chutes for refuse and recyclables. All condominiums have also been required to provide one recycling per block since August 2018.</p>
+		<p>We will continue to make recycling accessible to all residents.</p>
 	</div>
 </div>
 
@@ -181,11 +184,15 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title16"  /><label for="title16">Our Efforts: Improving Processes And Exploring New Uses</label>
 	<div class="accordion-content">
 		<p><em>Tapping Private Sector Expertise</em></p>
-		<p>The Government increased private sector participation in the incineration industry. Singapore’s fifth incineration plant was built and operated by a private company through a Design, Build, Own and Operate arrangement</p>
+		<p>The Government increased private sector participation in the incineration industry. Singapore’s fifth incineration plant was built and operated by a private company through a Design, Build, Own and Operate arrangement.</p>
 		<p><em>Treating Pollutants Before Release Into The Environment</em></p>
 		<p>All incinerators in Singapore have been fitted or built with pollution control equipment to protect our air quality. The flue gas produced during incineration is treated to remove most of the pollutants in order to meet safe environmental standards before being released into the air.</p>
 		<p><em>Reducing Waste</em></p>
 		<p>NEA has been encouraging people and industries to reduce their waste, reuse where possible and increase their rate of recycling.</p>
+		<p><em>Incinerating Less Than Before</em></p>
+		<p>In 2017, around 36% of all waste was incinerated, down from 51% in 2001. The reduction of waste and increase in recycling will also help to delay the building of new incineration plants. Instead of building one every 5-7 years, we can build one every 8-10 years.</p>
+		<p><em>Ash May Be Recycled Instead Of Landfilled</em></p>
+		<p>After the success of developing the use of incinerated bottom ash (IBA) for road material, NEA will continue to explore other uses for treated ash so as to extend the lifespan of our sole remaining landfill, Semakau.</p>
 	</div>
 </div>
 
@@ -211,6 +218,8 @@ input:checked + label + .accordion-content {
 		<p>Incinerable waste is sent to our four incineration plants, and the ashes end up at Semakau landfill.</p>
 		<p>Incineration can reduce waste volume by over 90%!</p>
 		<p>The excess heat energy produced contributes to about 3% of our electricity supply.</p>
+		<p><em>Prolonged Lifespan of Semakau Landfill</em></p>
+		<p>Through recycling and other waste minimisation efforts, we are progressively lengthening the lifespan of our last landfill.</p>
 	</div>
 </div>
 
