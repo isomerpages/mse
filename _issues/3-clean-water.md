@@ -50,30 +50,19 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-<h1><b>Our Clean Water Policy in a Nutshell</b></h1>
+<h1><b>Our Water Policy in a Nutshell</b></h1>
 
 <p><strong>ENSURING WATER SUPPLY FOR ALL</strong><br>	Singapore depends on four sources for its water supply – local catchment water, imported water, NEWater and desalinated water. Known as the Four National Taps, this diversified water supply strategy ensures Singaporeans of a robust supply of water for generations to come.</p>
 
-<p><strong>CONSERVING OUR WATER RESOURCES</strong><br>  While we can continue to expand our supply, we also look at ways to manage demand and conserve our precious water resources. As our population and economy grows, we need to use water wisely to ensure sustainability.</p>  
+<p><strong>CONSERVING OUR WATER RESOURCES</strong><br>  As our population and economy continue to grow, we need to ensure that water demand does not rise at an unsustainable rate. We need to look at ways to manage demand and conserve our precious water resources, so that our water supply will be sustainable.</p>  
 
-<p><strong>ENCOURAGING OWNERSHIP OF OUR WATERS</strong><br>  Besides ensuring the cleanliness and health of our waterway network, we encourage Singaporeans to take joint ownership of water by using it wisely and keeping our waterways, waterbodies and catchment areas clean.</p>
-
-
-<h2 id="our-key-targets">Our Key Targets</h2>
-<ol>
-	<li><p>Increase supply of water from non-conventional sources such as desalination and water recycling to meet up to 30% and 50% of our future water needs by 2060.</p>
-	</li>
-	<li><p>Reduce daily per capita domestic water consumption to 147 litres by 2020, and 140 litres by 2030.</p>
-	</li>
-	<li><p>Partner the 3P sectors to generate greater awareness of the importance of conserving, valuing and enjoying water and develop a sense of shared ownership of our water resources.</p>
-	</li>
-</ol>
 
 <h2 id="our-main-plans">Our Main Plans</h2>
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Providing water for all</label>
 	<div class="accordion-content">
-		<p>We rely on a few different water sources to help ensure that our supply remains stable at all times. To improve the sustainability of our water supply, we promote research and development efforts in water and used water technologies. We also ensure that our potable water quality is of high standards.</p>
+		<p>We ensure that potable water that is well within the Environmental Public Health (Water Suitable for Drinking) Regulations 2019 and World Health Organisation (WHO) Guidelines for drinking water quality is available to all in Singapore.</p>
+		<p>We rely on our Four National Taps to help ensure that our supply remains robust and sustainable at all times. In particular, NEWater and desalinated water are weather-resilient water sources and will help Singapore better cope with the threat of climate change.</p>
 	</div>
 	<input type="checkbox" id="title2"  /><label for="title2">Encouraging water conservation</label>
 	<div class="accordion-content">
@@ -93,24 +82,20 @@ input:checked + label + .accordion-content {
 
 <h2>Water Conservation</h2>
 <div>
-	<input type="checkbox" id="title5"  /><label for="title5">Water is Precious</label>
-	<div class="accordion-content">
-		<p>Singapore is a small island. We do not have aquifers or groundwater. We rely on rain as a source of water but we cannot afford to use large areas of land to collect and store rainwater.</p>
-		<p>To overcome these limitations, we strive to be as efficient and innovative as possible to ensure that we have enough to meet our needs.</p>
-		<p>Our Four National Taps are: Local catchment water, NEWater, Imported water and desalinated water.</p>
-	</div>
 	<input type="checkbox" id="title6"  /><label for="title6">The Challenge: Taking Water for Granted</label>
 	<div class="accordion-content">
 		<p><em>Increasing Demand and Climate Change</em></p>
-		<p>The demand for water is expected to double in the next 50 years, Coupled with the uncertainty of weather patterns in the face of climate change, we cannot take it for granted that we will always have enough water.</p>
+		<p>The demand for water is expected to almost double in the next 40 years - a result of projected increases in industrial activity and population growth. Coupled with the uncertainty of weather patterns in the face of climate change, we cannot take it for granted that we will always have enough water.</p>
 		<p><em>Wasteful Habits</em></p>
-		<p>In Singapore, we are lucky to have easy access to clean water from the taps. However, this also makes it easy for us to end up using more water than we really need on a daily basis. When clean water comes at the turn of a tap, it is easy to waste water without noticing.</p>
+		<p>In Singapore, we are lucky to have easy access to clean water from the taps. However, this also makes it easy for us to end up using more water than we really need. When clean water comes at the turn of a tap, it is easy to waste water without noticing.</p>
 		<p><em>Unrepaired Leaks</em></p>
 		<p>Water wastage from pipes or water appliances often goes unnoticed as well. Loose tap fittings, malfunctioning toilet cisterns and leaking water pipes can all lead to a huge waste of water.</p>
 		<p>For instance, a typical leak from a kitchen can amount to 10,000 litres per year, which is over 6600 large bottles.</p>
 	</div>
 	<input type="checkbox" id="title7"  /><label for="title7">Our Efforts</label>
 	<div class="accordion-content">
+		<p><em>Steady Reduction in Water Consumption</em></p>
+		<p>Through PUB's long-term efforts in water conservation, Singapore's per capita household water consumption dropped from 165 litres per day in 2013 to 141 litres per day in 2019. We aim to reduce it to 130 litres per day by 2030.</p>
 		<p><em>Water Conservation Education and Outreach</em></p>
 		<p>PUB conducts community outreach efforts to raise awareness. The annual Water Conservation Awareness Programme sends volunteers to households with high water consumption to install water saving devices and share water saving tips. Participating households save up to 5% of their monthly water consumption. PUB’s 10% Challenge benefits the non-domestic sector by encouraging businesses to cut down 10% of their monthly water consumption, which also lowers their operational costs.</p>
 		<p><em>Preventing and Detecting Leaks</em></p>
@@ -130,11 +115,11 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>A sunny island set in the sea, Singapore depends  on rain as a natural source of water. We receive plenty of rain but we are constrained bu our land area which limits our storage space for water. Singapore has NO large rivers, natural springs or glaciers.</p>
 	</div>
-	<input type="checkbox" id="title9"  /><label for="title9">The Challenge: Demand for Water Expected to Increase</label>
+	<input type="checkbox" id="title9"  /><label for="title9">The Challenge</label>
 	<div class="accordion-content">
 		<p>Through careful planning, we have been able to grow our water supply to meet our needs over the years. Nevertheless, we have to continue planning ahead, innovating and investing in research and development.</p>
-		<p>Water demand is expected to double over the next 50 years.</p>
-		<p>To meet this growing need - a result of projected increases in industrial activity and population growth - we have to tap on new sources of water and more efficient treatment processes.</p>
+		<p>Water demand is expected to almost double over the next 40 years.</p>
+		<p>To meet this growing need, we have to tap on new sources of water and look into more efficient treatment processes.</p>
 	</div>
 	<input type="checkbox" id="title10"  /><label for="title10">Our Efforts</label>
 	<div class="accordion-content">
@@ -147,9 +132,9 @@ input:checked + label + .accordion-content {
 
 <h2>About Our Reservoirs</h2>
 <div>
-	<input type="checkbox" id="title11"  /><label for="title11">We Only Have Rainwater</label>
+	<input type="checkbox" id="title11"  /><label for="title11">Limited Land</label>
 	<div class="accordion-content">
-		<p>Singapore does not have any significant, accessible natural aquifers, which are layers of underground rock that are able to hold water. Instead, we rely on reservoirs for collecting and storing rainwater.</p>
+		<p>In land scarce Singapore, we have limited land to collect and store rainwater.</p>
 		<p>To make the best use of the rainfall we receive, the water catchment area in Singapore has been progressively expanded over the years. An extensive network of drains, canals, rivers and storm water ponds collects and channels rainwater to our reservoirs for storage.</p>
 	</div>
 	<input type="checkbox" id="title12"  /><label for="title12">The Challenges</label>
@@ -163,10 +148,11 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title13"  /><label for="title13">Our Efforts</label>
 	<div class="accordion-content">
+		<p><em>Making Our Reservoirs Versatile</em></p>
 		<p>Apart from serving as water collection and storage spaces, our reservoirs also provide valuable recreational space.</p>
 		<p>Some reservoirs are now open to a variety of water sports such as canoeing, dragon-boating, kayaking and sailing.</p>
 		<p><em>Keeping Our Water Clean</em></p>
-		<p>We have put in place measures to keep our reservoirs clean. For example, an underground wall was built along the former Lorong Halus landfill, which forms part of the bank of Serangoon Reservoir. The wall prevents water from the landfill from entering the reservoir.</p>
+		<p>We have put in place measures to keep our reservoirs clean. For example, an underground wall was built along the former Lorong Halus landfill, which forms part of the bank of Serangoon Reservoir. The wall prevents water from the landfill from seeping into the reservoir. Instead, this water is collected and treated on-site by passing them through specially selected reed beds and ponds, before it is discharged into the sewerage system.</p>
 		<p><em>Seeking Cooperation from Public and Private Sectors</em></p>
 		<p>We rely on everyone to help keep our water clean. Construction companies have to ensure that soil does not get washed into our drains from worksites and factories have to ensure that waste chemicals are not discharged into our drains. Individuals also have to help keep our drains, rivers and reservoirs clean by not littering.</p>
 	</div>
@@ -204,22 +190,18 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title17"  /><label for="title17">Our Natural Sources of Fresh Water are Limited</label>
 	<div class="accordion-content">
-		<p>Desalination is the removal of excessive salt and minerals from seawater to make it potable.</p>
-		<p>Technological advances have made it viable for Singapore to use desalination as one of our Four National Taps since 2005. In Singapore, desalination is done through a process called reverse osmosis, which separates water from excessive salts and minerals. As desalination is not dependent on rainfall, it makes our water supply more stable regardless of weather conditions.</p>
+		<p>Desalination is the removal of dissolved salt and minerals from seawater to make it potable.</p>
+		<p>Technological advances have made it viable for Singapore to use desalination as one of our Four National Taps since 2005. In Singapore, desalination is done through a process called reverse osmosis, which separates water from dissolved salts and minerals. As desalination is not dependent on rainfall, it makes our water supply more stable regardless of weather conditions.</p>
 	</div>
 	<input type="checkbox" id="title18"  /><label for="title18">The Challenge: High Energy Usage and Potential Environmental Impact</label>
 	<div class="accordion-content">
 		<p><em>Desalinated Water is Costly</em></p>
-		<p>Compared to treating rainwater to produce potable water, desalination is energy-intensive and relies on advanced membrane technology. This makes desalination a relatively expensive option.</p>
-		<p><em>Potential Impact on Marine Environment</em></p>
-		<p>After extracting fresh water from the sea water, the concentrated salt water and remaining minerals such as boron are discharged back into the sea. Enhanced mixing of the plant discharge with the surrounding seawater ensures that the concentration of salt and minerals will not adversely affect the marine habitats near the discharge points.</p>
+		<p>Compared to treating rainwater to produce potable water, desalination is more energy-intensive and relies on advanced membrane technology. This makes desalination a relatively expensive option.</p>
 	</div>
 	<input type="checkbox" id="title19"  /><label for="title19">Our Efforts: Technology Provides Solution</label>
 	<div class="accordion-content">
-		<p><em>Selecting The Right Technology</em></p>
-		<p>To ensure that our desalination processes are as energy-efficient as possible, reverse osmosis membrane technology is used as it is reliable and efficient.</p>
-		<p>Both of our desalination plants are also public-private partnership (PPP) projects which enables us to tap on and grow private sector expertise to reap efficiencies in cost and technology.</p>
-		<p><em>Limiting The Environmental Impact</em></p>
+		<p>To ensure that our desalination processes are as energy-efficient as possible, reverse osmosis membrane technology is used as it is reliable and efficient. We are continuously seeking to reduce the energy consumption of desalination through investments in research and development.</p>
+		<p><em>Limiting The Impact On The Marine Environment</em></p>
 		<p>We closely monitor the quality of sea water surrounding our desalination plants to make sure there is minimal impact on the marine environment.</p>
 	</div>
 </div>
@@ -245,6 +227,10 @@ input:checked + label + .accordion-content {
 		<p>Water samples are collected and tested by NEA weekly at monitored recreational beaches. These tests help ensure that our beach water quality meets our recreational water quality guidelines.</p>
 		<p>Singapore's recreational water quality guidelines are adopted from World Health Organisation guidelines for Safe Recreational Waters. The local guidelines were established in 2008 after a careful study of the WHO guidelines, analysis of data gathered over a few years, and consultation and collaboration with other relevant agencies.</p>
 		<p>NEA also has regular cleaning regimes for our beaches.</p>
+		<p><em>High Standards Upheld</em></p>
+		<p>For the past few years, five out of six recreational beaches monitored by NEA were assessed to be suitable for primary contact activities such as swimming and wakeboarding.</p>
+		<p>The water quality at Pasir Ris beach did not meet the recreational water guidelines in the past but has since improved in 2011 to achieve the 'Good' standard.</p>
+		<p>Since 27 Jan 2012, Pasir Ris beach has joined five other popular recreational beaches where the water quality is suitable for beach goers and water activities.</p>
 	</div>
 </div>
 
@@ -254,7 +240,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title23"  /><label for="title23">Unexpectedly Intense Rainfall</label>
 	<div class="accordion-content">
-		<p>We have an extensive drainage system comprising 7,000km of drains and canals that channel rainwater to our reservoirs or the sea. Most times, our drains are able to cope with the rain that we receive. However, intense bouts of rainfall can sometimes exceed the capacity that the drains are designed for, resulting in flash floods. These floods are localised and generally subside in under an hour.</p>
+		<p>We have an extensive drainage system comprising 8,000km of drains, rivers and canals that channel rainwater to our reservoirs or the sea. Most times, our drains are able to cope with the rain that we receive. However, intense bouts of rainfall can sometimes exceed the capacity that the drains are designed for, resulting in flash floods. These floods are localised and generally subside in under an hour.</p>
 	</div>
 	<input type="checkbox" id="title24"  /><label for="title24">The Challenge: Human Enginnering VS Unpredictable Weather </label>
 	<div class="accordion-content">
@@ -271,6 +257,8 @@ input:checked + label + .accordion-content {
 		<p>On June 30, 2011, the Ministry appointed an Expert Panel on Drainage Design and Flood Protection Measures to conduct an in-depth review of our drainage system, management approach and flood protection measures.</p>
 		<p>The Ministry and PUB have accepted the panel's recommendations, released in January 2012. The recommendations include implementing a wider range of drainage solutions and improving the flood warning system.</p>
 		<p>The full report and PUB's response can be found <a href="https://www.mse.gov.sg/news/full-report-by-the-expert-panel-on-drainage-design-and-flood-protection-measures">here.</a></p>
+		<p><em>Flood Prone Areas Reduced</em></p>
+		<p>Despite increased urbanisation - which increases the likelihood of flooding, we have greatly reduced flood prone areas. Through ongoing drainage improvement works, PUB has further reduced flood prone areas to 30.5 hectares in 2016.</p>
 	</div>
 </div>
 
