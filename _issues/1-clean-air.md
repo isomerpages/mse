@@ -158,6 +158,7 @@ input:checked + label + .accordion-content {
     <input type="checkbox" id="title10" /><label for="title10">Excessive Noise Affects Quality Of Life</label>
     <div class="accordion-content">
         <p>Excessive noise can affect our quality of life. However, noise cannot be avoided completely as we become more urbanised and densely populated.</p>
+    </div>
     <input type="checkbox" id="title11" /><label for="title11">The Challenge - Higher population density</label>
     <div class="accordion-content">
         <p>Singapore is a small and densely populated city-state with an average of over 7,000 residents in each square kilometre of land. Excessive noise can affect our quality of life. However, noise cannot be avoided completely as we become more urbanised and densely populated.</p>
