@@ -1,11 +1,11 @@
 ---
-title: COVID-19
-permalink: /issues/covid-19
+title: Safe Distancing
+permalink: /issues/safe-distancing
 ---
 
 
 
-# Safe Distancing
+# Safe Distancing for COVID-19
 
 Under Phase 2 of our re-opening, all members of public are required to adhere to safe distancing measures, as announced earlier by the Ministry of Health. These measures include:
 

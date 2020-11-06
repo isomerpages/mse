@@ -1,6 +1,6 @@
 ---  
-title: Climate  
-permalink: /issues/climate  
+title: Climate Change
+permalink: /issues/climate-change
 ---  
 
 <style>

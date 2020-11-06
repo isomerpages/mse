@@ -1,5 +1,5 @@
 ---
-title: Energy 
+title: Energy Policy
 permalink: /issues/energy
 ---
 <style>

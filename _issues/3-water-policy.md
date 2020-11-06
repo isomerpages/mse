@@ -1,6 +1,6 @@
 ---
-title: Clean Water
-permalink: /issues/clean-water
+title: Water Policy
+permalink: /issues/water-policy
 ---
 
 <style>
