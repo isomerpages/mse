@@ -1,6 +1,6 @@
 ---
-title: Water Policy
-permalink: /issues/water-policy
+title: Water
+permalink: /issues/water
 ---
 
 <style>

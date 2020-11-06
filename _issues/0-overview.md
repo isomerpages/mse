@@ -99,6 +99,30 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="issues-container">
 <section class="cards">
     <div class="card">
+        <a href="/issues/climate-change">
+                <img src="/images/energy.svg">
+            <div class="card-content">
+                <h6>Climate Change</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+        <div class="card">
+        <a href="/issues/energy">
+                <img src="/images/energy.svg">
+            <div class="card-content">
+                <h6>Energy</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/issues/water">
+                <img src="/images/clean-water.svg">
+            <div class="card-content">
+                <h6>Water</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
         <a href="/issues/clean-air">
                 <img src="/images/clean-air.svg">
             <div class="card-content">
@@ -115,18 +139,10 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/issues/clean-water">
-                <img src="/images/clean-water.svg">
+        <a href="/issues/public-health">
+                <img src="/images/public-health.svg">
             <div class="card-content">
-                <h6>Clean Water</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-    <div class="card">
-        <a href="/issues/energy">
-                <img src="/images/energy.svg">
-            <div class="card-content">
-                <h6>Energy Policy</h6>
+                <h6>Public Health</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -139,18 +155,10 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/issues/public-health">
-                <img src="/images/public-health.svg">
-            <div class="card-content">
-                <h6>Public Health</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-    <div class="card">
-    <a href="/issues/covid-19">
+    <a href="/issues/safe-distancing">
             <img src="/images/safe-distancing.svg">
         <div class="card-content">
-            <h6>COVID-19 Safe Distancing</h6>
+            <h6>Safe Distancing</h6>
         </div><!-- .card-content -->
     </a>
 </div><!-- .card -->
