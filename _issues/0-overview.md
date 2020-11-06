@@ -123,7 +123,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/issues/energy-and-climate-change">
+        <a href="/issues/energy">
                 <img src="/images/energy.svg">
             <div class="card-content">
                 <h6>Energy and Climate Change</h6>
