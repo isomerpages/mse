@@ -6,13 +6,12 @@ image: /images/thumbnail.png
 permalink: /
 sections:
     - hero:
-        background: images/banner-kx2-65-17mb.gif
-        # <video autoplay muted loop id="myVideo"><source src="/images/pexel.mp4" type="video/mp4"></video>
-        # Pending video
-        # For different fonts, use below
+        background: 
+        # images/banner.png
         # video: /images/pexel.mp4
         title: <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&display=swap" rel="stylesheet"><h1 style="font-family:'Cabin','Lato'; font-weight:600; color:white;text-align:right;font-size:0.8em;line-height:1.1em">Sustainable.<br> Resource-efficient.<br>Climate-resilient.</h1><meta property="og:image" content="/images/thumbnail.jpg">
-        # title: <h1 style="font-weight:bold;color:white;text-align:right;font-size:0.8em;">Sustainable.<br> Resource-efficient.<br>Climate-resilient.<h1>
+        subtitle:   <video playsinline autoplay muted loop poster="images/banner.png" id="bannerVideo"><source src="/images/banner-video.mp4" type="video/webm"></video>
+#   <source src="polina.mp4" type="video/mp4"> add another backup video in mp4
     - infobar:
         title: <h2 style="font-family:'Cabin'">We are commited to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:  

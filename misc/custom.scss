@@ -23,32 +23,6 @@ a[href$=".pdf"]{
   margin-left: 0;
 }
 
-// START OF Hero banner height too narrow, extended here
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  #main-content > section.bp-hero.bg-hero > div {
-    padding: 5rem 1.5rem;
-  }
-}
-
-@media screen and (min-width: 1024px) and (max-width: 1365px) {
-  #main-content > section.bp-hero.bg-hero > div {
-    padding: 5.5rem 1.5rem;
-  }
-}
-
-@media screen and (min-width: 1366px) and (max-width: 1679px){
-  #main-content > section.bp-hero.bg-hero > div {
-    padding: 6.5rem 1.5rem;
-  }
-}
-
-@media screen and (min-width: 1680px) {
-  #main-content > section.bp-hero.bg-hero > div {
-    padding: 11rem 1.5rem;
-  }
-}
-// END OF Hero banner height too narrow, extended here
-
 
 // START OF remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
 #org > div {
@@ -187,6 +161,56 @@ a[href$=".pdf"]{
 
 /////////////////// END GRID COLUMNS FOR ABOUT US AND TAKE ACTION////////////////////
 
+#bannerVideo {
+  position: absolute;
+  object-fit: cover;
+  top: 50%;
+  left: 50%;
+  min-width: 100vw;
+  min-height: 50vh;
+  max-height: 80vh;
+  width: auto;
+  height: auto;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  z-index: -1;
+  // padding-bottom: 5em;
+}
+
+@media screen and (max-width: 768px) {
+.is-hidden-mobile {
+    display: inherit !important;
+  }
+}
+
+.bp-hero-body {
+  padding: 0px;
+}
+
+// (For hero banner background IMAGES only --- if hero banner IMAGE height too narrow, extended here
+// @media screen and (min-width: 768px) and (max-width: 1023px) {
+//   #main-content > section.bp-hero.bg-hero > div {
+//     padding: 5rem 1.5rem;
+//   }
+// }
+// @media screen and (min-width: 1024px) and (max-width: 1365px) {
+//   #main-content > section.bp-hero.bg-hero > div {
+//     padding: 5.5rem 1.5rem;
+//   }
+// }
+// @media screen and (min-width: 1366px) and (max-width: 1679px){
+//   #main-content > section.bp-hero.bg-hero > div {
+//     padding: 6.5rem 1.5rem;
+//   }
+// }
+// @media screen and (min-width: 1680px) {
+//   #main-content > section.bp-hero.bg-hero > div {
+//     padding: 11rem 1.5rem;
+//   }
+// }
+// END OF Hero banner height too narrow, extended here
 
 
 /*=================================================================
