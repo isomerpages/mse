@@ -14,8 +14,6 @@ td {
   text-align: center;
 }
 </style>
-</head>
-<body>
 
 <h3>Written reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on Export of Recyclables, on 5 October 2020</h3>
 
