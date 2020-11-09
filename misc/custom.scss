@@ -179,8 +179,9 @@ a[href$=".pdf"]{
   // padding-bottom: 5em;
 }
 
+// Override code to display banner video
 @media screen and (max-width: 768px) {
-.is-hidden-mobile {
+#main-content > section.bp-hero.bg-hero > div > div > div > div > p {
     display: inherit !important;
   }
 }
