@@ -168,7 +168,7 @@ a[href$=".pdf"]{
   left: 50%;
   min-width: 100vw;
   min-height: 60vh;
-  // max-height: 100%;
+  // max-height: 80vh;
   width: auto;
   height: auto;
   -ms-transform: translateX(-50%) translateY(-50%);
@@ -187,30 +187,31 @@ a[href$=".pdf"]{
 
 .bp-hero-body {
   // padding: 0px;
+  margin-bottom: 6rem;
 }
 
 // For hero banner background. Originally for images only --- if hero banner image height too narrow
 // Repurposed for background video padding or margin bottom and top
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  #main-content > section.bp-hero.bg-hero > div {
-    padding: 2rem 1.5rem;
-  }
-}
-@media screen and (min-width: 1024px) and (max-width: 1365px) {
-  #main-content > section.bp-hero.bg-hero > div {
-    padding: 4rem 1.5rem;
-  }
-}
-@media screen and (min-width: 1366px) and (max-width: 1679px){
-  #main-content > section.bp-hero.bg-hero > div {
-    padding: 6rem 1.5rem;
-  }
-}
-@media screen and (min-width: 1680px) {
-  #main-content > section.bp-hero.bg-hero > div {
-    padding: 11rem 1.5rem;
-  }
-}
+// @media screen and (min-width: 768px) and (max-width: 1023px) {
+//   #main-content > section.bp-hero.bg-hero > div {
+//     padding: 2rem 1.5rem;
+//   }
+// }
+// @media screen and (min-width: 1024px) and (max-width: 1365px) {
+//   #main-content > section.bp-hero.bg-hero > div {
+//     padding: 4em 1.5em 8rem 1.5rem;
+//   }
+// }
+// @media screen and (min-width: 1366px) and (max-width: 1679px){
+//   #main-content > section.bp-hero.bg-hero > div {
+//     padding: 6em 1.5em 12rem 1.5rem;
+//   }
+// }
+// @media screen and (min-width: 1680px) {
+//   #main-content > section.bp-hero.bg-hero > div {
+//     padding: 8em 1.5em 16rem 1.5rem;
+//   }
+// }
 // END OF hero banner background
 
 
