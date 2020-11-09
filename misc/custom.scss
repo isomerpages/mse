@@ -189,7 +189,8 @@ a[href$=".pdf"]{
   // padding: 0px;
 }
 
-// (For hero banner background IMAGES only --- if hero banner IMAGE height too narrow, extended here
+// For hero banner background. Originally for images only --- if hero banner image height too narrow
+// Repurposed for background video padding or margin bottom and top
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   #main-content > section.bp-hero.bg-hero > div {
     padding: 2rem 1.5rem;
@@ -210,7 +211,7 @@ a[href$=".pdf"]{
     padding: 11rem 1.5rem;
   }
 }
-// END OF Hero banner height too narrow, extended here
+// END OF hero banner background
 
 
 /*=================================================================
