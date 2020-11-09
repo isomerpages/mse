@@ -1,12 +1,12 @@
 ---  
-title: Closing Speech at the Second Reading of the Environmental Public Health (Amendment) Bill by Ms Grace Fu, Minister of Sustainability and the Environment  
+title: Closing Speech at the Second Reading of the Environmental Public Health (Amendment) Bill by Ms Grace Fu, Minister for Sustainability and the Environment  
 permalink: /resource-room/category/2020-10-05-closing-speech-at-the-second-reading-of-the-environmental-public-health-amendment-bill/  
 image:  
 file_url:  
 description:  
 ---  
 
-### Closing Speech by Ms Grace Fu, Minister of Sustainability and the Environment, at the Second Reading of the Environmental Public Health (Amendment) Bill  
+### Closing Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Second Reading of the Environmental Public Health (Amendment) Bill  
 
 1   Mr Deputy Speaker, I thank Members for their broad support of the Bill. Your thoughtful comments and suggestions reflect the importance that we collectively place on preserving a clean and healthy environment for Singaporeans.  
 
