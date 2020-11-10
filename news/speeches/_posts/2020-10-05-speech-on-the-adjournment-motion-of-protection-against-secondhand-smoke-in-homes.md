@@ -1,5 +1,5 @@
 ---  
-title: Speech on the Adjournment Motion of Protection Against Secondhand Smoke in Homes by Dr Amy Khor, Minister of State for Sustainability and the Environment  
+title: Speech on the Adjournment Motion of Protection Against Secondhand Smoke in Homes by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment  
 permalink: /resource-room/category/2020-10-05-speech-on-the-adjournment-motion-of-protection-against-secondhand-smoke-in-homes/  
 image:  
 file_url:  
