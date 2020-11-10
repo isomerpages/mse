@@ -1,6 +1,6 @@
 ---  
 title: Written reply to Parliamentary Question on Project Wolbachia by Ms Grace Fu, Minister for Sustainability and the Environment  
-permalink: /resource-room/category/2020-10-05-parliament-q-&-a-on-project-wolbachia/  
+permalink: /resource-room/category/2020-10-06-parliament-q-&-a-on-project-wolbachia/  
 image:  
 file_url:  
 description:  
