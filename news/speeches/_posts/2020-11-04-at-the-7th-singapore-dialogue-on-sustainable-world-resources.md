@@ -1,6 +1,6 @@
 ---  
 title: Keynote Address at the 7th Singapore Dialogue on Sustainable World Resources by Ms Grace Fu, Minister for Sustainability and the Environment  
-permalink: /resource-room/category/2020-11-04-at-the-7th-singapore-dialogue-on-sustainable-world-resources/  
+permalink: /resource-room/category/2020-11-04-speech-at-the-7th-singapore-dialogue-on-sustainable-world-resources/  
 image:  
 file_url:  
 description:  
