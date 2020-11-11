@@ -161,6 +161,8 @@ a[href$=".pdf"]{
 
 /////////////////// END GRID COLUMNS FOR ABOUT US AND TAKE ACTION////////////////////
 
+////////////////// START OF BANNER VIDEO CSS //////////////////////
+
 #bannerVideo {
   position: absolute;
   object-fit: cover;
@@ -186,10 +188,13 @@ a[href$=".pdf"]{
   }
 }
 
-// .bp-hero-body {
-  // padding: 0px;
-  // margin-bottom: 4rem;
-// }
+// Some mobiles such as safari has slow loading and a top margin, to be resolved
+
+@media screen and (max-width: 400px) {
+  #main-content > section.bp-hero.bg-hero > div.bp-hero-body {
+    padding-top: 0rem;
+  }
+}
 
 // For hero banner background. Originally for images only --- if hero banner image height too narrow
 // Repurposed for background video padding or margin bottom and top
@@ -217,7 +222,7 @@ a[href$=".pdf"]{
     margin-bottom: 8rem;
   }
 }
-// END OF hero banner background
+///////////////////// END OF BANNER VIDEO CSS//////////////////////
 
 
 /*=================================================================
