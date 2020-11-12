@@ -21,7 +21,7 @@ locations:
 contacts:
   - title: 
     content:
-    - other: For feedback on environmental-related matters, <br><a href="https://www.nea.gov.sg/corporate-functions/contact-us/overview"><b>click here</b></a>
+    - other: For feedback on environmental-related matters, <a href="https://www.nea.gov.sg/corporate-functions/contact-us/overview"><b>click here</b></a>
     - other: For feedback on water supply, drainage or sewerage matters, <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx"><b>click here</b></a>
     - other: For feedback on food safety and food security, <a href="https://www.sfa.gov.sg/feedback"><b>click here</b></a>
     - other: For feedback on service quality matters, <a href="https://form.gov.sg/#!/5f9bbe55fb5198001166faec"><b>click here</b></a>
