@@ -6,7 +6,7 @@ agency_name: MSE
 locations:
   - title: Main Office
     address:
-        - 40 Scotts Road, #24-00
+        - 40 Scotts Road,
         - Environment Building
         - Singapore 228231 
         - Tel &nbsp &nbsp 6731 9000
@@ -21,10 +21,10 @@ locations:
 contacts:
   - title: 
     content:
-    - other: For feedback on environmental-related matters, <a href="https://www.nea.gov.sg/corporate-functions/contact-us/overview"><b>click here</b></a>
-    - other: For feedback on water supply, drainage or sewerage matters, <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx"><b>click here</b></a>
-    - other: For feedback on food safety and food security, <a href="https://www.sfa.gov.sg/feedback"><b>click here</b></a>
-    - other: For feedback on service quality matters, <a href="https://form.gov.sg/#!/5f9bbe55fb5198001166faec"><b>click here</b></a>
+    - other: For feedback on environmental-related matters, <a href="https://www.nea.gov.sg/corporate-functions/contact-us/overview"><b>click here</b></a><br><br>
+    - other: For feedback on water supply, drainage or sewerage matters, <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx"><b>click here</b></a><br><br>
+    - other: For feedback on food safety and food security, <a href="https://www.sfa.gov.sg/feedback"><b>click here</b></a><br><br>
+    - other: For feedback on service quality matters, <a href="https://form.gov.sg/#!/5f9bbe55fb5198001166faec"><b>click here</b></a><br>
     # - email: mse_feedback@mse.gov.sg
 ---
 
