@@ -158,6 +158,14 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
+        <a href="https://www.mse.gov.sg/ssb/">
+            <div class="card-content">
+                <h5>Sustainable Singapore Blueprint</h5>
+            </div>
+        <img src="https://www.mse.gov.sg/html/ssb/img/UI/logo.png" style="width:300px;">
+        </a>
+    </div>
+    <div class="card">
         <a href="https://www.towardszerowaste.gov.sg/resources/">
             <div class="card-content">
                 <h5>Towards Zero Waste (Infographics, Videos)</h5>
