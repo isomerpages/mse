@@ -1,6 +1,6 @@
 ---
-title: Food Security
-permalink: /issues/food-security/
+title: Food
+permalink: /issues/food/
 ---
 <style>
 
