@@ -124,31 +124,6 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.nea.gov.sg/corporate-functions/resources/educational-materials/posters">
-            <div class="card-content">
-                <h5>NEA Educational Materials on the Environment</h5>
-            </div>
-        <img src="/images/nea-resources-poster.png" style="width:300px;"> 
-        <p style="text-align: center; font-size: 0.8em;">e.g. Infographics & Posters on Climate Action, Energy, Dengue, etc</p>
-        </a>
-    </div>
-    <div class="card">
-        <a href="https://www.pub.gov.sg/getinvolved/schools/resources/">
-            <div class="card-content">
-                <h5>PUB Resources for Schools</h5>
-            </div>
-        <img src="/images/pub-resources.png" style="width:300px;"> 
-        </a>
-    </div>
-    <div class="card">
-        <a href="https://www.sfa.gov.sg/tools-and-resources">
-            <div class="card-content">
-                <h5>SFA Resources & Tools</h5>
-            </div>
-        <img src="/images/sfa-resources.png" style="width:300px;"> 
-        </a>
-    </div>
-    <div class="card">
         <a href="https://www.nccs.gov.sg/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf">
             <div class="card-content">
                 <h5>Climate Action Plan (Adaptation)</h5>
@@ -174,11 +149,36 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="/https://www.mse.gov.sg/docs/default-source/default-document-library/faq/guide-to-implementing-environmentally-friendly-best-practices-for-events.pdf">
+        <a href="https://www.mse.gov.sg/docs/default-source/default-document-library/faq/guide-to-implementing-environmentally-friendly-best-practices-for-events.pdf">
             <div class="card-content">
                 <h5>Guide for Environmentally-Friendly Events</h5>
             </div>
         <img src="/images/events-resources.png" style="width:300px;">
+        </a>
+    </div>
+    <div class="card">
+        <a href="https://www.nea.gov.sg/corporate-functions/resources/educational-materials/posters">
+            <div class="card-content">
+                <h5>NEA Educational Materials on the Environment</h5>
+            </div>
+        <img src="/images/nea-resources-poster.png" style="width:300px;"> 
+        <p style="text-align: center; font-size: 0.8em;">e.g. Infographics & Posters on Climate Action, Energy, Dengue, etc</p>
+        </a>
+    </div>
+    <div class="card">
+        <a href="https://www.pub.gov.sg/getinvolved/schools/resources/">
+            <div class="card-content">
+                <h5>PUB Resources for Schools</h5>
+            </div>
+        <img src="/images/pub-resources.png" style="width:300px;"> 
+        </a>
+    </div>
+    <div class="card">
+        <a href="https://www.sfa.gov.sg/tools-and-resources">
+            <div class="card-content">
+                <h5>SFA Resources & Tools</h5>
+            </div>
+        <img src="/images/sfa-resources.png" style="width:300px;"> 
         </a>
     </div>
     <div class="card">
