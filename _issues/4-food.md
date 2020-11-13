@@ -97,6 +97,7 @@ input:checked + label + .accordion-content {
 			</li>
 			<li><p>Grow overseas – SFA supports Singapore companies to export urban food solutions to other countries so that they can overcome land and manpower constraints and break into new markets. These companies can then reap economies of scale and can also export food back to Singapore. Some local farms have ventured into Australia, Brunei, Hong Kong, Thailand and China.</p>
 			</li>
+		</ul>
 	</div>
 	<input type="checkbox" id="title4"  /><label for="title4">"30 By 30" Local Production Goal</label>
 	<div class="accordion-content">
