@@ -1,5 +1,5 @@
 ---  
-title: Speech at the Committee Supply of Debate by Dr Amy Khor, Senior Minister of State for the Environment and Water Resources  
+title: Committee Supply of Debate 2019 - Dr Amy Khor, Senior Minister of State for the Environment and Water Resources  
 permalink: /resource-room/category/2019-03-07-speech-at-the-committee-of-supply-debate-by-dr-amy-khor-senior-minister-of-state-for-env-and-water-resources/  
 image:  
 file_url:  
