@@ -51,58 +51,68 @@ input:checked + label + .accordion-content {
 
 <h1><b>Our Food Policy</b></h1>
 
-<h2 id="our-main-plans">Our Main Plans</h2>
+<h2 id="food-safety">Food Safety</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">Food Security</label>
+	<input type="checkbox" id="title1"  /><label for="title1">Safe Food For All</label>
 	<div class="accordion-content">
-		<p><strong>SINGAPORE'S FOOD SUPPLY</strong><br>  Singapore imports more than 90 percent of our food. This makes us vulnerable to external supply disruptions which are compounded by depleting natural resources, climate change and geopolitical and disease situations.</p>
-		<p><strong>ENSURING AND SECURING SINGAPORE'S FOOD SUPPLY</strong><br>  Singapore Food Agency (SFA) safeguards Singapore’s food supply through three food security strategies, known as the three “food baskets”:</p>
-		<ol>
-			<li><p>Diversifying food sources – Singapore imports from over 170 countries and regions to mitigate the impact of a disruption on our food supply. SFA accredits new food import source for higher risk food items (e.g. meat) to facilitate the industry’s source diversification while ensuring that our food imports are safe.</p>
+		<p>As the national agency for food safety, SFA has in place an integrated food safety system from farm-to-fork to ensure that food sold in Singapore is safe for consumption. SFA adopts a science-based risk assessment and management approach to food safety, and sets food safety standards that are aligned  with international standards. SFA has put in place regulatory levers along the food supply chain like licensing, inspection, sampling, testing and enforcement.</p>
+		<ul>
+			<li><p>Overseas Imports – Food importers are licensed by SFA, and need to apply for import permits for each consignment of food imported into Singapore. For high-risk food items like livestock, meat and egg items that can carry diseases that can be transmitted to people, SFA conducts accreditation at source to ensure that the imports meet food safety and animal health import requirements.</p>
 			</li>
-			<li><p>Growing locally – Singapore produces 26% of our eggs, 14% of leafy vegetables and 10% of fish locally. Local production buffers the impact of a disruption from an overseas source. SFA enables the growth of the local agri-food industry through funding, availing new land and spaces for food production, industry development, facilitating regulatory reviews.</p>
+			<li><p>Local farms and food establishments – SFA licenses farms and food establishments in Singapore, including slaughterhouses, food processing/manufacturing establishments, as well as various food retail establishments such as hawker and market stalls, coffeeshops, food courts, food caterers, canteens, supermarkets, mobile food wagons, snack bars, cafes, and restaurants.  Food warehouses are registered with SFA.  Inspections are carried out to ensure that these establishments comply with licensing conditions and regulatory requirements.</p>
 			</li>
-			<li><p>Growing overseas – SFA supports Singapore companies to export urban food solutions to other countries so that they can break into new markets and expand their scale of production. To date, local farms have ventured into Australia, Brunei, Hong Kong, Thailand and China.</p>
-			</li>
-		</ol>
+		</ul>
+		<p>In the event of food safety incidents, there are anticipatory and response mechanisms in place to manage them too (e.g. food recalls, foodborne outbreak investigation).</p>
 	</div>
-	<input type="checkbox" id="title2"  /><label for="title2">"30 By 30" Local Production Goal</label>
+	<input type="checkbox" id="title2"  /><label for="title2">Food Safety is a Joint Responsibility: Role of Industry and Consumers</label>
 	<div class="accordion-content">
-		<p>SFA aims to increase local production to achieve the “30 by 30” goal, which is to produce 30% of Singapore’s nutritional needs locally by 2030, up from less than 10% today. This calls for a game-change of the local agri-food sector into one that is highly productive, innovative and sustainable and SFA is embarking on several key initiatives.</p>
-		<p>For instance, SFA will be embarking on a holistic master planning exercise for the farmlands in Lim Chu Kang to attract and facilitate the growth of high-tech, highly productive, resource-efficient farms. The exercise will explore the design for shared facilities for district cooling systems, water intake and waste management/ valorisation to achieve economies of scale and sustainability.</p>
-		<p>We are also creating an ecosystem to ensure sufficient players across the value chain enter and stay within the market. Next year, we will be launching the Agri-Food Innovation Park (AFIP), a pilot cluster to catalyse innovation by anchoring global agri-food players in Singapore and co-locating high-tech urban farming with agri-food R&D activities.  SFA is also looking to unlock the potential of farming at sea to boost local production of fish, enhancing our food security.</p>
-		<p>To support the agri-food industry expand production capabilities through technology adoption, SFA has made available funding schemes such as the $63mil Agriculture Productivity Fund, and awarded over $39mil under the “30 by 30 Express” grant call to support innovative proposals that can scale up local production.</p>
-		<p>At the same time, SFA is also strengthening our R&D capabilities to undertake agri-food research. We have committed $144million under the RIE2020 Plan to carry out research in sustainable urban food production, future foods and food safety. The outcomes of these R&D projects will be translated into feasible and scalable initiatives that our local industry can adopt.</p>
-		<p>As the agri-food industry grows, new higher value-add jobs will be created. We are building a local talent pipeline to equip Singaporeans with the skillsets to take up these job opportunities and support the growth of the sector. SFA is working with various Institutes of Higher Learning (IHLs) and local farms on programmes such as diploma courses and structured internship programmes to equip students and adult job seekers with skillsets that will lead to specialised careers in the sector.</p>
-		<p>Lastly, as we ramp up local production, we will need the support of all Singaporeans to eat local. By choosing locally produced food, we can all play a part in contributing to food security.</p>
+		<p>As food safety is a joint responsibility, SFA works with the industry and consumers to build their capabilities and educate them on the parts they can play in ensuring food safety. For instance, food handlers in restaurants, hawker stalls and coffee shops must attend and pass the Basic Food Hygiene Course (BFHC) before they are allowed to work.</p>
+		<p>As for consumers, SFA avail food safety information and tips to  equip consumers with knowledge of food safety risks and good food safety practices. Examples include:</p>
+		<ul>
+			<li><p><a href="go.gov.sg/sfa-food-risk">Risk at a glance</a></p>
+			</li>
+			<li><p><a href="go.gov.sg/food-for-thought">Food for Thought content hub</a></p>
+			</li>
+			<li><p>Food safety educational materials, food alerts and recalls, labelling information:<a href="sfa.gov.sg/food-information"> Food Information</a></p>
+			</li>
+			<li><p>Track records (hygiene grading, number of demerit points and suspension history) of the food establishment:<a href="go.gov.sg/sfa-food-retail-licence"> Food Retail Licence</a></p>
+			</li>
+		</ul>
+		<p>Consumers who come across any potentially errant food operator should report to SFA via the <a href="www.sfa.gov.sg/feedback">online feedback form.</a></p>
 	</div>
 </div>
 
 <a id="food-safety"></a>
 
-<h2>Food Safety</h2>
+<h2>Food Security</h2>
 <div>
-	<input type="checkbox" id="title3"  /><label for="title3">Making Sure Food Is Safe For Everyone</label>
+	<input type="checkbox" id="title3"  /><label for="title3">Singapore's Food Story: Ensuring and Securing Food Supply</label>
 	<div class="accordion-content">
-		<p>There are more than 48,000 food retail establishments, serving a huge variety of food choices in Singapore.</p>
-		<p>SFA regulates the food retail industry in Singapore to ensure that food sold at retail outlets and food stalls is prepared hygienically and safe for consumption.</p>
+		<p>Singapore imports more than 90 percent of our food. While Singapore has effective strategies to secure our food supply, we operate in a global environment where we face a multitude of risks such as depleting natural resources, climate change, and unpredictable geopolitical and disease situations such as the ongoing COVID-19 situation. To mitigate and overcome these challenges, the collective efforts of the government, industry and public are required to strengthen our food supply resilience.</p>
+		<p>SFA safeguards Singapore’s food supply through three food security strategies, known as the three “food baskets”:</p>
+		<ul>
+			<li><p>Diversify import sources – By diversifying, this reduces our reliance on any single source for any one food item. Should there be a disruption to any one source, Singapore is in a good position to work with our network of importers to tap on alternative food sources, and ensure that our food supply remains stable.</p>
+			</li>
+			<li><p>Grow local – Local production mitigates our reliance on imports and serves as a buffer in the event supply from our import sources is disrupted. SFA is supporting the growth of the local agri-food industry by developing spaces for farming, providing funding support, leveraging R&D, grooming local talent and rallying support for local produce.</p>
+			</li>
+			<li><p>Grow overseas – SFA supports Singapore companies to export urban food solutions to other countries so that they can overcome land and manpower constraints and break into new markets. These companies can then reap economies of scale and can also export food back to Singapore. Some local farms have ventured into Australia, Brunei, Hong Kong, Thailand and China.</p>
+			</li>
 	</div>
-	<input type="checkbox" id="title4"  /><label for="title4">The Challenge: Maintaining High Standards</label>
+	<input type="checkbox" id="title4"  /><label for="title4">"30 By 30" Local Production Goal</label>
 	<div class="accordion-content">
-		<p>Food hygiene standards were put in place since 1960s when an island-wide registration of street hawkers was carried out. Since then, food sellers had to comply with stringent food hygiene requirements.</p>
-		<p>Before that, some 24,000 hawkers had been selling food on the streets. This created problems, including poor hygiene. Without proper equipment and water supply, street hawkers did not keep their utensils clean and protect their food from contamination. Food and liquid wastes also polluted streets, posing threats to public health.</p>
-	</div>
-	<input type="checkbox" id="title5"  /><label for="title5">Our Efforts: Monitoring And Educating</label>
-	<div class="accordion-content">
-		<p><em>Food Hygiene Efforts</em></p>
-		<p>Grading Foodstalls and Shops:<br>  Since 1997, all eating establishments and food stalls are graded annually, based on criteria like housekeeping, cleanliness, pest infestation, food hygiene and personal hygiene of food handlers.</p>
-		<p>Penalising Food Hygiene Lapses:<br>  Demerit points are given for each public health offence that is convicted in court or compounded. If a licensee accumulates 12 demerit points or more within 12 months, his licence will either be suspended for 2 weeks or 4 weeks, or be revoked, depending on past suspension records.</p>
-		<p>SG Clean for Food Retail Establishments<br>  The “SG Clean’ quality mark is progressively rolled out to various sectors, starting from hawker centers, to rally sectors to commit to upholding food sanitation and hygiene practices such as cleaning methodology, toilet cleanliness and general public hygiene.</p>
-		<p><em>Educating Food Handlers, Enhancing Food Hygiene Officer Framework</em></p>
-		<p>All food handlers are required by law to attend and pass a Food Hygiene Course before they are allowed to work. They must also attend and pass a Refresher Food Hygiene Course every 3 years.</p>
-		<p>All licensed establishments will also be required to appoint a Food Hygiene Officer (FHO) to reinforce hygiene and sanitation standards. FHOs are allowed to progress to Advanced FHOs through training to develop a higher competency.</p>
+		<p>SFA aims to increase local production to achieve a goal of “30 by 30”, which is to produce 30% of Singapore’s nutritional needs locally by 2030, up from less than 10% today. Technology advancements will be key in unlocking the potential of our agri-food industry to ‘grow more with less’, in a sustainable manner.</p>
+		<p>SFA is thus working with the agri-food industry and community to:</p>
+		<ul>
+			<li><p>Develop spaces for farming: To expand local food production, SFA tenders out spaces to agri-food companies with promising technologies through a competitive land tender basis.</p>
+			</li>
+			<li><p>Adopt innovative technologies: SFA provides strong funding support to the industry to adopt innovative technologies. This includes grants to co-fund co-funds farming systems to better control environmental variables and boost production capabilities.</p>
+			</li>
+			<li><p>Catalyse R&D innovation: R&D plays a key role to drive innovation and plug existing technological gaps. To support the “30 by 30” goal, research funding has been made available under the Singapore Food Story R&D programme to enable R&D in three areas –sustainable urban food production, future foods, and food safety science & innovation.</p>
+			</li>
+			<li><p>Groom local talent: As the agri-food industry grows and transforms, new and higher value jobs requiring  multi-disciplinary expertise in science, engineering, and info-communications will be needed. SFA is working with various Institutes of Higher Learning (IHLs) and local farms on programmes such as diploma courses and structured internship programmes to equip students and adult job seekers with skillsets that will lead to meaningful, specialised careers in agriculture and aquaculture.</p>
+			</li>
+			<li><p>Rally support for local produce: As we ramp up local production, we will need the support of consumers to sustain a healthy and vibrant agri-food ecosystem. Local produce is safe, fresher, and lasts longer. Local produce also results in less spoilage, food waste, and a lower carbon footprint, as the produce does not need to travel for long periods of time before reaching the consumer. To make it easier for consumers to identify local produce, SFA has launched an “SG Fresh Produce” logo which can be found on the packaging of local produce in retail shops and supermarkets. By choosing locally produced food, all of us can play a part in enhancing Singapore’s food security.</p>
+			</li>
+		</ul>
 	</div>
 </div>
-
-<h2>The Related Laws</h2>
-<p>SALE OF FOOD ACT (Cap 283) (Part III)</p>
