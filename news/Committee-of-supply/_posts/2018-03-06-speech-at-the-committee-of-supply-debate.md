@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-### SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES ON “TAKE CLIMATE ACTION FOR A SUSTAINABLE FUTURE” AT THE MEWR COS DEBATES ON 6 MARCH 2018  
+### Speech By Masagos Zulkifli, Minister for the Environment and Water Resources on "Take Climate Action for a Sustainable Future" at the MEWR COS Debate on 6 March 2018  
 
 **A. INTRODUCTION**  
 
