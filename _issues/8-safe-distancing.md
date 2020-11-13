@@ -23,25 +23,25 @@ Safe Distancing Ambassadors (SDA) and Safe Distancing Enforcement Officers (EO) 
 
 Even as we expand our testing strategy and improve contact tracing efforts, it is important that everyone plays their part in our country’s safe re-opening.
 
--   • Do download the TraceTogether App, and use SafeEntry when entering premises, to help with contact tracing.
--   • You may wish to refer to [www.spaceout.gov.sg](http://www.spaceout.gov.sg/) to check the crowd situation before heading to the markets, supermarkets, malls, sports facilities and Sentosa.
--   • When visiting the parks, do check [https://SafeDistParks.nparks.gov.sg](https://safedistparks.nparks.gov.sg/) for the latest updates on visitorship levels.
+- Do download the TraceTogether App, and use SafeEntry when entering premises, to help with contact tracing.
+- You may wish to refer to [www.spaceout.gov.sg](http://www.spaceout.gov.sg/) to check the crowd situation before heading to the markets, supermarkets, malls, sports facilities and Sentosa.
+- When visiting the parks, do check [https://SafeDistParks.nparks.gov.sg](https://safedistparks.nparks.gov.sg/) for the latest updates on visitorship levels.
 
 **Remember – you are the first line of defence**
 
 It is important to practise safe distancing and maintain good personal hygiene as we go about our daily lives, so that we can reduce the risks of transmission in the community.
 
-o If you are sick, see a doctor and stay at home.
+- If you are sick, see a doctor and stay at home.
 
-o Wash your hands with soap frequently or use hand sanitiser.
+- Wash your hands with soap frequently or use hand sanitiser.
 
-o Avoid sharing food or shaking hands.
+- Avoid sharing food or shaking hands.
 
-o Dispose used tissues and masks into trash bins.
+- Dispose used tissues and masks into trash bins.
 
-o When dining out, return trays and used crockery after meals to keep tables clean for others.
+- When dining out, return trays and used crockery after meals to keep tables clean for others.
 
-o Use contactless payment where possible
+- Use contactless payment where possible
 
   
 
