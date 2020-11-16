@@ -64,8 +64,8 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Infographic</label>
 	<div class="accordion-content">
-    <img src="/news/news-images/press-release-2020-03-04-infographic-mewr-image-1.png" alt"infographic">    
-  </div>  
+        ![](/news/news-images/press-release-2020-03-04-infographic-mewr-image-1.png)    
+        </div>  
 </div>  
 
 <a id="announcements"></a>
