@@ -160,7 +160,9 @@ i. Two new Citizen’s Workgroups will be convened this year — to discuss ways
 
 11 Together, we can build a climate-resilient Singapore — for Singaporeans, with Singaporeans.  
 
-MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES 4 MARCH 2020  
+MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES  
+
+4 MARCH 2020  
 
 ![](/news/news-images/press-release-2020-03-04-infographic-mewr-image-1.png)  
 
