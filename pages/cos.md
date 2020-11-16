@@ -2,10 +2,55 @@
 title: Committee of Supply
 permalink: /cos/
 ---
+<style>
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+label:hover {
+	background: #4a96b0;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
+</style>
+<!-- End of accordion -->
+
+<div class="container">
 
 
-COMMITTEE OF SUPPLY 2020
-BUILDING A CLIMATE-RESILIENT SINGAPORE, AND A SUSTAINABLE AND LIVEABLE HOME
+<h3><b>Committee Of Supply 2020: Buildings A Climate-Resilient Singapore And A Sustainable And Liveable Home</b></h3>
 
 <div class="bp-youtube">  
 
@@ -13,8 +58,110 @@ BUILDING A CLIMATE-RESILIENT SINGAPORE, AND A SUSTAINABLE AND LIVEABLE HOME
 
 </div>  
 
-a small island city-state, Singapore is vulnerable to the impacts of climate change. It is crucial that Singapore continues to strengthen efforts to meet the long-term challenges of climate change.
+<p>As a small island city-state, Singapore is vulnerable to the impacts of climate change. It is crucial that Singapore continues to strengthen efforts to meet the long-term challenges of climate change.</p>
 
-!()[https://www.mse.gov.sg/images/default-source/default-album/mewr-cos-summary733c843af22f6eceb9b0ff0000fcc945.png?MaxWidth=920&MaxHeight=800&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments]
+<h3 id="cos-summary">COS Summary</h3>
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">Infographic</label>
+	<div class="accordion-content">
+    <img src="/news/news-images/press-release-2020-03-04-infographic-mewr-image-1.png" alt"infographic">    
+  </div>  
+</div>  
+
+<a id="announcements"></a>
+
+<h3>Announcements</h3>
+<div>
+	<input type="checkbox" id="title2"  /><label for="title2">Taking Climate Action</label>
+	<div class="accordion-content">
+    <p>We have put in place a comprehensive suite of measures to reduce carbon emissions across all sectors. This includes the implementation of a carbon tax, efforts to improve industrial energy efficiency, and the greening of our transport. We are introducing further measures to mitigate climate change.</p>
+    <p>a) <strong>Reducing the emission of hydrofluorocarbons (HFCs)</strong></p>
+    <img src="/news/news-images/cos-image-1.jpg" alt"image 1">  
+    <p>A package of mitigation measures will be introduced to reduce the emission of hydrofluorocarbons. The proper recovery, reclamation and destruction of spent refrigerants will be mandated, along with restrictions on equipment using HFCs with high global warming potential.</p>  
+    <p>b) <strong>Encouraging climate-friendly choices</strong><br>  A S$24.8 million Climate-Friendly Household Package will be introduced to help households living in 1- to 3-room flats purchase energy-efficient appliances and water-efficient shower fittings.</p>  
+    <p>c) <strong>Green waterworks</strong></p>  
+    <img src="/news/news-images/cos-image-2.jpg" alt"image 2">  
+    <p>PUB will be deploying floating solar PV systems at Bedok, Lower Seletar, and Tengeh Reservoirs by 2021. With this, Singapore will be one of the few countries in the world to have 100% green waterworks.</p>  
+    <p>d) <strong>Reducing vehicular emissions</strong><br>  To support the shift to cleaner commercial vehicles, a new Commercial Vehicle Emissions Scheme will be introduced for new Light Goods Vehicles. The Early Turnover Scheme (ETS) will also be enhanced to encourage the early turnover of existing pollutive commercial vehicles.</p>  
+    <p>e) <strong>Coastal protection</strong></p>
+    <img src="/news/news-images/cos-image-3.jpg" alt"image 3">  
+    <p>PUB will take on the role of the nation Coastal Protection Agency from April 2020, to lead national efforts across the public and private sector. A Coastal and Flood Protection Fund will be set up within PUB, with an initial funding of $5 billion from the Ministry of Finance.</p>  
+  </div>
+	<input type="checkbox" id="title3"  /><label for="title3">Game-changing Singapore's Food Security</label>
+	<div class="accordion-content">  
+    <div class="bp-youtube">  
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Sl2bZOxOR9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+    </div>  
+    <p>Climate change is anticipated to affect access to critical resources such as food. To be more resilient against disruptions in our food supply, Singapore is pursuing three strategies:</p>
+		<p>(i) further diversifying food import sources;</p>
+		<p>(ii) growing food overseas; and</p>
+		<p>(iii) increasing local food production.</p>
+		<p>We have an ambitious ’30-by-30’ vision — to meet 30 per cent of our nutritional needs with food produced in Singapore, by 2030. We will continue to safeguard food safety in Singapore with the following initiatives.</p>
+		<img src="/news/news-images/cos-image-4.jpg" alt"image 4">
+    <p><em>Producing Local Food Sustainably</em></p>  
+    <p>The Singapore Food Agency (SFA) will study how the larger Lim Chu Kang agriculture area can be planned and developed to enhance food production and reduce the cost of production for farms.</p>
+		<p>SFA will also study the expansion of sustainable sea-based fish farming. SFA is working with Enterprise Singapore (ESG) to develop a Clean and Green Standard for urban farms to help local farms brand their products as fresh and grown in cleaner environments. This will help differentiate their products in local and overseas markets.</p>
+		<p>To support farms in their productivity-enhancing investments, the Agriculture Productivity Fund (APF) will be extended till the end of 2020. Building on the novel food regulatory framework implemented last year, SFA will establish an international expert working group to provide scientific advice on food safety.</p>
+		<p><em>Ensuring Food Safety</em></p>
+		<p>To safeguard food safety, food establishments which pose higher food safety risks such as caterers and central kitchens will be required to install CCTVs. Food establishments catering to vulnerable groups such as preschools, kindergartens and nursing homes will be required to maintain food retention samples.</p>
+		<p>SFA will introduce a unified framework to license and recognise food establishments. Food establishments with higher food safety assurance will be recognised with longer licence durations.</p>  
+    <p><em>Supporting Community Involvement in Urban Farming</em></p>  
+    <img src="/news/news-images/cos-image-5.png" alt"image 5">  
+    <p>To strengthen community involvement in food security initiatives, SFA will continue to facilitate the expansion of urban rooftop farming in HDB Multi-Storey Car Parks across Singapore.</p>
+	</div>
+	<input type="checkbox" id="title4"  /><label for="title4">Supporting Singapore's Transition to a Circular Economy</label>
+	<div class="accordion-content">  
+    <p>The way we produce, consume and dispose in our daily lives has a direct impact on our environment and climate. The Resource Sustainability Act introduced last year established a regulatory framework to address three priority waste streams – packaging waste including plastics, e-waste, and food waste. We will be taking these steps to better manage these waste streams:</p>
+		<p><em>Packaging waste including plastics</em></p>
+		<p>a) Producers of packaged products will be required to collect their packaging data from 1 July this year, for submission to the National Environment Agency (NEA) early next year. The NEA will partner the industry to develop a joint capability development programme that will support companies in fulfilling their new obligations. </p>
+		<p>b) As part of the first phase of the Extended Producer Responsibility (EPR) framework, a Deposit Refund Scheme (DRS) for beverage containers will be implemented by 2022. </p>
+		<p>c) NEA is also working with government and industry partners to explore establishing a pilot plant that will help anchor the chemical recycling value chain in Singapore within the next few years. </p>
+		<p><em>E-waste</em></p>  
+    <img src="/news/news-images/cos-image-6.jpg" alt"image 6">  
+    <p>a) NEA will launch a tender to appoint the Producer Responsibility Scheme (PRS) operator, which will take charge of the collection and proper treatment of e-waste in Singapore. The operator will be appointed by the second half of this year.</p>
+		<p>b) Two planned recycling facilities by EWR2 and SMC Industrial will be completed by mid-2020 and mid-2022 respectively.</p>
+		<p><em>Food waste</em></p>
+		<p>a) In consultation with the industry, NEA has finalised the thresholds for premises that will be required to segregate food waste for treatment.</p>
+		<p><em>NEWsand</em></p>
+		<p>a) NEA plans to launch a Request for Information (RFI) by mid-2020 for a commercial-scale NEWSand production facility</p>
+	</div>
+	<input type="checkbox" id="title5"  /><label for="title5">Building a Liveable and Endearing Home Together</label>
+	<div class="accordion-content">  
+    <img src="/news/news-images/cos-image-7.jpg" alt"image 7">  
+    <p>As reflected in NEA’s recently launched SG Clean campaign, everyone plays a part in strengthening Singapore’s public health and environmental hygiene. We will be strengthening environmental sanitation controls, as part of measures to build a national culture of keeping clean. </p>
+		<p><em>Strengthening environmental sanitation controls</em></p>
+		<p>a) The Environmental Public Health Act will be amended to introduce mandatory cleaning standards, including a regime for pro-active routine cleaning and disinfection at prescribed frequencies. The new requirements will be progressively implemented from 2021, starting with higher-risk premises with high footfall and immuno-vulnerable occupants. </p>  
+    <p><strong>Supporting and Recognising our Hawkers</strong></p>
+		<p>Hawker culture is an integral part of our daily lives, and hawker centres play an important role in society as our community dining rooms. We will continue with our efforts to sustain the hawker trade and support hawkers.</p>
+		<p><em>Supporting hawkers during the current COVID-19 situation</em></p>
+		<p>a) As part of the Stabilisation and Support Package announced during Budget 2020, a one-month rental waiver, with a minimum sum of $200, will be provided to all stallholders in hawker centres managed by NEA or NEA-appointed hawkers.</p>
+		<p>b) The Hawkers’ Productivity Grant (HPG) will be enhanced to include market stalls, and the funding period will be extended to 31 March 2023.</p>
+		<p><strong>Higher-value jobs for Singaporeans</strong></p>
+		<p>Building a sustainable, liveable and climate-resilient Singapore brings economic opportunities for our industries and enterprises, and creates good jobs for Singaporeans.</p>  
+    <img src="/news/news-images/cos-image-8.jpg" alt"image 8">  
+    <p>a) Through upskilling and technology adoption, more than 45,000 people will benefit from higher-value jobs in the environmental services, food and water sectors over the next 5 - 10 years.</p>
+		<p>b) NEA will be strengthening the competencies of Environmental Control Officers (ECOs) currently engaged at construction sites with improved vocational training.</p>
+		<p>c) To strengthen food safety in Singapore, SFA will enhance the training framework for Food Hygiene Officers (FHOs).</p>
+		<p>d) SFA will work with the Nanyang Technological University (NTU) this year to launch a post-graduate certificate for urban agri-technology, to equip fresh graduates and working professionals in the agri-food value chain. </p>
+		<p>e) TES-B, EWR2 and SMC Industrial’s upcoming e-waste recycling facilities will add another 430 jobs to the industry.</p>
+		<p><strong>Driving Sustainability with Singaporeans</strong></p>  
+    <img src="/news/news-images/cos-image-9.jpg" alt"image 9">  
+    <p>Singaporeans and stakeholders from all sectors of society can contribute to a sustainable and liveable Singapore:</p>
+		<p><em>Eco Towns</em></p>
+		<p>MEWR and the Ministry of National Development (MND) will work together to strengthen environmental sustainability in HDB towns. We will target to make community touchpoints more sustainable, such as the creation of hawker centres that strive towards zero waste. Community-based programmes encouraging sustainability will be introduced. Indicators for towns to track their progress and benchmark against national sustainability targets will be rolled out. </p>
+		<p><em>Establishment of SG Eco Fund and SG Eco Office</em></p>
+		<p>To support the co-creation of sustainable initiatives, a $50 million SG Eco Fund will be made available to the people, private and public sectors. An SG Eco Office will also be set up within MEWR to co-ordinate sustainability projects across Singapore.</p>
+		<p><em>Citizens’ Workgroups</em></p>
+		<p>Two new Citizen’s Workgroups will be convened this year — to discuss ways to increase demand for local produce; and to reduce the excessive use of disposables. Members of the public are invited to register their interest in the workgroup on local produce from 4 March 2020, <a href="https://climategamechanger.sg/cw-localproduce/">here.</a></p>
+		<p>Together, we can build a climate-resilient Singapore — for Singaporeans, with Singaporeans.</p>
+	</div>
+</div>  
+
+<h3>Resources</h3>  
+<p>Speech by Minister Masagos Zulkifli:<a href="/resource-room/category/2020-03-04-speech-at-the-committee-of-supply-debate/">Building a Climate-Resilient Singapore for Singaporeans, with Singaporeans</a></p>  
+<p>Speech by Senior Minister of State, Dr Amy Khor:<a href="/resource-room/category/2020-03-04-speech-at-the-committee-of-supply-debate-by-dr-amy-khor-senior-minister-of-state-for-env-and-water-resources/">Seizing the Opportunities in Building a Sustainable and Liveable Singapore</a></p>  
+<p>MEWR COS 2020 Media Release:<a href="/resource-room/category/2020-03-04-press-release-of-mewr-cos-2020/">Building a Climate-Resilient Singapore for Singaporeans, with Singaporeans</a></p> 
+
+    
 
 <!-- hidden -->
