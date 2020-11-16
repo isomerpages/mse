@@ -57,17 +57,17 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>As the national agency for food safety, SFA has in place an integrated food safety system from farm-to-fork to ensure that food sold in Singapore is safe for consumption. SFA adopts a science-based risk assessment and management approach to food safety, and sets food safety standards that are aligned  with international standards. SFA has put in place regulatory levers along the food supply chain like licensing, inspection, sampling, testing and enforcement.</p>
 		<ul>
-			<li><p>Overseas Imports – Food importers are licensed by SFA, and need to apply for import permits for each consignment of food imported into Singapore. For high-risk food items like livestock, meat and egg items that can carry diseases that can be transmitted to people, SFA conducts accreditation at source to ensure that the imports meet food safety and animal health import requirements.</p>
+			<li><p>Overseas Imports – Food importers are licensed by SFA, and are required to apply for import permits for each consignment of food imported into Singapore. For high-risk food items like livestock, meat and egg items that can carry diseases that can be transmitted to people, SFA conducts accreditation at source to ensure that the imports meet food safety and animal health import requirements.</p>
 			</li>
-			<li><p>Local farms and food establishments – SFA licenses farms and food establishments in Singapore, including slaughterhouses, food processing/manufacturing establishments, as well as various food retail establishments such as hawker and market stalls, coffeeshops, food courts, food caterers, canteens, supermarkets, mobile food wagons, snack bars, cafes, and restaurants.  Food warehouses are registered with SFA.  Inspections are carried out to ensure that these establishments comply with licensing conditions and regulatory requirements.</p>
+			<li><p>Local farms and food establishments – SFA licenses farms and food establishments in Singapore, including slaughterhouses, food processing/manufacturing establishments, as well as various food retail establishments such as hawker and market stalls, coffeeshops, food courts, food caterers, canteens, supermarkets, mobile food wagons, cafes, and restaurants. Inspections are carried out to ensure that these establishments comply with licensing conditions and regulatory requirements.</p>
 			</li>
 		</ul>
-		<p>In the event of food safety incidents, there are anticipatory and response mechanisms in place to manage them too (e.g. food recalls, foodborne outbreak investigation).</p>
+		<p>In the event of food safety incidents, there are response mechanisms in place to manage them too (e.g. food recalls, foodborne outbreak investigation).</p>
 	</div>
 	<input type="checkbox" id="title2"  /><label for="title2">Food Safety is a Joint Responsibility: Role of Industry and Consumers</label>
 	<div class="accordion-content">
-		<p>As food safety is a joint responsibility, SFA works with the industry and consumers to build their capabilities and educate them on the parts they can play in ensuring food safety. For instance, food handlers in restaurants, hawker stalls and coffee shops must attend and pass the Basic Food Hygiene Course (BFHC) before they are allowed to work.</p>
-		<p>As for consumers, SFA avail food safety information and tips to  equip consumers with knowledge of food safety risks and good food safety practices. Examples include:</p>
+		<p>As food safety is a joint responsibility, SFA works with the industry and consumers to build their capabilities and educate them on their roles in ensuring food safety. For instance, food handlers in restaurants, hawker stalls and coffee shops must attend and pass the Basic Food Hygiene Course (BFHC) before they are allowed to work.</p>
+		<p>As for consumers, SFA has made available food safety information and tips online to equip consumers with knowledge of food safety risks and good food safety practices. Examples include:</p>
 		<ul>
 			<li><p><a href="go.gov.sg/sfa-food-risk">Risk at a glance</a></p>
 			</li>
@@ -78,7 +78,7 @@ input:checked + label + .accordion-content {
 			<li><p>Track records (hygiene grading, number of demerit points and suspension history) of the food establishment:<a href="go.gov.sg/sfa-food-retail-licence"> Food Retail Licence</a></p>
 			</li>
 		</ul>
-		<p>Consumers who come across any potentially errant food operator should report to SFA via the <a href="www.sfa.gov.sg/feedback">online feedback form.</a></p>
+		<p>Consumers who come across any errant food operator can play your part by reporting these operators to SFA via the <a href="www.sfa.gov.sg/feedback">online feedback form.</a></p>
 	</div>
 </div>
 
@@ -88,12 +88,12 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title3"  /><label for="title3">Singapore's Food Story: Ensuring and Securing Food Supply</label>
 	<div class="accordion-content">
-		<p>Singapore imports more than 90 percent of our food. While Singapore has effective strategies to secure our food supply, we operate in a global environment where we face a multitude of risks such as depleting natural resources, climate change, and unpredictable geopolitical and disease situations such as the ongoing COVID-19 situation. To mitigate and overcome these challenges, the collective efforts of the government, industry and public are required to strengthen our food supply resilience.</p>
+		<p>Singapore imports more than 90 percent of our food. While Singapore has put in place strategies to secure our food supply, we operate in a global environment where we face a multitude of risks such as depleting natural resources, climate change, and unpredictable geopolitical and disease outbreak situations such as the ongoing COVID-19 situation. To mitigate and overcome these challenges, the collective efforts of the government, industry and public are required to strengthen our food supply resilience.</p>
 		<p>SFA safeguards Singapore’s food supply through three food security strategies, known as the three “food baskets”:</p>
 		<ul>
-			<li><p>Diversify import sources – By diversifying, this reduces our reliance on any single source for any one food item. Should there be a disruption to any one source, Singapore is in a good position to work with our network of importers to tap on alternative food sources, and ensure that our food supply remains stable.</p>
+			<li><p>Diversify import sources – By diversifying our food sources, we reduce our reliance on any single source for any one food item. Should there be a disruption to any one source, Singapore is in a good position to work with our network of importers to tap on alternative food sources, and ensure that our food supply remains stable.</p>
 			</li>
-			<li><p>Grow local – Local production mitigates our reliance on imports and serves as a buffer in the event supply from our import sources is disrupted. SFA is supporting the growth of the local agri-food industry by developing spaces for farming, providing funding support, leveraging R&D, grooming local talent and rallying support for local produce.</p>
+			<li><p>Grow local – Local production mitigates our reliance on imports and serves as a buffer in the event of a food supply disruption. SFA is supporting the growth of the local agri-food industry by developing spaces for farming, providing funding support, leveraging R&D, grooming local talent and rallying support for local produce.</p>
 			</li>
 			<li><p>Grow overseas – SFA supports Singapore companies to export urban food solutions to other countries so that they can overcome land and manpower constraints and break into new markets. These companies can then reap economies of scale and can also export food back to Singapore. Some local farms have ventured into Australia, Brunei, Hong Kong, Thailand and China.</p>
 			</li>
