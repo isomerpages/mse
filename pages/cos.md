@@ -76,15 +76,15 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
     <p>We have put in place a comprehensive suite of measures to reduce carbon emissions across all sectors. This includes the implementation of a carbon tax, efforts to improve industrial energy efficiency, and the greening of our transport. We are introducing further measures to mitigate climate change.</p>
     <p>a) <strong>Reducing the emission of hydrofluorocarbons (HFCs)</strong></p>
-    <img src="/news/news-images/cos-image-1.jpg" alt"image 1">  
+    <img src="/news/news-images/cos-image-1.jpg" alt="image 1">  
     <p>A package of mitigation measures will be introduced to reduce the emission of hydrofluorocarbons. The proper recovery, reclamation and destruction of spent refrigerants will be mandated, along with restrictions on equipment using HFCs with high global warming potential.</p>  
     <p>b) <strong>Encouraging climate-friendly choices</strong><br>  A S$24.8 million Climate-Friendly Household Package will be introduced to help households living in 1- to 3-room flats purchase energy-efficient appliances and water-efficient shower fittings.</p>  
     <p>c) <strong>Green waterworks</strong></p>  
-    <img src="/news/news-images/cos-image-2.jpg" alt"image 2">  
+    <img src="/news/news-images/cos-image-2.jpg" alt="image 2">  
     <p>PUB will be deploying floating solar PV systems at Bedok, Lower Seletar, and Tengeh Reservoirs by 2021. With this, Singapore will be one of the few countries in the world to have 100% green waterworks.</p>  
     <p>d) <strong>Reducing vehicular emissions</strong><br>  To support the shift to cleaner commercial vehicles, a new Commercial Vehicle Emissions Scheme will be introduced for new Light Goods Vehicles. The Early Turnover Scheme (ETS) will also be enhanced to encourage the early turnover of existing pollutive commercial vehicles.</p>  
     <p>e) <strong>Coastal protection</strong></p>
-    <img src="/news/news-images/cos-image-3.jpg" alt"image 3">  
+    <img src="/news/news-images/cos-image-3.jpg" alt="image 3">  
     <p>PUB will take on the role of the nation Coastal Protection Agency from April 2020, to lead national efforts across the public and private sector. A Coastal and Flood Protection Fund will be set up within PUB, with an initial funding of $5 billion from the Ministry of Finance.</p>  
   </div>
 	<input type="checkbox" id="title3"  /><label for="title3">Game-changing Singapore's Food Security</label>
@@ -97,7 +97,7 @@ input:checked + label + .accordion-content {
 		<p>(ii) growing food overseas; and</p>
 		<p>(iii) increasing local food production.</p>
 		<p>We have an ambitious ’30-by-30’ vision — to meet 30 per cent of our nutritional needs with food produced in Singapore, by 2030. We will continue to safeguard food safety in Singapore with the following initiatives.</p>
-		<img src="/news/news-images/cos-image-4.jpg" alt"image 4">
+		<img src="/news/news-images/cos-image-4.jpg" alt="image 4">
     <p><em>Producing Local Food Sustainably</em></p>  
     <p>The Singapore Food Agency (SFA) will study how the larger Lim Chu Kang agriculture area can be planned and developed to enhance food production and reduce the cost of production for farms.</p>
 		<p>SFA will also study the expansion of sustainable sea-based fish farming. SFA is working with Enterprise Singapore (ESG) to develop a Clean and Green Standard for urban farms to help local farms brand their products as fresh and grown in cleaner environments. This will help differentiate their products in local and overseas markets.</p>
@@ -106,7 +106,7 @@ input:checked + label + .accordion-content {
 		<p>To safeguard food safety, food establishments which pose higher food safety risks such as caterers and central kitchens will be required to install CCTVs. Food establishments catering to vulnerable groups such as preschools, kindergartens and nursing homes will be required to maintain food retention samples.</p>
 		<p>SFA will introduce a unified framework to license and recognise food establishments. Food establishments with higher food safety assurance will be recognised with longer licence durations.</p>  
     <p><em>Supporting Community Involvement in Urban Farming</em></p>  
-    <img src="/news/news-images/cos-image-5.png" alt"image 5">  
+    <img src="/news/news-images/cos-image-5.png" alt="image 5">  
     <p>To strengthen community involvement in food security initiatives, SFA will continue to facilitate the expansion of urban rooftop farming in HDB Multi-Storey Car Parks across Singapore.</p>
 	</div>
 	<input type="checkbox" id="title4"  /><label for="title4">Supporting Singapore's Transition to a Circular Economy</label>
@@ -117,7 +117,7 @@ input:checked + label + .accordion-content {
 		<p>b) As part of the first phase of the Extended Producer Responsibility (EPR) framework, a Deposit Refund Scheme (DRS) for beverage containers will be implemented by 2022. </p>
 		<p>c) NEA is also working with government and industry partners to explore establishing a pilot plant that will help anchor the chemical recycling value chain in Singapore within the next few years. </p>
 		<p><em>E-waste</em></p>  
-    <img src="/news/news-images/cos-image-6.jpg" alt"image 6">  
+    <img src="/news/news-images/cos-image-6.jpg" alt="image 6">  
     <p>a) NEA will launch a tender to appoint the Producer Responsibility Scheme (PRS) operator, which will take charge of the collection and proper treatment of e-waste in Singapore. The operator will be appointed by the second half of this year.</p>
 		<p>b) Two planned recycling facilities by EWR2 and SMC Industrial will be completed by mid-2020 and mid-2022 respectively.</p>
 		<p><em>Food waste</em></p>
@@ -127,7 +127,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title5"  /><label for="title5">Building a Liveable and Endearing Home Together</label>
 	<div class="accordion-content">  
-    <img src="/news/news-images/cos-image-7.jpg" alt"image 7">  
+    <img src="/news/news-images/cos-image-7.jpg" alt="image 7">  
     <p>As reflected in NEA’s recently launched SG Clean campaign, everyone plays a part in strengthening Singapore’s public health and environmental hygiene. We will be strengthening environmental sanitation controls, as part of measures to build a national culture of keeping clean. </p>
 		<p><em>Strengthening environmental sanitation controls</em></p>
 		<p>a) The Environmental Public Health Act will be amended to introduce mandatory cleaning standards, including a regime for pro-active routine cleaning and disinfection at prescribed frequencies. The new requirements will be progressively implemented from 2021, starting with higher-risk premises with high footfall and immuno-vulnerable occupants. </p>  
@@ -138,14 +138,14 @@ input:checked + label + .accordion-content {
 		<p>b) The Hawkers’ Productivity Grant (HPG) will be enhanced to include market stalls, and the funding period will be extended to 31 March 2023.</p>
 		<p><strong>Higher-value jobs for Singaporeans</strong></p>
 		<p>Building a sustainable, liveable and climate-resilient Singapore brings economic opportunities for our industries and enterprises, and creates good jobs for Singaporeans.</p>  
-    <img src="/news/news-images/cos-image-8.jpg" alt"image 8">  
+    <img src="/news/news-images/cos-image-8.jpg" alt="image 8">  
     <p>a) Through upskilling and technology adoption, more than 45,000 people will benefit from higher-value jobs in the environmental services, food and water sectors over the next 5 - 10 years.</p>
 		<p>b) NEA will be strengthening the competencies of Environmental Control Officers (ECOs) currently engaged at construction sites with improved vocational training.</p>
 		<p>c) To strengthen food safety in Singapore, SFA will enhance the training framework for Food Hygiene Officers (FHOs).</p>
 		<p>d) SFA will work with the Nanyang Technological University (NTU) this year to launch a post-graduate certificate for urban agri-technology, to equip fresh graduates and working professionals in the agri-food value chain. </p>
 		<p>e) TES-B, EWR2 and SMC Industrial’s upcoming e-waste recycling facilities will add another 430 jobs to the industry.</p>
 		<p><strong>Driving Sustainability with Singaporeans</strong></p>  
-    <img src="/news/news-images/cos-image-9.jpg" alt"image 9">  
+    <img src="/news/news-images/cos-image-9.jpg" alt="image 9">  
     <p>Singaporeans and stakeholders from all sectors of society can contribute to a sustainable and liveable Singapore:</p>
 		<p><em>Eco Towns</em></p>
 		<p>MEWR and the Ministry of National Development (MND) will work together to strengthen environmental sustainability in HDB towns. We will target to make community touchpoints more sustainable, such as the creation of hawker centres that strive towards zero waste. Community-based programmes encouraging sustainability will be introduced. Indicators for towns to track their progress and benchmark against national sustainability targets will be rolled out. </p>
