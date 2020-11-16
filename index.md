@@ -33,14 +33,14 @@ sections:
     - infopic:
         title: <h2 style="font-family:'Cabin'">Sustainability is for Everyone</h2>
         # subtitle: What can you do?
-        description: There is a role for everyone to play and we must work together, so that future generations will continue to enjoy the green and liveable island we call home.
+        description: There is a role for everyone to play. We must work together so that future generations will continue to enjoy the green and liveable island we call home.
         button: Get Involved
         url: /take-action/individuals
         image: /images/infopic-3.svg
         alt: Members of the Ministry of ABC in suits
     - infobar:
         title: <h2 style="font-family:'Cabin'">Want to find out more?</h2>
-        description: Our work is wide-ranging and touches many aspects of our lives. <br>Learn how our policies to tackle these issues.
+        description: Our work is wide-ranging and touches many aspects of our lives. <br>Learn how our policies tackle these issues.
         url: /issues/overview/
         button: View Our Policies
     - resources:
