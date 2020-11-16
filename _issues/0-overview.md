@@ -164,6 +164,14 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </div><!-- .card-content -->
     </a>
 </div><!-- .card -->
+    <div class="card">
+    <a href="/issues/water">
+                <img src="/images/water-tap.svg">
+            <div class="card-content">
+                <h6>Tap</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
 
 </section><!-- .cards -->
 
