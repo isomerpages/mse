@@ -51,4 +51,4 @@ The service standards that we constantly strive to meet are as follows:
 
 When you call us at 6731 9000 during our operating hours (Monday to Thursday: 8.30am to 6.00pm; Friday: 8.30am to 5.30pm), we aim to attend to your call within 30 seconds.
 
-When you send us your feedback and comments through email (mewr_feedback@mewr.gov.sg), fax or postal mail, we aim to acknowledge your email or letter within 1 working day and respond to your inquiries within 3 working days. If more time is needed, we will provide an interim reply within 3 working days and follow up with a full reply within 3 calendar weeks.
+When you send us your feedback and comments through email (mse_feedback@mse.gov.sg), fax or postal mail, we aim to acknowledge your email or letter within 1 working day and respond to your inquiries within 3 working days. If more time is needed, we will provide an interim reply within 3 working days and follow up with a full reply within 3 calendar weeks.

@@ -19,7 +19,7 @@ On 27 July 2020, MEWR was renamed MSE to better reflect the Government's emphasi
 Together with its statutory boards NEA, PUB and SFA, MSE continues to work towards ensuring a clean, sustainable environment, and supply of water and safe food for Singapore.
 
 
-
+<!-- 
 #### Milestones in our journey:
 
 **1960s**
@@ -58,4 +58,4 @@ Together with its statutory boards NEA, PUB and SFA, MSE continues to work towar
 
 - 2019 Carbon tax with no exemption introduced 
 
--  April 2020 1 million trees movement launched 
+-  April 2020 1 million trees movement launched  -->

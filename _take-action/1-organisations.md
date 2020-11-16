@@ -106,6 +106,5 @@ Guidebooks developed by NEA and SFA for food retail, supermarkets and food manuf
 -   [3R Guidebooks](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/3r-guidebooks):  
 Step-by-step guides to implement 3R programmes in hotels, offices, shopping malls; as well as during Meetings, Incentives, Conferences & Exhibition (MICE) events.
 -   [Guide to Implementing Environmentally-Friendly Best Practices for Events](http://www.mse.gov.sg/top/faqs/guide-to-environmentally-friendly-practices-for-events)
--   [Sustainability Guidelines for the Singapore MICE industry](http://www.google.com/url?sa=t&rct=j&q=sustainability%20guidlelines%20for%20singapore%20mice%20industry&source=web&cd=2&cad=rja&ved=0CDAQFjAB&url=http%3A%2F%2Fwww.yoursingapore.com%2Fcontent%2Fdam%2Fmice%2Fen%2Fwhysingapore%2FPDF%2FSTB_sustainability_guidelines_manual_november_2013.pdf&ei=YJX_UoSHJouYrgeygIHACg&usg=AFQjCNFdiQk8fzASWI14j89LLXiYGMCGTA&sig2=7xNpKSRt3BxtG0fEJVNWRQ&bvm=bv.61535280,d.bmk)   
 
 <center><a class="button_david" href="/resources/">More Resources</a></center>
