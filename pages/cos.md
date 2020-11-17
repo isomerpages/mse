@@ -50,7 +50,7 @@ input:checked + label + .accordion-content {
 <div class="container">
 
 
-<h3><b>Committee Of Supply 2020: Buildings A Climate-Resilient Singapore And A Sustainable And Liveable Home</b></h3>
+<h3><b>Committee Of Supply 2020: Building A Climate-Resilient Singapore And A Sustainable And Liveable Home</b></h3>
 
 <div class="bp-youtube">  
 
