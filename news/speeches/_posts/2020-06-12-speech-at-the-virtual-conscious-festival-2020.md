@@ -17,38 +17,6 @@ description:
 Ladies and Gentlemen,  
 
 I am pleased to join you at this first Virtual Conscious Festival organised by Green is the New Black. Ironically, COVID-19 has within months achieved what we have failed to do for years, and that is to transform and digitalise the way we work, do business and conduct meetings.   
- 
-2 HOME
-ABOUT US
-CAREERS
-NEWS
-MICROSITES
-SAFE DISTANCING
-SITE MAP
-CONTACT INFO
-FEEDBACK
-FAQS
-LEARN THE ISSUES
-LEARN THE ISSUES
-Singapore's environmental issues, and the policies to tackle these issues.
-
-GRAB OUR RESEARCH
-GRAB OUR RESEARCH
-Statistics, reports and publications by our ministry and statutory boards.
-
-GET INVOLVED
-GET INVOLVED
-Report incidents, participate in public consultations and suggest ideas.
-
-NEWS
-Speeches
-Address by Dr Amy Khor, Senior Minister of State for the Environment and Water Resources, and Health, at the Virtual Conscious Festival 2020, on Friday, 12 June 2020
-
-Ladies and Gentlemen,
-
-
-I am pleased to join you at this first Virtual Conscious Festival organised by Green is the New Black. Ironically, COVID-19 has within months achieved what we have failed to do for years, and that is to transform and digitalise the way we work, do business and conduct meetings. 
-
 
 2 Countries around the world continue to grapple with the unprecedented COVID-19 pandemic and its staggering impact. Lives have been lost, and economies devastated.  
 
