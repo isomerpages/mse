@@ -30,7 +30,7 @@ description:
 
 9 Do stay home, avoid crowds and observe safe distancing. Failure to comply will result in firm action by our Enforcement Officers.  
 
-10 Visit the MEWR website for the latest information on safe distancing measures: http://mewr.gov.sg/safe-distancing. The Ministry of Health’s website has a comprehensive set of FAQs on the COVID-19 situation, including FAQs on safe distancing measures.  
+10 Visit the MEWR website for the latest information on safe distancing measures: <http://mewr.gov.sg/safe-distancing>. The Ministry of Health’s website has a comprehensive set of FAQs on the COVID-19 situation, including FAQs on safe distancing measures.  
 
 **MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES**  
 **11 APRIL 2020**  
