@@ -18,7 +18,7 @@ td {
 
 #### Written reply by Mr Masagos Zulkifli, Minister for the Environment and Water Resources, to Parliamentary Question on Air Quality and Emissions Inventory, on 6 Mar 2020  
 
-Ms Anthea Ong: To ask the Minister for the Environment and Water Resources (a) with respect to Singapore's 2020 air quality targets, how did we perform in 2019 for PM2.5, sulphur dioxide, ozone and nitrogen dioxide emissions; and (b) whether the Government will consider building and publishing emissions inventories for all pollutant types for better identification of the different sources of air pollutants and air quality management.  
+**Ms Anthea Ong:** To ask the Minister for the Environment and Water Resources (a) with respect to Singapore's 2020 air quality targets, how did we perform in 2019 for PM2.5, sulphur dioxide, ozone and nitrogen dioxide emissions; and (b) whether the Government will consider building and publishing emissions inventories for all pollutant types for better identification of the different sources of air pollutants and air quality management.  
 
 **Answer:**  
 
@@ -66,8 +66,8 @@ Ms Anthea Ong: To ask the Minister for the Environment and Water Resources (a) w
   	<td>8-hour mean<sup>1</sup>: 1.7 mg/m<sup>3</sup><br>  1-hour mean<sup>1</sup>: 2.3 mg/m<sup>3</sup></td>
 </table>  
 
-<sup>1</sup> Highest; <sup>2</sup> 99th Percentile  
+<p><sup>1</sup> Highest; <sup>2</sup> 99th Percentile</p>  
 
-3 We have implemented a suite of measures to reduce the emission of pollutants. We are tightening industrial emission standards for new and existing plants from 2015 to 2023. We have also introduced measures to manage emissions from vehicles. These include stricter standards for fuel quality and tighter emissions standards for new vehicles, as well as incentive schemes to turn over older, more pollutive vehicles and encourage the purchase of new and cleaner vehicles. We will continue to review these measures.  
+<p>3 We have implemented a suite of measures to reduce the emission of pollutants. We are tightening industrial emission standards for new and existing plants from 2015 to 2023. We have also introduced measures to manage emissions from vehicles. These include stricter standards for fuel quality and tighter emissions standards for new vehicles, as well as incentive schemes to turn over older, more pollutive vehicles and encourage the purchase of new and cleaner vehicles. We will continue to review these measures.</p>  
 
-4 NEA conducts emissions inventory and source apportionment modelling studies to identify key sources of air pollutants in Singapore and develop air quality management strategies. These internal studies help us fine-tune and improve our air quality management strategies.   
+<p>4 NEA conducts emissions inventory and source apportionment modelling studies to identify key sources of air pollutants in Singapore and develop air quality management strategies. These internal studies help us fine-tune and improve our air quality management strategies.</p>   
