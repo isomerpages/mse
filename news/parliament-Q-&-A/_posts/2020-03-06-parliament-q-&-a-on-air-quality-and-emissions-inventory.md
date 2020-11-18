@@ -26,7 +26,7 @@ td {
 
 2 Comparing Singapore’s 2019 performance with the 2020 air quality targets, we met the 2020 target for NO<sub>2</sub> and CO. For SO<sub>2</sub>, while the annual target (annual mean) was met in 2019, the maximum 24-hour mean level exceeded the limit in one day of the year (recorded at 57 µg/m<sup>3</sup>). We did not meet the 2020 targets for particulate matter (PM<sub>10</sub> and PM<sub>2.5</sub>) and ozone in 2019. A summary of Singapore’s 2019 air quality performance in 2019 against the Singapore target by 2020 and the long term targets is shown in the table below.  
 
-<table style="width:60%">
+<table style="width:100%">
   <tr>
     <th>Pollutant</th>
     <th>Singapore target by 2020</th> 
@@ -64,7 +64,8 @@ td {
   	<td>Carbon Monoxide (CO)</td>
   	<td colspan="2">8-hour mean<sup>1</sup>: 10 mg/m<sup>3</sup><br>  1-hour mean<sup>1</sup>: 30 mg/m<sup>3</sup> (WHO Final)</td>
   	<td>8-hour mean<sup>1</sup>: 1.7 mg/m<sup>3</sup><br>  1-hour mean<sup>1</sup>: 2.3 mg/m<sup>3</sup></td>
-  
+  </tr>
+ </table>
 
 <p><sup>1</sup> Highest; <sup>2</sup> 99th Percentile</p>  
 
