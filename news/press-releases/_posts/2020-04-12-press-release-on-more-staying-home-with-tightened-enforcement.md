@@ -22,7 +22,7 @@ description:
 
 5 Members of public are urged to stay home, and continue to comply with the circuit breaker measures. Do not embark on outings with family and friends during this period. The elderly, who are particularly vulnerable, must stay at home. If you must leave home for essential reasons, you should avoid crowds and observe safe distancing at all times.  
 
-6 Visit the MEWR website for the latest information on safe distancing measures: http://mewr.gov.sg/safe-distancing. The Ministry of Health’s website has a comprehensive set of FAQs on the COVID-19 situation, including FAQs on safe distancing measures.  
+6 Visit the MEWR website for the latest information on safe distancing measures: <http://mewr.gov.sg/safe-distancing>. The Ministry of Health’s website has a comprehensive set of FAQs on the COVID-19 situation, including FAQs on safe distancing measures.  
 
 **MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES**  
 **12 APRIL 2020**  
