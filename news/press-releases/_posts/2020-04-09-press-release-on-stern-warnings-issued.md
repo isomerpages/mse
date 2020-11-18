@@ -34,3 +34,7 @@ description:
 
 **MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES**  
 **9 APRIL 2020**  
+
+-----  
+
+[1] Five stern warnings were issued to members of public on 7 – 8 April 2020.
