@@ -30,7 +30,7 @@ description:
 
 9 Let us all do the right thing. The health of all depends on each one of us.  
 
-10 Visit this MEWR website for the latest information on safe distancing measures: http://mewr.gov.sg/safe-distancing.  
+10 Visit this MEWR website for the latest information on safe distancing measures: <http://mewr.gov.sg/safe-distancing>.  
 
 **MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES**  
 **9 APRIL 2020**  
