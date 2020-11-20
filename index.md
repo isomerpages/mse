@@ -41,7 +41,7 @@ sections:
     - infobar:
         title: <h2 style="font-family:'Cabin'">Want to find out more?</h2>
         description: Our work is wide-ranging and touches many aspects of our lives. <br>Learn how our policies tackle these issues.
-        url: /issues/overview/
+        url: /policies/overview/
         button: View Our Policies
     - resources:
         subtitle: <h2 style="font-family:'Cabin'">Latest News</h2>
