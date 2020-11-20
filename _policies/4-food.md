@@ -1,6 +1,6 @@
 ---
 title: Food
-permalink: /issues/food/
+permalink: /policies/food/
 ---
 <style>
 

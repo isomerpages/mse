@@ -1,6 +1,6 @@
 ---
 title: Clean Air
-permalink: /issues/clean-air
+permalink: /policies/clean-air
 ---
 <!-- Custom style for accordion -->
 <style>

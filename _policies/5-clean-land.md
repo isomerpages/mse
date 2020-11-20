@@ -1,6 +1,6 @@
 ---
 title: Clean Land
-permalink: /issues/clean-land
+permalink: /policies/clean-land
 ---
 <style>
 

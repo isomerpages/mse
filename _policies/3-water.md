@@ -1,6 +1,6 @@
 ---
 title: Water
-permalink: /issues/water
+permalink: /policies/water
 ---
 
 <style>

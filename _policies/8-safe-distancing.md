@@ -1,6 +1,6 @@
 ---
 title: Safe Distancing
-permalink: /issues/safe-distancing
+permalink: /policies/safe-distancing
 ---
 
 

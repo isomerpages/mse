@@ -1,6 +1,6 @@
 ---
 title: Energy
-permalink: /issues/energy
+permalink: /policies/energy
 ---
 <style>
 

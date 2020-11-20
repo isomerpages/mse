@@ -1,6 +1,6 @@
 ---
 title: Public Health
-permalink: /issues/public-health
+permalink: /policies/public-health
 ---
 <style>
 
