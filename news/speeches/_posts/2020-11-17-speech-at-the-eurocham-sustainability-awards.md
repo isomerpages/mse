@@ -1,7 +1,7 @@
 ---  
 title: EuroCham's Sustainability Awards - Grace Fu  
 permalink: /resource-room/category/2020-11-17-speech-at-the-eurocham-sustainability-awards/  
-image:  
+image: /images/mse-logo.png   
 file_url:  
 description:  
 ---  
