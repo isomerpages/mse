@@ -26,7 +26,7 @@ collections:
     output: true
   take-action:
     output: true
-  issues:
+  policies:
     output: true
   # resources:
   #   output: true
