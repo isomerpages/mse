@@ -4,22 +4,23 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/mse-logo.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Research
-    url: /research/
-  - title: Get Involved
-    url: /get-involved/
-  - title: Safe Distancing
-    url: /safe-distancing/
+  # - title: Feature
+  #   url: /feature/
+  - title: Latest News
+    resource_room: true
+  - title: Policies
+    collection: policies
+  - title: Take Action
+    collection: take-action
+  - title: Resources
+    url: /resources
+    # sublinks:
+    #   - title: Resources
+    #     url: /resources
+    #   - title: Other Publications
+    #   url: /other-publications
   - title: About Us
     collection: about-us
-  - title: Careers
-    collection: careers
-  - title: Learn The Issues
-    collection: learn-the-issues
-  - title: News
-    resource_room: true

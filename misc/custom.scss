@@ -4,9 +4,237 @@
 
 @charset "utf-8";
 
+
+/*================================================================
+=                         START OF DAVID'S CUSTOM CSS            =
+==================================================================*/
+
+// Remove hero bg alpha
+.bp-hero-body {
+  background: rgba(0, 0, 0, 0) !important;
+}
+
+// Remove PDF icon before links
+a[href$=".pdf"]:before {
+  content: none;
+}
+
+a[href$=".pdf"]{
+  margin-left: 0;
+}
+
+
+// START OF remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
+#org > div {
+  padding: 20px;
+  align-items: center;
+  div > div > h5 {
+  text-align: center;
+  font-weight: bold;
+    a {
+    text-decoration:none;
+    color:#484848; 
+    }
+    a:hover {
+    background: lightgrey;
+    }
+  }
+}
+// END OF remove link and text decoration, text-centered, remove padding for columned links (organisation page) --- see added ID '#org'
+
+// START OF change <li> font to 16px
+.lists > ul > li, .lists > ol > li {
+  font-size: 16px;
+  margin: 0px;
+  line-height: 1.5em;
+  list-style-position: outside;
+}
+// END OF change <li> font to 16px
+
+
+// START OF BUTTON
+.button_david {
+  color: #484848 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ffffff;
+  padding: 15px 20px;
+  border: 2px solid #484848;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+  border-radius: 15px;
+  font-weight: bold;
+  text-decoration: none !important;
+  }
+
+.button_david:hover {
+  color: #ffffff !important;
+  background: #4a96b0;
+  border-color: #4a96b0 !important;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+  }
+// END OF BUTTON
+
+// START OF HOMEPAGE LINK HOVER EFFECTS
+#homehoverlink1, #homehoverlink2, {
+  color: inherit;
+  text-decoration: none;
+  background-position-y: -0%;
+  background-image: linear-gradient( #F0F4F6 48%, #4a96b0 50%);
+  transition: background 100ms ease;
+  background-size: auto 190%; 
+}
+
+#homehoverlink2, {
+  background-image: linear-gradient( white 48%, #4a96b0 50%);
+}
+
+#homehoverlink1:hover, #homehoverlink2:hover, {
+  background-position-y: 100%;
+  color: white;
+}
+// END OF HOMEPAGE LINK HOVER EFFECTS
+
+
+/////////////////// FLEXBOX GRID COLUMNS FOR ABOUT US AND TAKE ACTION ////////////////////
+
+.logos-row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.grid-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+  vertical-align: middle;
+  align-items: top;
+  padding-bottom: 80px;
+}
+
+.grid-row-no-padding {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+  vertical-align: middle;
+  align-items: top;
+  flex: 0;
+}
+
+.grid-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 15px;
+}
+
+
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2
+}
+
+@media (max-width: 768px) {
+  .grid-row, .logos-row, .grid-row-no-padding {
+    display: block;
+    .grid-column {
+      width: 100%;
+      margin: 0 0 10px 0;
+      flex: 1;
+    }
+  }
+}
+
+/////////////////// END GRID COLUMNS FOR ABOUT US AND TAKE ACTION////////////////////
+
+////////////////// START OF BANNER VIDEO CSS //////////////////////
+
+#bannerVideo {
+  position: absolute;
+  object-fit: cover;
+  top: 50%;
+  left: 50%;
+  min-width: 100vw;
+  min-height: 60vh;
+  // max-height: 80vh;
+  width: auto;
+  height: auto;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  z-index: -1;
+  // padding-bottom: 5em;
+}
+
+// Override code to display banner video
+@media screen and (max-width: 768px) {
+#main-content > section.bp-hero.bg-hero > div > div > div > div > p {
+    display: inherit !important;
+  }
+}
+
+// Some mobiles such as safari has slow loading and a top margin, to be resolved
+
+@media screen and (max-width: 400px) {
+  #main-content > section.bp-hero.bg-hero > div.bp-hero-body {
+    padding-top: 0rem;
+  }
+}
+
+// For hero banner background. Originally for images only --- if hero banner image height too narrow
+// Repurposed for background video padding or margin bottom and top
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #main-content > section.bp-hero.bg-hero > div {
+    // padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1365px) {
+  #main-content > section.bp-hero.bg-hero > div {
+    // padding: 4em 1.5em 8rem 1.5rem;
+    margin-bottom: 4rem;
+  }
+}
+@media screen and (min-width: 1366px) and (max-width: 1679px){
+  #main-content > section.bp-hero.bg-hero > div {
+    // padding: 6em 1.5em 12rem 1.5rem;
+    margin-bottom: 6rem;
+  }
+}
+@media screen and (min-width: 1680px) {
+  #main-content > section.bp-hero.bg-hero > div {
+    // padding: 8em 1.5em 16rem 1.5rem;
+    margin-bottom: 8rem;
+  }
+}
+///////////////////// END OF BANNER VIDEO CSS//////////////////////
+
+
+/*=================================================================
+=                     END OF DAVID'S CUSTOM CSS                   =
+==================================================================*/
+
+
+
+
 // Agency brand colors
-$primary: {{- site.colors.primary-color -}};
-$secondary: {{- site.colors.secondary-color -}};
+$primary: #4a96b0;
+$secondary: #484848;
 $secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}

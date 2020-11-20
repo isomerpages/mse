@@ -1,6 +1,8 @@
-title: Title
+title: Ministry of Sustainability and the Environment
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
+shareicon: /images/thumbnail.png
+# is_government: false
 
 # Site colors
 colors:
@@ -8,24 +10,27 @@ colors:
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#323232'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#323232'
     - title: media-color-three
-      color: '#00838f'
+      color: '#323232'
     - title: media-color-four
-      color: '#00838f'
+      color: '#323232'
     - title: media-color-five
-      color: '#00838f'
+      color: '#323232'
 
 
 collections:
   about-us:
     output: true
-  careers:
+  take-action:
     output: true
-  learn-the-issues:
+  policies:
     output: true
+  # resources:
+  #   output: true
+# google_analytics: UA-8303170-1
 resources_name: news
 
 ##################################################################################################################
