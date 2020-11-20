@@ -1,6 +1,6 @@
 ---
 title: Overview of Policies
-permalink: /issues/overview/
+permalink: /policies/overview/
 ---
 
 <style>
