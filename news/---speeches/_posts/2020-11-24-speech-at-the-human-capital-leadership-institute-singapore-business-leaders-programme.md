@@ -1,5 +1,5 @@
 ---  
-title: The Human Capital Leadership Institute (HCLI)'s Singapore Business Leaders Programme (SBLP) - Grace Fu  
+title: The Human Capital Leadership Institute (HCLI)'s Singapore Business Leaders Programme (SBLP) - Ms Grace Fu  
 permalink: /resource-room/category/2020-11-24-speech-at-the-human-capital-leadership-institute-singapore-business-leaders-programme/  
 image:  
 file_url:  
