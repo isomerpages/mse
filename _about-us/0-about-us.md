@@ -21,7 +21,7 @@ The Ministry of Sustainability and the Environment (MSE) works alongside three s
 <center>Our Statutory Boards</center>
 <div class="logos-row">
   <div class="grid-column">
-    <a href="https://www.nea.gov.sg/"><img src="https://www.openinnovationnetwork.sg/images/network/NEA%20Logo.jpg" alt="..."></a>
+    <a href="https://www.nea.gov.sg/"><img src="/images/nea-logo.jpg" alt="..."></a>
   </div>
   <div class="grid-column">
     <a href="https://www.pub.gov.sg//"><img src="/images/pub-logo.png" alt="..."></a>
