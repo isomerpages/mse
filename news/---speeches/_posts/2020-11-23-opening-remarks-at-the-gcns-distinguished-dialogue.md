@@ -1,5 +1,5 @@
 ---  
-title: Opening Remarks At The GCNS Distinguished Dialogue On 23 November 2020 - Ms Grace Fu
+title: GCNS Distinguished Dialogue On 23 November 2020 - Ms Grace Fu
 permalink: /resource-room/category/2020-11-23-opening-remarks-at-the-gcns-distinguished-dialogue
 image:  
 file_url:  
