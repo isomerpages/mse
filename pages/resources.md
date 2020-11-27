@@ -132,14 +132,14 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <img src="/images/climate-action-plan2.png" style="width:300px;"> 
         </a>
     </div>
-    <!-- <div class="card">
-        <a href="https://www.mse.gov.sg/ssb/">
+    <div class="card">
+        <a href="/resources/ssb.pdf">
             <div class="card-content">
                 <h5>Sustainable Singapore Blueprint</h5>
             </div>
-        <img src="https://www.mse.gov.sg/html/ssb/img/UI/logo.png" style="width:300px;">
+        <img src="/images/ssb-logo.jpeg" style="width:300px;">
         </a>
-    </div> -->
+    </div>
     <div class="card">
         <a href="https://www.towardszerowaste.gov.sg/resources/">
             <div class="card-content">
