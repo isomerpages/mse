@@ -86,7 +86,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title6"  /><label for="title6">The Issue</label>
 	<div class="accordion-content">
-		<p>The build-up of greenhouse gases, such as carbon dioxide, in the atmosphere has trapped more heat, resulting in a warmer planet. Temperatures in Singapore have risen by 0.25oC per decade from 1948 to 2015, while 2016 and 2019 were the hottest years recorded thus far. A warmer climate leads to the thermal expansion of the sea and melting of glaciers and ice caps, which lead to rising sea levels, threatening our island nation. There may also be more frequent extreme weather events.</p>
+		<p>The build-up of greenhouse gases, such as carbon dioxide, in the atmosphere has trapped more heat, resulting in a warmer planet. Temperatures in Singapore have risen by 0.25<sup>o</sup>C per decade from 1948 to 2015, while 2016 and 2019 were the hottest years recorded thus far. A warmer climate leads to the thermal expansion of the sea and melting of glaciers and ice caps, which lead to rising sea levels, threatening our island nation. There may also be more frequent extreme weather events.</p>
 	</div>
 	<input type="checkbox" id="title7"  /><label for="title7">The Challenge</label>
 	<div class="accordion-content">
