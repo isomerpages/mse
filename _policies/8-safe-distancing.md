@@ -56,10 +56,8 @@ https://www.moh.gov.sg/covid-19/faqs
 
 Safe Distancing at Markets
 
-![Safe Distancing at Markets_Page_1](https://www.mse.gov.sg/images/default-source/default-album/safe-distancing-at-markets_page_1.png?MaxWidth=200&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments "Safe Distancing at Markets_Page_1")
-
-![Safe Distancing at Markets_Page_2](https://www.mse.gov.sg/images/default-source/default-album/safe-distancing-at-markets_page_2.png?MaxWidth=200&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments "Safe Distancing at Markets_Page_2")
+![](/images/safe-distancing-at-markets-image-1.png?MaxWidth=200&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments "Safe Distancing at Markets_Page_1")  
 
 Signalling Safe Distancing
 
-![Image](https://www.mse.gov.sg/images/default-source/default-album/friendly-ways-to-signal-safe-distancing-(steps).png?)
+![Image](/images/safe-distancing-image-2.jpg)  
