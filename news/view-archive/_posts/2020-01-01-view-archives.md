@@ -1,6 +1,6 @@
 ---
 title: View news archive
-permalink: /archives
+permalink: https://www.mse.gov.sg/archives
 image: 
 file_url:
 description: 
