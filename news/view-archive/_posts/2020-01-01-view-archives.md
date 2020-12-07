@@ -1,7 +1,9 @@
-<!-- ---
-title: View news archive online at National Archives of Singapore
-permalink: https://www.nas.gov.sg/archivesonline/
+---
+title: View news archive
+permalink: /archives
 image: 
 file_url:
 description: 
---- -->
+---
+
+<!-- permalink: https://www.nas.gov.sg/archivesonline/ -->
