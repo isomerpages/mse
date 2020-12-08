@@ -99,7 +99,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
     <div class="card">
-        <a href="/resources/key-environmental-statistics.pdf">
+        <a href="/resources/key-environmental-statistics.pdf" target="_blank">  
             <div class="card-content">
             <h5>Key Environmental Statistics 2020</h5>
             </div>
@@ -107,7 +107,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="/resources/zero-waste-masterplan.pdf">
+        <a href="/resources/zero-waste-masterplan.pdf" target="_blank">  
             <div class="card-content">
             <h5>Zero Waste Masterplan</h5>
             </div>
@@ -116,7 +116,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="/resources/climate-action-plan.pdf">
+        <a href="/resources/climate-action-plan.pdf" target="_blank">  
             <div class="card-content">
                 <h5> Climate Action Plan (Mitigation) </h5>
             </div>
@@ -124,7 +124,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.nccs.gov.sg/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf">
+        <a href="https://www.nccs.gov.sg/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf" target="_blank">  
             <div class="card-content">
                 <h5>Climate Action Plan (Adaptation)</h5>
                 <!-- The latest publications of Singapore’s Climate Action Plan provides an update and summary of Singapore’s mitigation and adaptation plans. It sets out how Singapore intends to reduce greenhouse gas emissions and increase our energy efficiency to meet our 2030 climate pledge, and how Singapore may be affected by climate change and our strategy to prepare for them. -->
@@ -133,7 +133,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="/resources/ssb.pdf">
+        <a href="/resources/ssb.pdf" target="_blank">  
             <div class="card-content">
                 <h5>Sustainable Singapore Blueprint</h5>
             </div>
@@ -141,7 +141,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.towardszerowaste.gov.sg/resources/">
+        <a href="https://www.towardszerowaste.gov.sg/resources/" target="_blank">  
             <div class="card-content">
                 <h5>Towards Zero Waste (Infographics, Videos)</h5>
             </div>
@@ -149,7 +149,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.mse.gov.sg/docs/default-source/default-document-library/faq/guide-to-implementing-environmentally-friendly-best-practices-for-events.pdf">
+        <a href="https://www.mse.gov.sg/docs/default-source/default-document-library/faq/guide-to-implementing-environmentally-friendly-best-practices-for-events.pdf" target="_blank">  
             <div class="card-content">
                 <h5>Guide for Environmentally-Friendly Events</h5>
             </div>
@@ -157,7 +157,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.nea.gov.sg/corporate-functions/resources/educational-materials/posters">
+        <a href="https://www.nea.gov.sg/corporate-functions/resources/educational-materials/posters" target="_blank">  
             <div class="card-content">
                 <h5>NEA Educational Materials on the Environment</h5>
             </div>
@@ -166,7 +166,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.pub.gov.sg/getinvolved/schools/resources/">
+        <a href="https://www.pub.gov.sg/getinvolved/schools/resources/" target="_blank">  
             <div class="card-content">
                 <h5>PUB Resources for Schools</h5>
             </div>
@@ -174,7 +174,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.sfa.gov.sg/tools-and-resources">
+        <a href="https://www.sfa.gov.sg/tools-and-resources" target="_blank">  
             <div class="card-content">
                 <h5>SFA Resources & Tools</h5>
             </div>
@@ -182,7 +182,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.cgs.gov.sg/resources">
+        <a href="https://www.cgs.gov.sg/resources" target="_blank">  
             <div class="card-content">
                 <h5>Clean & Green Singapore</h5>
             </div>
@@ -191,7 +191,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.nea.gov.sg/corporate-functions/resources">
+        <a href="https://www.nea.gov.sg/corporate-functions/resources" target="_blank">  
             <div class="card-content">
                 <h5>NEA Resources</h5>
             </div>
@@ -200,7 +200,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling">
+        <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling" target="_blank">  
             <div class="card-content">
                 <h5>3R Guidebooks</h5>
             </div>
@@ -209,7 +209,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://data.gov.sg/">
+        <a href="https://data.gov.sg/" target="_blank">  
             <div class="card-content">
                 <h5>Statistics from Data.gov.sg</h5>
             </div>
