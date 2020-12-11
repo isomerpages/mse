@@ -1,5 +1,5 @@
 ---  
-title: The Ministry of Sustainability and the Environment Year-End Appreciation Event - Ms Grace Fu  
+title: Speech by Ms Grace Fu, Minister for Sustainability and the Environment at The Ministry of Sustainability and the Environment Year-End Appreciation Event - Ms Grace Fu  
 permalink: /resource-room/category/2020-11-25-speech-at-the-ministry-of-sustainability-and-the-environment-year-end-appreciation-event/  
 image:  
 file_url:  
