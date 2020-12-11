@@ -1,5 +1,5 @@
 ---  
-title: Joint Paper on Enhancing Environmental Cooperation in the Post-COVID 19 Era - 2020-2022 Work Plan for the Memorandum of Understanding on Environmental Cooperation Between the Ministry of Sustainability and the Environment of the Republic of Singapore and the Ministry of Ecology and Environment of the People’s Republic of China  
+title: Joint Paper on Enhancing Environmental Cooperation in the Post-COVID 19 Era  
 permalink: /resource-room/category/2020-12-08-joint-paper-on-enhancing-environmental-cooperation-in-the-post-covid-19-era/  
 image:  
 file_url:  
