@@ -51,38 +51,7 @@ input:checked + label + .accordion-content {
 
 <h1><b>Our Food Policy</b></h1>
 
-<h2 id="food-safety">Food Safety</h2>
-<div>
-	<input type="checkbox" id="title1"  /><label for="title1">Safe Food For All</label>
-	<div class="accordion-content">
-		<p>As the national agency for food safety, SFA has in place an integrated food safety system from farm-to-fork to ensure that food sold in Singapore is safe for consumption. SFA adopts a science-based risk assessment and management approach to food safety, and sets food safety standards that are aligned  with international standards. SFA has put in place regulatory levers along the food supply chain like licensing, inspection, sampling, testing and enforcement.</p>
-		<ul>
-			<li><p>Overseas Imports – Food importers are licensed by SFA, and are required to apply for import permits for each consignment of food imported into Singapore. For high-risk food items like livestock, meat and egg items that can carry diseases that can be transmitted to people, SFA conducts accreditation at source to ensure that the imports meet food safety and animal health import requirements.</p>
-			</li>
-			<li><p>Local farms and food establishments – SFA licenses farms and food establishments in Singapore, including slaughterhouses, food processing/manufacturing establishments, as well as various food retail establishments such as hawker and market stalls, coffeeshops, food courts, food caterers, canteens, supermarkets, mobile food wagons, cafes, and restaurants. Inspections are carried out to ensure that these establishments comply with licensing conditions and regulatory requirements.</p>
-			</li>
-		</ul>
-		<p>In the event of food safety incidents, there are response mechanisms in place to manage them too (e.g. food recalls, foodborne outbreak investigation).</p>
-	</div>
-	<input type="checkbox" id="title2"  /><label for="title2">Food Safety is a Joint Responsibility: Role of Industry and Consumers</label>
-	<div class="accordion-content">
-		<p>As food safety is a joint responsibility, SFA works with the industry and consumers to build their capabilities and educate them on their roles in ensuring food safety. For instance, food handlers in restaurants, hawker stalls and coffee shops must attend and pass the Basic Food Hygiene Course (BFHC) before they are allowed to work.</p>
-		<p>As for consumers, SFA has made available food safety information and tips online to equip consumers with knowledge of food safety risks and good food safety practices. Examples include:</p>
-		<ul>
-			<li><p><a href="go.gov.sg/sfa-food-risk">Risk at a glance</a></p>
-			</li>
-			<li><p><a href="go.gov.sg/food-for-thought">Food for Thought content hub</a></p>
-			</li>
-			<li><p>Food safety educational materials, food alerts and recalls, labelling information:<a href="sfa.gov.sg/food-information"> Food Information</a></p>
-			</li>
-			<li><p>Track records (hygiene grading, number of demerit points and suspension history) of the food establishment:<a href="go.gov.sg/sfa-food-retail-licence"> Food Retail Licence</a></p>
-			</li>
-		</ul>
-		<p>Consumers who come across any errant food operator can play your part by reporting these operators to SFA via the <a href="www.sfa.gov.sg/feedback">online feedback form.</a></p>
-	</div>
-</div>
-
-<a id="food-safety"></a>
+<a id="food-security"></a>
 
 <h2>Food Security</h2>
 <div>
@@ -115,5 +84,36 @@ input:checked + label + .accordion-content {
 			<li><p>Rally support for local produce: As we ramp up local production, we will need the support of consumers to sustain a healthy and vibrant agri-food ecosystem. Local produce is safe, fresher, and lasts longer. Local produce also results in less spoilage, food waste, and a lower carbon footprint, as the produce does not need to travel for long periods of time before reaching the consumer. To make it easier for consumers to identify local produce, SFA has launched an “SG Fresh Produce” logo which can be found on the packaging of local produce in retail shops and supermarkets. By choosing locally produced food, all of us can play a part in enhancing Singapore’s food security.</p>
 			</li>
 		</ul>
+	</div>
+</div>
+
+<h2 id="food-safety">Food Safety</h2>
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">Safe Food For All</label>
+	<div class="accordion-content">
+		<p>As the national agency for food safety, SFA has in place an integrated food safety system from farm-to-fork to ensure that food sold in Singapore is safe for consumption. SFA adopts a science-based risk assessment and management approach to food safety, and sets food safety standards that are aligned  with international standards. SFA has put in place regulatory levers along the food supply chain like licensing, inspection, sampling, testing and enforcement.</p>
+		<ul>
+			<li><p>Overseas Imports – Food importers are licensed by SFA, and are required to apply for import permits for each consignment of food imported into Singapore. For high-risk food items like livestock, meat and egg items that can carry diseases that can be transmitted to people, SFA conducts accreditation at source to ensure that the imports meet food safety and animal health import requirements.</p>
+			</li>
+			<li><p>Local farms and food establishments – SFA licenses farms and food establishments in Singapore, including slaughterhouses, food processing/manufacturing establishments, as well as various food retail establishments such as hawker and market stalls, coffeeshops, food courts, food caterers, canteens, supermarkets, mobile food wagons, cafes, and restaurants. Inspections are carried out to ensure that these establishments comply with licensing conditions and regulatory requirements.</p>
+			</li>
+		</ul>
+		<p>In the event of food safety incidents, there are response mechanisms in place to manage them too (e.g. food recalls, foodborne outbreak investigation).</p>
+	</div>
+	<input type="checkbox" id="title2"  /><label for="title2">Food Safety is a Joint Responsibility: Role of Industry and Consumers</label>
+	<div class="accordion-content">
+		<p>As food safety is a joint responsibility, SFA works with the industry and consumers to build their capabilities and educate them on their roles in ensuring food safety. For instance, food handlers in restaurants, hawker stalls and coffee shops must attend and pass the Basic Food Hygiene Course (BFHC) before they are allowed to work.</p>
+		<p>As for consumers, SFA has made available food safety information and tips online to equip consumers with knowledge of food safety risks and good food safety practices. Examples include:</p>
+		<ul>
+			<li><p><a href="go.gov.sg/sfa-food-risk">Risk at a glance</a></p>
+			</li>
+			<li><p><a href="go.gov.sg/food-for-thought">Food for Thought content hub</a></p>
+			</li>
+			<li><p>Food safety educational materials, food alerts and recalls, labelling information:<a href="sfa.gov.sg/food-information"> Food Information</a></p>
+			</li>
+			<li><p>Track records (hygiene grading, number of demerit points and suspension history) of the food establishment:<a href="go.gov.sg/sfa-food-retail-licence"> Food Retail Licence</a></p>
+			</li>
+		</ul>
+		<p>Consumers who come across any errant food operator can play your part by reporting these operators to SFA via the <a href="www.sfa.gov.sg/feedback">online feedback form.</a></p>
 	</div>
 </div>
