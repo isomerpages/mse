@@ -1,12 +1,12 @@
 ---  
-title: Climate Action in SG (Jul)  
+title: Climate Action in SG (Jul 2020)  
 permalink: /resource-room/category/2020-08-03-newsletter-climate-action-in-sg-jul/  
 image:  
 file_url:  
 description:  
 ---   
 
-#### Climate Action in SG (Jul)  
+#### Climate Action in SG (Jul 2020)  
 
 The Ministry of the Environment and Water Resources has been renamed the **Ministry of Sustainability and the Environment (MSE).** The renaming of the Ministry reflects the Singapore Government’s emphasis on sustainable development, amidst long-term challenges stemming from climate change and global resource constraints.  
 
