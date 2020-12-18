@@ -1,12 +1,12 @@
 ---  
-title: Climate Action in SG (Aug)  
+title: Climate Action in SG (Aug 2020)  
 permalink: /resource-room/category/2020-09-01-newsletter-climate-action-in-sg-aug/  
 image:  
 file_url:  
 description:  
 ---   
 
-#### Climate Action in SG (Aug)  
+#### Climate Action in SG (Aug 2020)  
 
 **Towards a Sustainable Singapore**  
 
