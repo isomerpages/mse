@@ -1,12 +1,12 @@
 ---  
-title: Climate Action in SG (Sep)  
+title: Climate Action in SG (Sep 2020)  
 permalink: /resource-room/category/2020-10-02-newsletter-climate-action-in-sg-sep/  
 image:  
 file_url:  
 description:  
 ---  
 
-#### Climate Action in SG (Sep)  
+#### Climate Action in SG (Sep 2020)  
 
 **Ensuring Food Security**  
 
