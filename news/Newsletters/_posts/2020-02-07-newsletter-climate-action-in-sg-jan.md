@@ -1,12 +1,12 @@
 ---  
-title: Climate Action in SG (Jan)  
+title: Climate Action in SG (Jan 2020)  
 permalink: /resource-room/category/2020-02-07-newsletter-climate-action-in-sg-jan/    
 image:  
 file_url:  
 description:  
 ---  
 
-#### Climate Action in SG (Jan)  
+#### Climate Action in SG (Jan 2020)  
 
 **Supporting the Multilateral System of Climate Action**  
 
