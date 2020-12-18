@@ -1,12 +1,12 @@
 ---  
-title: Climate Action in SG (Oct)  
+title: Climate Action in SG (Oct 2020)  
 permalink: /resource-room/category/2020-10-30-newsletter-climate-action-in-sg-oct/  
 image:  
 file_url:  
 description:  
 ---  
 
-#### Climate Action in SG (Oct)  
+#### Climate Action in SG (Oct 2020)  
 
 **Creating our low carbon energy future**  
 
