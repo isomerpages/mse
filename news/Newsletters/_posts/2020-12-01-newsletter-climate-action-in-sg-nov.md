@@ -1,12 +1,12 @@
 ---  
-title: Climate Action in SG (Nov)  
+title: Climate Action in SG (Nov 2020)  
 permalink: /resource-room/category/2020-12-01-newsletter-climate-action-in-sg-nov/  
 image:  
 file_url:  
 description:  
 ---  
 
-#### Climate Action in SG (Nov)  
+#### Climate Action in SG (Nov 2020)  
 
 **Encouraging climate-friendly action in households**  
 
