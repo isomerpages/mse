@@ -18,7 +18,7 @@ At the United Nations Climate Action Summit on 23 September 2019, Singapore’s 
 
 Singapore’s Resource Sustainability Bill was passed in Parliament on 4 September 2019, giving legislative effect to upstream regulatory measures targeting priority waste streams. This Bill will enable Singapore to adopt a circular economy approach to waste and resource management, and bring it closer to its aspiration to be a Zero Waste Nation. The reading of the Bill was attended by representatives from the People, Private and Public Sectors.  
 
-**Singapore Strengthens Flood Protection Infrastructure*8  
+**Singapore Strengthens Flood Protection Infrastructure**  
 
 PUB, Singapore’s National Water Agency, completed the drainage improvement works for the Bukit Timah First Diversion Canal in September 2019, a complex S$300 million project spanning seven years and three phases. With the expansion, the Bukit Timah First Diversion Canal is now better equipped to deal with intense rainfall events. This follows the completion of the Stamford Diversion Canal and Stamford Detention Tank last year, which took four years of construction. There are ongoing drainage projects at 66 locations around Singapore currently. These are part of PUB’s holistic “source-pathway-receptor” strategy to improve long-term flood protection.  
 
