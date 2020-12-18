@@ -57,7 +57,10 @@ The Dam Easy Flood Panel (DFP) and Portable Flood Barriers (PFB) are two project
 
 The DFP is a device that’s installed across doorways to prevent floodwaters from entering buildings, while the PFB is deployed on roads and pavements to divert floodwaters away from traffic.  
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FPUBsg%2Fvideos%2F445473769705161%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>  
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="viNjdcHm"></script>  
+
+<div class="fb-video" data-href="https://www.facebook.com/watch/?ref=external&amp;v=445473769705161" data-width="560" data-show-text="false"><blockquote cite="https://developers.facebook.com/PUBsg/videos/445473769705161/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/PUBsg/videos/445473769705161/">Dam Easy Flood Panels &amp; Portable Flood Barriers</a><p>The monsoon season brings about frequent and heavy rainfall. PUB is trying out two new devices to protect residents and roads from potential flash floods. Check them out!</p>Posted by <a href="https://www.facebook.com/PUBsg/">PUB, Singapore&#039;s National Water Agency</a> on Tuesday, December 10, 2019</blockquote></div>  
 
 **Boosting scientific knowledge**  
 
