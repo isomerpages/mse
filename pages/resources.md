@@ -149,7 +149,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.mse.gov.sg/docs/default-source/default-document-library/faq/guide-to-implementing-environmentally-friendly-best-practices-for-events.pdf" target="_blank">  
+        <a href="/resources/environmentally-friendly-events-guidelines.pdf" target="_blank">  
             <div class="card-content">
                 <h5>Guide for Environmentally-Friendly Events</h5>
             </div>
