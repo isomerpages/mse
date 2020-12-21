@@ -29,7 +29,7 @@ The Minister may then consider and determine the appeal or establish an Appeal P
 
 **To submit an appeal, download, complete, and file a**  [**Notice of Appeal**](https://www.mse.gov.sg/resources/CPA-NOA-template-(110820).docx)  **according to the instructions in the document.**
 
-For more details, please refer to this [guide](resources/Guide-on-how-to-appeal-under-the-Carbon-Pricing-Act-(110820).pdf) and the [Frequently Asked Questions.](resources/FAQs-on-How-to-Appeal-Under-the-Carbon-Pricing-Act-(110820).pdf)
+For more details, please refer to this [guide](https://www.mse.gov.sg/resources/Guide-on-how-to-appeal-under-the-Carbon-Pricing-Act-(110820).pdf) and the [Frequently Asked Questions.](https://www.mse.gov.sg/resources/FAQs-on-How-to-Appeal-Under-the-Carbon-Pricing-Act-(110820).pdf)
 
 **Resources &amp; Contact**
 

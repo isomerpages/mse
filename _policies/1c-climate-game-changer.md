@@ -1,7 +1,9 @@
 ---  
-title: Climate Game Changer  
-permalink: /climategamechanger/  
+title: Climate Game Changer
+permalink: /policies/climate-change/climategamechanger
+third_nav_title: Climate Change
 ---  
+
 <style>
 
 input {
@@ -47,17 +49,22 @@ input:checked + label + .accordion-content {
 </style>
 <!-- End of accordion -->
 
+<h2>Climate Game Changer</h2>
+
+
 <div class="bp-youtube">  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k_rq9hxDD7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 </div>  
+<br>
 
 <div class="bp-youtube">  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9phY-yDreOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 </div>  
+<br>
 
 <div class="container">
 
