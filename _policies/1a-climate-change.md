@@ -1,7 +1,9 @@
 ---  
 title: Climate Change
 permalink: /policies/climate-change
+third_nav_title: Climate Change
 ---  
+
 
 <style>
 
