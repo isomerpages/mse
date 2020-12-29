@@ -14,7 +14,7 @@ description:
 
 a. On 3 October, nine customers were seated across two tables and intermingling in a private room at Tong Xin Ru Yi Traditional Hotpot at 6 Lorong Telok, Singapore 049019, at 9.15pm. The Urban Redevelopment Authority (URA) issued an order requiring the operator to close the premises for a period of 10 days from 6 October to 15 October 2020 (both dates inclusive).  
 
-b. On 3 October 2020, several customers were found consuming alcohol at 11.40pm at the Invincible Noodle House at 13 Circular Road, Singapore 049369. The URA issued an order requiring the operator to close the premises for a period of 10 days from 3 October to 12 October 2020 (both dates inclusive).  
+b. On 2 October 2020, several customers were found consuming alcohol at 11.40pm at the Invincible Noodle House at 13 Circular Road, Singapore 049369. The URA issued an order requiring the operator to close the premises for a period of 10 days from 3 October to 12 October 2020 (both dates inclusive).  
 
 3	Another 13 F&B outlets have been fined for breaching SMMs since 25 September 2020. The breaches included admitting and seating groups of more than five from different households together, allowing groups to intermingle between tables, seating groups of customers less than 1 metre apart, and not ensuring that food handlers wear their masks properly. Twelve of the outlets were fined $1,000 for breaching the measures and one outlet was fined $2,000 for repeat offences. The outlets are listed in the Annex.  
 
@@ -54,10 +54,10 @@ On 3 October 2020, nine customers were seated across two tables and interminglin
 
 (Photo Credit: Urban Redevelopment Authority)  
 
-On 3 October 2020, several customers were found consuming alcohol at 11.40pm at the Invincible Noodle House.  
+On 2 October 2020, several customers were found consuming alcohol at 11.40pm at the Invincible Noodle House.  
 
-![](/news/news-images/press-release-2020-10-06-image-2.jpg)  
+![](/news/news-images/press-release-2020-10-06-image-2.png)  
 
-![](/news/news-images/press-release-2020-10-06-image-3.jpg)  
+![](/news/news-images/press-release-2020-10-06-image-3.png)  
 
 (Photo Credit: Urban Redevelopment Authority)  
