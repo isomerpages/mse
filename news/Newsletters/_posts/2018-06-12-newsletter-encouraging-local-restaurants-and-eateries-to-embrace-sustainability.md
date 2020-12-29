@@ -10,8 +10,6 @@ description:
 
 While restaurants and eateries in Singapore may dish out a wide variety of delicious food, they still lag behind at doing it sustainably. Menus with a high carbon footprint, food wastage, excessive use of plastic disposables, and poor waste segregation are just some of the factors that stand between them and sustainability.  
 
-<img src="https://i0.wp.com/climategamechanger.sg/wp-content/uploads/2018/05/makansg.jpg?w=466&ssl=1" alt="Makan Sg">  
-
 Concerns over the impact of the F&B industry in Singapore and the consumption habits of the general public have led to four local non-profits joining hands to encourage change through their project, **‘Makan SG’.**  
 
 **Launch of Makan SG**  
