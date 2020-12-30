@@ -149,7 +149,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/food-security">
+        <a href="/policies/food/">
                 <img src="/images/food-security.svg">
             <div class="card-content">
                 <h6>Food Security</h6>
