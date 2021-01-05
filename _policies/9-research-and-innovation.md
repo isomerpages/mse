@@ -1,5 +1,5 @@
 ---
-title: Food
+title: Research & Innovation
 permalink: /policies/research-and-innovation/
 ---  
 <style>
