@@ -227,21 +227,7 @@ input:checked + label + .accordion-content {
 		<p>The Green Mark Scheme is the Building and Construction Authority’s (BCA) green building rating system, tailored for the tropics and sub-tropics. It evaluates and sets benchmarks for environmental sustainability in buildings. To enhance current efforts to green existing buildings, BCA and Singapore Green Building Council (SGBC) have collaborated to develop the Zero Capital Partnership scheme, which provides a “zero capital” solution for building owners to carry out energy efficiency retrofits for buildings. These efforts will contribute to Singapore’s aim of making 80% of all buildings green by 2030.</p>
 	</div>
 	<div>
-	<input type="checkbox" id="title6"  /><label for="title6">Let's Game Change Food Security</label>
-	<div class="accordion-content">
-		<p>Food security is a matter of national security.</p>
-		<p>Given that we import over 90% of our food, Singapore is vulnerable to volatilities in the global food market and disruptions in our food supplies.</p>
-		<p>This vulnerability will become more acute in time, as global crop yields are estimated to decline by up to 25% by 2050 due to climate change impacts such as rising temperatures and extreme weather conditions such as floods or droughts.</p>
-		<p>More so than ever, we have to rise up and change the game.</p>
-		<h4>Climate change and food security</h4>
-		<p>While the Global Food Security Index assessed Singapore as one of the most food secure countries in the world, climate change requires us to act early; climate change requires us to game change food security.</p>
-		<h4>Our 3 Food Baskets – our game plan for food security</h4>
-		<p>Just as we have four National Taps for our water supply, we have 3 food baskets to build up our food security.</p>
-		<h4>Enhancing Food Security: 30-by-30 Vision</h4>
-		<p>Our vision is to develop the capability and capacity of our agri-food industry to produce 30% of Singapore’s nutritional needs locally by 2030 (i.e., 30-by-30).</p>
-		<p>This will require the industry to transform, be highly productive and employ climate-resilient and sustainable technologies to grow more food with less resources.</p>
-	</div>
-</div>
+
 
 <h3>Take Action</h3>
 <div>
