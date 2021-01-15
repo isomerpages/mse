@@ -17,10 +17,10 @@ links:
     collection: take-action
   - title: Resources
     url: /resources
-    # sublinks:
-    #   - title: Resources
-    #     url: /resources
-    #   - title: Other Publications
-    #   url: /other-publications
+    sublinks:
+      - title: Resources
+        url: /resources
+      - title: Research & Innovation
+        url: /research-and-innovation
   - title: About Us
     collection: about-us
