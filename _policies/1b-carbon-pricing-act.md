@@ -27,9 +27,9 @@ In accordance with the CPA, the following decisions may be appealed against:
 
 The Minister may then consider and determine the appeal or establish an Appeal Panel to do so.
 
-**To submit an appeal, download, complete, and file a**  [**Notice of Appeal**](https://www.mse.gov.sg/resources/CPA-NOA-template-(110820).docx)  **according to the instructions in the document.**
+**To submit an appeal, download, complete, and file a**  [**Notice of Appeal**](/resources/CPA-NOA-template-updated-per-email-2021-01-05.pdf)  **according to the instructions in the document.**
 
-For more details, please refer to this [guide](https://www.mse.gov.sg/resources/Guide-on-how-to-appeal-under-the-Carbon-Pricing-Act-(110820).pdf) and the [Frequently Asked Questions.](https://www.mse.gov.sg/resources/FAQs-on-How-to-Appeal-Under-the-Carbon-Pricing-Act-(110820).pdf)
+For more details, please refer to this [guide](/resources/Guide-on-how-to-appeal-under-the-Carbon-Pricing-Act-updated-per-email-2021-01-05.pdf) and the [Frequently Asked Questions.](https://www.mse.gov.sg/resources/FAQs-on-How-to-Appeal-Under-the-Carbon-Pricing-Act-(110820).pdf)
 
 **Resources &amp; Contact**
 
@@ -43,4 +43,4 @@ For more details, please refer to this [guide](https://www.mse.gov.sg/resources/
 
 Carbon Pricing Appeals Secretary
 
-[CPA@mewr.gov.sg](mailto:CPA@mewr.gov.sg)
+[CPA@mse.gov.sg](mailto:CPA@mse.gov.sg)
