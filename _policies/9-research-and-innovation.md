@@ -78,7 +78,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title4"  /><label for="title4">R&D Programmes</label>
 	<div class="accordion-content">
 		<p>Towards our mission to supply good water, reclaim used water and tame stormwater, PUB lends its support to various water-related research and development in the region and globally. PUB’s <a href="https://www.pub.gov.sg/research/">research and development activities</a> not only encourage new ideas and technology but also position Singapore as one of the world leaders in water resource research and management strategies.</p>
-		<p>The <a href="https://pubweb-uat.pub.gov.sg/globalhydrohub/funding/crpwater">Competitive Funding for Water Research</a> is a funding scheme that funds basic/applied R&D projects that possess potential in developing innovative and novel solutions for the water industry. It is part of Singapore’s Research, Innovation, and Enterprise (RIE) Plan.</p>
+		<p>The <a href="https://www.pub.gov.sg/globalhydrohub/funding/cwr">Competitive Funding for Water Research</a> is a funding scheme that funds basic/applied R&D projects that possess potential in developing innovative and novel solutions for the water industry. It is part of Singapore’s Research, Innovation, and Enterprise (RIE) Plan.</p>
 	</div>
 	<input type="checkbox" id="title5"  /><label for="title5">Industry Support Schemes</label>
 	<div class="accordion-content">
@@ -97,7 +97,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title7"  /><label for="title7">R&D Programmes</label>
 	<div class="accordion-content">
 		<p>The Climate Science Research Programme Office (CSRPO), under the Centre for Climate Research Singapore (CCRS), has launched the <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/national-sea-level-programme">National Sea Level Programme (NSLP)</a>. The NSLP aims to coordinate relevant climate research in Singapore and address key knowledge gaps in the understanding and modelling of the physical mechanisms of sea level rise and variability, with specific focus on Singapore and the wider South East Asia region.</p>
-		<p>Through <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/centre-for-climate-research-singapore-local-research-collaborations">Local Research Collaborations</a> and <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/centre-for-climate-research-singapore-international-research-collaborations">International Research Collaborations</a>, partnerships are established to develop a deeper understanding of weather and climate processes and to enhance weather prediction and climate science  capabilities in the region.</p>
+		<p>Through <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/centre-for-climate-research-singapore-local-research-collaborations">Local Research Collaborations</a> and <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/centre-for-climate-research-singapore-international-research-collaborations">International Research Collaborations</a>, partnerships are established to develop a deeper understanding of weather and climate processes and to enhance weather prediction and climate science capabilities in the region.</p>
 	</div>
 </div>
 
