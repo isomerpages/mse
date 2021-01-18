@@ -156,7 +156,8 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
-    <div class="card">
+    <!--
+<div class="card">
         <a href="/research-and-innovation/">
                 <img src="/images/research-innovation.svg">
             <div class="card-content">
