@@ -179,7 +179,7 @@ input:checked + label + .accordion-content {
 		<p><em>Incineration Plants Cost Us Space And Money</em></p>
 		<p>Incineration plants are very expensive to build and operate. They also take up large areas of land. We cannot keep building more incineration plants indefinitely.</p>
 		<p><em>Pollutants During Incineration</em></p>
-		<p>Pollutants, such as NOx, SO2, dioxin and particulate matter, are produced in the process of incineration and they affect our air quality.</p>
+		<p>Pollutants, such as NOx, SO<sub>2</sub>, dioxin and particulate matter, are produced in the process of incineration and they affect our air quality.</p>
 	</div>
 	<input type="checkbox" id="title16"  /><label for="title16">Our Efforts: Improving Processes And Exploring New Uses</label>
 	<div class="accordion-content">
