@@ -9,6 +9,7 @@ description:
 #### Intervention by Ms Grace Fu, Minister for Sustainability and the Environment, at the First Day of the Inaugural Meeting of the Global Leaders Group on Antimicrobial Resistance on 26 January 2021  
 
 Chairperson
+
 Excellencies
 
 1 Warm greetings from Singapore. It gives me great pleasure to join you all at the inaugural meeting of the Global Leaders Group on Antimicrobial Resistance. My name is Grace Fu, and I am Singapore&#39;s Minister for Sustainability and the Environment, overseeing the issues of sustainability, food security and environmental public health.
