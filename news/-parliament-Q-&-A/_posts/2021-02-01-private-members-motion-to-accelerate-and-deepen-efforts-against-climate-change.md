@@ -102,7 +102,7 @@ description:
  
 43	We will announce more details in the coming weeks. DPM will speak about our sustainability agenda during the Budget debates. The Government has every intent, as the Motion states, to partner the private sector and the people of Singapore, to deepen and accelerate efforts to mitigate and adapt to climate change, and to embrace sustainability in the development of Singapore.
 
-####JOINTLY CONTINUING THE SUSTAINABILITY JOURNEY 
+#### JOINTLY CONTINUING THE SUSTAINABILITY JOURNEY 
 
 44	Sustainability is a journey, not a destination. Our work to achieve sustainable development is never done. Our Singapore Green Plan will be a ‘living’ document. We will adapt our plans, ambitions and policies over time. Circumstances will change, new opportunities will emerge, and new ideas and initiatives will present themselves as we work with our citizens, businesses and communities. 
 
