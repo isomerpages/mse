@@ -14,7 +14,7 @@ description:
 
 3	With climate change looming, we will, and we must, continue to pursue this path of sustainable development. At the 2019 National Day Rally, Prime Minister Lee outlined the Government’s commitment to understand, mitigate and adapt to climate change. Across the Government, we have charted out specific strategies to support our sustainability drive in the various sectors. Our inaugural Zero Waste Masterplan strives to transform Singapore into a Zero Waste Nation powered by a circular economy. Our Energy Story aspires to transform Singapore into a bright green spark for the world. We are on track to transform Singapore into a City in Nature. These are just some examples of ongoing efforts to energise all sectors to make climate change and sustainability core considerations. The Government’s commitment is underscored by our decision to rename my Ministry to include “Sustainability”.   
 
-###### RESPONDING TO INHERENT CHALLENGES: OUR SUSTAINABLE DEVELOPMENT EFFORTS HAVE BEEN HOLISTIC AND INCLUSIVE 
+##### RESPONDING TO INHERENT CHALLENGES: OUR SUSTAINABLE DEVELOPMENT EFFORTS HAVE BEEN HOLISTIC AND INCLUSIVE 
 
 4	We have been able to come this far by safeguarding not just the environment, but also ensuring economic growth and social inclusion; and galvanising Singaporeans to build a fair and just society, of hope and opportunity, that is sustainable, inclusive and resilient. 
 
@@ -32,7 +32,7 @@ description:
 
 11	The E&C sector will play a key role in the global transition to a low-carbon future. For example, the chemicals industry provides silver paste, high performance plastic films and membranes that go into photovoltaic cells and batteries for electric vehicles. Members may be aware that Neste, the largest renewable diesel and sustainable aviation fuel producer worldwide, will be operating its largest renewables refinery in Singapore. Neste opened the first phase of its plant in 2010, and will be doubling its refining capacity to about 2.6 million tons of renewable fuels per annum. The E&C sector is also a key partner in the development of emerging low-carbon technologies, such as carbon capture, utilisation, and storage. These technologies can be pivotal in enabling decarbonisation at scale. Singapore will benefit from anchoring industry players here.
 
-###### TAKING DECISIVE ACTION ON CLIMATE MITIGATION AND ADAPTATION
+##### TAKING DECISIVE ACTION ON CLIMATE MITIGATION AND ADAPTATION
 
 12	We face inherent challenges as a nation, yet we have always tackled them squarely, turning challenges into opportunities. This continues to hold true, as we apply the same determination to tackling climate change.  
 
@@ -68,7 +68,7 @@ description:
 
 28	Our plans will include a combination of measures, including nature-based solutions, as Professor Koh Lian Pin had mentioned. The benefits to such solutions are multi-fold: conserving our biodiversity, and creating new recreational space for the community to enhance our living environment. Importantly, as Ms Nadia Samdin had mentioned, these solutions will also contribute to mitigating climate change. This is an exciting, growing area that we will study closely and work in partnership with our researchers, as well as international counterparts. 
 
-###### OPPORTUNITIES TO FURTHER EMBRACE SUSTAINABILITY IN SINGAPORE’S DEVELOPMENT 
+##### OPPORTUNITIES TO FURTHER EMBRACE SUSTAINABILITY IN SINGAPORE’S DEVELOPMENT 
 
 29	While we have been taking serious steps through our Climate Action Plan, there is much more we can do together in the coming years. Not only will this allow us to cope with our challenges, it will provide new opportunities to test-bed and commercialise new solutions in Singapore, which may be relevant for other cities and countries facing similar challenges. 
 
@@ -92,7 +92,7 @@ description:
 
 39	We have heard similar hopes and aspirations, and more, at our Emerging Stronger Conversations, which many of us have been involved in, and other platforms. These are areas of priority to the Government. The Government has heard many suggestions and are actively incorporating these suggestions into our plans. While building on many of our past policies and programmes, we can do more to pull these different strands and efforts together, culminating in a common, united vision. 
 
-###### THE SINGAPORE GREEN PLAN 2030   
+##### THE SINGAPORE GREEN PLAN 2030   
 
 40	This motion is therefore timely. Over the last few months, the Government has been making preparations to launch a whole-of-nation movement to advance the sustainability agenda in Singapore. We call this the Singapore Green Plan 2030 or in short, the Green Plan. This is a multi-Ministry effort, and will be a major policy priority for this Government.  
 
@@ -102,7 +102,7 @@ description:
  
 43	We will announce more details in the coming weeks. DPM will speak about our sustainability agenda during the Budget debates. The Government has every intent, as the Motion states, to partner the private sector and the people of Singapore, to deepen and accelerate efforts to mitigate and adapt to climate change, and to embrace sustainability in the development of Singapore.
 
-###### JOINTLY CONTINUING THE SUSTAINABILITY JOURNEY 
+##### JOINTLY CONTINUING THE SUSTAINABILITY JOURNEY 
 
 44	Sustainability is a journey, not a destination. Our work to achieve sustainable development is never done. Our Singapore Green Plan will be a ‘living’ document. We will adapt our plans, ambitions and policies over time. Circumstances will change, new opportunities will emerge, and new ideas and initiatives will present themselves as we work with our citizens, businesses and communities. 
 
