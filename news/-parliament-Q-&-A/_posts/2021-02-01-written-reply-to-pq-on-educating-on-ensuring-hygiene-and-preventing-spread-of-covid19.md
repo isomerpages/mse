@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Written Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on on Educating on Ensuring Hygiene and Preventing Spread of COVID-19
+#### Written Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on Educating on Ensuring Hygiene and Preventing Spread of COVID-19
 
 **Mr Christopher de Souza:** To ask the Minister for Sustainability and the Environment what is being done to educate food stall owners and customers on the precautions that can be taken to ensure hygiene and prevent the spread of COVID-19 while still allowing customers to bring their own reusable containers.
 
