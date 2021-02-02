@@ -1,5 +1,5 @@
 ---  
-title: Speech By Ms Grace Fu, Minister For Sustainability and the Environment, on Private Member’s Motion To Accelerate And Deepen Efforts Against Climate Change, on 1 February 2021 
+title: Speech on Private Member’s Motion To Accelerate And Deepen Efforts Against Climate Change
 permalink: /resource-room/category/2021-02-01-private-members-motion-to-accelerate-and-deepen-efforts-against-climate-change/  
 image:  
 file_url:  
