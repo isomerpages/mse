@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Long-term Plans for Hawker Culture by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2021-02-01-written-reply-to-pq-on-electrifying-waste-collection-fleets/
+permalink: /resource-room/category/2021-02-01-written-reply-to-pq-on-long-term-plans-for-hawker-culture/
 image:  
 file_url:  
 description:  
