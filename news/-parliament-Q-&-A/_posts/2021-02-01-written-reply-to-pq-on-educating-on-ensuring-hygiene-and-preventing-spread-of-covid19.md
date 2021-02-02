@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Educating on Ensuring Hygiene and Preventing Spread of COVID-19 by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2021-02-01-written-reply-to-pq-on-educating-on-ensuring-hygiene-and-preventing-spread-of-covid19.md
+permalink: /resource-room/category/2021-02-01-written-reply-to-pq-on-educating-on-ensuring-hygiene-and-preventing-spread-of-covid19/
 image:  
 file_url:  
 description:  
