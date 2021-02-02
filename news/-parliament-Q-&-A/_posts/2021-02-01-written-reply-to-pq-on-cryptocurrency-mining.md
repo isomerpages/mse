@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Cryptocurrency Mining by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2021-02-01-written-reply-to-pq-on-electrifying-waste-collection-fleets/
+permalink: /resource-room/category/2021-02-01-written-reply-to-pq-on-cryptocurrency-mining/
 image:  
 file_url:  
 description:  
