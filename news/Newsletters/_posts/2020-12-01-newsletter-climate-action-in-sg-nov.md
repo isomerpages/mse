@@ -8,7 +8,7 @@ description:
 
 #### Climate Action in SG (Nov 2020)  
 
-**Encouraging climate-friendly action in households**  
+**Encouraging climate-friendly action in households** 
 
 Singapore celebrated the 30th anniversary of the Clean and Green Singapore movement on 28 November 2020. The movement aims to inspire Singaporeans to care for and protect our environment by adopting a clean, green and sustainable lifestyle. At the event, Deputy Prime Minister Heng Swee Keat announced that eligible households could apply for vouchers to purchase LED lights, energy-efficient refrigerators and water-efficient shower fittings under a S$25 million Climate-Friendly Household package to support households to take climate action.  
 
