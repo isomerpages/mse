@@ -13,12 +13,19 @@ sections:
         subtitle:   <video autoplay muted playsinline loop poster="images/banner.png" id="bannerVideo"><source src="/images/banner-video.mp4" type="video/webm"></video>
 #   <source src="polina.mp4" type="video/mp4"> add another backup video in mp4
     - infobar:
-        title: <h2 style="font-family:'Cabin'"><a id="homehoverlink2" href="/about-us/">We</a> are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
+        title: 
+        # subtitle: What we are doing about climate change?
+        description: <h6 style="font-family:'Cabin'">INTRODUCING<br></h6><a href="https://www.greenplan.gov.sg/"><img src="/images/sgplogo.png"></a><br><a class="button_david" href="https://www.greenplan.gov.sg/">Learn More</a>
+        # button: Learn more
+        # url: https://climategamechanger.sg/
+        alt: Game changing climate change
+    - infobar:
+        title: <h2 style="font-family:'Cabin'">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:  
     - infopic:
         title: <h2 style="font-family:'Cabin'">Climate Action Plan</h2>
         # subtitle: What we are doing about climate change?
-        description: Find out <a id="homehoverlink1" href="https://climategamechanger.sg/">what we are doing</a> to strengthen our climate change resilience and transition to a low-carbon future.
+        description: Find out <a id="homehoverlink1" href="https://www.mse.gov.sg/policies/climate-change/climategamechanger">what we are doing</a> to strengthen our climate change resilience and transition to a low-carbon future.
         # button: Learn more
         # url: https://climategamechanger.sg/
         image: /images/infopic-1.svg
