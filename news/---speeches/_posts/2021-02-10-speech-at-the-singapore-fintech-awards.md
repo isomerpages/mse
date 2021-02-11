@@ -5,7 +5,7 @@ image:
 file_url:  
 description:
 ---
-#### Speech By Minister Grace Fu, Minister For Sustainability And The Environment, At The Singapore Fintech Awards Night On 10 February 2021 At 80rr
+#### Speech By Minister Grace Fu, Minister For Sustainability And The Environment, At The Singapore Fintech Awards Night On 10 February 2021 At 80RR
 
 Mr Chia Hock Lai, President, Singapore Fintech Association,
 
@@ -31,9 +31,7 @@ Ladies and Gentlemen,
 
 **Finance a key enabler for greening economies**
 
-8 Finance is a key enabler for greening economies. It is estimated that US$200 billion per year in green investment will be needed in ASEAN until 2030. As a key financing centre for the region, Singapore is playing an active role in supporting such flows. We are currently ASEAN&#39;s largest green finance market, accounting for close to 50 per cent of cumulative green bond and loan issuances
-# 2
-. Our vision is for Singapore to be a leading centre for Green Finance in Asia and globally.
+8 Finance is a key enabler for greening economies. It is estimated that US$200 billion per year in green investment will be needed in ASEAN until 2030. As a key financing centre for the region, Singapore is playing an active role in supporting such flows. We are currently ASEAN&#39;s largest green finance market, accounting for close to 50 per cent of cumulative green bond and loan issuances. Our vision is for Singapore to be a leading centre for Green Finance in Asia and globally.
 
 9 The Monetary Authority of Singapore (MAS) has been working on enhancing the role finance plays in promoting sustainability, through its Green Finance Action Plan. Under this Action Plan, MAS has put in place Environmental Risk Management Guidelines across the banking, insurance, and asset management sectors, to strengthen the sector&#39;s resilience towards environmental risk. It has developed grant schemes to support the issuance of sustainability-linked loans and bonds for such instruments. These initiatives help corporates of all sizes, including SMEs, access financing, as they invest in green projects and move towards more sustainable business practices. MAS has also launched the Singapore Green Finance Centre to grow research and talent development expertise.
 
