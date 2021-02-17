@@ -1,11 +1,11 @@
 ---
-title: Speech at the Singapore Fintech Awards Night at 80RR by Minister Grace Fu
+title: Singapore Fintech Awards Night at 80RR by Minister Grace Fu
 permalink: /resource-room/category/2021-02-10-speech-at-the-singapore-fintech-awards/  
 image:  
 file_url:  
 description:
 ---
-#### Speech By Minister Grace Fu, Minister For Sustainability And The Environment, At The Singapore Fintech Awards Night On 10 February 2021 At 80RR
+#### Speech at The Singapore Fintech Awards Night on 10 February 2021 at 80RR By Minister Grace Fu, Minister For Sustainability And The Environment
 
 Mr Chia Hock Lai, President, Singapore Fintech Association,
 
