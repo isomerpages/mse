@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, on the Adjournment Motion of Protection Against Secondhand Smoke in Homes  
+### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, on the Adjournment Motion on Protection Against Secondhand Smoke in Homes  
 
 <div class="bp-youtube">  
 
