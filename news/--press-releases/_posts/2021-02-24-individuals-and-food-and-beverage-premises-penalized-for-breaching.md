@@ -1,5 +1,5 @@
 ---  
-title: 234 Individuals and 17 Food and Beverage Premises Penalised for Breaching  
+title: 234 Individuals and 17 Food and Beverage Premises Penalised for Breaching Safe Management Measures
 permalink: /resource-room/category/2021-02-24-individuals-and-food-and-beverage-premises-penalized-for-breaching
 image:  
 file_url:  
