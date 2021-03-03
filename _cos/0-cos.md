@@ -248,7 +248,7 @@ body {
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">RALLYING COLLECTIVE ACTION <br> FOR A CLEANER AND GREENER FUTURE</h2>
   <!-- <p class="description"> Everyone has a part to play in keeping our public spaces clean, and in saving resources as a way of life in Singapore</p> -->
         
-  <a class="card" href="/cos/cleaner-premises">
+  <a class="card" href="/cos/cleaner-public-spaces">
     <div class="front" style="background-image: url(/images/cosclean.jpg);">
       <h3>Cleaner Public Spaces</h3>      
     </div>
