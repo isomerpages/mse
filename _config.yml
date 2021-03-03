@@ -28,6 +28,8 @@ collections:
     output: true
   policies:
     output: true
+  cos:
+    output: true
   # resources:
   #   output: true
 google_analytics: UA-183999332-1

@@ -100,6 +100,30 @@ a[href$=".pdf"]{
   }
 // END OF BUTTON
 
+// START OF BUTTON
+.button_cos {
+  color: #484848 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #F4F0E5;
+  padding: 15px 20px;
+  border: 2px solid #484848;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+  border-radius: 15px;
+  font-weight: bold;
+  text-decoration: none !important;
+  }
+
+.button_cos:hover {
+  color: #ffffff !important;
+  background: #4a96b0 !important;
+  border-color: #4a96b0 !important;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+  }
+// END OF BUTTON
+
 // START OF HOMEPAGE LINK HOVER EFFECTS
 #homehoverlink1, #homehoverlink2, {
   color: inherit;
