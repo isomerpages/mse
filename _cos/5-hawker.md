@@ -1,5 +1,5 @@
 ---
-title: Our Hawker Culture & Industry
+title: Our Hawker Culture
 permalink: /cos/hawker
 ---
 <style>

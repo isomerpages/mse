@@ -1,6 +1,6 @@
 ---
-title: Cleaner premises through collective efforts
-permalink: /cos/cleaner-premises
+title: Cleaner Public Spaces
+permalink: /cos/cleaner-public-spaces
 ---
 <style>
 

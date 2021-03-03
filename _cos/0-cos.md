@@ -84,6 +84,7 @@ body {
   margin: 1rem;
   position: relative;
 }
+
 @media screen and (max-width: 800px) {
   .card {
     width: calc(50% - 2rem);
@@ -316,6 +317,17 @@ body {
       <div>
         <p>We are safeguarding our hawker culture and transforming the industry through new programmes and schemes.</p>
         <button class="button">Learn More</button>
+      </div>
+    </div></a>
+
+  <a class="card" href="/cos/infographics-and-speeches" style="width: calc(100% - 2rem);
+  min-width: calc(100% - 2rem); height: 100px; min-height: 100px;">
+    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
+      <h3>Infographics & Speeches</h3>      
+    </div>
+    <div class="back">
+      <div>
+        <button class="button">Infographics & Speeches</button>
       </div>
     </div></a>
 
