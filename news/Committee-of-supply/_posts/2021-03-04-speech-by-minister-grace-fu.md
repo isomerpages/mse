@@ -8,8 +8,11 @@ description:
 
 **Speech by Ms Grace Fu, Minister for Sustainability and the Environment at MSE&#39;s COS Debates 2021, 4 Mar 2021**
 
-
 **Accelerating Towards a Sustainable, Resource-Efficient and Climate-Resilient Future**
+
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4hSGDVqr7w4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **INTRODUCTION**
 

@@ -10,6 +10,10 @@ description:
 
 **Building back Stronger, Towards a Liveable and Endearing Home**
 
+<div class="bp-youtube">  
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/esUMfxOvsvQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 _Introduction_
 
 1 Chairman, I will now talk about building a liveable and endearing home by safeguarding public health and sustaining our hawker culture.
@@ -32,11 +36,11 @@ _Introduction_
 
 9 For example, on littering, which Mr Lim Biow Chuan raised, we have increased fines, deployed camera surveillance and reviewed the Corrective Work Order (CWO)regime. We can continue stepping up enforcement, including by sending every litterbug for CWO, but this is not sustainable for the long-term.
 
-10 Instead, we will work with three main stakeholder groups to build and sustain a clean Singapore –
+10 Instead, we will work with three main stakeholder groups to build and sustain a clean Singapore:
 
-  a With premises owners to uphold high public health standards;
-  b Dr Amy Khor, Senior Minister of State for Sustainability and the Environment atDr Amy Khor, Senior Minister of State for Sustainability and the Environment atDr Amy Khor, Senior Minister of State for Sustainability and the Environment at With the environmental services industry to transform the sector; and
-  c With individuals to engender greater social responsibility to keep Singapore clean.
+  a. With premises owners to uphold high public health standards;
+  b. With the environmental services industry to transform the sector; and
+  c. With individuals to engender greater social responsibility to keep Singapore clean.
 
 _Raise Public Health Standards with Premises Owners_
 

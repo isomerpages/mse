@@ -115,10 +115,10 @@ body {
 }
 
 .front h2, 
-.front h3 {
+.front h4 {
   background-size: cover;
   padding: 1.4rem;
-  font-size: 2.8rem;
+  font-size: 2.2rem;
   font-weight: 600;
   color: #fff;
   overflow: hidden;
@@ -126,7 +126,7 @@ body {
   font-style: italic;
 }
 
-.front h3 img {
+.front h4 img {
   width: 80%;
   float: left;
   padding-top: 1rem;
@@ -250,7 +250,7 @@ body {
         
   <div class="card">
     <div class="front" style="background-image: url(/images/cosclean.jpg);">
-      <h3>Cleaner Public Spaces</h3>      
+      <h4>Cleaner Public Spaces</h4>      
     </div>
     <div class="back">
       <div>
@@ -262,8 +262,8 @@ body {
     
   <div class="card"> 
     <div class="front" style="background-image: url(/images/cosgreengov.jpg)">
-      <h3>Green Gov.SG
-      <img src="/images/sgplogowhite.png"></h3>
+      <h4>GreenGov.SG
+      <img src="/images/sgplogowhite.png"></h4>
     </div>
     <div class="back">
         <div>
@@ -275,8 +275,8 @@ body {
 
   <div class="card">
     <div class="front" style="background-image: url(/images/coswaste.jpg)">
-      <h3>Towards Zero Waste
-      <img src="/images/sgplogowhite.png"></h3>
+      <h4>Towards Zero Waste
+      <img src="/images/sgplogowhite.png"></h4>
     </div>
     <div class="back">
       <div>
@@ -288,8 +288,8 @@ body {
     
   <div class="card">
     <div class="front" style="background-image: url(/images/coswater.jpg)">
-      <h3>Improving Water Efficiency
-      <img src="/images/sgplogowhite.png"></h3>
+      <h4>Improving Water Efficiency
+      <img src="/images/sgplogowhite.png"></h4>
     </div>
     <div class="back">
       <div>
@@ -301,8 +301,8 @@ body {
 
   <div class="card">
     <div class="front" style="background-image: url(/images/cosclimate.jpg)">
-      <h3>Climate Resilience & Food Security
-      <img src="/images/sgplogowhite.png"></h3>
+      <h4>Climate Resilience & Food Security
+      <img src="/images/sgplogowhite.png"></h4>
     </div>
     <div class="back">
       <div>
@@ -314,7 +314,7 @@ body {
 
   <div class="card">
     <div class="front" style="background-image: url(/images/coshawker.jpg)">
-      <h3>Our Hawker Culture</h3>
+      <h4>Our Hawker Culture</h4>
     </div>
     <div class="back">
       <div>
@@ -327,7 +327,7 @@ body {
   <div class="card" style="width: calc(100% - 2rem);
   min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
     <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
-      <h3>Speeches & Infographics</h3>      
+      <h4>Speeches & Infographics</h4>      
     </div>
     <div class="back">
       <div>
