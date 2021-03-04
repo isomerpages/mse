@@ -248,30 +248,32 @@ body {
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">RALLYING COLLECTIVE ACTION <br> FOR A CLEANER AND GREENER FUTURE</h2>
   <!-- <p class="description"> Everyone has a part to play in keeping our public spaces clean, and in saving resources as a way of life in Singapore</p> -->
         
-  <a class="card" href="/cos/cleaner-public-spaces">
+  <div class="card">
     <div class="front" style="background-image: url(/images/cosclean.jpg);">
       <h3>Cleaner Public Spaces</h3>      
     </div>
     <div class="back">
       <div>
         <p>Our collective efforts to shore up our public health defences will guard us against future threats. </p>
-        <button class="button">Learn More</button>
+        <a href="/cos/cleaner-public-spaces"><button class="button">Learn More</button></a>
       </div>
-    </div></a>
+    </div>
+  </div>
     
-  <a class="card" href="/cos/greengov">
+  <div class="card"> 
     <div class="front" style="background-image: url(/images/cosgreengov.jpg)">
       <h3>Green Gov.SG
       <img src="/images/sgplogowhite.png"></h3>
     </div>
     <div class="back">
-      <div>
-        <p>New and ambitious targets will be set for the public sector as we place sustainability at the core of everything we do.</p>
-        <button class="button">Learn More</button>
+        <div>
+          <p>New and ambitious targets will be set for the public sector as we place sustainability at the core of everything we do.</p>
+          <a href="/cos/greengov"><button class="button">Learn More</button></a>
+        </div>
       </div>
-    </div></a>
+  </div>
 
-  <a class="card" href="/cos/sustainable-living">
+  <div class="card">
     <div class="front" style="background-image: url(/images/coswaste.jpg)">
       <h3>Towards Zero Waste
       <img src="/images/sgplogowhite.png"></h3>
@@ -279,11 +281,12 @@ body {
     <div class="back">
       <div>
         <p>New schemes and frameworks will be put in place to encourage recycling and reduce food waste and e-waste.</p>
-        <button class="button">Learn More</button>
+        <a href="/cos/sustainable-living"><button class="button">Learn More</button></a>
       </div>
-    </div></a>
+    </div>
+  </div>
     
-  <a class="card" href="/cos/water">
+  <div class="card">
     <div class="front" style="background-image: url(/images/coswater.jpg)">
       <h3>Improving Water Efficiency
       <img src="/images/sgplogowhite.png"></h3>
@@ -291,11 +294,12 @@ body {
     <div class="back">
       <div>
         <p>Every drop is precious. We will manage water demand by encouraging the switch to more water-efficient products.</p>
-        <button class="button">Learn More</button>
+        <a href="/cos/water"><button class="button">Learn More</button></a>
       </div>
-    </div></a>
-    
-  <a class="card" href="/cos/resilient-future">
+    </div>
+  </div>
+
+  <div class="card">
     <div class="front" style="background-image: url(/images/cosclimate.jpg)">
       <h3>Climate Resilience & Food Security
       <img src="/images/sgplogowhite.png"></h3>
@@ -303,34 +307,36 @@ body {
     <div class="back">
       <div>
         <p>Mitigating and adapting to climate change will help ensure our resilient future.</p>
-        <button class="button">Learn More</button>
+        <a href="/cos/resilient-future"><button class="button">Learn More</button></a>
       </div>
-    </div></a>
+    </div>
+  </div>
 
-  <a class="card" href="/cos/hawker">
+  <div class="card">
     <div class="front" style="background-image: url(/images/coshawker.jpg)">
       <h3>Our Hawker Culture</h3>
     </div>
     <div class="back">
       <div>
         <p>We are safeguarding our hawker culture and transforming the industry through new programmes and schemes.</p>
-        <button class="button">Learn More</button>
+        <a href="/cos/hawker"><button class="button">Learn More</button></a>
       </div>
-    </div></a>
+    </div>
+  </div>
 
-  <a class="card" href="/cos/speeches-and-infographics" style="width: calc(100% - 2rem);
+  <div class="card" style="width: calc(100% - 2rem);
   min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
     <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
       <h3>Speeches & Infographics</h3>      
     </div>
     <div class="back">
       <div>
-        <button class="button">Speeches & Infographics</button>
+        <a href="/cos/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
       </div>
-    </div></a>
+    </div>
+  </div>
 
 </div>
-
 </div>
 
 
