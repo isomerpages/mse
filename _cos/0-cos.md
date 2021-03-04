@@ -45,7 +45,7 @@ body {
 }
 
 
-.card-content a:hover {
+.card-content a:hover, .card-content a:active {
   color: #000;
 }
 

@@ -2,6 +2,17 @@
 title: Speeches and Infographics
 permalink: /cos/speeches-and-infographics
 ---
+<style>
+
+body {
+  background-color: #F4F0E5;
+}
+
+#main-content > section:nth-child(3) > div > div > div.col.is-1.has-float-btns.is-position-relative.is-hidden-touch {
+      visibility: hidden;
+}
+
+</style>
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap" rel="stylesheet">
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed','Lato', sans-serif;">INFOGRAPHICS</h2>
