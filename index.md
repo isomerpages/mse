@@ -3,6 +3,7 @@ layout: homepage
 title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
 image: /images/thumbnail.png
+notification: <p><a href="/cos/"><b>Click here</b></a> to access MSE Committee of Supply 2021 materials</p>
 permalink: /
 sections:
     - hero:
@@ -16,9 +17,9 @@ sections:
         title: 
         # subtitle: What we are doing about climate change?
         description: <b><h6 style="font-family:'Cabin'">INTRODUCING<br></h6></b><a href="https://www.greenplan.gov.sg/"><img src="/images/sgplogo.png"></a><br><a class="button_sgp30" href="https://www.greenplan.gov.sg/">Learn More</a>
-        # button: Learn more
-        # url: https://climategamechanger.sg/
-        alt: SGP30
+    #     # button: Learn more
+    #     # url: https://climategamechanger.sg/
+    #     alt: SGP30
     - infobar:
         title: <h2 style="font-family:'Cabin'">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:  
