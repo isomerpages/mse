@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: MSE Committee of Supply 2021
 permalink: /cos
 ---
 
@@ -45,7 +45,7 @@ body {
 }
 
 
-.card-content a:hover {
+.card-content a:hover, .card-content a:active {
   color: #000;
 }
 
@@ -145,10 +145,10 @@ body {
   opacity: 0.5;
   z-index: -1;
 }
-.card:hover .front {
+.card:hover .front, .card:active .front, {
   transform: rotateY(180deg);
 }
-.card:nth-child(even):hover .front {
+.card:nth-child(even):hover .front, .card:active .front, {
   transform: rotateY(-180deg);
 }
 
@@ -164,7 +164,7 @@ body {
   box-shadow: 0 0 10px 10px rgba(26, 87, 230, 0.25);
   background-color: rgba(26, 87, 230, 0.25);
 } */
-.card:hover .back {
+.card:hover .back, .card:active .back {
   transform: rotateY(0deg);
 }
 .card:nth-child(even) .back {
@@ -218,7 +218,7 @@ body {
   left: 10px;
   top: 16px;
 }
-.button:hover {
+.button:hover, .button:active {
   transform: translateZ(55px);
   color: #ffffff !important;
   background: #4a96b0;
@@ -226,7 +226,7 @@ body {
   transition: all 0.4s ease 0s;
   text-decoration: none;
 }
-.button:hover:before {
+.button:hover:before, .button:active:before {
   transform: translateZ(-45px);
 }
 .button:active {
@@ -254,7 +254,7 @@ body {
     </div>
     <div class="back">
       <div>
-        <p>Find out about the joint efforts from government, industry, and the public to raise sanitation standards and productivity, enhance jobs in the sector, and keep our living and dining places clean. </p>
+        <p>Our collective efforts to shore up our public health defences will guard us against future threats. </p>
         <button class="button">Learn More</button>
       </div>
     </div></a>
@@ -266,8 +266,7 @@ body {
     </div>
     <div class="back">
       <div>
-        <p>The Public Service will reach peak emissions around 2025, 5 years ahead of national target.</p>
-        <p>Sustainability requirements will be embedded in procurement, education, and other core areas.</p>
+        <p>New and ambitious targets will be set for the public sector as we place sustainability at the core of everything we do.</p>
         <button class="button">Learn More</button>
       </div>
     </div></a>
@@ -279,7 +278,7 @@ body {
     </div>
     <div class="back">
       <div>
-        <p>See how we are accelerating towards zero waste and extending the lifespan of our landfill through new schemes and frameworks on recycling, food waste, & e-waste.</p>
+        <p>New schemes and frameworks will be put in place to encourage recycling and reduce food waste and e-waste.</p>
         <button class="button">Learn More</button>
       </div>
     </div></a>
@@ -291,7 +290,7 @@ body {
     </div>
     <div class="back">
       <div>
-        <p>We are making every drop count by extending the Mandatory Water Efficiency Labelling Scheme (MWELS) and setting minimum standards.</p>
+        <p>Every drop is precious. We will manage water demand by encouraging the switch to more water-efficient products.</p>
         <button class="button">Learn More</button>
       </div>
     </div></a>
@@ -303,8 +302,7 @@ body {
     </div>
     <div class="back">
       <div>
-        <p>We are studying to protect our coastlines, and mitigating the Urhan Heat Island (UHI) effect to keep cool.</p>
-        <p>The Agri-Food Cluster Transformation (ACT) fund will support our local agri-food industry. </p>
+        <p>Mitigating and adapting to climate change will help ensure our resilient future.</p>
         <button class="button">Learn More</button>
       </div>
     </div></a>
@@ -320,14 +318,14 @@ body {
       </div>
     </div></a>
 
-  <a class="card" href="/cos/infographics-and-speeches" style="width: calc(100% - 2rem);
-  min-width: calc(100% - 2rem); height: 100px; min-height: 100px;">
+  <a class="card" href="/cos/speeches-and-infographics" style="width: calc(100% - 2rem);
+  min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
     <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
-      <h3>Infographics & Speeches</h3>      
+      <h3>Speeches & Infographics</h3>      
     </div>
     <div class="back">
       <div>
-        <button class="button">Infographics & Speeches</button>
+        <button class="button">Speeches & Infographics</button>
       </div>
     </div></a>
 
