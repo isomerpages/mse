@@ -8,9 +8,9 @@ description:
 
 **Speech by Mr Desmond Tan, Minister of State for Sustainability and the Environment at MSE&#39;s COS Debates 2021, 4 Mar 2021**
 
-_ **Strengthening Singapore&#39;s Resource Resilience for our Future Generations** _
+**Strengthening Singapore&#39;s Resource Resilience for our Future Generations**
 
-_ **Introduction** _
+**Introduction**
 
 1 Mr Chairman, MSE remains committed in ensuring our water sustainability and supply of safe food for future generations. Let me share how we intend to do so, partnering businesses and Singaporeans.
 
