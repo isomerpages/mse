@@ -297,7 +297,7 @@ _Towards a Zero Waste Nation, together_
 
   b. Disposables have a short lifespan and contribute significantly to our carbon footprint and waste.
 
-  c. Under GreenGov.SG, the public service is considering measures to reduce the use of disposables, and will be announcing more details later in the year.
+  c. Under [GreenGov.SG](https://www.greenplan.gov.sg/key-focus-areas/green-government/), the public service is considering measures to reduce the use of disposables, and will be announcing more details later in the year.
 
 55 Citizens are also actively co-creating solutions with us.
 
