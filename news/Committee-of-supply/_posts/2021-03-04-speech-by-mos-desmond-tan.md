@@ -68,11 +68,11 @@ _30x30 Express Grant &amp; RIE Plans_
 
 21 One successful recipient, Indoor Farm Factory Innovation, or I.F.F.I Pte Ltd is setting up a high-tech indoor vegetable farm with a vertical integration growth system of up to 8 meters in height. I look forward to their vegetables hitting the shelves this year.
 
-22 To produce more with less, we must continue investing in technology. **[Update]** Under the $144 million Singapore Food Story R&amp;D Programme, three Grant Calls on Sustainable Urban Food Production and Future Foods on Alternative Proteins have been launched. Award results will be announced soon.
+22 To produce more with less, we must continue investing in technology. Under the $144 million Singapore Food Story R&amp;D Programme, three Grant Calls on Sustainable Urban Food Production and Future Foods on Alternative Proteins have been launched. Award results will be announced soon.
 
 _Agri-Food Cluster Transformation Fund_
 
-23 SFA has supported existing farms to achieve higher productivity through the Agriculture Productivity Fund (APF) since 2015. **[Update]** As of end-December 2020, $43 million have been committed from the APF to support 118 farms.
+23 SFA has supported existing farms to achieve higher productivity through the Agriculture Productivity Fund (APF) since 2015. As of end-December 2020, $43 million have been committed from the APF to support 118 farms.
 
 24 Homegrown company, Blue Ocean Aquaculture Technology, benefitted from the APF to invest in the Recirculating Aquaculture System technology which enables it to farm fish in an indoor controlled environment and to recycle water within the production loop.
 
@@ -128,7 +128,7 @@ _Promoting Demand for Local Produce_
 
 44 SFA launched the SG Fresh Produce logo in 2020 to facilitate consumers in identifying local produce. A new &quot;Clean &amp; Green&quot; standard for urban farms will be introduced this year, as a mark of assurance that the produce is free from synthetic pesticides and grown in a clean farming environment using resource-efficient and sustainable practices.
 
-45 **[Update]** SFA will pilot two projects recommended by the Citizens&#39; Workgroup, where hospitals feature local produce in new mothers&#39; first meal after delivery, and wet markets make it easier for consumers to identify local produce at the stalls.
+45 SFA will pilot two projects recommended by the Citizens&#39; Workgroup, where hospitals feature local produce in new mothers&#39; first meal after delivery, and wet markets make it easier for consumers to identify local produce at the stalls.
 
 46 While most farms produce for the domestic market, SFA and ESG are also assisting them to secure greater market access overseas.
 
