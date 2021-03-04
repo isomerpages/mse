@@ -20,7 +20,7 @@ body {
 <img src="/cos/resources/Icon_CleanPublicSpaces.svg" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
-Even as we manage the immediate challenges brought about by COVID-19, we must seize the opportunity to **raise cleanliness and hygiene standards** for the long term to shore up our public health defences and guard against future threats. This is in line with our [SG Clean movement](www.sgclean.gov.sg). 
+Even as we manage the immediate challenges brought about by COVID-19, we must seize the opportunity to raise cleanliness and hygiene standards for the long term to shore up our public health defences and guard against future threats. This is in line with our SG Clean movement. 
 
 Following the passing of amendments to the Environmental Public Health Act in Parliament, the National Environmental Agency (NEA) will roll out the new Environmental Sanitation regime from mid-2021, starting with higher-risk premises with high footfall and/or immuno-vulnerable occupants. More than 2,000 premises are expected to implement the regime by end FY2021. NEA will release a Technical Guide with national baseline Environmental Sanitation guidelines, along with sector-specific standards to guide premises owners. The first batch of Environmental Control Coordinators will start their training from March 2021, to support the implementation of Environmental Sanitation programmes at their premises. 
 <a href="/cos/resources/cos-annex-a.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
