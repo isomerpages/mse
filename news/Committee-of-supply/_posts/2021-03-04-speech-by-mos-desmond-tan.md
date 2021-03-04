@@ -106,7 +106,7 @@ _Uplifting the Aquaculture Sector_
 
 36 To ensure that our sea spaces can sustain high-yielding production over the long term, SFA will work with the farms to monitor the impact of aquaculture activities on farming sites and measures to manage the spread of fish diseases.
 
-37 SFA has engaged the industry to understand their concerns and support required. We strive to uplift the sector, build food resilience and generate good jobs for Singaporeans.
+37 SFA has engaged the industry to understand their concerns and support required. We will strive to uplift the sector, build food resilience and generate good jobs for Singaporeans.
 
 _Manpower Development_
 
