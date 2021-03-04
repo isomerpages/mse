@@ -10,7 +10,7 @@ description:
 
 **Accelerating Towards a Sustainable, Resource-Efficient and Climate-Resilient Future**
 
-<div>
+<div class="bp-youtube">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4hSGDVqr7w4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
