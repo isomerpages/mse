@@ -64,7 +64,7 @@ _Flood Resilience_
 
   c. Key projects include the Bukit Timah First Diversion Canal and Stamford Detention Tank.
 
-  d. Over the next five years **,** we will invest another $a.36 billion.
+  d. Over the next five years **,** we will invest another $1.36 billion.
 
   e. Ten projects will commence this year, including drainage works at Seletar North Link and Serangoon Avenue 2 and 3.
 
