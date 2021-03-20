@@ -1,5 +1,5 @@
 ---  
-title: Little India Goes Green - Dr Amy Khor   
+title: Speech at Urban Land Institute Singapore Annual Conference 2021 by Dr Amy Khor
 permalink: /resource-room/category/2021-03-03-speech-at-the-urban-land-institute-singapore-annual-conference-2021-by-sms/
 image:  
 file_url:  

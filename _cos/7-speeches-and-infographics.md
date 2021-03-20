@@ -26,7 +26,7 @@ body {
 
 <img src="/cos/resources/cos-mse-infographic1.png">
 <img src="/cos/resources/cos-mse-infographic2.png">
-
+<a href="/cos/resources/mse-cos-infographics-social.zip">Infographics for Social Media (zip)</a>
 
 <div>
 <center><a class="button_cos" href="/cos/">Back to Overview</a></center>
