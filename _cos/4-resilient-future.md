@@ -27,7 +27,7 @@ We will continue to undertake forward planning to adapt to the challenges posed 
 <img src="/cos/resources/Icon_FoodSecurity.svg" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
-To further safeguard Singapore’s food security, the agri-food sector will receive enhanced funding support to transform and meet our ’30 by 30’ goal. A $60 million Agri-Food Cluster Transformation (ACT) Fund will be established to support the transformation of the sector into one that is highly productive, climate-resilient and resource-efficient. It will better cater to farms of different scales and developmental needs, and replace the Agriculture Productivity Fund. The Fund will be open for application in April 2021. 
+To further safeguard Singapore’s food security, the agri-food sector will receive enhanced funding support to transform and meet our ’30 by 30’ goal. A $60 million Agri-Food Cluster Transformation (ACT) Fund will be established to support the transformation of the sector into one that is highly productive, climate-resilient and resource-efficient. It will better cater to farms of different scales and developmental needs, and replace the Agriculture Productivity Fund. The Fund will be open for application later this year. 
 <a href="/cos/resources/cos-annex-h.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
 
