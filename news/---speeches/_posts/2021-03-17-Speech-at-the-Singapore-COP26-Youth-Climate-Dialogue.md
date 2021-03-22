@@ -9,12 +9,16 @@ description:
 #### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Singapore COP26 Youth Climate Dialogue on 17 March 2021
 
 Her Excellency Kara Owen, British High Commissioner to Singapore
+
 His Excellency Raffaele Langella, Ambassador of Italy to Singapore
+
 Her Excellency Jo Tyndall, New Zealand High Commissioner to Singapore
+
 Speakers and moderators,
+
 Youth Leaders, 
 
-  Good afternoon. I would like to thank the organisers for the opportunity to speak at the Singapore COP-26 Youth Dialogue. This Dialogue is timely as governments prepare for what we hope to be a watershed COP26. We have a history of close partnership with the British High Commission, one of the co-organisers. In 2019, we teamed up to co-organise the Partners for the Environment Forum, which brought together partners to explore ideas and collaborations on environmental issues. We have worked with the New Zealand High Commission closely in capability building, specifically in promoting understanding of climate change commitments under Paris Agreement in the ASEAN community. I also acknowledge the Embassy of Italy for co-creating this opportunity for our local youth leaders to learn more about the multilateral work involved in international negotiations. I am confident that the views of our youths will contribute constructively to the organisation of Youth4Climate Milan in September and COP26 in November. 
+1 Good afternoon. I would like to thank the organisers for the opportunity to speak at the Singapore COP-26 Youth Dialogue. This Dialogue is timely as governments prepare for what we hope to be a watershed COP26. We have a history of close partnership with the British High Commission, one of the co-organisers. In 2019, we teamed up to co-organise the Partners for the Environment Forum, which brought together partners to explore ideas and collaborations on environmental issues. We have worked with the New Zealand High Commission closely in capability building, specifically in promoting understanding of climate change commitments under Paris Agreement in the ASEAN community. I also acknowledge the Embassy of Italy for co-creating this opportunity for our local youth leaders to learn more about the multilateral work involved in international negotiations. I am confident that the views of our youths will contribute constructively to the organisation of Youth4Climate Milan in September and COP26 in November. 
 
 2 Every country must play their part to tackle climate change. Singapore will continue to contribute to international climate action. We have participated actively and constructively in negotiations at the United Nations Climate Change Conference (or UNFCCC COPs). Singapore’s Chief Negotiator for Climate Change, Mr Joseph Teo, will elaborate more on our efforts at the fireside chat later. Let me just say that as a strong advocate for a multilateral, rules-based approach to addressing climate change, we have always worked with other like-minded countries at the UN to push for the best possible multilateral deal on climate change. We were privileged to have played an instrumental facilitator role at crucial moments in the climate negotiations, which culminated with the successful adoption of not only the landmark Paris Agreement in 2015, but also the agreements on the Katowice Climate Package in 2018 and the Chile Madrid Time for Action in 2019. We were glad to be able to make a contribution at these talks.
 
