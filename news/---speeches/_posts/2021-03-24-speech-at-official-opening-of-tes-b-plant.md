@@ -1,5 +1,5 @@
 ---  
-title: Packaging Partnership Programme Conference - Ms Grace Fu  
+title: Official Opening of TES-B Plant - Ms Grace Fu  
 permalink: /resource-room/category/2021-03-24-speech-at-official-opening-of-tes-b-plant
 image:  
 file_url:  
