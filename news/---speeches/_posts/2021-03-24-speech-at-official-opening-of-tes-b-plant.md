@@ -6,7 +6,8 @@ file_url:
 description:  
 ---  
 
-#### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE OFFICIAL OPENING OF TES-B PLANT, ON 24 MARCH 2021
+#### Speech By Ms Grace Fu, Minister For Sustainability And The Environment, At The Packaging Partnership Programme Conference, On 24 March 2021
+
 
 Mr Terence Ng, Executive Chairman, TES
 
@@ -30,7 +31,7 @@ Ladies and Gentlemen,
 
 7 The TES-B plant is a further testament to our 3P (Private, Public and People) partnership approach in implementing our policies and initiatives. The Economic Development Board and the National Environment Agency (or NEA) supported the company in setting up and operating the facility. Representatives from both agencies are present today. TES is also contributing to the research and development of energy storage solutions. Last year, a company from the TES Group, GenPlus, won a research grant from the Energy Market Authority and Enterprise Singapore to develop and test-bed an innovative way to tackle photovoltaic intermittency. In the RIE2025, we hope to bring our national R&amp;D institutions to the enterprises and encourage more companies to co-invest in R&amp;D with us.
 
-8We can do more if we work together. As the Government implements the EPR Framework, we call on more corporate partners to join the National Voluntary Partnership and help build public awareness of recycling, raise the recycling standards in the industry and contribute to the refinement of our Framework. We hope to work with our partners to collect electrical and electronic equipment which are not yet regulated, such as small household appliances.
+8 We can do more if we work together. As the Government implements the EPR Framework, we call on more corporate partners to join the National Voluntary Partnership and help build public awareness of recycling, raise the recycling standards in the industry and contribute to the refinement of our Framework. We hope to work with our partners to collect electrical and electronic equipment which are not yet regulated, such as small household appliances.
 
 **Conclusion**
 
