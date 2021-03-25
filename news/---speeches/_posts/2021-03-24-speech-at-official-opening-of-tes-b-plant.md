@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Speech By Ms Grace Fu, Minister For Sustainability And The Environment, At The Packaging Partnership Programme Conference, On 24 March 2021
+#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Packaging Partnership Programme Conference, on 24 March 2021
 
 
 Mr Terence Ng, Executive Chairman, TES

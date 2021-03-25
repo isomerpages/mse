@@ -5,7 +5,7 @@ image:
 file_url:  
 description:  
 ---  
-#### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE PACKAGING PARTNERSHIP PROGRAMME CONFERENCE, ON 24 MARCH 2021
+#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Packaging Partnership Programme Conference, on 24 March 2021
 
 Mr Douglas Foo, President of the Singapore Manufacturing Federation
 
