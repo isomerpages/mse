@@ -63,7 +63,7 @@ Resilient Future: Moves to protect coastlines, strengthen food security and keep
 
 **Safeguarding our hawker culture and transforming the hawker industry**
 
-16 We will continue with our efforts to uplift our hawker centres, sustain the hawker trade and support our hawkers. NEA will develop a Hawker Centres Transformation Programme (HTP), which aims to make hawker centres cleaner, more productive and more sustainable. The HTP will be applied at upcoming new hawker centres, and hawker centres which will be undergoing redevelopment. NEA will also pilot the Hawkers Succession Scheme in 2021 and form an independent advisory panel to assist in identifying and matching veteran hawkers with suitable aspiring successors. Three new hawker centres will be opened — Bukit Canberra Hawker Centre and Fernvale Hawker Centre &amp; Market in fourth quarter of 2021, and Senja Hawker Centre in early 2022.
+16 We will continue with our efforts to uplift our hawker centres, sustain the hawker trade and support our hawkers. NEA will develop a Hawker Centres Transformation Programme (HTP), which aims to make hawker centres cleaner, more productive and more sustainable. The HTP will be applied at upcoming new hawker centres, and hawker centres which will be undergoing redevelopment. NEA will also pilot the Hawkers Succession Scheme in 2021 and form an independent advisory panel to assist in identifying and matching veteran hawkers with suitable aspiring successors. Three new hawker centres will be opened — Bukit Canberra Hawker Centre and Fernvale Hawker Centre & Market in fourth quarter of 2021, and Senja Hawker Centre in early 2022.
 
 **Everyone has a part to play**
 
