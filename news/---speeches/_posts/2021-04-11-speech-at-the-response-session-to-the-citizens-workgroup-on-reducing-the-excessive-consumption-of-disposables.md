@@ -6,7 +6,7 @@ file_url:
 description:
 ---
 
-####Opening Remarks by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Response Session of the Citizens’ Workgroup on Reducing Excessive Consumption of Disposables   
+#### Opening Remarks by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Response Session of the Citizens’ Workgroup on Reducing Excessive Consumption of Disposables   
 
 1 A very warm welcome to our Citizens' Workgroup participants and partners, both at MSE Hall and the Lifelong Learning Institute, as well as members of the public viewing this on Facebook Live. It is good to see all of you.  
  
