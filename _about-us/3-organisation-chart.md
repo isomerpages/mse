@@ -3,7 +3,7 @@ title: Organisation Chart & Divisions
 permalink: /about-us/organisation-chart/
 ---
 
-<img src="/images/org-chart-july-2020.jpg" alt="org chart">
+<img src="/images/org-chart-april-2021.jpg" alt="org chart">
 
 
 
