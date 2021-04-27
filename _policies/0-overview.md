@@ -170,8 +170,16 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <div class="card-content">
             <h6>Safe Distancing</h6>
         </div><!-- .card-content -->
-    </a>
-</div><!-- .card -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+    <a href="/policies/international-policy">
+            <img src="/images/international-policy.svg">
+        <div class="card-content">
+            <h6>International Policy</h6>
+        </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
 
 </section><!-- .cards -->
 
