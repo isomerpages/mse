@@ -12,7 +12,7 @@ Good evening.
 
 2	Today’s talk centres around the questions of how we can reconcile progress and sustainability and how we can systematically introduce sustainable thinking at all levels of governance without shackling growth. It is in this context that I would like to share the story of a small island city-state. In the late 1960s, this place was covered in mudflats, but her leaders had the audacity to think big – to transform the little island nation with no natural resources into a sustainable, first-world metropolis. This island city-state that has transformed from mudflats to a metropolis in one generation, as you may have guessed, is Singapore.
 
-**Singapore’s Sustainable Development Journey****
+**Singapore’s Sustainable Development Journey**
 
 3	Transforming tiny Singapore was no easy task. When we became independent, we were almost entirely dependent on external sources for basic needs like energy and water. Our pioneer leaders needed to urgently create jobs and housing for our people. Even so, they had at the outset sought to balance economic development with environmental protection and social inclusion. It was recognised early on that this is the only way to ensure long term sustainable development so that Singapore can continue to thrive, well into the future.  
 
