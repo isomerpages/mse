@@ -1,5 +1,5 @@
 ---
-title: Speech at Launch Of The Future Ready Food Safety Hub at NTU
+title: Speech at Launch Of The Future Ready Food Safety Hub at NTU - Ms Grace Fu
 permalink: /resource-room/category/2021-04-27-speech-at-future-ready-food-safety-hub
 image:
 file_url:
