@@ -1,6 +1,6 @@
 ---  
 title: Oral Reply to Parliamentary Question on Disposable Carrier Bag Charge
-permalink: /resource-room/category/2021-02-02-oral-reply-to-pq-on-disposable-carrier-bag-charge/
+permalink: /resource-room/category/2021-05-10-oral-reply-to-pq-on-disposable-carrier-bag-charge/
 image:  
 file_url:  
 description:  
