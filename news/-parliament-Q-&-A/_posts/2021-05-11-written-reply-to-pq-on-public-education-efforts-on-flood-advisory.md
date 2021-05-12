@@ -1,6 +1,6 @@
 ---  
-title: Written Reply to Parliamentary Question on Public Education Efforts on Flood Advisory by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2021-05-11-written-reply-to-pq-on-public-education-efforts-on-flood-advisory/
+title: Written Reply to Parliamentary Question on Flood Advisory by Ms Grace Fu, Minister for Sustainability and the Environment
+permalink: /resource-room/category/2021-05-11-written-reply-to-pq-on-flood-advisory/
 image:  
 file_url:  
 description:  
