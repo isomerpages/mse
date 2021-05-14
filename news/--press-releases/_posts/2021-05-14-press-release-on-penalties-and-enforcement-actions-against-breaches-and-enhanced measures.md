@@ -1,5 +1,5 @@
 title: 30 Premises and 30 Individuals Penalised for Breaching Safe Management Measures; Enhanced Measures for Nightlife Operators which have Pivoted to F&B Industry   
-permalink: /resource-room/category/2021-05-14-press-release-on-penalties-and-enforcement-actions-against-breaches-and-enhanced measures/
+permalink:/resource-room/category/2021-05-14-press-release-on-penalties-and-enforcement-actions-against-breaches-and-enhanced measures
 image:  
 file_url:  
 description:  
