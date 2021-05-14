@@ -81,39 +81,67 @@ j)	**New Udon Thai Food** (5001 Beach Road #01-66B, Golden Mile Complex) had fai
 
 **F&B Outlets Fined for Breaches of Safe Management Measures**
 1) Beau (25 Haji Lane)
+
 2) Blu Kouzina (10 Dempsey Road #01-20)
+
 3) Blueberry Hill Pub & Café (20 Jalan Leban, Sembawang Hills Estate)
+
 4) Bukit Batok 105 Food House (150 Bukit Batok Street 11 #01-246)
+
 5) Central Perk Café (1 Magazine Road #01-01 Central Mall) (second offence)
+
 6) Dempsey Project (9 Dempsey Road #01-12)
+
 7) Derwish Turkish (32 Bussorah Street)
+
 8) Eng’s Char Siew Wantan Mee (430 Upper Changi Road #01-08/09)
+
 9) Great Eater (155 Bukit Batok Street 11 #01-324)
+
 10) Jumbo (11 Dempsey Road #01-16)
+
 11)	La Forketta (9 Dempsey Road #01-09)
+
 12)	Lepak @ Rayz (62 Bussorah Street)
+
 13)	NY Night Market (313 Orchard Road, #01-29, 313@Somerset)
+
 14)	Padi Bussorah (53 Bussorah Street)
+
 15)	Piedra Negra (23 Arab Street) 
+
 16)	Steamov (367/369 Beach Road) (second offence)
+
 17)	The Malayan Council (10 Winstedt Road) (second offence)
+
 18)	Titanium Pub (19 Tanglin Road, #B1-04, Tanglin Shopping Centre)
+
 19)	Two Men Bagel House (17D Lor Liput, Holland Village)
+
 20)	Wine Company (8 Dempsey Hill)
- 
+
 **Annex B**
 
 **F&B outlets caught at least twice for egregious SMM breaches (since October 2020)**
 
 1) MZS Family Karaoke,	21 Cuscaden Road, #B3-00, Ming Arcade
+
 2) Club Peaches, 100 Orchard Road, #1-100, Concorde Shopping Mall 
+
 3) Club One Min, 100 Orchard Road, #2-100, Concorde Shopping Mall
+
 4) Club Mao by Barcode, 291 New Bridge Rd, #03-04, Oriental Plaza
+
 5) The Drinks Emporium, 83 Club Street
+
 6) Hooha Restaurant & Café, 3 South Buona Vista Road, #B1-06/#B1-11/#B1-50, Viva Vista
+
 7) Cheers Up, 2 Havelock Road, #02-09, Havelock 2
+
 8) Alive @Sg Pub, 304 Orchard Road, #03-17/18, Lucky Plaza
+
 9) Destiny Japanese KTV, 5 Koek Road, #04-20/22, Cuppage Plaza
+
 10) Tangmen Restaurant, 150 Orchard Road #01-35, Orchard Plaza
 
 **Annex C**
@@ -127,4 +155,4 @@ j)	**New Udon Thai Food** (5001 Beach Road #01-66B, Golden Mile Complex) had fai
 ![](/news/news-images/14May2.jpg)
 
 3) MZS Family Karaoke at Ming Arcade, 21 Cuscaden Road, was caught for allowing customers to consume alcohol after 10:30pm on 8 May 2021. The outlet was closed for 20 days. MZS Family Karaoke was previously caught on 25 Dec 2020 for allowing a group of 51 people, and for serving alcohol after 10.30pm.
-![](/news/news-images/14May3.jpg)
+![](/news/news-images/14May3.png)
