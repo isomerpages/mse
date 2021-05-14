@@ -1,6 +1,6 @@
 ---  
 title: Charles Rudd Distinguished Public Lecture 2021 - Ms Grace Fu  
-permalink: /resource-room/category/2021-05-14-ies-charles-rudd-distinguished-public-lecture.md
+permalink: /resource-room/category/2021-05-14-ies-charles-rudd-distinguished-public-lecture
 image:  
 file_url:  
 description:  
