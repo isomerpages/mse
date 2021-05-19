@@ -21,7 +21,7 @@ Singapore is an active participant at these platforms and supports many of their
 
 **Our Key Partners**
 
-Singapore‘s engagement with the international community extends beyond multilateral platforms. We also advance the global sustainability agenda by working constructively with key countries, such as through regular high-level policy forums, facilitating business missions as well as joint research and development efforts, and exchanging knowledge and best practices. We also ensure that provisions in our trade agreements protect the environment and strengthen supply chain resilience. Singapore believes that we can solve many environmental issues when we constructively work together. 
+Singapore‘s engagement with the international community extends beyond multilateral platforms. We also advance the global sustainability agenda by working constructively with other countries, such as through regular high-level policy forums, facilitating business missions as well as joint research and development efforts, and exchanging knowledge and best practices.We also ensure that provisions in our trade agreements strengthen supply chain resilience and promote economic growth, while contributing to environmental protection and sustainable development. Singapore believes that we can solve many environmental issues when we constructively work together. 
 
 **Sharing Our Experiences**
 
