@@ -1,5 +1,5 @@
 ---
-title: 30 Premises and 30 Individuals Penalised for Breaching Safe Management Measures; Enhanced Measures for Nightlife Operators which have Pivoted to F&B Industry   
+title: Four Premises and Nine Individuals Penalised for Breaching Safe Management Measures; Members of Public Urged to Comply with Tightened Measures under Phase 2 (Heightened Alert)   
 permalink: /resource-room/category/2021-05-14-press-release-four-premises-and-nine-individuals-penalised-for-breaching-smm
 image:  
 file_url:  
