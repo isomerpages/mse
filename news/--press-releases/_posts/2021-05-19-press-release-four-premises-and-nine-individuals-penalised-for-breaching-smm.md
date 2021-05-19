@@ -1,6 +1,6 @@
 ---
 title: Four Premises and Nine Individuals Penalised for Breaching Safe Management Measures; Members of Public Urged to Comply with Tightened Measures under Phase 2 (Heightened Alert)   
-permalink: /resource-room/category/2021-05-14-press-release-four-premises-and-nine-individuals-penalised-for-breaching-smm
+permalink: /resource-room/category/2021-05-19-press-release-four-premises-and-nine-individuals-penalised-for-breaching-smm
 image:  
 file_url:  
 description:  
