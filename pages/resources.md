@@ -118,6 +118,14 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
     <div class="card">
         <a href="/resources/climate-action-plan.pdf" target="_blank">  
             <div class="card-content">
+                <h5> Climate Action Plan (2020) </h5>
+            </div>
+          <img src="/images/cap2020.png" style="width:300px;">
+        </a>
+    </div>
+    <div class="card">
+        <a href="/resources/capmitigation.pdf" target="_blank">  
+            <div class="card-content">
                 <h5> Climate Action Plan (Mitigation) </h5>
             </div>
           <img src="/images/climate-action-plan.jpg" style="width:300px;">
@@ -130,6 +138,14 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
                 <!-- The latest publications of Singapore’s Climate Action Plan provides an update and summary of Singapore’s mitigation and adaptation plans. It sets out how Singapore intends to reduce greenhouse gas emissions and increase our energy efficiency to meet our 2030 climate pledge, and how Singapore may be affected by climate change and our strategy to prepare for them. -->
             </div>
         <img src="/images/climate-action-plan2.png" style="width:300px;"> 
+        </a>
+    </div>
+    <div class="card">
+        <a href="/resources/capsummary.pdf" target="_blank">  
+            <div class="card-content">
+                <h5> Climate Action Plan (Summary) </h5>
+            </div>
+          <img src="/images/capsummary.png" style="width:300px;">
         </a>
     </div>
     <div class="card">
