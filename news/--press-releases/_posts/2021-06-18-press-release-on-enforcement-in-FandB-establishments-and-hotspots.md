@@ -1,5 +1,5 @@
 ---  
-title: Press Release for Agencies to Step Up Enforcement of Safe Management Measures at Food and Beverage Establishments and Hotspots; 61 Individuals Fined Over Weekend  
+title: Agencies to Step Up Enforcement of Safe Management Measures at Food and Beverage Establishments and Hotspots; 61 Individuals Fined Over Weekend  
 permalink: /resource-room/category/2021-06-18-press-release-on-enforcement-in-FandB-establishments-and-hotspots
 image:  
 file_url:  
