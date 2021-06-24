@@ -1,5 +1,5 @@
 ---  
-title: Ambitious Climate Action: Towards Net Zero Carbon Cities - Mr Desmond Tan  
+title: Ambitious Climate Action - Towards Net Zero Carbon Cities - Mr Desmond Tan  
 permalink: /resource-room/category/2021-06-21-opening-remarks-by-mos-at-ambitious-climate-action/
 image:  
 file_url:  
