@@ -16,7 +16,7 @@ sections:
     - infobar:
         title: 
         # subtitle: What we are doing about climate change?
-        description: <b><h6 style="font-family:'Cabin'">INTRODUCING<br></h6></b><a href="https://www.greenplan.gov.sg/"><img src="/images/sgplogo.png"></a><br><a class="button_sgp30" href="https://www.greenplan.gov.sg/">Learn More</a>
+        description: <b><h6 style="font-family:'Cabin'">INTRODUCING<br></h6></b><a href="https://www.greenplan.gov.sg/"><img src="/images/sgplogo.png"></a><br><a class="button_sgp30" href="https://www.greenplan.gov.sg/" alt="">Learn More</a>
     #     # button: Learn more
     #     # url: https://climategamechanger.sg/
     #     alt: SGP30

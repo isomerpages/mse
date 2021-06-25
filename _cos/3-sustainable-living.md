@@ -17,7 +17,7 @@ body {
 ## Sustainable Living: Accelerating efforts to reduce waste 
 
 <div>
-<img src="/cos/resources/Icon_ZeroWaste.svg" style="width:33vh; margin-bottom:0px; display:block;">
+<img src="/cos/resources/Icon_ZeroWaste.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
 In an increasingly carbon- and resource-constrained world, we must continue to reduce, reuse and recycle our resources, and pursue circular economy approaches. We will frontload our waste reduction efforts over the next five years, to reduce the amount of waste sent to landfill per capita per day by 20 per cent by 2026. This will accelerate progress towards the 30 per cent reduction target by 2030, as outlined in our Zero Waste Masterplan.

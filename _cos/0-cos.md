@@ -263,7 +263,7 @@ body {
   <div class="card"> 
     <div class="front" style="background-image: url(/images/cosgreengov.jpg)">
       <h4>GreenGov.SG
-      <img src="/images/sgplogowhite.png"></h4>
+      <img src="/images/sgplogowhite.png" alt=""></h4>
     </div>
     <div class="back">
         <div>
@@ -276,7 +276,7 @@ body {
   <div class="card">
     <div class="front" style="background-image: url(/images/coswaste.jpg)">
       <h4>Towards Zero Waste
-      <img src="/images/sgplogowhite.png"></h4>
+      <img src="/images/sgplogowhite.png" alt=""></h4>
     </div>
     <div class="back">
       <div>
@@ -289,7 +289,7 @@ body {
   <div class="card">
     <div class="front" style="background-image: url(/images/coswater.jpg)">
       <h4>Improving Water Efficiency
-      <img src="/images/sgplogowhite.png"></h4>
+      <img src="/images/sgplogowhite.png" alt=""></h4>
     </div>
     <div class="back">
       <div>
@@ -302,7 +302,7 @@ body {
   <div class="card">
     <div class="front" style="background-image: url(/images/cosclimate.jpg)">
       <h4>Climate Resilience & Food Security
-      <img src="/images/sgplogowhite.png"></h4>
+      <img src="/images/sgplogowhite.png" alt=""></h4>
     </div>
     <div class="back">
       <div>

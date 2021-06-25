@@ -17,7 +17,7 @@ body {
 ## Cleaner premises through collective efforts
 
 <div>
-<img src="/cos/resources/Icon_CleanPublicSpaces.svg" style="width:33vh; margin-bottom:0px; display:block;">
+<img src="/cos/resources/Icon_CleanPublicSpaces.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
 Even as we manage the immediate challenges brought about by COVID-19, we must seize the opportunity to raise cleanliness and hygiene standards for the long term to shore up our public health defences and guard against future threats. This is in line with our SG Clean movement. 
