@@ -209,6 +209,23 @@ a[href$=".pdf"]{
 
 /////////////////// END GRID COLUMNS FOR ABOUT US AND TAKE ACTION////////////////////
 
+/////////////////// START OF CSS FOR CAW ////////////////////////////
+
+.external-link {
+  color: #484848 !important;
+  text-decoration: none !important;
+  &:after{
+    display: none !important;
+  }
+  &:hover{
+    color: #02B499 !important;
+  }
+}
+
+/////////////////// END OF CSS FOR CAW //////////////////////////////
+
+
+
 ////////////////// START OF BANNER VIDEO CSS //////////////////////
 
 #bannerVideo {
