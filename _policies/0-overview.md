@@ -102,7 +102,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <section class="cards">
     <div class="card">
         <a href="/policies/climate-change">
-                <img src="/images/climate-change.svg">
+                <img src="/images/climate-change.svg" alt="">
             <div class="card-content">
                 <h6>Climate Change</h6>
             </div><!-- .card-content -->
@@ -110,7 +110,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
         <div class="card">
         <a href="/policies/energy">
-                <img src="/images/energy.svg">
+                <img src="/images/energy.svg" alt="">
             <div class="card-content">
                 <h6>Energy</h6>
             </div><!-- .card-content -->
@@ -118,7 +118,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/water">
-                <img src="/images/water-tap-v4.svg">
+                <img src="/images/water-tap-v4.svg" alt="">
             <div class="card-content">
                 <h6>Water</h6>
             </div><!-- .card-content -->
@@ -126,7 +126,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/clean-air">
-                <img src="/images/clean-air.svg">
+                <img src="/images/clean-air.svg" alt="">
             <div class="card-content">
                 <h6>Clean Air</h6>
             </div><!-- .card-content -->
@@ -134,7 +134,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/clean-land">
-                <img src="/images/clean-land.svg">
+                <img src="/images/clean-land.svg" alt="">
             <div class="card-content">
                 <h6>Clean Land</h6>
             </div><!-- .card-content -->
@@ -142,7 +142,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/public-health">
-                <img src="/images/public-health.svg">
+                <img src="/images/public-health.svg" alt="">
             <div class="card-content">
                 <h6>Public Health</h6>
             </div><!-- .card-content -->
@@ -150,7 +150,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/food/">
-                <img src="/images/food-security.svg">
+                <img src="/images/food-security.svg" alt="">
             <div class="card-content">
                 <h6>Food Security</h6>
             </div><!-- .card-content -->
@@ -158,7 +158,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
     <a href="/policies/safe-distancing">
-            <img src="/images/safe-distancing.svg">
+            <img src="/images/safe-distancing.svg" alt="">
         <div class="card-content">
             <h6>Safe Distancing</h6>
         </div><!-- .card-content -->
@@ -166,7 +166,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
     <a href="/policies/international-policy">
-            <img src="/images/international-policy.svg">
+            <img src="/images/international-policy.svg" alt="">
         <div class="card-content">
             <h6>International Policy</h6>
         </div><!-- .card-content -->

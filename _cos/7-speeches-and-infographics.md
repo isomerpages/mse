@@ -24,8 +24,8 @@ body {
 
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed','Lato', sans-serif;">INFOGRAPHICS</h2>
 
-<img src="/cos/resources/cos-mse-infographic1.png">
-<img src="/cos/resources/cos-mse-infographic2.png">
+<img src="/cos/resources/cos-mse-infographic1.png" alt="">
+<img src="/cos/resources/cos-mse-infographic2.png" alt="">
 <a href="/cos/resources/mse-cos-infographics-social.zip">Infographics for Social Media (zip)</a>
 
 <div>
