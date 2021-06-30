@@ -138,7 +138,7 @@ permalink: /climate-action-week/
   padding: 0.3em;
   justify-content: center;
   align-items: center;
-  line-height: 1.1;
+  line-height: 0.8;
   color: white;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 }
@@ -264,7 +264,7 @@ permalink: /climate-action-week/
       <div class="card-news">
         <div class="card-event-infos">
         <h5><a href="" class="external-link">
-        <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-white-1-1.svg" alt="CAW Tiktok Challenge" style="width:4em;height:4em;margin-bottom:0.8em;">Join our Tiktok Face-off Challenge!</a></h5>
+        <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-white-1-1.svg" alt="CAW Tiktok Challenge" style="width:3em;height:3em;margin-bottom:1em;margin-top:0.9em;">Join our Tiktok Face-off Challenge!</a></h5>
         </div>
       </div>
   </article>
@@ -436,168 +436,169 @@ permalink: /climate-action-week/
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
           <div class="overflow-container">
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://sagesch.files.wordpress.com/2017/05/logo-nygh2.png" />
             <div class="card-event-infos">
               <h2>Nanyang Girls High School - Plastic bottle collection competition, upcycling competition, sustainable lifestyle and zero-waste programmes</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://tampinesnorthpri.moe.edu.sg/qql/slot/u513/our%20school/school%20profile/School_Crest.png" />
             <div class="card-event-infos">
               <h2>Tampines North Primary School - Love Our Food</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.2020psec.sg/wp-content/uploads/2020/09/P10-360x360.png" />
             <div class="card-event-infos">
               <h2>Qihua Primary School - Green Wave & Virtual Eco-tour/sharing</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.where2learn.com/wp-content/uploads/cache/images/2021/01/punggol-primary-school/punggol-primary-school-506047199.jpg" />
             <div class="card-event-infos">
               <h2>Punggol Primary School - Clean Plate Challenge during mealtimes</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://thesmartlocal.com/reviews/wp-content/uploads/2013/02/wdg-1361792567.jpg" />
             <div class="card-event-infos">
               <h2>Woodgrove Primary School - Event on "Vampire Appliances"</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.moe.gov.sg/-/media/images/school-logos/secondary-schools/kuo-chuan-presbyterian-secondary-school.png" />
             <div class="card-event-infos">
               <h2>Kuo Chuan Presbyterian Primary School - Various events with hands-on activities</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://thesmartlocal.com/reviews/wp-content/uploads/2013/03/1-1364578315.gif" />
             <div class="card-event-infos">
               <h2>Sembawang Primary School - Sharing on sustainable practices and zero waste lifestyle habits </h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.where2learn.com/wp-content/uploads/2020/02/east-spring-primary-school.jpg" />
             <div class="card-event-infos">
               <h2>East Spring Primary School - Clean Plate Campaign and Earth Week</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.minds.org.sg/wp-content/uploads/2020/04/logo-minds@2x.png" />
             <div class="card-event-infos">
-              <h2>Towner Gardens School (MINDS) - Edible Gardening</h2></a>
+              <h2>Towner Gardens School (MINDS) - Edible Gardening</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.where2learn.com/wp-content/uploads/2020/02/fengshan-primary-school.jpg" />
             <div class="card-event-infos">
               <h2>Fengshan Primary School (FSPS) Environmental Committee - Urban Farming Programmes</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.where2learn.com/wp-content/uploads/cache/images/2021/01/ai-tong-school/ai-tong-school-2251316606.jpg" />
             <div class="card-event-infos">
               <h2>Ai Tong School - Climate Action Wall</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.rp.edu.sg/images/default-source/about-us/historical-milestones/milestones-02.jpg" />
             <div class="card-event-infos">
               <h2>Republic Polytechnic - Sustainable Living - Reduce waste and consumption, Reverse Vending Machine</h2>
                 <p>April - September 2021</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://s3.ap-southeast-1.amazonaws.com/logos.form.gov.sg/1590560379953-SWCDC_Logo_FC_RGB_1080px.png" />
             <div class="card-event-infos">
               <h2>South-West Community Development Council (SWCDC) - Cooking Class for Community Gardeners, Green Schools Assembly Skit, Energy Conservation Posters by Junior Environment Ambassadors</h2>
                 <p>12-16 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://static.wixstatic.com/media/c1b31b_f5f3ba5d40df483088ecc481cbc30515~mv2.png/v1/fill/w_400,h_130,al_c,q_85,usm_0.66_1.00_0.01/Sembwaste%20Logo.webp" />
             <div class="card-event-infos">
               <h2>PA (MacPherson) & SembWaste - Cash-for-Trash Station for residents to bring down their recyclables</h2>
                 <p>3 July (1st Saturday of every month)</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="../images/taman.png" />
             <div class="card-event-infos">
               <h2>Taman Jurong Youth Network - Taman Jurong Eco Series </h2>
                 <p>1-30 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBAP-XeAUJIxboNC6mq3s7974evWAhOILoVA&usqp=CAU" />
+          <img src="https://eventnook.s3.amazonaws.com/u/63753/coverimage_1603284234074_tp_logo.png" />
             <div class="card-event-infos">
               <h2>Singapore Youth for Climate Action & Temasek Polytechnic student group campaigns - "Our Fight Against Dengue" & "Reducing Energy Consumption"</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/e0/19/f9/e019f97e-d33f-8501-34f0-38aaf13cbc64/source/512x512bb.jpg" />
             <div class="card-event-infos">
               <h2>Just Dabao & SusGain - "Just Plant!" campaign on tree-planting and reforestation</h2>
                 <p>From 12 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://www.logosurfer.com/wp-content/uploads/2018/03/Shimizu20Logo.jpg" />
             <div class="card-event-infos">
               <h2>Shimizu Corporation - Annual Tree Planting 2021 and "Bring Your Own" campaign</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+          <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
             <div class="card-event-infos">
               <h2>Singapore Green Building Council - Digital Activation for SGBC Green Homes Public Engagement Campaign</h2>
                 <p>12-16 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ricoh_logo_2012.svg/400px-Ricoh_logo_2012.svg.png" />
             <div class="card-event-infos">
               <h2>Ricoh Asia Pacific - Facing our Footprint - Social Media Outreach</h2>
                 <p>5-25 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://1000logos.net/wp-content/uploads/2020/05/Micron-Loog.png" />
             <div class="card-event-infos">
               <h2>Micron - Climate Action Week Campaign</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://s7d2.scene7.com/is/image/ritzcarlton/ritz-carlton-primary-black" />
             <div class="card-event-infos">
               <h2>The Ritz-Carlton, Millenia Singapore - Clean Plate Challenge</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://cdn.ek.aero/sg/english/images/Novotel_hsr_275_tcm289-3284955.png" />
             <div class="card-event-infos">
               <h2>Novotel Hotel - Promotional Menu & Green deals</h2>
                 <p>12-18 July</p>
             </div>
           </div>
           <div class="card-event">
-            <!-- <img src="" /> -->
+            <img src="https://global-uploads.webflow.com/5d930e99e2f2d3ed120f3956/5ddad401019b4b70ff25fa05_IMG_6566-p-500.png" />
             <div class="card-event-infos">
               <h2>Swapaholic - Publishing of Textile Sustainability Report</h2>
                 <p>12-18 July</p>
@@ -618,12 +619,12 @@ permalink: /climate-action-week/
       </div>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="../resources/caw-banners-posters.zip" class="external-link">Download CAW Posters </a></h5>
+          <h5><a href="http://greenplan.gov.sg/" class="external-link">Join the Green Plan </a></h5>
         </div>
       </div>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="http://greenplan.gov.sg/" class="external-link">Join the Green Plan </a></h5>
+          <h5><a href="../resources/caw-banners-posters.zip" class="external-link">Download CAW Posters </a></h5>
         </div>
       </div>
       <div class="card-news">
