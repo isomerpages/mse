@@ -614,7 +614,7 @@ permalink: /climate-action-week/
     <h4><strong><center>RESOURCES</center></strong></h4>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="https://www.mse.gov.sg/take-action/individuals" class="external-link">How to Take Action </a></h5>
+          <h5><a href="https://www.mse.gov.sg/take-action/individuals" class="external-link">Take Action Today</a></h5>
         </div>
       </div>
       <div class="card-news">
