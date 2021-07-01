@@ -435,7 +435,7 @@ permalink: /climate-action-week/
             <img src="http://www.eptapro.com/wp-content/uploads/2016/08/PSA-v1.png" />
             <div class="card-event-infos">
               <h2>Port of Singapore Authority (PSA) - Green Port Conversation “Energy Resilience for Sustainable Growth – Strategies and Challenges for Singapore and the Industries” </h2>
-                <p>12-18 July</p>
+                <p>13 July</p>
             </div>
           </div>
         </div>
