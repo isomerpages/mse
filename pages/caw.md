@@ -249,7 +249,7 @@ permalink: /climate-action-week/
 <!-- NEWS -->
   <article class="main">
     <h4><strong><center>NEWS</center></strong></h4>
-      <div class="card-news">
+      <!-- <div class="card-news">
         <div class="card-event-infos">
           <h5><a href="url" class="external-link">Press Release on Climate Action Week </a></h5>
             <p>12 July</p>
@@ -266,7 +266,7 @@ permalink: /climate-action-week/
         <h5><a href="" class="external-link">
         <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-white-1-1.svg" alt="CAW Tiktok Challenge" style="width:3em;height:3em;margin-bottom:1em;margin-top:0.9em;">Join our Tiktok Face-off Challenge!</a></h5>
         </div>
-      </div>
+      </div> -->
   </article>
 
 <!-- EVENTS -->
@@ -275,7 +275,7 @@ permalink: /climate-action-week/
     <h4><strong><center>ONE-DAY EVENTS</center></strong></h4>
         <div class="card-news">
             <div class="card-event-infos">
-              <p><strong><a href="" class="external-link">Click here to see full details or sign up for events</a></strong></p>
+              <p><strong><a href="" class="external-link">Click here for full event details</a></strong></p>
             </div>
         </div>
       <div class="overflow-container">
