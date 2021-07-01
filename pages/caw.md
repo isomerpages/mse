@@ -249,7 +249,7 @@ permalink: /climate-action-week/
 <!-- NEWS -->
   <article class="main">
     <h4><strong><center>NEWS</center></strong></h4>
-      <div class="card-news">
+      <!-- <div class="card-news">
         <div class="card-event-infos">
           <h5><a href="url" class="external-link">Press Release on Climate Action Week </a></h5>
             <p>12 July</p>
@@ -266,7 +266,7 @@ permalink: /climate-action-week/
         <h5><a href="" class="external-link">
         <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-white-1-1.svg" alt="CAW Tiktok Challenge" style="width:3em;height:3em;margin-bottom:1em;margin-top:0.9em;">Join our Tiktok Face-off Challenge!</a></h5>
         </div>
-      </div>
+      </div> -->
   </article>
 
 <!-- EVENTS -->
@@ -275,7 +275,7 @@ permalink: /climate-action-week/
     <h4><strong><center>ONE-DAY EVENTS</center></strong></h4>
         <div class="card-news">
             <div class="card-event-infos">
-              <p><strong><a href="" class="external-link">Click here to see full details or sign up for events</a></strong></p>
+              <p><strong><a href="" class="external-link">Click here for full event details</a></strong></p>
             </div>
         </div>
       <div class="overflow-container">
@@ -431,6 +431,13 @@ permalink: /climate-action-week/
               <p>17 July</p>
           </div>
         </div>
+        <div class="card-event">
+            <img src="http://www.eptapro.com/wp-content/uploads/2016/08/PSA-v1.png" />
+            <div class="card-event-infos">
+              <h2>Port of Singapore Authority (PSA) - Green Port Conversation “Energy Resilience for Sustainable Growth – Strategies and Challenges for Singapore and the Industries” </h2>
+                <p>13 July</p>
+            </div>
+          </div>
         </div>
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
@@ -598,9 +605,23 @@ permalink: /climate-action-week/
             </div>
           </div>
           <div class="card-event">
+            <img src="https://www.swissotel.com/assets/0/92/2119/3454/3493/3495/5386/ff680b52-afc4-48a6-af51-76b4aa4f6f0c.png" />
+            <div class="card-event-infos">
+              <h2>Swissôtel Merchant Court - Herb Garden Showcase, staff outreach and Ellenborough Market Cafe outreach</h2>
+                <p>12-18 July</p>
+            </div>
+          </div>
+          <div class="card-event">
             <img src="https://global-uploads.webflow.com/5d930e99e2f2d3ed120f3956/5ddad401019b4b70ff25fa05_IMG_6566-p-500.png" />
             <div class="card-event-infos">
               <h2>Swapaholic - Publishing of Textile Sustainability Report</h2>
+                <p>12-18 July</p>
+            </div>
+          </div>
+          <div class="card-event">
+            <img src="http://www.eptapro.com/wp-content/uploads/2016/08/PSA-v1.png" />
+            <div class="card-event-infos">
+              <h2>Port of Singapore Authority (PSA) - e-Waste Recycling Drive, Sustainability Champion Video Cascade, ENView Issue 9, and launch of Singapore Sustainability Narrative infographic </h2>
                 <p>12-18 July</p>
             </div>
           </div>
@@ -614,7 +635,7 @@ permalink: /climate-action-week/
     <h4><strong><center>RESOURCES</center></strong></h4>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="https://www.mse.gov.sg/take-action/individuals" class="external-link">How to Take Action </a></h5>
+          <h5><a href="https://www.mse.gov.sg/take-action/individuals" class="external-link">Take Action Today</a></h5>
         </div>
       </div>
       <div class="card-news">
