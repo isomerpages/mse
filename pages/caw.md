@@ -273,9 +273,9 @@ permalink: /climate-action-week/
 
   <section class="side">
     <h4><strong><center>ONE-DAY EVENTS</center></strong></h4>
-        <div class="card-news">
+        <div class="card-news" style="border:2px solid; border-radius:6px;">
             <div class="card-event-infos">
-              <p><strong><a href="" class="external-link">Click here for full event details</a></strong></p>
+              <p><strong><a href="" class="external-link">Click here for full details of events and sign-ups</a></strong></p>
             </div>
         </div>
       <div class="overflow-container">
