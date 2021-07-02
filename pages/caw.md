@@ -275,7 +275,7 @@ permalink: /climate-action-week/
     <h4><strong><center>ONE-DAY EVENTS</center></strong></h4>
         <!-- <div class="card-news" style="border:2px solid; border-radius:6px;">
             <div class="card-event-infos">
-              <p><strong><a href="" class="external-link">Click here for full details of 120 events with over 60 partners</a></strong></p>
+              <p><strong><a href="" class="external-link">120 activities with over 60 partners. Click for full details.</a></strong></p>
             </div>
         </div> -->
       <div class="overflow-container">
