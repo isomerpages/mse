@@ -432,7 +432,7 @@ permalink: /climate-action-week/
           </div>
         </div>
         <div class="card-event">
-            <img src="http://www.eptapro.com/wp-content/uploads/2016/08/PSA-v1.png" />
+            <img src="https://images.squarespace-cdn.com/content/v1/585fa90329687f7c77188418/1483953395999-ACW40ERP1C53986D5VHC/psa_logo.jpg" />
             <div class="card-event-infos">
               <h2>Port of Singapore Authority (PSA) - Green Port Conversation “Energy Resilience for Sustainable Growth – Strategies and Challenges for Singapore and the Industries” </h2>
                 <p>13 July</p>
@@ -619,7 +619,7 @@ permalink: /climate-action-week/
             </div>
           </div>
           <div class="card-event">
-            <img src="http://www.eptapro.com/wp-content/uploads/2016/08/PSA-v1.png" />
+            <img src="https://images.squarespace-cdn.com/content/v1/585fa90329687f7c77188418/1483953395999-ACW40ERP1C53986D5VHC/psa_logo.jpg" />
             <div class="card-event-infos">
               <h2>Port of Singapore Authority (PSA) - e-Waste Recycling Drive, Sustainability Champion Video Cascade, ENView Issue 9, and launch of Singapore Sustainability Narrative infographic </h2>
                 <p>12-18 July</p>
