@@ -287,6 +287,21 @@ permalink: /climate-action-week/
           </div>
         </div>
 <!-- test modal -->
+<!-- test modal -->
+        <div class="card-event">
+          <img src="https://www.thatballoons.com/wp-content/uploads/2018/02/MBS-Logo-1024x304.jpg" />
+          <div class="card-event-infos">
+            <h2>MBS - Climate Action Week Trainings</h2>
+              <p>12 July</p>
+          </div>
+        </div>
+        <div class="card-event">
+          <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
+          <div class="card-event-infos">
+            <h2>Singapore Green Building Council Webinar on Climate Change Adaptation & Sustainability Leadership</h2>
+              <p>13 July</p>
+          </div>
+        </div>
         <div class="card-event">
           <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
           <div class="card-event-infos">
@@ -303,21 +318,6 @@ permalink: /climate-action-week/
                   <a href="#modal-close" title="Close" class="modal-close">CLOSE &times;</a>
               </div>
           </div> -->
-        </div>
-<!-- test modal -->
-        <div class="card-event">
-          <img src="https://www.thatballoons.com/wp-content/uploads/2018/02/MBS-Logo-1024x304.jpg" />
-          <div class="card-event-infos">
-            <h2>MBS - Climate Action Week Trainings</h2>
-              <p>12 July</p>
-          </div>
-        </div>
-        <div class="card-event">
-          <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
-          <div class="card-event-infos">
-            <h2>Singapore Green Building Council Webinar on Climate Change Adaptation & Sustainability Leadership</h2>
-              <p>13 July</p>
-          </div>
         </div>
         <div class="card-event">
           <img src="https://anchorgreenpri.moe.edu.sg/qql/slot/u530/About%20AGPS/School%20Info/Crest%20&%20Motto/AGPS%20SCHOOL%20CREST.jpg" />
