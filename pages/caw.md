@@ -273,11 +273,11 @@ permalink: /climate-action-week/
 
   <section class="side">
     <h4><strong><center>ONE-DAY EVENTS</center></strong></h4>
-        <div class="card-news" style="border:2px solid; border-radius:6px;">
+        <!-- <div class="card-news" style="border:2px solid; border-radius:6px;">
             <div class="card-event-infos">
               <p><strong><a href="" class="external-link">Click here for full details of events and sign-ups</a></strong></p>
             </div>
-        </div>
+        </div> -->
       <div class="overflow-container">
         <div class="card-event">
           <img src="../images/thumbnail.png" />
@@ -635,17 +635,17 @@ permalink: /climate-action-week/
     <h4><strong><center>RESOURCES</center></strong></h4>
       <div class="card-news">
         <div class="card-event-infos">
+          <h5><a href="../resources/caw-banners-posters.zip" class="external-link">Help publicise Climate Action Week </a></h5>
+        </div>
+      </div>
+      <div class="card-news">
+        <div class="card-event-infos">
           <h5><a href="https://www.mse.gov.sg/take-action/individuals" class="external-link">Take Action Today</a></h5>
         </div>
       </div>
       <div class="card-news">
         <div class="card-event-infos">
           <h5><a href="http://greenplan.gov.sg/" class="external-link">Join the Green Plan </a></h5>
-        </div>
-      </div>
-      <div class="card-news">
-        <div class="card-event-infos">
-          <h5><a href="../resources/caw-banners-posters.zip" class="external-link">Download CAW Posters </a></h5>
         </div>
       </div>
       <div class="card-news">
