@@ -11,7 +11,7 @@ description:
 Distinguished guests,
 Ladies and gentlemen,
 
-	It is my pleasure to welcome you to the “Active, Beautiful, Clean Waters” seminar, or ABC Waters Seminar. 
+It is my pleasure to welcome you to the “Active, Beautiful, Clean Waters” seminar, or ABC Waters Seminar. 
 
 **COVID-19 and adapting to challenges**
 
