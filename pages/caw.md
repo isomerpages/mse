@@ -292,7 +292,7 @@ permalink: /climate-action-week/
           <div class="card-event-infos">
             <!-- <a href="#open-modal"></a> -->
             <h2>Grab - Regional Green Programme & JustGrab Green</h2>
-            <p>12 July</p>
+            <p>14 July</p>
           </div>
               <!-- <div id="open-modal" class="modal-window">
                 <div>
