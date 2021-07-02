@@ -275,7 +275,7 @@ permalink: /climate-action-week/
     <h4><strong><center>ONE-DAY EVENTS</center></strong></h4>
         <!-- <div class="card-news" style="border:2px solid; border-radius:6px;">
             <div class="card-event-infos">
-              <p><strong><a href="" class="external-link">Click here for full details of events and sign-ups</a></strong></p>
+              <p><strong><a href="" class="external-link">Click here for full details of 120 events with over 60 partners</a></strong></p>
             </div>
         </div> -->
       <div class="overflow-container">
@@ -635,7 +635,7 @@ permalink: /climate-action-week/
     <h4><strong><center>RESOURCES</center></strong></h4>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="../resources/caw-banners-posters.zip" class="external-link">Help publicise Climate Action Week </a></h5>
+          <h5><a href="../resources/caw-banners-posters.zip" class="external-link">Help Publicise Climate Action Week </a></h5>
         </div>
       </div>
       <div class="card-news">
