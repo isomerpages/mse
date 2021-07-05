@@ -275,7 +275,7 @@ permalink: /climate-action-week/
     <h4><strong><center>ONE-DAY EVENTS</center></strong></h4>
         <!-- <div class="card-news" style="border:2px solid; border-radius:6px;">
             <div class="card-event-infos">
-              <p><strong><a href="" class="external-link">Click here for full details of events and sign-ups</a></strong></p>
+              <p><strong><a href="" class="external-link">120 activities with over 60 partners. Click for full details.</a></strong></p>
             </div>
         </div> -->
       <div class="overflow-container">
@@ -287,23 +287,6 @@ permalink: /climate-action-week/
           </div>
         </div>
 <!-- test modal -->
-        <div class="card-event">
-          <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
-          <div class="card-event-infos">
-            <!-- <a href="#open-modal"></a> -->
-            <h2>Grab - Regional Green Programme & JustGrab Green</h2>
-            <p>12 July</p>
-          </div>
-              <!-- <div id="open-modal" class="modal-window">
-                <div>
-                  <h1>Grab - Regional Green Programme & JustGrab Green</h1>
-                      The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog. <br><br>
-                      The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.
-                      <br><br><a href="url"><h5>Click here to join the event</h5></a>
-                  <a href="#modal-close" title="Close" class="modal-close">CLOSE &times;</a>
-              </div>
-          </div> -->
-        </div>
 <!-- test modal -->
         <div class="card-event">
           <img src="https://www.thatballoons.com/wp-content/uploads/2018/02/MBS-Logo-1024x304.jpg" />
@@ -318,6 +301,23 @@ permalink: /climate-action-week/
             <h2>Singapore Green Building Council Webinar on Climate Change Adaptation & Sustainability Leadership</h2>
               <p>13 July</p>
           </div>
+        </div>
+        <div class="card-event">
+          <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
+          <div class="card-event-infos">
+            <!-- <a href="#open-modal"></a> -->
+            <h2>Grab - Regional Green Programme & JustGrab Green</h2>
+            <p>14 July</p>
+          </div>
+              <!-- <div id="open-modal" class="modal-window">
+                <div>
+                  <h1>Grab - Regional Green Programme & JustGrab Green</h1>
+                      The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog. <br><br>
+                      The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.
+                      <br><br><a href="url"><h5>Click here to join the event</h5></a>
+                  <a href="#modal-close" title="Close" class="modal-close">CLOSE &times;</a>
+              </div>
+          </div> -->
         </div>
         <div class="card-event">
           <img src="https://anchorgreenpri.moe.edu.sg/qql/slot/u530/About%20AGPS/School%20Info/Crest%20&%20Motto/AGPS%20SCHOOL%20CREST.jpg" />
@@ -635,7 +635,7 @@ permalink: /climate-action-week/
     <h4><strong><center>RESOURCES</center></strong></h4>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="../resources/caw-banners-posters.zip" class="external-link">Help publicise Climate Action Week </a></h5>
+          <h5><center style="margin:0;"><a href="../resources/caw-banners-posters.zip" class="external-link" >Help Publicise Climate Action Week </a></center></h5>
         </div>
       </div>
       <div class="card-news">
