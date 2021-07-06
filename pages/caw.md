@@ -354,6 +354,13 @@ permalink: /climate-action-week/
               <p>14 July</p>
           </div>
         </div>
+  <div class="card-event">
+          <img src="https://www.facebook.com/now.here.global/photos/a.1813309798963648/1813311928963435/" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.eventbrite.sg/e/the-essential-ingredient-to-achieve-success-in-sustainability-tickets-161864961457" class="external-link">The Essential Ingredients to Achieve Success in Sustainability</a></h2>
+              <p>14 and 15 July</p>
+          </div>
+        </div>
        <div class="card-event">
           <img src="https://www.dow.com/content/dcc/svg/icons/header_dow-logo-lockup--desktop.svg?v=1" />
           <div class="card-event-infos">
