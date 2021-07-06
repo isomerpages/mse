@@ -355,7 +355,7 @@ permalink: /climate-action-week/
           </div>
         </div>
   <div class="card-event">
-          <img src="https://images.squarespace-cdn.com/content/v1/5aa9ddb5697a985c81244bbb/1596710188290-LAOBJSBKEMP0HGZKIM1X/NowHere_Primary_White.png?format=1500w" />
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
           <div class="card-event-infos">
             <h2><a href="https://www.eventbrite.sg/e/the-essential-ingredient-to-achieve-success-in-sustainability-tickets-161864961457" class="external-link">Now Here - The Essential Ingredients to Achieve Success in Sustainability</a></h2>
               <p>14 and 15 July</p>
@@ -453,7 +453,7 @@ permalink: /climate-action-week/
           </div>
         </div>
    <div class="card-event">
-          <img src="https://images.squarespace-cdn.com/content/v1/5aa9ddb5697a985c81244bbb/1596710188290-LAOBJSBKEMP0HGZKIM1X/NowHere_Primary_White.png?format=1500w" />
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
           <div class="card-event-infos">
             <h2><a href="https://www.eventbrite.sg/e/online-art-and-sharing-tree-of-life-tickets-161868155009" class="external-link">Now Here - Tree of Life: Open Discussion Simple Exercises on the Skills of Compassion for Self, Others and the Earth)</a></h2>
               <p>17 July</p>
@@ -660,6 +660,13 @@ permalink: /climate-action-week/
                 <p>12-18 July</p>
             </div>
           </div>
+   <div class="card-event">
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.treasure-earth.global/" class="external-link">Treasure Earth: Sustainability In Your Pocket</a></h2>
+              <p>12-18 July</p>
+          </div>
+        </div>              
       </div>
               <!-- END OF SECOND OVERFLOW -->
   </section>
