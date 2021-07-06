@@ -282,7 +282,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="../images/thumbnail.png" />
           <div class="card-event-infos">
-            <h2>MSE - Partners for the Environment Forum 2021</h2>
+              <h2><a href="https://form.gov.sg/#!/60d1572a67a33b0011b8f368" class="external-link">MSE - Partners for the Environment Forum 2021</a></h2>
               <p>12 July</p>
           </div>
         </div>
@@ -298,7 +298,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
           <div class="card-event-infos">
-            <h2>Singapore Green Building Council Webinar on Climate Change Adaptation & Sustainability Leadership</h2>
+            <h2><a href="https://web.sgbc.online/public/event/rsvp/218" class="external-link">Singapore Green Building Council Webinar on Climate Change Adaptation & Sustainability Leadership</a></h2>
               <p>13 July</p>
           </div>
         </div>
@@ -329,7 +329,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://asi.sutd.edu.sg/wp-content/themes/asi-avada/assets/images/sutd-asi-logo-web-2021-fc.png" />
           <div class="card-event-infos">
-            <h2>SUTD seminar series on Sustainability and Circular Economy: The Role of Design in Circular Economy</h2>
+            <h2><a href="https://www.sutd.edu.sg/About/happenings/Events/2021/6/Seminar-Series-Sustainability-and-Circular-Economy" class="external-link">SUTD seminar series on Sustainability and Circular Economy: The Role of Design in Circular Economy</a></h2>
               <p>14 July (till 28 July)</p>
           </div>
         </div>
@@ -385,7 +385,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://yt3.ggpht.com/ytc/AAUvwnh3VHRdrowiLggEd2nIYqfFzYNwnkBF7iSTznem=s900-c-k-c0x00ffffff-no-rj" />
           <div class="card-event-infos">
-            <h2>NTU Earth Observatory of Singapore - ‘Ask a Scientist: Climate Change and Nature-Based Solutions</h2>
+            <h2><a href="http://bit.ly/ScientistQnA" class="external-link">NTU Earth Observatory of Singapore - ‘Ask a Scientist: Climate Change and Nature-Based Solutions</a></h2>
               <p>16 July</p>
           </div>
         </div>
@@ -399,21 +399,21 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://secondsguru.com/wp-content/uploads/2016/10/logo-2.png" />
           <div class="card-event-infos">
-            <h2>Secondsguru - "Can I be a changemaker?" Real stories from current times</h2>
+            <h2><a href="https://www.facebook.com/events/121927703324669?ref=newsfeed" class="external-link">Secondsguru - "Can I be a changemaker?" Real stories from current times</a></h2>
               <p>17 July</p>
           </div>
         </div>
         <div class="card-event">
           <img src="https://susscribe.com/issue-46/wp-content/uploads/2019/03/The-Eco-Statement.jpg" />
           <div class="card-event-infos">
-            <h2>The Eco-Statement - Game of Recycling - A game-based workshop on recycling</h2>
+            <h2><a href="https://www.facebook.com/theecostatement" class="external-link">The Eco-Statement - Game of Recycling - A game-based workshop on recycling</a></h2>
               <p>17 July</p>
           </div>
         </div>
         <div class="card-event">
           <img src="https://eventnook.s3.amazonaws.com/u/63753/coverimage_1603284234074_tp_logo.png" />
           <div class="card-event-infos">
-            <h2>Temasek Poly Green Interest Student Group & Rivervale Court Residents’ Network - Workshop on upcycling</h2>
+            <h2><a href="https://www.facebook.com/CourtRC/posts/2970727956549849" class="external-link">Temasek Poly Green Interest Student Group & Rivervale Court Residents’ Network - Workshop on upcycling</a></h2>
               <p>17 July</p>
           </div>
         </div>
@@ -427,14 +427,14 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBAP-XeAUJIxboNC6mq3s7974evWAhOILoVA&usqp=CAU" />
           <div class="card-event-infos">
-            <h2>Singapore Youth for Climate Action - "A Voice for Mother Nature" online event</h2>
+            <h2><a href="https://www.facebook.com/sgyouthclimateaction/posts/4651483871531851" class="external-link">Singapore Youth for Climate Action - "A Voice for Mother Nature" online event</a></h2>
               <p>17 July</p>
           </div>
         </div>
         <div class="card-event">
-            <img src="https://images.squarespace-cdn.com/content/v1/585fa90329687f7c77188418/1483953395999-ACW40ERP1C53986D5VHC/psa_logo.jpg" />
+            <img src="https://blog.nus.edu.sg/computingcareerfair/files/formidable/19/3D-PSA-Logo-19lqaos.png" />
             <div class="card-event-infos">
-              <h2>Port of Singapore Authority (PSA) - Green Port Conversation “Energy Resilience for Sustainable Growth – Strategies and Challenges for Singapore and the Industries” </h2>
+              <h2>PSA Corporation Limited - Green Port Conversation “Energy Resilience for Sustainable Growth – Strategies and Challenges for Singapore and the Industries” </h2>
                 <p>13 July</p>
             </div>
           </div>
@@ -619,9 +619,9 @@ permalink: /climate-action-week/
             </div>
           </div>
           <div class="card-event">
-            <img src="https://images.squarespace-cdn.com/content/v1/585fa90329687f7c77188418/1483953395999-ACW40ERP1C53986D5VHC/psa_logo.jpg" />
+            <img src="https://blog.nus.edu.sg/computingcareerfair/files/formidable/19/3D-PSA-Logo-19lqaos.png" />
             <div class="card-event-infos">
-              <h2>Port of Singapore Authority (PSA) - e-Waste Recycling Drive, Sustainability Champion Video Cascade, ENView Issue 9, and launch of Singapore Sustainability Narrative infographic </h2>
+              <h2>PSA Corporation Limited - e-Waste Recycling Drive, Sustainability Champion Video Cascade, ENView Issue 9, and launch of Singapore Sustainability Narrative infographic </h2>
                 <p>12-18 July</p>
             </div>
           </div>
