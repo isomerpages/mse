@@ -302,6 +302,14 @@ permalink: /climate-action-week/
               <p>13 July</p>
           </div>
         </div>
+       <div class="card-event">
+            <img src="https://blog.nus.edu.sg/computingcareerfair/files/formidable/19/3D-PSA-Logo-19lqaos.png" />
+            <div class="card-event-infos">
+              <h2>PSA Corporation Limited - Green Port Conversation “Research and Innovation in Sustainability – Strategies and Challenges for Singapore and the Industries” </h2>
+                <p>13 July</p>
+            </div>
+          </div>   
+          
         <div class="card-event">
           <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
           <div class="card-event-infos">
@@ -438,13 +446,7 @@ permalink: /climate-action-week/
               <p>17 July</p>
           </div>
         </div>
-        <div class="card-event">
-            <img src="https://blog.nus.edu.sg/computingcareerfair/files/formidable/19/3D-PSA-Logo-19lqaos.png" />
-            <div class="card-event-infos">
-              <h2>PSA Corporation Limited - Green Port Conversation “Research and Innovation in Sustainability – Strategies and Challenges for Singapore and the Industries” </h2>
-                <p>13 July</p>
-            </div>
-          </div>
+        
         </div>
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
