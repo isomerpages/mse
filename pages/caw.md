@@ -458,7 +458,21 @@ permalink: /climate-action-week/
             <h2><a href="https://www.eventbrite.sg/e/online-art-and-sharing-tree-of-life-tickets-161868155009" class="external-link">Now Here - Tree of Life: Open Discussion Simple Exercises on the Skills of Compassion for Self, Others and the Earth)</a></h2>
               <p>17 July</p>
           </div>
-        </div>     
+        </div>
+        <div class="card-event">
+          <img src="#" />
+          <div class="card-event-infos">
+            <h2><a href="https://tinyurl.com/ClimateScienceWoodlandsYouth" class="external-link">Woodlands Youth Network - Biodiversity & Climate Change Workshop</a></h2>
+              <p>17 July</p>
+          </div>
+        </div> 
+         <div class="card-event">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/City_Developments_Limited_logo_-_text_bottom.svg/1200px-City_Developments_Limited_logo_-_text_bottom.svg.png" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.facebook.com/CDLsustainability/" class="external-link">City Developments Limited - Youth4Climate Concert</a></h2>
+              <p>18 July</p>
+          </div>
+        </div> 
         </div>
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
