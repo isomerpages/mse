@@ -427,7 +427,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBAP-XeAUJIxboNC6mq3s7974evWAhOILoVA&usqp=CAU" />
           <div class="card-event-infos">
-            <h2><a href="https://www.facebook.com/sgyouthclimateaction/posts/4651483871531851" class="external-link">Singapore Youth for Climate Action - "A Voice for Mother Nature" online event</h2>
+            <h2><a href="https://www.facebook.com/sgyouthclimateaction/posts/4651483871531851" class="external-link">Singapore Youth for Climate Action - "A Voice for Mother Nature" online event</a></h2>
               <p>17 July</p>
           </div>
         </div>
