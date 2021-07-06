@@ -353,6 +353,7 @@ permalink: /climate-action-week/
             <h2><a href="https://sport-sg.zoom.us/j/91040290787" class="external-link">Dow Singapore - Singapore Towards Circularity: Recycling Shoes Waste into Infrastructure Materials</a></h2>
               <p>15 July</p>
           </div>
+          </div>
         <div class="card-event">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ricoh_logo_2012.svg/400px-Ricoh_logo_2012.svg.png" />
           <div class="card-event-infos">
