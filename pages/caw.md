@@ -371,7 +371,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://www.regulationasia.com/wp-content/uploads/wwf.png" />
           <div class="card-event-infos">
-            <h2>WWF Singapore - Launch of Kosong Plan</h2>
+            <h2><a href="https://wwf.zoom.us/webinar/register/WN_3zBinbxtT8Gd4a0dcWOX1Q" class="external-link">WWF Singapore - Climate Actions in Singapore: How Impactful Are They and How Do You Influence Others</a></h2>
               <p>15 July</p>
           </div>
         </div>
