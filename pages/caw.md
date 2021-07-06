@@ -282,7 +282,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="../images/thumbnail.png" />
           <div class="card-event-infos">
-            <h2>MSE - Partners for the Environment Forum 2021</h2>
+              <h2><a href="https://form.gov.sg/#!/60d1572a67a33b0011b8f368" class="external-link">MSE - Partners for the Environment Forum 2021</a></h2>
               <p>12 July</p>
           </div>
         </div>
