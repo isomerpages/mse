@@ -298,7 +298,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
           <div class="card-event-infos">
-            <h2>Singapore Green Building Council Webinar on Climate Change Adaptation & Sustainability Leadership</h2>
+            <h2><a href="https://web.sgbc.online/public/event/rsvp/218" class="external-link">Singapore Green Building Council Webinar on Climate Change Adaptation & Sustainability Leadership</a></h2>
               <p>13 July</p>
           </div>
         </div>
@@ -329,7 +329,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://asi.sutd.edu.sg/wp-content/themes/asi-avada/assets/images/sutd-asi-logo-web-2021-fc.png" />
           <div class="card-event-infos">
-            <h2>SUTD seminar series on Sustainability and Circular Economy: The Role of Design in Circular Economy</h2>
+            <h2><a href="https://www.sutd.edu.sg/About/happenings/Events/2021/6/Seminar-Series-Sustainability-and-Circular-Economy" class="external-link">SUTD seminar series on Sustainability and Circular Economy: The Role of Design in Circular Economy</a></h2>
               <p>14 July (till 28 July)</p>
           </div>
         </div>
