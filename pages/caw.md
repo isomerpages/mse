@@ -432,9 +432,9 @@ permalink: /climate-action-week/
           </div>
         </div>
         <div class="card-event">
-            <img src="https://images.squarespace-cdn.com/content/v1/585fa90329687f7c77188418/1483953395999-ACW40ERP1C53986D5VHC/psa_logo.jpg" />
+            <img src="https://blog.nus.edu.sg/computingcareerfair/files/formidable/19/3D-PSA-Logo-19lqaos.png" />
             <div class="card-event-infos">
-              <h2>Port of Singapore Authority (PSA) - Green Port Conversation “Energy Resilience for Sustainable Growth – Strategies and Challenges for Singapore and the Industries” </h2>
+              <h2>PSA Corporation Limited - Green Port Conversation “Energy Resilience for Sustainable Growth – Strategies and Challenges for Singapore and the Industries” </h2>
                 <p>13 July</p>
             </div>
           </div>
