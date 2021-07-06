@@ -455,7 +455,7 @@ permalink: /climate-action-week/
    <div class="card-event">
           <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
           <div class="card-event-infos">
-            <h2><a href="https://www.eventbrite.sg/e/online-art-and-sharing-tree-of-life-tickets-161868155009" class="external-link">Now Here - Tree of Life: Open Discussion Simple Exercises on the Skills of Compassion for Self, Others and the Earth)</a></h2>
+            <h2><a href="https://www.eventbrite.sg/e/online-art-and-sharing-tree-of-life-tickets-161868155009" class="external-link">Now Here - Tree of Life: Open Discussion Simple Exercises on the Skills of Compassion for Self, Others and the Earth</a></h2>
               <p>17 July</p>
           </div>
         </div>
