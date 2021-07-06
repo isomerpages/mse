@@ -357,7 +357,7 @@ permalink: /climate-action-week/
   <div class="card-event">
           <img src="https://images.squarespace-cdn.com/content/v1/5aa9ddb5697a985c81244bbb/1596710188290-LAOBJSBKEMP0HGZKIM1X/NowHere_Primary_White.png?format=1500w" />
           <div class="card-event-infos">
-            <h2><a href="https://www.eventbrite.sg/e/the-essential-ingredient-to-achieve-success-in-sustainability-tickets-161864961457" class="external-link">The Essential Ingredients to Achieve Success in Sustainability</a></h2>
+            <h2><a href="https://www.eventbrite.sg/e/the-essential-ingredient-to-achieve-success-in-sustainability-tickets-161864961457" class="external-link">Now Here - The Essential Ingredients to Achieve Success in Sustainability</a></h2>
               <p>14 and 15 July</p>
           </div>
         </div>
@@ -452,7 +452,13 @@ permalink: /climate-action-week/
               <p>17 July</p>
           </div>
         </div>
-        
+   <div class="card-event">
+          <img src="https://images.squarespace-cdn.com/content/v1/5aa9ddb5697a985c81244bbb/1596710188290-LAOBJSBKEMP0HGZKIM1X/NowHere_Primary_White.png?format=1500w" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.eventbrite.sg/e/online-art-and-sharing-tree-of-life-tickets-161868155009" class="external-link">Now Here - Tree of Life: Open Discussion Simple Exercises on the Skills of Compassion for Self, Others and the Earth)</a></h2>
+              <p>17 July</p>
+          </div>
+        </div>     
         </div>
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
