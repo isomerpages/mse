@@ -282,7 +282,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="../images/thumbnail.png" />
           <div class="card-event-infos">
-              <h2><a href="https://form.gov.sg/#!/60d1572a67a33b0011b8f368" class="external-link">MSE - Partners for the Environment Forum 2021</a></h2>
+              <h2><a href="https://www.facebook.com/MSEsingapore/posts/4373784832672705" class="external-link">MSE - Partners for the Environment Forum 2021</a></h2>
               <p>12 July</p>
           </div>
         </div>
@@ -302,6 +302,13 @@ permalink: /climate-action-week/
               <p>13 July</p>
           </div>
         </div>
+       <div class="card-event">
+            <img src="https://blog.nus.edu.sg/computingcareerfair/files/formidable/19/3D-PSA-Logo-19lqaos.png" />
+            <div class="card-event-infos">
+              <h2>PSA Corporation Limited - Green Port Conversation “Research and Innovation in Sustainability – Strategies and Challenges for Singapore and the Industries” </h2>
+                <p>13 July</p>
+            </div>
+          </div>           
         <div class="card-event">
           <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
           <div class="card-event-infos">
@@ -336,7 +343,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://www.regulationasia.com/wp-content/uploads/wwf.png" />
           <div class="card-event-infos">
-            <h2>WWF Singapore - Schools for Climate Action</h2>
+              <h2><a href="https://wwf.zoom.us/webinar/register/WN_k8bIxM2-SUaQcRQxWeasYw" class="external-link">WWF Singapore - Schools for Climate Action</a></h2>
               <p>14 July</p>
           </div>
         </div>
@@ -347,6 +354,20 @@ permalink: /climate-action-week/
               <p>14 July</p>
           </div>
         </div>
+  <div class="card-event">
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.eventbrite.sg/e/the-essential-ingredient-to-achieve-success-in-sustainability-tickets-161864961457" class="external-link">Now Here - The Essential Ingredients to Achieve Success in Sustainability</a></h2>
+              <p>14 and 15 July</p>
+          </div>
+        </div>
+       <div class="card-event">
+          <img src="https://www.dow.com/content/dcc/svg/icons/header_dow-logo-lockup--desktop.svg?v=1" />
+          <div class="card-event-infos">
+            <h2><a href="https://sport-sg.zoom.us/j/91040290787" class="external-link">Dow Singapore - Singapore Towards Circularity: Recycling Shoes Waste into Infrastructure Materials</a></h2>
+              <p>15 July</p>
+          </div>
+          </div>
         <div class="card-event">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ricoh_logo_2012.svg/400px-Ricoh_logo_2012.svg.png" />
           <div class="card-event-infos">
@@ -364,7 +385,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://www.regulationasia.com/wp-content/uploads/wwf.png" />
           <div class="card-event-infos">
-            <h2>WWF Singapore - Launch of Kosong Plan</h2>
+            <h2><a href="https://wwf.zoom.us/webinar/register/WN_3zBinbxtT8Gd4a0dcWOX1Q" class="external-link">WWF Singapore - Climate Actions in Singapore: How Impactful Are They and How Do You Influence Others</a></h2>
               <p>15 July</p>
           </div>
         </div>
@@ -431,13 +452,27 @@ permalink: /climate-action-week/
               <p>17 July</p>
           </div>
         </div>
-        <div class="card-event">
-            <img src="https://blog.nus.edu.sg/computingcareerfair/files/formidable/19/3D-PSA-Logo-19lqaos.png" />
-            <div class="card-event-infos">
-              <h2>PSA Corporation Limited - Green Port Conversation “Research and Innovation in Sustainability – Strategies and Challenges for Singapore and the Industries” </h2>
-                <p>13 July</p>
-            </div>
+   <div class="card-event">
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.eventbrite.sg/e/online-art-and-sharing-tree-of-life-tickets-161868155009" class="external-link">Now Here - Tree of Life: Open Discussion Simple Exercises on the Skills of Compassion for Self, Others and the Earth</a></h2>
+              <p>17 July</p>
           </div>
+        </div>
+        <div class="card-event">
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/136974558_3662470537122525_7674946067682058763_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=ektefdLfFasAX8c2xva&_nc_ht=scontent.fsin10-1.fna&oh=567c711245b4e54b42a272e4bf9e65bc&oe=60E885F5" />
+          <div class="card-event-infos">
+            <h2><a href="https://tinyurl.com/ClimateScienceWoodlandsYouth" class="external-link">Woodlands Youth Network - Biodiversity & Climate Change Workshop</a></h2>
+              <p>17 July</p>
+          </div>
+        </div> 
+         <div class="card-event">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/City_Developments_Limited_logo_-_text_bottom.svg/1200px-City_Developments_Limited_logo_-_text_bottom.svg.png" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.facebook.com/CDLsustainability/" class="external-link">City Developments Limited - Youth4Climate Concert</a></h2>
+              <p>18 July</p>
+          </div>
+        </div> 
         </div>
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
@@ -625,6 +660,27 @@ permalink: /climate-action-week/
                 <p>12-18 July</p>
             </div>
           </div>
+   <div class="card-event">
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.treasure-earth.global/" class="external-link">Treasure Earth: Sustainability In Your Pocket</a></h2>
+              <p>12-18 July</p>
+          </div>
+        </div>  
+   <div class="card-event">
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/59189132_1028479277340577_3342003186473893888_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=-vRZGq81I44AX9UVhGV&tn=F6Et3qSAusMALP5E&_nc_ht=scontent.fsin10-1.fna&oh=c343f39a8a55d795cdf284d31e2bb716&oe=60E83DF9" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.facebook.com/seastainable.co" class="external-link">Seastainable - Plastic Trash Wall</a></h2>
+              <p>12 July onwards</p>
+          </div>
+        </div> 
+ <div class="card-event">
+          <img src="https://www.susgain.com/wp-content/uploads/2021/05/susGain-Logo_200x200.png" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.susgain.com/" class="external-link">SusGain Take Climate Action Challenge</a></h2>
+              <p>12 July onwards</p>
+          </div>
+        </div> 
       </div>
               <!-- END OF SECOND OVERFLOW -->
   </section>
