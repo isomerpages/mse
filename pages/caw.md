@@ -666,7 +666,21 @@ permalink: /climate-action-week/
             <h2><a href="https://www.treasure-earth.global/" class="external-link">Treasure Earth: Sustainability In Your Pocket</a></h2>
               <p>12-18 July</p>
           </div>
-        </div>              
+        </div>  
+   <div class="card-event">
+          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/59189132_1028479277340577_3342003186473893888_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=-vRZGq81I44AX9UVhGV&tn=F6Et3qSAusMALP5E&_nc_ht=scontent.fsin10-1.fna&oh=c343f39a8a55d795cdf284d31e2bb716&oe=60E83DF9" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.facebook.com/seastainable.co" class="external-link">Seastainable - Plastic Trash Wall</a></h2>
+              <p>12 July onwards</p>
+          </div>
+        </div> 
+ <div class="card-event">
+          <img src="https://www.susgain.com/wp-content/uploads/2021/05/susGain-Logo_200x200.png" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.susgain.com/" class="external-link">SusGain Take Climate Action Challenge</a></h2>
+              <p>12 July onwards</p>
+          </div>
+        </div> 
       </div>
               <!-- END OF SECOND OVERFLOW -->
   </section>
