@@ -336,7 +336,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://www.regulationasia.com/wp-content/uploads/wwf.png" />
           <div class="card-event-infos">
-            <h2>WWF Singapore - Schools for Climate Action</h2>
+              <h2><a href="https://wwf.zoom.us/webinar/register/WN_k8bIxM2-SUaQcRQxWeasYw" class="external-link">WWF Singapore - Schools for Climate Action</a></h2>
               <p>14 July</p>
           </div>
         </div>
@@ -347,6 +347,12 @@ permalink: /climate-action-week/
               <p>14 July</p>
           </div>
         </div>
+       <div class="card-event">
+          <img src="https://www.dow.com/content/dcc/svg/icons/header_dow-logo-lockup--desktop.svg?v=1" />
+          <div class="card-event-infos">
+            <h2><a href="https://sport-sg.zoom.us/j/91040290787" class="external-link">Dow Singapore - Singapore Towards Circularity: Recycling Shoes Waste into Infrastructure Materials</a></h2>
+              <p>15 July</p>
+          </div>
         <div class="card-event">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ricoh_logo_2012.svg/400px-Ricoh_logo_2012.svg.png" />
           <div class="card-event-infos">
