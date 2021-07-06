@@ -282,7 +282,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="../images/thumbnail.png" />
           <div class="card-event-infos">
-              <h2><a href="https://form.gov.sg/#!/60d1572a67a33b0011b8f368" class="external-link">MSE - Partners for the Environment Forum 2021</a></h2>
+              <h2><a href="https://www.facebook.com/MSEsingapore/posts/4373784832672705" class="external-link">MSE - Partners for the Environment Forum 2021</a></h2>
               <p>12 July</p>
           </div>
         </div>
@@ -308,8 +308,7 @@ permalink: /climate-action-week/
               <h2>PSA Corporation Limited - Green Port Conversation “Research and Innovation in Sustainability – Strategies and Challenges for Singapore and the Industries” </h2>
                 <p>13 July</p>
             </div>
-          </div>   
-          
+          </div>           
         <div class="card-event">
           <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
           <div class="card-event-infos">
