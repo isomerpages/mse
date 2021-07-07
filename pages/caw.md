@@ -298,7 +298,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
           <div class="card-event-infos">
-            <h2><a href="https://web.sgbc.online/public/event/rsvp/218" class="external-link">Singapore Green Building Council Webinar on Climate Change Adaptation & Sustainability Leadership</a></h2>
+            <h2><a href="https://web.sgbc.online/public/event/rsvp/218" class="external-link">Singapore Green Building Council Webinar - Understanding the Living Building Challenge & WELL Certification</a></h2>
               <p>13 July</p>
           </div>
         </div>
@@ -386,13 +386,6 @@ permalink: /climate-action-week/
           <img src="https://www.regulationasia.com/wp-content/uploads/wwf.png" />
           <div class="card-event-infos">
             <h2><a href="https://wwf.zoom.us/webinar/register/WN_3zBinbxtT8Gd4a0dcWOX1Q" class="external-link">WWF Singapore - Climate Actions in Singapore: How Impactful Are They and How Do You Influence Others</a></h2>
-              <p>15 July</p>
-          </div>
-        </div>
-        <div class="card-event">
-          <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
-          <div class="card-event-infos">
-            <h2>Singapore Green Building Council - Joint Webinar with HDB-BRI on Smart & Sustainable Living</h2>
               <p>15 July</p>
           </div>
         </div>
