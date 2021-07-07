@@ -619,9 +619,9 @@ permalink: /climate-action-week/
             </div>
           </div>
           <div class="card-event">
-            <img src="https://1000logos.net/wp-content/uploads/2020/05/Micron-Loog.png" />
+            <img src="../images/micron.png" />
             <div class="card-event-infos">
-              <h2>Micron - Climate Action Week Campaign</h2>
+                <h2><a href="https://www.micron.com/about/our-commitment/operating-thoughtfully/sustainability" class="external-link">Micron - Staff Engagement on Sustainability at Work and at Home</a></h2>
                 <p>12-18 July</p>
             </div>
           </div>
