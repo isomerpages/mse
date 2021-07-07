@@ -1,26 +1,26 @@
 ---
 title: Response Session to the Citizens' Workgroup on Reducing the Excessive Consumption of Disposables
-permalink: /resource-room/category/2021-04-11-speech-at-the-response-session-to-the-citizens-workgroup-on-reducing-the-excessive-consumption-of-disposables
+permalink: /resource-room/category/2021-04-10-speech-at-the-response-session-to-the-citizens-workgroup-on-reducing-the-excessive-consumption-of-disposables/
 image:
 file_url:
 description:
 ---
 
-#### Opening Remarks by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Response Session of the Citizens’ Workgroup on Reducing Excessive Consumption of Disposables   
+#### Opening Remarks by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Response Session to the Citizens’ Workgroup on Reducing Excessive Consumption of Disposables   
 
 1 A very warm welcome to our Citizens' Workgroup participants and partners, both at MSE Hall and the Lifelong Learning Institute, as well as members of the public viewing this on Facebook Live. It is good to see all of you.  
  
-Partnering the Public to Tackle Complex Issues  
+**Partnering the Public to Tackle Complex Issues**
  
 2 NEA convened this Citizens' Workgroup last year, in the spirit of SG Together, to address the excessive consumption of disposables in Singapore. I participated in many of the sessions and witnessed your keen involvement and enthusiasm. Everyone actively contributed and exchanged insights, knowledge, and diverse viewpoints. The Citizens’ Workgroup members carried out extensive research and conducted interviews with stakeholders and members of the public to better understand views and circumstances of people from different backgrounds. The Workgroup took care to consider the feedback received as members refined their recommendations, to address concerns and mitigate undesired consequences.  
  
 3 Thank you for your hard work throughout this journey. I am encouraged and inspired by your passion and commitment to build a more sustainable Singapore for our future generations.  
 
-Careful Deliberation of Recommendations  
+**Careful Deliberation of Recommendations**
  
 4 Since our last sharing session on 16 January, my colleagues and I have been hard at work reviewing your recommendations to improve how disposables are used and consumed in Singapore. As we proceed, there are also some trade-offs that must be addressed and balanced carefully. Let me briefly summarise our response.  
  
-5 My Ministry and the National Environment Agency (NEA) will support eight of your recommendations. We will consult and further develop them with the relevant stakeholders for implementation in some form. These include recommendations to publish definitive information on the excessive use of disposables in Singapore and bring about behavioural changes through education, nudges, and gamification. We agree that it is important to teach and instil sustainable attitudes and habits, especially from a young age. We also agree with the recommendations to support companies in their journey to reduce the use of disposables. This could be done by providing voluntary guidelines in the form of checklists for food and beverage (or F&B) businesses. It would also be useful to introduce some financial incentives and resources to help businesses and employees adopt sustainable practices.   
+5 My Ministry and the National Environment Agency (NEA) will support eight of your recommendations. We will consult and further develop them with the relevant stakeholders for implementation in some form. These include recommendations to publish definitive information on the excessive use of disposables in Singapore and bring about behavioural changes through education, nudges, and gamification. We agree that it is important to teach and instil sustainable attitudes and habits, especially from a young age. We also agree with the recommendations to support companies in their journey to reduce the use of disposables. This could be done by providing voluntary guidelines in the form of checklists for food and beverage (or F&B) businesses. It would also be useful to introduce some financial incentives and resources to help businesses and employees adopt sustainable practices.
 
 6 Recommendations that are relatively untested at large scale, such as rental systems for reusables, would require further study. We have seen some examples being piloted, such as F&B outlets under the barePack initiative, and welcome these ground-up efforts.   
 
@@ -34,7 +34,7 @@ Careful Deliberation of Recommendations
 
 11 Some existing hawker centres are also already onboard or will do so as they adopt the use of common crockery and centralised dishwashing services under the Productive Hawker Centres programme.  
 
-Mandatory Disposable Carrier Bag Charge  
+**Mandatory Disposable Carrier Bag Charge**
 
 12 One of the recommendations we support is a  charge for disposable carrier bags at supermarkets. When I spoke to you back in January, I had shared our considerations for not implementing a disposable bag charge in Singapore. Unlike many other countries, we do not land-fill untreated waste because of our land constraints, and we have in place stringent anti-littering and clean-up measures. This prevents waste such as single-use plastics from entering the environment. Disposable plastic bags are also necessary for the responsible and hygienic bagging of waste. These are very real considerations in the local context, which remain important. Nonetheless, we do recognise the need to do more to reduce the excessive consumption of disposables, including carrier bags.  
 
@@ -44,15 +44,14 @@ Mandatory Disposable Carrier Bag Charge
 
 15 My colleagues will share more details on our responses later, including projects that could be co-delivered with citizens, businesses and organisations.  
  
-Working with Citizens to Co-Create and Co-Deliver initiatives  
+**Working with Citizens to Co-Create and Co-Deliver initiatives**
  
 16 The diversity of recommendations we received shows that there is really no silver bullet in reducing the excessive consumption of disposables. We can approach the issue from multiple fronts. Most importantly, all stakeholders must play their part to catalyse long-term positive change.  
 
 17 To this end, we encourage interested organisations and individuals to refer to the Workgroup’s recommendations and our response report, and initiate projects of your own. My Ministry and the NEA will explore supporting such initiatives through our SG Eco Fund or other partnership funds.   
 
-Conclusion  
+**Conclusion**
  
 18 Once again, I would like to express my appreciation for members of the Citizens’ Workgroup for your valuable contributions. We hope you have found this Workgroup journey as meaningful as we have. We look forward to developing some of your recommendations for implementation, hand-in-hand with you.  
  
 Thank you.  
- 

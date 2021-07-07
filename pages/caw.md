@@ -272,12 +272,12 @@ permalink: /climate-action-week/
 <!-- EVENTS -->
 
   <section class="side">
-    <h4><strong><center>ONE-DAY EVENTS</center></strong></h4>
-        <!-- <div class="card-news" style="border:2px solid; border-radius:6px;">
+    <h4><strong><center>HIGHLIGHTS</center></strong></h4>
+        <div class="card-news" style="border:2px solid; border-radius:6px;">
             <div class="card-event-infos">
-              <p><strong><a href="" class="external-link">120 activities with over 60 partners. Click for full details.</a></strong></p>
+              <p><strong><a href="../resources/CAW_Events.pdf" class="external-link">This year, 60 partners are organising 120 activities during Climate Action Week. Click for full details.</a></strong></p>
             </div>
-        </div> -->
+        </div>
       <div class="overflow-container">
         <div class="card-event">
           <img src="../images/thumbnail.png" />
@@ -578,7 +578,7 @@ permalink: /climate-action-week/
           <div class="card-event">
             <img src="../images/taman.png" />
             <div class="card-event-infos">
-              <h2>Taman Jurong Youth Network - Taman Jurong Eco Series </h2>
+              <h2><a href="https://linktr.ee/tjecoseries" class="external-link">Taman Jurong Youth Network - Taman Jurong Eco Series</a></h2>
                 <p>1-30 July</p>
             </div>
           </div>
@@ -691,7 +691,7 @@ permalink: /climate-action-week/
     <h4><strong><center>RESOURCES</center></strong></h4>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><center style="margin:0;"><a href="../resources/caw-banners-posters.zip" class="external-link" >Help Publicise Climate Action Week </a></center></h5>
+          <h5><a href="../resources/caw-banners-posters.zip" class="external-link" >Help Publicise Climate Action Week </a></h5>
         </div>
       </div>
       <div class="card-news">
