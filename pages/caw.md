@@ -691,7 +691,7 @@ permalink: /climate-action-week/
     <h4><strong><center>RESOURCES</center></strong></h4>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><center style="margin:0;"><a href="../resources/caw-banners-posters.zip" class="external-link" >Help Publicise Climate Action Week </a></center></h5>
+          <h5><a href="../resources/caw-banners-posters.zip" class="external-link" >Help Publicise Climate Action Week </a></h5>
         </div>
       </div>
       <div class="card-news">
