@@ -273,17 +273,18 @@ permalink: /climate-action-week/
 
   <section class="side">
     <h4><strong><center>HIGHLIGHTS</center></strong></h4>
-        <div class="card-news" style="border:2px solid; border-radius:6px;">
-            <div class="card-event-infos">
-              <p><strong><a href="../resources/CAW_Events.pdf" class="external-link">This year, 60 partners are organising 120 activities during Climate Action Week. Click for full details.</a></strong></p>
+        <div class="card-news">
+            <div class="card-event-infos" style="display: flex; justify-content:center; flex-direction: column; text-align: center; margin-bottom: 0px;">
+                <strong>This year, 60 partners are organising 120 activities during Climate Action Week.</strong>
+              <a class="button_caw" href="../resources/CAW_Events.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
       <div class="overflow-container">
         <div class="card-event">
           <img src="../images/thumbnail.png" />
           <div class="card-event-infos">
-              <h2><a href="https://www.facebook.com/MSEsingapore/posts/4373784832672705" class="external-link">MSE - Partners for the Environment Forum 2021</a></h2>
-              <p>12 July</p>
+            <h2>MSE - Partners for the Environment Forum 2021</h2>
+            <a class="button_caw" href="https://www.facebook.com/MSEsingapore/posts/4373784832672705" target="_blank">Join the Facebook Event on 12 July</a>
           </div>
         </div>
 <!-- test modal -->
@@ -684,22 +685,22 @@ permalink: /climate-action-week/
     <h4><strong><center>RESOURCES</center></strong></h4>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="../resources/caw-banners-posters.zip" class="external-link" >Help Publicise Climate Action Week </a></h5>
+          <center><h5><a href="../resources/caw-banners-posters.zip" class="external-link" >Help Publicise Climate Action Week </a></h5></center>
         </div>
       </div>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="https://www.mse.gov.sg/take-action/individuals" class="external-link">Take Action Today</a></h5>
+          <center><h5><a href="https://www.mse.gov.sg/take-action/individuals" class="external-link">Take Action Today</a></h5></center>
         </div>
       </div>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="http://greenplan.gov.sg/" class="external-link">Join the Green Plan </a></h5>
+          <center><h5><a href="http://greenplan.gov.sg/" class="external-link">Join the Green Plan </a></h5></center>
         </div>
       </div>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="https://www.mse.gov.sg/resources/" class="external-link">View More Resources </a></h5>
+          <center><h5><a href="https://www.mse.gov.sg/resources/" class="external-link">View More Resources </a></h5></center>
         </div>
       </div>
   </section>
