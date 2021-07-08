@@ -283,8 +283,8 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="../images/thumbnail.png" />
           <div class="card-event-infos">
-            <h2><a href="https://www.facebook.com/MSEsingapore/posts/4373784832672705" class="external-link">MSE - Partners for the Environment Forum 2021</a></h2>
-            <a class="button_caw" href="../resources/CAW_Events.pdf" target="_blank">Join the Facebook Event on 12 July</a>
+            <h2>MSE - Partners for the Environment Forum 2021</h2>
+            <a class="button_caw" href="https://www.facebook.com/MSEsingapore/posts/4373784832672705" target="_blank">Join the Facebook Event on 12 July</a>
           </div>
         </div>
 <!-- test modal -->
