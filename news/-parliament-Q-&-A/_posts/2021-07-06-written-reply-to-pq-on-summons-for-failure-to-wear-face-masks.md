@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Summons for Failure to Wear Face Masks by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2021-07-06-written-reply-to-pq-on-summons-for-failure-to-wear-face-masks.md
+permalink: /resource-room/category/2021-07-06-written-reply-to-pq-on-summons-for-failure-to-wear-face-masks/
 image:  
 file_url:  
 description:  
