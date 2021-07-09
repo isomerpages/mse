@@ -275,7 +275,7 @@ permalink: /climate-action-week/
     <h4><strong><center>HIGHLIGHTS</center></strong></h4>
         <div class="card-news">
             <div class="card-event-infos" style="display: flex; justify-content:center; flex-direction: column; text-align: center; margin-bottom: 0px;">
-                <strong>This year, 60 partners are organising 120 activities during Climate Action Week.</strong>
+                <strong>This year, 60 partners are organising 130 activities during Climate Action Week.</strong>
               <a class="button_caw" href="../resources/CAW_Events.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
