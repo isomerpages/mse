@@ -54,4 +54,4 @@ The European Union is a close and strong partner in our fight against climate ch
 <sup>4</sup>More information on Singapore&#39;s collaboration with international partners on climate action can be found at this [link](https://www.nccs.gov.sg/singapores-climate-action/singapore-and-international-efforts/).
 
 
-*Annex information viewable by clicking [here](../../resources/press-release-2021-07-08-annex.pdf)*
+*Annex information viewable by clicking [here](/resources/press-release-2021-07-08-annex.pdf)*
