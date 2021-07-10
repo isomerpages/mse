@@ -260,13 +260,13 @@ permalink: /climate-action-week/
           <h5>Press Release on GreenGov.SG </h5>
             <p>12 July</p>
         </div>
-      </div>
+      </div> -->
       <div class="card-news">
         <div class="card-event-infos">
-        <h5><a href="" class="external-link">
+        <h5><a href="https://www.tiktok.com/tag/EcoFaceOff" class="external-link">
         <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-white-1-1.svg" alt="CAW Tiktok Challenge" style="width:3em;height:3em;margin-bottom:1em;margin-top:0.9em;">Join our Tiktok Face-off Challenge!</a></h5>
         </div>
-      </div> -->
+      </div>
   </article>
 
 <!-- EVENTS -->
