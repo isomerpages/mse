@@ -56,3 +56,7 @@ c)	**Excite** public officers to contribute actively to sustainability in Singap
 <sup>2</sup> *Water used per person per day.*<br>
 <sup>3</sup> *Waste disposed of per person per day.*<br>
 <sup>4</sup> *The baseline for energy and water takes into account operations under pandemic circumstances, while the baseline for waste is aligned with the timeline to implement standardised waste measurement for all public waste collection contracts.*<br>
+
+<br>
+
+![Infographic](../../resources/greengov-infographic.pdf)
