@@ -249,7 +249,7 @@ permalink: /climate-action-week/
 <!-- NEWS -->
   <article class="main">
     <h4><strong><center>NEWS</center></strong></h4>
-      <!-- <div class="card-news">
+      <div class="card-news">
         <div class="card-event-infos">
           <h5><a href="url" class="external-link">Press Release on Climate Action Week </a></h5>
             <p>12 July</p>
@@ -257,10 +257,10 @@ permalink: /climate-action-week/
       </div>
       <div class="card-news">
         <div class="card-event-infos">
-          <h5>Press Release on GreenGov.SG </h5>
+          <h5><a href="/resource-room/category/2021-07-12-opening-address-at-the-partners-for-the-environment-forum" class="external-link">Speech by Ms Grace Fu at the Partners for the Environment Forum </a></h5>
             <p>12 July</p>
         </div>
-      </div> -->
+      </div>
       <div class="card-news">
         <div class="card-event-infos">
         <h5><a href="https://www.tiktok.com/tag/EcoFaceOff" class="external-link">
