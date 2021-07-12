@@ -6,6 +6,8 @@ file_url:
 description:  
 ---  
 
+<img src="../../images/greengovlogo1.png" style="max-width:30vw;">
+
 **GREENGOV.SG MOVEMENT SETS NEW MEASURES AND TARGETS TO CUT CARBON EMISSIONS ACROSS PUBLIC SECTOR**
 
 **12 JULY 2021 – GreenGov.SG**, the public sector’s new sustainability movement, was officially launched today by Ms Grace Fu, Minister for Sustainability and the Environment (MSE), at the **Partners for the Environment (PFE) Forum** held during **Climate Action Week 2021**. This movement is a key enabler of the national sustainability agenda mapped out in the Singapore Green Plan 2030. 
