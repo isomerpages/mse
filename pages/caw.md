@@ -351,7 +351,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/City_Developments_Limited_logo_-_text_bottom.svg/1200px-City_Developments_Limited_logo_-_text_bottom.svg.png" />
           <div class="card-event-infos">
-            <h2>CDL - Launch of Climate Action Exhibition “Change the Present, Save the Future”</h2>
+            <h2>CDL - Launch of Climate Action Exhibition “Change the Present, Save the Future” at Net Zero CDL Green Gallery</h2>
               <p>14 July</p>
           </div>
         </div>
@@ -365,7 +365,7 @@ permalink: /climate-action-week/
        <div class="card-event">
           <img src="https://www.dow.com/content/dcc/svg/icons/header_dow-logo-lockup--desktop.svg?v=1" />
           <div class="card-event-infos">
-            <h2><a href="https://sport-sg.zoom.us/j/91040290787" class="external-link">Dow Singapore - Singapore Towards Circularity: Recycling Shoes Waste into Infrastructure Materials</a></h2>
+            <h2><a href="https://sport-sg.zoom.us/j/91040290787" class="external-link">SportSG & Dow – Singapore Towards Circularity: Recycling shoe waste into infrastructure materials</a></h2>
               <p>15 July</p>
           </div>
           </div>
@@ -419,13 +419,6 @@ permalink: /climate-action-week/
           </div>
         </div>
         <div class="card-event">
-          <img src="https://susscribe.com/issue-46/wp-content/uploads/2019/03/The-Eco-Statement.jpg" />
-          <div class="card-event-infos">
-            <h2><a href="https://www.facebook.com/theecostatement" class="external-link">The Eco-Statement - Game of Recycling - A game-based workshop on recycling</a></h2>
-              <p>17 July</p>
-          </div>
-        </div>
-        <div class="card-event">
           <img src="https://eventnook.s3.amazonaws.com/u/63753/coverimage_1603284234074_tp_logo.png" />
           <div class="card-event-infos">
             <h2><a href="https://www.facebook.com/CourtRC/posts/2970727956549849" class="external-link">Temasek Poly Green Interest Student Group & Rivervale Court Residents’ Network - Workshop on upcycling</a></h2>
@@ -466,7 +459,28 @@ permalink: /climate-action-week/
             <h2><a href="https://www.facebook.com/CDLsustainability/" class="external-link">City Developments Limited - Youth4Climate Concert</a></h2>
               <p>18 July</p>
           </div>
-        </div> 
+        </div>
+        <div class="card-event">
+          <img src="" />
+          <div class="card-event-infos">
+            <h2>The Sustainability Project - Beeswax Wrap Making & Deodorant Bar Making Workshop</h2>
+              <p></p>
+          </div>
+        </div>
+        <div class="card-event">
+          <img src="" />
+          <div class="card-event-infos">
+            <h2>Ocean Purpose Project - Creating a sustainable Pasir Ris by protecting our white sands</h2>
+              <p>14 July</p>
+          </div>
+        </div>
+          <div class="card-event">
+          <img src="" />
+          <div class="card-event-infos">
+            <h2>Our Green Moca - ABCs of Microgreens for Kids and Beginners and Keep Pek Kio Clean</h2>
+              <p>17-18 July</p>
+          </div>
+        </div>
         </div>
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
@@ -594,7 +608,7 @@ permalink: /climate-action-week/
           <div class="card-event">
             <img src="https://www.logosurfer.com/wp-content/uploads/2018/03/Shimizu20Logo.jpg" />
             <div class="card-event-infos">
-              <h2>Shimizu Corporation - Annual Tree Planting 2021 and "Bring Your Own" campaign</h2>
+              <h2>Shimizu Corporation – Annual Tree Planting 2021</h2>
                 <p>12-18 July</p>
             </div>
           </div>
@@ -608,7 +622,7 @@ permalink: /climate-action-week/
           <div class="card-event">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ricoh_logo_2012.svg/400px-Ricoh_logo_2012.svg.png" />
             <div class="card-event-infos">
-              <h2>Ricoh Asia Pacific - Facing our Footprint - Social Media Outreach</h2>
+              <h2>Ricoh Asia Pacific - Facing our Footprint - Social Media Outreach & Collaborations with Green Monday and Green Common</h2>
                 <p>5-25 July</p>
             </div>
           </div>
@@ -673,6 +687,13 @@ permalink: /climate-action-week/
           <div class="card-event-infos">
             <h2><a href="https://www.susgain.com/" class="external-link">SusGain Take Climate Action Challenge</a></h2>
               <p>12 July onwards</p>
+          </div>
+        </div> 
+ <div class="card-event">
+          <img src="" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.susgain.com/" class="external-link">ITE College West - Give your tetrapak a second chance and learn how to upcycle your tetrapak into a wallet!</a></h2>
+              <p></p>
           </div>
         </div> 
       </div>
