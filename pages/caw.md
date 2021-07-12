@@ -356,7 +356,7 @@ permalink: /climate-action-week/
           </div>
         </div>
   <div class="card-event">
-          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
+          <img src="" />
           <div class="card-event-infos">
             <h2><a href="https://www.eventbrite.sg/e/the-essential-ingredient-to-achieve-success-in-sustainability-tickets-161864961457" class="external-link">Now Here - The Essential Ingredients to Achieve Success in Sustainability</a></h2>
               <p>14 and 15 July</p>
@@ -440,14 +440,14 @@ permalink: /climate-action-week/
           </div>
         </div>
    <div class="card-event">
-          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
+          <img src="" />
           <div class="card-event-infos">
             <h2><a href="https://www.eventbrite.sg/e/online-art-and-sharing-tree-of-life-tickets-161868155009" class="external-link">Now Here - Tree of Life: Open Discussion Simple Exercises on the Skills of Compassion for Self, Others and the Earth</a></h2>
               <p>17 July</p>
           </div>
         </div>
         <div class="card-event">
-          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/136974558_3662470537122525_7674946067682058763_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=ektefdLfFasAX8c2xva&_nc_ht=scontent.fsin10-1.fna&oh=567c711245b4e54b42a272e4bf9e65bc&oe=60E885F5" />
+          <img src="" />
           <div class="card-event-infos">
             <h2><a href="https://tinyurl.com/ClimateScienceWoodlandsYouth" class="external-link">Woodlands Youth Network - Biodiversity & Climate Change Workshop</a></h2>
               <p>17 July</p>
@@ -669,14 +669,14 @@ permalink: /climate-action-week/
             </div>
           </div>
    <div class="card-event">
-          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/31143772_1813311932296768_3180299454485889024_n.png?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Qftw7BsTGLsAX9VQQlB&_nc_ht=scontent.fsin10-1.fna&oh=e182a0454570e1b82e4cdac2a83eba56&oe=60E88073" />
+          <img src="" />
           <div class="card-event-infos">
             <h2><a href="https://www.treasure-earth.global/" class="external-link">Treasure Earth: Sustainability In Your Pocket</a></h2>
               <p>12-18 July</p>
           </div>
         </div>  
    <div class="card-event">
-          <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/59189132_1028479277340577_3342003186473893888_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=-vRZGq81I44AX9UVhGV&tn=F6Et3qSAusMALP5E&_nc_ht=scontent.fsin10-1.fna&oh=c343f39a8a55d795cdf284d31e2bb716&oe=60E83DF9" />
+          <img src="" />
           <div class="card-event-infos">
             <h2><a href="https://www.facebook.com/seastainable.co" class="external-link">Seastainable - Plastic Trash Wall</a></h2>
               <p>12 July onwards</p>
