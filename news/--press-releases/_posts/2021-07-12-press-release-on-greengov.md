@@ -59,4 +59,4 @@ c)	**Excite** public officers to contribute actively to sustainability in Singap
 
 <br>
 
-![Infographic](../../resources/greengov-infographic.pdf)
+[View GreenGovSG Infographic](../../resources/greengov-infographic.pdf)
