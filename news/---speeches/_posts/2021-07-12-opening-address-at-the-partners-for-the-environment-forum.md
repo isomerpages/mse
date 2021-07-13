@@ -12,7 +12,7 @@ description:
 
 Ladies and Gentlemen,
 
-Good morning and welcome to the Partners for the Environment Forum. This is a key platform for MSE and our People, Private and Public sector partners to come together to discuss environmental sustainability issues and co-create solutions. Such collective action is crucial as we face the defining crisis of our generation – climate change.
+Good morning and welcome to the Partners for the Environment Forum. This is a key platform for MSE and our partners to come together to discuss environmental sustainability issues and co-create solutions. Such collective action is crucial as we face the defining crisis of our generation – climate change.
 
 **CLIMATE CHANGE – AN EXISTENTIAL CHALLENGE DEFINING OUR GENERATION**
 
@@ -20,11 +20,11 @@ Good morning and welcome to the Partners for the Environment Forum. This is a ke
 
 3	The urgency to act has never been stronger. Governments worldwide recognise the costs that climate change will inflict and the need for concerted action to turn the tide. 
 
-4	Singapore is firmly committed to tackling climate change. While we contribute around 0.1 per cent of global emissions, the impact of climate change on us is disproportionately large. Climate change poses an existential and asymmetrical challenge to Singapore.  
+4	Singapore is firmly committed to tackling climate change. While we contribute only 0.1 per cent of global emissions, the impact of climate change on us is disproportionately large. Climate change poses an existential and asymmetrical challenge to Singapore.  
 
 5	Last year, we submitted our enhanced 2030 Nationally Determined Contribution and our Long-Term Low-Emissions Development Strategy under the Paris Agreement. We will continue to take bold actions and review our climate goals with the aim of achieving net zero emissions as soon as viable. We have been working actively within ASEAN and the broader international community to deliver a global response to climate change, and contribute to the UN 2030 Agenda for Sustainable Development. 
 
-6	Domestically, we have been planning and implementing measures to transition Singapore to a low-carbon and climate resilient future.  
+6	Domestically, we have been planning and implementing measures to transit Singapore to a low-carbon and climate resilient future.  
 
 a.	As a small city-state with limited alternative energy sources, land and manpower, we are constantly balancing trade-offs that are much starker and harder than what most countries face.
 
@@ -44,7 +44,7 @@ e.	Finding the right pace and balance in our policies and actions is critical fo
 
 9	But we must do more. The public sector has a responsibility to set the pace in sustainability, drive innovation and create demand. 
 
-10	GreenGov.SG will raise the bar on sustainability through three pillars:
+10	GreenGov.SG will raise the bar on sustainability through three pillars, or three 'E's:
 
 a.	First, we will **Excel** with new and more ambitious targets.
 
@@ -64,7 +64,7 @@ c.	Third, we will **Excite** public officers to contribute actively to sustainab
 
 13	We will set new targets for buildings, information technology, transport and solar, which are more ambitious than our national goals.   
 
-a.	All new and existing public sector buildings upon retrofitting will achieve the best-in-class standard for buildings, which is the Green Mark Platinum (Super Low Energy) standard or equivalent.
+a.	Our new and existing public sector buildings upon retrofitting will achieve the best-in-class standard for buildings, which is the Green Mark Platinum (Super Low Energy) standard or equivalent.
 
 b.	All government data centres will achieve the Green Mark Platinum standard by 2025.
 
@@ -74,7 +74,7 @@ d.	By 2030, the public sector will increase solar energy deployment to 1.5 gigaw
 
 14	We will set challenging goals for energy, water and waste. 
 
-a.	We aim to reduce the energy and water use in 2030 by 10 per cent from the average of last three years.
+a.	We aim to reduce the energy and water use by 2030 by 10 per cent from the average of last three years.
 
 b.	For waste, we target to reduce the amount of waste disposed of per person by 30 per cent by 2030, from 2022 levels. 
 
@@ -90,7 +90,7 @@ b.	For defence, the SAF Sustainability Office will drive the planning and implem
 
 **ENABLE – EMBEDDING SUSTAINABILITY IN OUR CORE BUSINESS AREAS**
 
-17	The second pillar, how the public sector can Enable a green economy and green citizenry. We will catalyse the development of the sustainability sector through policy making and procurement; we will activate demand for low-carbon and resource-efficient technologies; and we strive to enhance Singapore’s economic competitiveness in a low-carbon future. 
+17	The second 'E', how the public sector can Enable a green economy and green citizenry. We will catalyse the development of the sustainability sector through policy making and procurement; we will activate demand for low-carbon and resource-efficient technologies; and we strive to enhance Singapore’s economic competitiveness in a low-carbon future. 
 
 *Policies and Programmes to Promote Sustainability*
 
@@ -128,7 +128,7 @@ b.	To help our industries improve energy and carbon efficiency, we have enhanced
 
 **EXCITE – BUILDING A CULTURE OF SUSTAINABILITY**  
 
-30	Finally, through the Excite pillar of GreenGov.SG, we aim to grow a culture of sustainability in the public service and encourage public officers to practise sustainability in their work and daily lives.
+30	Finally, the third 'E' of Excite, we aim to grow a culture of sustainability in the public service and encourage public officers to practise sustainability in their work and daily lives.
 
 31	Sustainability is a key plank of public sector transformation, and public sector leaders will have opportunities to exchange ideas and best practices with one another and with their officers to foster collective ownership of our sustainability drive.
 
@@ -144,7 +144,7 @@ b.	To help our industries improve energy and carbon efficiency, we have enhanced
 
 36	Every Singaporean has a voice in our sustainability journey. We have launched a series of Green Plan Conversations to spark meaningful discussions on how the community can contribute in its own way to climate action. I am inspired by the passion that people from all walks of life have shown towards this topic. 
 
-37	We will empower citizens to contribute in concrete, actionable ways. Two months ago, we announced the awarded recipients for the SG Eco Fund’s first grant call. Thirty-seven projects will receive S$3.7 million of funding in total. These cover a broad spectrum of actions, ranging from waste management and urban farming to public cleanliness and low-carbon solutions. 
+37	We will empower citizens to contribute in concrete and actionable ways. Two months ago, we announced the awarded recipients for the SG Eco Fund’s first grant call. Thirty-seven projects will receive S$3.7 million of funding in total. These cover a broad spectrum of actions, ranging from waste management and urban farming to public cleanliness and low-carbon solutions. 
 
 38	I encourage all our partners to bring forth good ideas, and take action with your partners, stakeholders and community.
 
@@ -156,7 +156,9 @@ b.	To help our industries improve energy and carbon efficiency, we have enhanced
 
 41	But the Government cannot do this alone. We need scientists to conduct research and development of new technologies, vendors to bring in more green products, and companies to invest in sustainability capabilities. We need our citizens to translate commitment into daily action, and drive sustainability on the ground. The Government can set the policies, but the energy to bring about concrete change must come from all of us – business leaders who want to produce their goods and services in a more resilient and sustainable way, parents who wish to leave behind a better world for their children, and individuals who care for the environment we all inhabit. Every one of us have our part to play. 
 
-42	Let us all join hands to build a greener and stronger Singapore.
+42	Let us all join hands to build a greener and stronger Singapore. Let us commit to making the Singapore Green Plan a reality.
+
+43  Thank you
 
 <br>
 
