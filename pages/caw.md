@@ -442,7 +442,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <!-- <img src="" /> -->
           <div class="card-event-infos">
-            <h2><a href="https://thesustainabilityproject.life/shop/product-category/workshops/">The Sustainability Project - Beeswax Wrap Making & Deodorant Bar Making Workshop</a></h2>
+            <h2><a href="https://thesustainabilityproject.life/shop/product-category/workshops/" class="external-link">The Sustainability Project - Beeswax Wrap Making & Deodorant Bar Making Workshop</a></h2>
               <p></p>
           </div>
         </div>
@@ -566,7 +566,7 @@ permalink: /climate-action-week/
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBAP-XeAUJIxboNC6mq3s7974evWAhOILoVA&usqp=CAU" />
           <img src="https://eventnook.s3.amazonaws.com/u/63753/coverimage_1603284234074_tp_logo.png" />
             <div class="card-event-infos">
-              <h2>Singapore Youth for Climate Action & Temasek Polytechnic student group campaigns - <a href="https://www.instagram.com/ofad.tp/" class="external-link">Our Fight Against Dengue"</a> & <a href="https://www.instagram.com/energyliticalsg/" class="extenral-link">Energylitical"</a></h2>
+              <h2>Singapore Youth for Climate Action & Temasek Polytechnic student group campaigns - <a href="https://www.instagram.com/ofad.tp/" class="external-link">Our Fight Against Dengue"</a> & <a href="https://www.instagram.com/energyliticalsg/" class="external-link">Energylitical"</a></h2>
                 <p>12-18 July</p>
             </div>
           </div>
@@ -615,7 +615,7 @@ permalink: /climate-action-week/
           <div class="card-event">
             <img src="https://cdn.ek.aero/sg/english/images/Novotel_hsr_275_tcm289-3284955.png" />
             <div class="card-event-infos">
-              <h2><a href="https://www.sustainablestevens.com/take-action">Novotel Hotel - Promotional Menu & Green deals</h2>
+              <h2><a href="https://www.sustainablestevens.com/take-action">Novotel Hotel - Promotional Menu & Green deals</a></h2>
                 <p>12-18 July</a></p>
             </div>
           </div>
