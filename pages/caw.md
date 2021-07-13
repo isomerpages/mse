@@ -290,13 +290,6 @@ permalink: /climate-action-week/
 <!-- test modal -->
 <!-- test modal -->
         <div class="card-event">
-          <img src="https://www.thatballoons.com/wp-content/uploads/2018/02/MBS-Logo-1024x304.jpg" />
-          <div class="card-event-infos">
-            <h2>MBS - Climate Action Week Trainings</h2>
-              <p>12 July</p>
-          </div>
-        </div>
-        <div class="card-event">
           <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
           <div class="card-event-infos">
             <h2><a href="https://web.sgbc.online/public/event/rsvp/218" class="external-link">Singapore Green Building Council Webinar - Understanding the Living Building Challenge & WELL Certification</a></h2>
@@ -306,7 +299,7 @@ permalink: /climate-action-week/
        <div class="card-event">
             <img src="https://blog.nus.edu.sg/computingcareerfair/files/formidable/19/3D-PSA-Logo-19lqaos.png" />
             <div class="card-event-infos">
-              <h2>PSA Corporation Limited - Green Port Conversation “Research and Innovation in Sustainability – Strategies and Challenges for Singapore and the Industries” </h2>
+              <h2>PSA Corporation Limited – e-Waste Recycling Drive, Sustainability Pledge Video Cascade, e-publications and launch of PSA Singapore Sustainability Narrative infographic </h2>
                 <p>13 July</p>
             </div>
           </div>           
@@ -314,7 +307,7 @@ permalink: /climate-action-week/
           <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
           <div class="card-event-infos">
             <!-- <a href="#open-modal"></a> -->
-            <h2>Grab - Regional Green Programme & JustGrab Green</h2>
+            <h2><a href="https://www.grab.com/sg/press/others/grab-singapore-announces-transport-sustainability-goal-as-part-of-its-grabforgood-initiative-aims-for-a-full-fleet-running-on-cleaner-energy-by-2030/" class="external-link">Grab - Regional Green Programme & JustGrab Green</a></h2>
             <p>14 July</p>
           </div>
               <!-- <div id="open-modal" class="modal-window">
@@ -326,13 +319,6 @@ permalink: /climate-action-week/
                   <a href="#modal-close" title="Close" class="modal-close">CLOSE &times;</a>
               </div>
           </div> -->
-        </div>
-        <div class="card-event">
-          <img src="https://anchorgreenpri.moe.edu.sg/qql/slot/u530/About%20AGPS/School%20Info/Crest%20&%20Motto/AGPS%20SCHOOL%20CREST.jpg" />
-          <div class="card-event-infos">
-            <h2>Anchor Green Primary School - Climate Action Week school activity</h2>
-              <p>13 July, 27 July</p>
-          </div>
         </div>
         <div class="card-event">
           <img src="https://asi.sutd.edu.sg/wp-content/themes/asi-avada/assets/images/sutd-asi-logo-web-2021-fc.png" />
@@ -365,7 +351,7 @@ permalink: /climate-action-week/
        <div class="card-event">
           <img src="https://www.dow.com/content/dcc/svg/icons/header_dow-logo-lockup--desktop.svg?v=1" />
           <div class="card-event-infos">
-            <h2><a href="https://sport-sg.zoom.us/j/91040290787" class="external-link">SportSG & Dow – Singapore Towards Circularity: Recycling shoe waste into infrastructure materials</a></h2>
+            <h2><a href="../images/dow-recycling.png" class="external-link">SportSG & Dow – Singapore Towards Circularity: Recycling shoe waste into infrastructure materials</a></h2>
               <p>15 July</p>
           </div>
           </div>
@@ -401,13 +387,6 @@ permalink: /climate-action-week/
           <img src="https://yt3.ggpht.com/ytc/AAUvwnh3VHRdrowiLggEd2nIYqfFzYNwnkBF7iSTznem=s900-c-k-c0x00ffffff-no-rj" />
           <div class="card-event-infos">
             <h2><a href="http://bit.ly/ScientistQnA" class="external-link">NTU Earth Observatory of Singapore - ‘Ask a Scientist: Climate Change and Nature-Based Solutions</a></h2>
-              <p>16 July</p>
-          </div>
-        </div>
-        <div class="card-event">
-          <img src="https://www.where2learn.com/wp-content/uploads/2020/02/fengshan-primary-school.jpg" />
-          <div class="card-event-infos">
-            <h2>Fengshan Primary School Environmental Committee - "Adopt an edible plant"</h2>
               <p>16 July</p>
           </div>
         </div>
@@ -449,35 +428,35 @@ permalink: /climate-action-week/
         <div class="card-event">
           <!-- <img src="" /> -->
           <div class="card-event-infos">
-            <h2><a href="https://tinyurl.com/ClimateScienceWoodlandsYouth" class="external-link">Woodlands Youth Network - Biodiversity & Climate Change Workshop</a></h2>
+            <h2><a href="https://tinyurl.com/ClimateScienceWoodlandsYouth" class="external-link">ClimateScience SG - Biodiversity & Climate Change Workshop</a></h2>
               <p>17 July</p>
           </div>
         </div> 
          <div class="card-event">
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/City_Developments_Limited_logo_-_text_bottom.svg/1200px-City_Developments_Limited_logo_-_text_bottom.svg.png" />
           <div class="card-event-infos">
-            <h2><a href="https://www.facebook.com/CDLsustainability/" class="external-link">City Developments Limited - Youth4Climate Concert</a></h2>
+            <h2><a href="../images/cdl-concert.png" class="external-link">City Developments Limited - Youth4Climate Concert</a></h2>
               <p>18 July</p>
           </div>
         </div>
         <div class="card-event">
           <!-- <img src="" /> -->
           <div class="card-event-infos">
-            <h2>The Sustainability Project - Beeswax Wrap Making & Deodorant Bar Making Workshop</h2>
+            <h2><a href="https://thesustainabilityproject.life/shop/product-category/workshops/">The Sustainability Project - Beeswax Wrap Making & Deodorant Bar Making Workshop</a></h2>
               <p></p>
           </div>
         </div>
         <div class="card-event">
           <!-- <img src="" /> -->
           <div class="card-event-infos">
-            <h2>Ocean Purpose Project - Creating a sustainable Pasir Ris by protecting our white sands</h2>
+            <h2><a href="https://forms.gle/WjEPDHsSp1XAHkJ56" class="external-link">Ocean Purpose Project - Creating a sustainable Pasir Ris by protecting our white sands</a></h2>
               <p>14 July</p>
           </div>
         </div>
           <div class="card-event">
           <!-- <img src="" /> -->
           <div class="card-event-infos">
-            <h2>Our Green Moca - ABCs of Microgreens for Kids and Beginners and Keep Pek Kio Clean</h2>
+            <h2>Our Green Moca - <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiymdg7PM8H_iim10DlxlggDtf3rFYUbPPdz0bc7n_rdDJRA/viewform" class="external-link">ABCs of Microgreens for Kids and Beginners</a> and <a href="https://docs.google.com/forms/d/1w2APz47yxJlk6xoIx9Nk_PJwhM3CH0E_sal_JziywQc/edit?usp=sharing" class="external-link">Keep Pek Kio Clean</a></h2>
               <p>17-18 July</p>
           </div>
         </div>
@@ -485,7 +464,7 @@ permalink: /climate-action-week/
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
           <div class="overflow-container">
-          <div class="card-event">
+          <!-- <div class="card-event">
             <img src="https://sagesch.files.wordpress.com/2017/05/logo-nygh2.png" />
             <div class="card-event-infos">
               <h2>Nanyang Girls High School - Plastic bottle collection competition, upcycling competition, sustainable lifestyle and zero-waste programmes</h2>
@@ -568,19 +547,12 @@ permalink: /climate-action-week/
               <h2>Republic Polytechnic - Sustainable Living - Reduce waste and consumption, Reverse Vending Machine</h2>
                 <p>April - September 2021</p>
             </div>
-          </div>
+          </div> -->
           <div class="card-event">
             <img src="https://s3.ap-southeast-1.amazonaws.com/logos.form.gov.sg/1590560379953-SWCDC_Logo_FC_RGB_1080px.png" />
             <div class="card-event-infos">
               <h2>South-West Community Development Council (SWCDC) - Cooking Class for Community Gardeners, Green Schools Assembly Skit, Energy Conservation Posters by Junior Environment Ambassadors</h2>
                 <p>12-16 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://static.wixstatic.com/media/c1b31b_f5f3ba5d40df483088ecc481cbc30515~mv2.png/v1/fill/w_400,h_130,al_c,q_85,usm_0.66_1.00_0.01/Sembwaste%20Logo.webp" />
-            <div class="card-event-infos">
-              <h2>PA (MacPherson) & SembWaste - Cash-for-Trash Station for residents to bring down their recyclables</h2>
-                <p>3 July (1st Saturday of every month)</p>
             </div>
           </div>
           <div class="card-event">
@@ -594,7 +566,7 @@ permalink: /climate-action-week/
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBAP-XeAUJIxboNC6mq3s7974evWAhOILoVA&usqp=CAU" />
           <img src="https://eventnook.s3.amazonaws.com/u/63753/coverimage_1603284234074_tp_logo.png" />
             <div class="card-event-infos">
-              <h2>Singapore Youth for Climate Action & Temasek Polytechnic student group campaigns - "Our Fight Against Dengue" & "Reducing Energy Consumption"</h2>
+              <h2>Singapore Youth for Climate Action & Temasek Polytechnic student group campaigns - <a href="https://www.instagram.com/ofad.tp/" class="external-link">Our Fight Against Dengue"</a> & <a href="https://www.instagram.com/energyliticalsg/" class="extenral-link">Energylitical"</a></h2>
                 <p>12-18 July</p>
             </div>
           </div>
@@ -608,7 +580,7 @@ permalink: /climate-action-week/
           <div class="card-event">
             <img src="https://www.logosurfer.com/wp-content/uploads/2018/03/Shimizu20Logo.jpg" />
             <div class="card-event-infos">
-              <h2>Shimizu Corporation – Annual Tree Planting 2021</h2>
+              <h2><a href="https://www.giving.sg/garden-city-fund/shimizuannualtreeplanting2021">Shimizu Corporation – Annual Tree Planting 2021</a></h2>
                 <p>12-18 July</p>
             </div>
           </div>
@@ -643,8 +615,8 @@ permalink: /climate-action-week/
           <div class="card-event">
             <img src="https://cdn.ek.aero/sg/english/images/Novotel_hsr_275_tcm289-3284955.png" />
             <div class="card-event-infos">
-              <h2>Novotel Hotel - Promotional Menu & Green deals</h2>
-                <p>12-18 July</p>
+              <h2><a href="https://www.sustainablestevens.com/take-action">Novotel Hotel - Promotional Menu & Green deals</h2>
+                <p>12-18 July</a></p>
             </div>
           </div>
           <div class="card-event">
@@ -692,12 +664,47 @@ permalink: /climate-action-week/
  <div class="card-event">
           <!-- <img src="" /> -->
           <div class="card-event-infos">
-            <h2><a href="https://www.susgain.com/" class="external-link">ITE College West - Give your tetrapak a second chance and learn how to upcycle your tetrapak into a wallet!</a></h2>
-              <p></p>
+            <h2><a href="https://go.gov.sg/caw21-tetrapak-making" class="external-link">ITE College West - Give your tetrapak a second chance and learn how to upcycle your tetrapak into a wallet!</a></h2>
+              <p>12 July onwards</p>
           </div>
         </div> 
-      </div>
+ <div class="card-event">
+          <!-- <img src="" /> -->
+          <div class="card-event-infos">
+            <h2><a href="https://www.facebook.com/190894164298530/posts/4187535857967654/" class="external-link">Singapore Environment Council social media campaign</a></h2>
+              <p>12 July onwards</p>
+          </div>
+        </div>
+ <div class="card-event">
+          <!-- <img src="" /> -->
+          <div class="card-event-infos">
+            <h2>Park Hotel Group - Donation of upcycling materials, Sustainable lifestyle posts & Beach Clean-ups</h2>
+              <p>12 July onwards</p>
+          </div>
+        </div> 
+<div class="card-event">
+          <!-- <img src="" /> -->
+          <div class="card-event-infos">
+            <h2>Centre for Responsible Future - CRF x Climate Action Week 2021</h2>
+              <p>12 July onwards</p>
+          </div>
+        </div>
+ <div class="card-event">
+          <!-- <img src="" /> -->
+          <div class="card-event-infos">
+            <h2><a href="http://www.rafflessingapore.com/restaurant/long-bar/" class="external-link">Raffles Hotel Singapore - Reduce Carbon Footprint of Singapore Sling</a></h2>
+              <p>12 July onwards</p>
+          </div>
+        </div>
+ <div class="card-event">
+          <!-- <img src="" /> -->
+          <div class="card-event-infos">
+            <h2><a href="https://www.uobgroup.com/sustainability/uob-global-heartbeat-virtual-run-walk.html" class="external-link">UOB Global Heartbeat Pledge</a></h2>
+              <p>12 July onwards</p>
+          </div>
+        </div>
               <!-- END OF SECOND OVERFLOW -->
+      </div>
   </section>
 
 <!-- RESOURCES -->
