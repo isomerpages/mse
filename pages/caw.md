@@ -356,7 +356,7 @@ permalink: /climate-action-week/
           </div>
         </div>
   <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2><a href="https://www.eventbrite.sg/e/the-essential-ingredient-to-achieve-success-in-sustainability-tickets-161864961457" class="external-link">Now Here - The Essential Ingredients to Achieve Success in Sustainability</a></h2>
               <p>14 and 15 July</p>
@@ -440,14 +440,14 @@ permalink: /climate-action-week/
           </div>
         </div>
    <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2><a href="https://www.eventbrite.sg/e/online-art-and-sharing-tree-of-life-tickets-161868155009" class="external-link">Now Here - Tree of Life: Open Discussion Simple Exercises on the Skills of Compassion for Self, Others and the Earth</a></h2>
               <p>17 July</p>
           </div>
         </div>
         <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2><a href="https://tinyurl.com/ClimateScienceWoodlandsYouth" class="external-link">Woodlands Youth Network - Biodiversity & Climate Change Workshop</a></h2>
               <p>17 July</p>
@@ -461,21 +461,21 @@ permalink: /climate-action-week/
           </div>
         </div>
         <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2>The Sustainability Project - Beeswax Wrap Making & Deodorant Bar Making Workshop</h2>
               <p></p>
           </div>
         </div>
         <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2>Ocean Purpose Project - Creating a sustainable Pasir Ris by protecting our white sands</h2>
               <p>14 July</p>
           </div>
         </div>
           <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2>Our Green Moca - ABCs of Microgreens for Kids and Beginners and Keep Pek Kio Clean</h2>
               <p>17-18 July</p>
@@ -669,14 +669,14 @@ permalink: /climate-action-week/
             </div>
           </div>
    <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2><a href="https://www.treasure-earth.global/" class="external-link">Treasure Earth: Sustainability In Your Pocket</a></h2>
               <p>12-18 July</p>
           </div>
         </div>  
    <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2><a href="https://www.facebook.com/seastainable.co" class="external-link">Seastainable - Plastic Trash Wall</a></h2>
               <p>12 July onwards</p>
@@ -690,7 +690,7 @@ permalink: /climate-action-week/
           </div>
         </div> 
  <div class="card-event">
-          <img src="" />
+          <!-- <img src="" /> -->
           <div class="card-event-infos">
             <h2><a href="https://www.susgain.com/" class="external-link">ITE College West - Give your tetrapak a second chance and learn how to upcycle your tetrapak into a wallet!</a></h2>
               <p></p>
