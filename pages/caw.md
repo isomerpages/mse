@@ -284,7 +284,7 @@ permalink: /climate-action-week/
           <img src="../images/thumbnail.png" />
           <div class="card-event-infos">
             <h2>MSE - Partners for the Environment Forum 2021</h2>
-            <a class="button_caw" href="https://www.facebook.com/MSEsingapore/posts/4373784832672705" target="_blank">Join the Facebook Event on 12 July</a>
+            <a class="button_caw" href="https://www.facebook.com/events/1034775983592957" target="_blank">Join the Facebook Event on 12 July</a>
           </div>
         </div>
 <!-- test modal -->
