@@ -460,13 +460,6 @@ permalink: /climate-action-week/
               <p>17-18 July</p>
           </div>
         </div>
-         <div class="card-event">
-          <!-- <img src="" /> -->
-          <div class="card-event-infos">
-            <h2><a href="https://forms.gle/GTuUFotL8xe1kMBf7" class="external-link">The Eco Statement - Get into the Game of Recycling!</a></h2>
-              <p>17 July</p>
-          </div>
-        </div>
         </div>
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
@@ -713,8 +706,6 @@ permalink: /climate-action-week/
               <!-- END OF SECOND OVERFLOW -->
       </div>
   </section>
-
-Get into the Game of Recycling!
 
 <!-- RESOURCES -->
 
