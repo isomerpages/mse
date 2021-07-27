@@ -1,0 +1,22 @@
+---  
+title: Individual Responsibility Is Most Important In Preventing Spread of COVID-19; Enforcement Is Only One Lever 
+permalink: /resource-room/category/2021-07-20-joint-police-mse-press-release-individual-responsibility-important-in-preventing-covid/
+image:  
+file_url:  
+description:  
+---  
+**JOINT POLICE-MSE NEWS RELEASE**
+
+**INDIVIDUAL RESPONSIBILITY IS MOST IMPORTANT IN PREVENTING SPREAD OF COVID-19; ENFORCEMENT IS ONLY ONE LEVER**
+
+Pubs, bars, nightclubs, discotheques and karaoke lounges (collectively known as &quot;nightlife establishments&quot;) have not been allowed to operate in their original form since March 2020, as the nature of their activities poses a significantly higher risk of COVID-19 transmission. Following feedback from nightlife establishment operators that undergoing a formal change of use to F&amp;B would be too lengthy and costly a process, Government agencies rolled out a streamlined process in October 2020 to allow the operators to pivot to F&amp;B quickly and revert to their usual operations when the nightlife sector is able to reopen. This allows nightlife establishments to at least have some revenue in the meanwhile. To date, over 400 nightlife establishment operators have received the Singapore Food Agency&#39;s (SFA) food-shop or snack counter licence and temporarily pivoted to F&amp;B operations. Many of these pivoted establishments have fully complied with the requirements. Others, disappointingly, have not been responsible.
+
+2 Government agencies have conducted daily enforcement checks on F&amp;B outlets, as well as pivoted nightlife establishments since they were allowed to reopen in October 2020.
+
+3 In the period October 2020 to 10 July 2021, Police conducted a total of 202 operations against licensed public entertainment outlets, including those which had pivoted to F&amp;B, as well as against unlicensed public entertainment outlets which were operating in locations such as industrial estates, office units, and shophouses. 540 checks on such outlets were conducted in these operations, which resulted in the detection of 58 Public Entertainment Act and Liquor Control Act infringements and 595 Safe Management Measures (SMM) breaches. 142 persons were arrested for various offences including the Public Entertainments Act, Liquor Control Act, Employment of Foreign Manpower Act and Immigration Act, amongst other laws.
+
+4 Separately, joint enforcement operations involving various Government agencies and the Police have also been conducted over 20 weekends and all festive periods since October 2020. Around 400 F&amp;B outlets, including pivoted nightlife establishments are inspected in each operation. To date, agencies have imposed around 100 closure orders on F&amp;B outlets, including around 40 pivoted establishments, with around 10 repeat offenders. The operators also face further enforcement action including fines and prosecution in court. Since tightening our penalty regime in May 2021, SFA has also permanently revoked the licence of three pivoted establishments, and, pending investigations, could revoke four more. Breaches by pivoted nightlife establishments account for the vast majority of repeated egregious breaches.
+
+5 SMM breaches committed by this group of establishments are flagrant and carry much higher public health risks. Government agencies will continue to carry out enforcement actions against errant outlets, including permanent revocation of licences and prosecution in court. However, enforcement against irresponsible behaviour is but one of the tools to prevent the spread of COVID-19, and we cannot be relying just on it, nor expect it to be able to fully ensure compliance. There is a limit to what enforcement can achieve. Business operators and patrons must play their part, and abide by the SMMs put in place. Individual responsibility is more important and in fact, the most effective and sustainable means for us to overcome COVID-19. All of us have to play our part.
+
+6 As previously announced, pivoted nightlife establishments are required to suspend operations for two weeks from 16 to 30 July 2021. This suspension of operations is intended to break community transmission and allow time for all employees to be tested, and for enforcement agencies to conduct checks to ensure that SMM protocols are in place. The pivoted nightlife establishments can only resume operations if they pass inspections and receive written approval by SFA.
