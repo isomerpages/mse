@@ -1,12 +1,12 @@
 ---  
-title: Written Reply to Parliamentary Questions on Encouraging Patronage of Hawkers by Ms Grace Fu, Minister for Sustainability and the Environment 
-permalink: /resource-room/category/2021-07-26-written-reply-to-pq-on-encouraging-patronage-of-hawkers/
+title: Written Reply to Parliamentary Questions on Hawkers by Ms Grace Fu, Minister for Sustainability and the Environment 
+permalink: /resource-room/category/2021-07-26-written-reply-to-pq-on-hawkers/
 image:  
 file_url:  
 description:  
 ---  
 
-#### Written Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Questions on Encouraging Patronage of Hawkers 
+#### Written Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Questions Hawkers 
 
 **Mr Christopher de Souza:** To ask the Minister for Sustainability and the Environment what can be done to continue encouraging Singaporeans to patronise hawkers in view of the pandemic and stiffer competition from food delivery apps and portals.
 
