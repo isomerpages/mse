@@ -275,17 +275,17 @@ permalink: /climate-action-week/
     <h4><strong><center>HIGHLIGHTS</center></strong></h4>
         <div class="card-news">
             <div class="card-event-infos" style="display: flex; justify-content:center; flex-direction: column; text-align: center; margin-bottom: 0px;">
-                <strong>63 partners are organising over 130 activities during Climate Action Week this year!</strong>
+                <strong>63 partners organised over 130 activities during Climate Action Week this year!</strong>
               <a class="button_caw" href="../resources/CAW_Events.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
-      <div class="overflow-container">
+      <!-- <div class="overflow-container">
         <div class="card-event">
           <img src="../images/thumbnail.png" />
           <div class="card-event-infos">
             <h2>MSE - Partners for the Environment Forum 2021</h2>
             <a class="button_caw" href="https://www.facebook.com/events/1034775983592957" target="_blank">Join the Facebook Event on 12 July</a>
-          </div>
+          </div> -->
         </div>
 <!-- test modal -->
 <!-- test modal -->
