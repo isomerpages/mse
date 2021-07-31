@@ -42,7 +42,11 @@ viii. Employees deployed at the entrance of the outlet must not delay entry of e
 
 8 In the period between October 2020 to 10 July 2021, the Police conducted 202 operations against licensed public entertainment outlets, including those which had pivoted to F&amp;B operations, as well as against unlicensed public entertainment outlets which were operating in locations such as industrial estates, office units, and shophouses. This resulted in the detection of 58 Public Entertainment Act and Liquor Control Act infringements, 595 SMM breaches, and 142 arrests for offences under various laws, including the Public Entertainments Act, Liquor Control Act, Employment of Foreign Manpower Act, and Immigration Act.
 
-9 Agencies, including the Police, will keep up with our enforcement efforts on pivoted nightlife establishments, to ensure that SMMs are strictly adhered to. Firm enforcement action will be taken against operators and individuals who flout SMMs, which include prosecution and revocation of licences including food, public entertainment and liquor.
+9 Agencies, including the Police, will keep up with our enforcement efforts on pivoted nightlife establishments, to ensure that SMMs are strictly adhered to. Firm enforcement action will be taken against operators and individuals who flout SMMs, which include prosecution and revocation of licences including food, public entertainment and liquor.  
+
+Ministry of Home Affairs  
+Ministry of Sustainability and the Environment  
+Ministry of Trade and Industry  
 
 
 **ANNEX A**
