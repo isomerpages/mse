@@ -77,7 +77,7 @@ permalink: /take-action/organisations/
         <div class='lists'>
             <h1><b>Join Programmes</b></h1><br>
                 <ul>
-                <li><a href="/sgecofund/">Have an idea that supports environmental sustainability and involves the community?Apply for the SG Eco Fund</li>
+                <li>Have an idea that supports environmental sustainability and involves the community? <a href="/sgecofund/">Apply for the SG Eco Fund</li>
                 <li><a href="https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-arrangement">Singapore Packaging Agreement (SPA) and Packaging Partnership Programme (PPP)</a>: Programmes to reduce packaging waste</li>
                 <li><a href="https://www.e2singapore.gov.sg/programmes-and-grants/programmes/energy-efficiency-national-partnership">Energy Efficiency National Partnership (EENP)</a>: A voluntary partnership programme that helps corporations enhance their long-term business competitiveness and reduce their carbon footprint by becoming more energy-efficient.</li>
                 <li><a href="http://sgls.sec.org.sg/">Labelling Scheme</a>: Singapore&#39;s leading environmental standard and certification mark that endorses consumer products with milder negative impact on the environment.</li>
