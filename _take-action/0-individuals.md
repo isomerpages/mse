@@ -85,7 +85,7 @@ permalink: /take-action/individuals
     <div class='grid-column'>
         <h1 style="align-self: flex-start"><b>Start something in your community</b></h1><br>
             <div>
-                Be the change you wish to see, and start something of your own! We have resources that can help kick-start your environmental event or initiative.<br><br>
+                Be the change you wish to see, and start something of your own! We have resources such as the <a href="/sgecofund/"><b>SG Eco Fund</b></a> that can help kick-start your environmental event or initiative.<br><br>
             </div>
             <img src="/images/take-action-3.svg" style="max-width:33vh;"><br>
             <a class="button_david" href="/resources/">View Resources</a>
