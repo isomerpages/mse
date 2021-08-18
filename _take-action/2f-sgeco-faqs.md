@@ -6,13 +6,13 @@ third_nav_title: SG Eco Fund
 
 **Can projects receive other sources of funding in addition to the SG Eco Fund?**
 
-Applicants are not allowed to obtain receive funding from more than one government grant scheme for the same project. However, applicants can still seek funding from other non-government sources. Applicants will be required to declare their submit a declaration on their funding sources in the application form.
+Applicants are not allowed to receive funding from more than one government grant scheme for the same project. However, applicants can still seek funding from other non-government sources. Applicants will be required to declare their funding sources in the application form.
 
 **How long would it take for the application to be approved?**
 
-Evaluation of projectsMain applications could take up to four months, after the closure of the grant call. The actual time taken depends on the nature of the project, the completeness of the information submitted, and the grant quantum.
+Evaluation of Main applications could take up to four months, after the closure of the grant call. The actual time taken depends on the nature of the project, the completeness of the information submitted, and the grant quantum.
 
-For Sprout applications, the process could take up to two months, after the closure of the grant call. Actual time may vary depending on the availability and timing of the pitch process.
+For Sprout applications, the process could take up to two months, after the closure of the grant call. Actual time may vary depending on the availability and timing of the pitch presentations.
 
 **Can applicants submit more than one application for the SG Eco Fund?**
 
@@ -24,9 +24,9 @@ Applicants are discouraged from submitting the same project to the SG Eco Fund, 
 
 **How will the grant be disbursed?**
 
-Grants will be given out on a reimbursement basis, to eh applicant&#39;s verified bank account, upon completing eachcompletion of project milestonemilestones. The project milestones and deliverables will be set and agreed by both applicant and the Trust SG Eco Office before the commencement of the project.
+Grants will be given out on a reimbursement basis upon completion of project milestones. The project milestones and deliverables will be set and agreed by both applicant and the Trust before the commencement of the project.
 
-Upon achieving agreed milestones and deliverables, the applicant should submit these documents:
+Upon achieving agreed milestones and deliverables, the applicant should submit these documents within one month of milestone date:
 
 - Project progress/completion report
 - For projects with approved funding quantum of $30,000 or below, applicants shall submit original/certified true copies of invoices/payment records.
@@ -38,21 +38,21 @@ If the applicant requires some upfront funding after approval of the application
 
 **Can the grant be used to support expenses that were incurred before the award of the grant?**
 
-Only expenses incurred _after_ the applicant&#39;s acceptance of the award letter will be eligible for reimbursement.
+Only expenses incurred _after_ the applicant&#39;s acceptance of the Letter of Offer will be eligible for reimbursement.
 
-**How should**  **the**  **receipts be submitted?**
+**How should receipts be submitted?**
 
-All receipts should be clearly labelled and arranged in accordance with the Statement of Accounts. For receipts which are not original, the organisation must certify them as true copies before submission. As receipts printed on thermal paper (e.g. supermarket receipt) will fade over time, please make a copy of the receipt for submission. We reserve the right to exclude receipts that are unclear or faded from the total project cost.
+As receipts printed on thermal paper (e.g. supermarket receipt) will fade over time, please make a copy of the receipt for submission. We reserve the right to exclude receipts that are unclear or faded from the total project cost.
 
-**Do applicants need to submit audited Statement of Accounts audit their invoices and payment records?**
+**Do applicants need to audit their invoices and payment records?**
 
-For projects with approved quantuman approved grant quantum exceeding S$30,000, applicants will have to engage an auditor and submit the audited Statementa report of Accounts.factual findings for each claim. The cost of engaging the auditor should be included in the project budget during application.
+For projects with an approved grant quantum exceeding S$30,000, applicants will have to engage an auditor and submit a report of factual findings for each claim. The cost of engaging the auditor should be included in the project budget during application.
 
 **How do applicants amend their application or provide additional information?**
 
-Once a grant application is submitted, applicants will no longer be able to make any amendments. For amendment of critical fields such as project dates and budget amount, applicants may contact the Trust SG Eco Office via email to put forth the request. It will be considered on a case-by-case basis.
+Once a grant application is submitted, applicants will no longer be able to make any amendments. For amendment of critical fields such as project dates and budget amount, applicants may contact the Trust via email to put forth the request. It will be considered on a case-by-case basis.
 
 **Who owns the Intellectual Property Rights (IPRs) arising from the project?**
 
-Both the applicantThe Grant Recipient and the SG Eco Fund Board of Trustees will have co-ownership of the own all IPRs. arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise IPRs for charitable purposes.
+BThe Grant Recipient and the SG Eco Fund Board of Trustees will co-own all IPRs arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise IPRs for charitable purposes.
 

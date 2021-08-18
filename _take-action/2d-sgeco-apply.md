@@ -5,13 +5,13 @@ third_nav_title: SG Eco Fund
 ---
 
 
-The SG Eco Fund is only open for application during the grant call periods. The next grant call will open from **26 August 2021 to 17 October 2021**.
+The SG Eco Fund is only open for application during the grant call periods. The grant call is now open from **26 August 2021 to 17 October 2021**.
 
-Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. Sign up for a webinar here \&lt;link to registration form\&gt;.
+Attend one of our SG Eco Fund workshops to learn more about the application process and tips on crafting a good proposal. Sign up for a webinar here \&lt;link to registration form\&gt;.
 
 ![Timeline](/images/sgeco-timeline.png)
 
-### *Application process*
+**Application Process**
 
 All application forms must be submitted via FormSG (see below) by **17 October 2021, 23:59pm**. Applications received via email will **not** be considered.
 
@@ -29,35 +29,33 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
             <h4>Your requested funding is <b>$10,000 or less</b>:</h4>
             <div>
                 <p>1) Complete the <a href="">application form</a></p>
-                <a href="">View sample form</a>
-                <p> You will also be required to submit a pitch deck (max 10 slides), which should include:</p>
+                <a href="/images/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
+                <p> You will also be required to submit the following supporting documents:</p>
                 <ul>
-                <li>Applicant and team member details</li>
-                <li>Project partners</li>
-                <li>Problem</li>
-                <li>Project plan, timeline, and key deliverables</li>
-                <li>Budget and other income/funding sources for the project (if any)</li>
+                <li>Pitch deck <a href="/images/SG-Eco-Fund-Pitch-Deck-Template.pptx" target="_blank">(pitch deck template)</a></li>
+                <li>Budget <a href="/images/SG-Eco-Fund-Budget-Template.xlsx" target="_blank">(budget template)</a></li>
                 </ul>
                 <p>You can download pitch deck template <a href="">here</a></p>
-                <p>2)Shortlisted applicants will receive an invitation from the Trust Secretariat to pitch their projects.</p>
-                <p>3)You will be informed by email on the outcome of your application within 2 months of closure of the grant call.</p>
+                <p>Please refer to the pitch deck template for details on what to include. Your pitch deck should not exceed 12 slides</p>
+                <p>2) If your project is shortlisted, you will be invited to give a 10-minute pitch to the Evaluation Committee using your previously submitted deck</p>
             </div> 
         </div>
     </div>
-    <div class='grid-column' style="background-color:AliceBlue;">
+    <div class='grid-column' style="background-color:LightSkyBlue;">
         <div class="lists">
         <h2><b>Main</b></h2>
         <h4>Your requested funding is <b>more than $10,000</b>:</h4>
         <div>
             <p>1) Complete the <a href="">application form</a></p>
-            <a href="">View sample form</a>
+            <a href="images/SG-Eco-Fund-Sample-Form-(Main).pdf">View sample form</a>
             <p>You will also be required to submit the following supporting documents:
             <ul>
             <li><a href="">Budget template</a></li>
-            <li>ACRA business profile report or ROS profile and audited financial report for the last three years (for organisations only);</li>
+            <li>ACRA business profile report or ROS profile;</li>
+            <li>Audited financial report for the last three years (for organisations only);</li>
             <li>CV of key project team members (not required for public agencies).</li>
             </ul>
-            <p>2)You will be informed by email on the outcome of your application within 4 months of closure of the grant call.</p>
+            <p>2) You will be informed by email on the outcome of your application within 4 months of closure of the grant call.</p>
 
 
 <!-- not sure why </div> tags don't close the divs above and show up as text -->

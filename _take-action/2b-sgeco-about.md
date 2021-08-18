@@ -68,7 +68,7 @@ To enable our community to build a sustainable and green Singapore.
 
 Our assessment of projects will be guided by the following principles:
 
-1. Environment Benefit – Projects should advance environmental sustainability in Singapore
+1. Environmental Benefit – Projects should advance environmental sustainability in Singapore
 2. Community Action - Projects should inspire and enable the community to co-create and/or co-deliver environmental solutions
 3. Innovation - Projects should have technological and/or social innovation, and new ways of implementing solutions
 4. Sustained Impact - Projects should create sustained impact through building local expertise, creating resources, and/or developing scalable solutions
@@ -105,12 +105,17 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
         <li>Melissa Low, Research Fellow, Energy Studies Institute, National University of Singapore</li>
         <li>Sivasothi N, Senior Lecturer, Department of Biological Sciences, National University of Singapore</li>
         <li>Wang Weixiang, Director, Environmental Policy Division, Ministry of Sustainability and the Environment</li>
-        <li>Winston Chow, Associate Professor (Science, Technology, and Society), School of Social Sciences, Singapore Management niversity</li>
+        <li>Winston Chow, Associate Professor (Science, Technology, and Society), School of Social Sciences, Singapore Management University</li>
         <li>Zakir Hussain, Singapore Editor, The Straits Times, SPH</li>
 	</div>
 </div>
 
+<div>
+	<input type="checkbox" id="office"  /><label for="office">SG Eco Office</label>
+	<div class="accordion-content">
+		<p>The SG Eco Office, under the Ministry of Sustainability and the Environment, aims to realise sustainability initiatives with 3P partners, leveraging whole-of-government networks and resources.<br>
+		Besides administering the SG Eco Fund, the SG Eco Office is also involved in implementing Eco Towns and developing sustainable community assets.</p>
+	</div>
+</div>
 
-The SG Eco Office, under the Ministry of Sustainability and the Environment, aims to realise sustainability initiatives with 3P partners, leveraging whole-of-government networks and resources.
 
-Besides administering the SG Eco Fund, the SG Eco Office is also involved in implementing Eco Towns and developing sustainable community assets. 
