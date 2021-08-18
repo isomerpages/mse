@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Fund Info
 permalink: /sgecofund/fund-info
 third_nav_title: SG Eco Fund
@@ -153,4 +153,4 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-
+ -->
