@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Community
 permalink: /sgecofund/community
 third_nav_title: SG Eco Fund
@@ -31,4 +31,4 @@ Rachel Lee
 
 A platform where interested parties can indicate their interest and be matched with other potential applicants or existing grantees in our network
 
-Want to become an Eco-Warrior and join the ranks of growing community of do-gooders? Join our mailing list by filling up this form to get updates on events and find opportunities to collaborate with other like-minded individuals: \&lt;FORM LINK\&gt; -->
+Want to become an Eco-Warrior and join the ranks of growing community of do-gooders? Join our mailing list by filling up this form to get updates on events and find opportunities to collaborate with other like-minded individuals: \&lt;FORM LINK\&gt; --> -->
