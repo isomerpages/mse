@@ -81,7 +81,7 @@ _(Photo credit: Singapore Food Agency)_
 
 1. **Tanjong Hwaro** (67 Tanjong Pagar Road) failed to ensure safe distancing of at least 1 metre between groups of customers on multiple occasions on 15 July 2021. URA issued an order requiring the operator to close for 10 days from 17 to 26 July 2021 (both dates inclusive).
 
-1. **H.O.M** (33 Cuppage Road) provided dice games to customers and played music on its premises on 15 July 2021. The Singapore Tourism Board (STB) issued an order requiring the operator to close for 10 days from 16 to 25 July 2021 (both dates inclusive).
+1. **H.O.M** (21 Cuscaden Road) provided dice games to customers and played music on its premises on 15 July 2021. The Singapore Tourism Board (STB) issued an order requiring the operator to close for 10 days from 16 to 25 July 2021 (both dates inclusive).
 
 1. **Ohms Garden** (672 Chander Road, #01-38 Gholia Village) breached SMMs on 18 July 2021, by allowing gatherings that exceeded the permitted group size, as well as allowing dancing and singing by customers on its premises. STB issued an order requiring the operator to close for 20 days from 19 July to 7 August 2021 (both dates inclusive). The establishment was previously issued a composition fine of $1,000 in August 2020 for allowing consumption of alcohol on their premises beyond 10.30pm.
 
