@@ -1,8 +1,8 @@
-<!-- ---
+---
 title: About
 permalink: /sgecofund/about
 third_nav_title: SG Eco Fund
---- -->
+---
 
 <style>
 

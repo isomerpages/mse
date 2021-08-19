@@ -1,8 +1,8 @@
-<!-- ---
+---
 title: Community
 permalink: /sgecofund/community
 third_nav_title: SG Eco Fund
---- -->
+---
 
 **Be Informed**
 

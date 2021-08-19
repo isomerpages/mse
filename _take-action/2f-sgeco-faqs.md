@@ -1,8 +1,8 @@
-<!-- ---
+---
 title: FAQs
 permalink: /sgecofund/faq
 third_nav_title: SG Eco Fund
---- -->
+---
 
 **Can projects receive other sources of funding in addition to the SG Eco Fund?**
 

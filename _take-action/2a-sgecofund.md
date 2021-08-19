@@ -1,8 +1,8 @@
-<!-- ---
+---
 title: Home
 permalink: /sgecofund/
 third_nav_title: SG Eco Fund
---- -->
+---
 
 <center><h3><b>Do you have an idea that supports environmental sustainability and involves the community? </b></h3>
 
