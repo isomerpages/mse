@@ -3,12 +3,12 @@ title: Community
 permalink: /sgecofund/community
 third_nav_title: SG Eco Fund
 ---
-
+<!-- 
 **Be Informed**
 
 Access our collection of [resources](/resources/) that cover key environmental issues in Singapore (useful for those looking for an issue to get involved in or looking for more stats and evidence for their own proposals)
 
-View the SG Eco Fund [Press Release]()
+View the SG Eco Fund [Press Release]() -->
 
 <!-- 
 **Be Inspired**
