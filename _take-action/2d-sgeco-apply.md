@@ -2,7 +2,7 @@
 title: Apply
 permalink: /sgecofund/apply
 third_nav_title: SG Eco Fund
----
+--- -->
 
 
 The SG Eco Fund is only open for application during the grant call periods. The grant call is now open from **26 August 2021 to 17 October 2021**.
@@ -55,7 +55,7 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
             <li>Audited financial report for the last three years (for organisations only);</li>
             <li>CV of key project team members (not required for public agencies).</li>
             </ul>
-            <p>2) You will be informed by email on the outcome of your application within 4 months of closure of the grant call.</p> -->
+            <p>2) You will be informed by email on the outcome of your application within 4 months of closure of the grant call.</p>
 
 
 not sure why </div> tags don't close the divs above and show up as text

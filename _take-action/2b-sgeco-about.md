@@ -2,7 +2,7 @@
 title: About
 permalink: /sgecofund/about
 third_nav_title: SG Eco Fund
----
+--- -->
 
 <style>
 
@@ -118,4 +118,4 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 	</div>
 </div>
 
- -->
+
