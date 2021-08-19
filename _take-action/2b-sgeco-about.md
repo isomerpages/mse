@@ -1,9 +1,9 @@
-<!-- ---
+---
 title: About
 permalink: /sgecofund/about
 third_nav_title: SG Eco Fund
---- -->
-
+---
+<!-- 
 <style>
 
 input {
@@ -116,6 +116,6 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 		<p>The SG Eco Office, under the Ministry of Sustainability and the Environment, aims to realise sustainability initiatives with 3P partners, leveraging whole-of-government networks and resources.<br>
 		Besides administering the SG Eco Fund, the SG Eco Office is also involved in implementing Eco Towns and developing sustainable community assets.</p>
 	</div>
-</div>
+</div> -->
 
 
