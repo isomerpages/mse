@@ -2,7 +2,7 @@
 title: Home
 permalink: /sgecofund/
 third_nav_title: SG Eco Fund
----
+--- -->
 
 <center><h3><b>Do you have an idea that supports environmental sustainability and involves the community? </b></h3>
 
@@ -24,4 +24,4 @@ third_nav_title: SG Eco Fund
   <div class="grid-column">
     <img src="/images/sgeco-webinar.svg" style="max-width:25vh;" alt="..."><h5>Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. Sign up for a webinar  <a href="/sgecofund/fund-info"><b>here</b></a></h5>
   </div>
-</div> -->
+</div>

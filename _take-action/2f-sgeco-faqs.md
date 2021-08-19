@@ -2,7 +2,7 @@
 title: FAQs
 permalink: /sgecofund/faq
 third_nav_title: SG Eco Fund
----
+--- -->
 
 **Can projects receive other sources of funding in addition to the SG Eco Fund?**
 
@@ -55,4 +55,4 @@ Once a grant application is submitted, applicants will no longer be able to make
 **Who owns the Intellectual Property Rights (IPRs) arising from the project?**
 
 BThe Grant Recipient and the SG Eco Fund Board of Trustees will co-own all IPRs arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise IPRs for charitable purposes.
- -->
+
