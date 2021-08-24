@@ -35,7 +35,6 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
                 <li>Pitch deck <a href="/images/SG-Eco-Fund-Pitch-Deck-Template.pptx" target="_blank">(pitch deck template)</a></li>
                 <li>Budget <a href="/images/SG-Eco-Fund-Budget-Template.xlsx" target="_blank">(budget template)</a></li>
                 </ul>
-                <p>You can download pitch deck template <a href="">here</a></p>
                 <p>Please refer to the pitch deck template for details on what to include. Your pitch deck should not exceed 12 slides</p>
                 <p>2) If your project is shortlisted, you will be invited to give a 10-minute pitch to the Evaluation Committee using your previously submitted deck</p>
             </div> 
@@ -50,7 +49,7 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
             <a href="images/SG-Eco-Fund-Sample-Form-(Main).pdf">View sample form</a>
             <p>You will also be required to submit the following supporting documents:
             <ul>
-            <li><a href="">Budget template</a></li>
+            <li><a href="">Budget (budget template)</a></li>
             <li>ACRA business profile report or ROS profile;</li>
             <li>Audited financial report for the last three years (for organisations only);</li>
             <li>CV of key project team members (not required for public agencies).</li>

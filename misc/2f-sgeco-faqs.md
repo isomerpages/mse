@@ -54,5 +54,5 @@ Once a grant application is submitted, applicants will no longer be able to make
 
 **Who owns the Intellectual Property Rights (IPRs) arising from the project?**
 
-BThe Grant Recipient and the SG Eco Fund Board of Trustees will co-own all IPRs arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise IPRs for charitable purposes.
+The Grant Recipient and the SG Eco Fund Board of Trustees will co-own all IPRs arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise IPRs for charitable purposes.
  -->
