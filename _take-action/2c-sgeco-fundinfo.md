@@ -4,7 +4,6 @@ permalink: /sgecofund/fund-info
 third_nav_title: SG Eco Fund
 ---
 
-<!-- 
 <style>
 
 input {
@@ -151,6 +150,5 @@ input:checked + label + .accordion-content {
             <li>Goods and Services Tax (GST).</li>
             </ul>
 	</div>
-</div> -->
-
+</div>
 
