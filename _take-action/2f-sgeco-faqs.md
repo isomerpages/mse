@@ -26,7 +26,7 @@ Applicants are discouraged from submitting the same project to the SG Eco Fund, 
 
 Grants will be given out on a reimbursement basis upon completion of project milestones. The project milestones and deliverables will be set and agreed by both applicant and the Trust before the commencement of the project.
 
-Upon achieving agreed milestones and deliverables, the applicant should submit these documents within one month of milestone date:
+Upon achieving agreed milestones and deliverables, the applicant should submit these documents within one month of the milestone date:
 
 - Project progress/completion report
 - For projects with approved funding quantum of $30,000 or below, applicants shall submit original/certified true copies of invoices/payment records.
@@ -34,7 +34,7 @@ Upon achieving agreed milestones and deliverables, the applicant should submit t
 
 The claim for the final reimbursement should be submitted within three months of the project completion date.
 
-If the applicant requires some upfront funding after approval of the application, please write in to the Trust SG Eco Office and provide reasons for the request.
+If the applicant requires some upfront funding after approval of the application, please write in to the Trust and provide reasons for the request.
 
 **Can the grant be used to support expenses that were incurred before the award of the grant?**
 
@@ -54,5 +54,5 @@ Once a grant application is submitted, applicants will no longer be able to make
 
 **Who owns the Intellectual Property Rights (IPRs) arising from the project?**
 
-The Grant Recipient and the SG Eco Fund Board of Trustees will co-own all IPRs arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise IPRs for charitable purposes.
+The Grant Recipient and the SG Eco Fund Board of Trustees will co-own all IPRs arising from or created in relation to the project. The SG Eco Fund retains the rights to utilise IPRs for charitable purposes.
 

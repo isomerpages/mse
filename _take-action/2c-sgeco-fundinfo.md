@@ -128,7 +128,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="funding"  /><label for="funding">Funding Support</label>
 	<div class="accordion-content">
-        <p>The SG Eco Fund works on a co-funding basis. If the application is approved, the applicant may receive funding of <b>up to 80% of the supportable cost items</b>, subject to a maximum of S$1 million.<br> Funding will be provided on a reimbursement basis for no more than three years from the project start date. Only expenses incurred after the project start date in the Letter of Offer can be reimbursed.</p>
+        <p>The SG Eco Fund works on a co-funding basis. If the application is approved, the applicant may receive funding of <b>up to 80% of the supportable cost items</b>, subject to a maximum of S$1 million.<br><br> Funding will be provided on a reimbursement basis for no more than three years from the project start date. Only expenses incurred after the project start date in the Letter of Offer can be reimbursed.</p>
         <p>The SG Eco Fund supports the following cost items:</p>
             <ul>
             <li>Professional services (e.g. events management, workshop facilitation, behavioural study, audit, etc);</li>
