@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Keynote Address by by Ms Grace Fu, Minister for Sustainability and the Environment, at the Ricoh Eco Action Day 2021: The Future of Work on 26 August 2021  
+#### Keynote Address by Ms Grace Fu, Minister for Sustainability and the Environment, at the Ricoh Eco Action Day 2021: The Future of Work on 26 August 2021  
 
 Ladies and Gentlemen,  
 
