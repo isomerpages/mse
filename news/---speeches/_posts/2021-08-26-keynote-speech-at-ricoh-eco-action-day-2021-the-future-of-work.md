@@ -1,6 +1,6 @@
 ---  
 title: Ricoh Eco Action Day 2021: The Future of Work - Ms Grace Fu  
-permalink: /resource-room/category/2021-08-26-speech-at-ricoh-eco-action-day-2021-the-future-of-work/  
+permalink: /resource-room/category/2021-08-26-keynote-speech-at-ricoh-eco-action-day-2021-the-future-of-work/  
 image:  
 file_url:  
 description:  
