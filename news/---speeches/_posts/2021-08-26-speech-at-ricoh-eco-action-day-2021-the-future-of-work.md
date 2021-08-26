@@ -1,5 +1,5 @@
 ---  
-title: Eco Action Day 2021Intervention at the Sixth APEC Ministerial Meeting on Food Security - Mr Desmond Tan  
+title: Ricoh Eco Action Day 2021: The Future of Work - Ms Grace Fu  
 permalink: /resource-room/category/2021-08-26-speech-at-ricoh-eco-action-day-2021-the-future-of-work/  
 image:  
 file_url:  
