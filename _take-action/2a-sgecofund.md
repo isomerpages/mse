@@ -4,7 +4,7 @@ permalink: /sgecofund/
 third_nav_title: SG Eco Fund
 ---
 
-<!-- <center><h3><b>Do you have an idea that supports environmental sustainability and involves the community? </b></h3>
+<center><h3><b>Do you have an idea that supports environmental sustainability and involves the community? </b></h3>
 
 <div>
     <img src="/images/sgeco-logo.jpg" style="max-width:40vh;">
@@ -22,6 +22,6 @@ third_nav_title: SG Eco Fund
     <img src="/images/sgeco-question.svg" style="max-width:25vh;" alt="..."><h5>Not sure if you are eligible to apply for the SG Eco Fund? Read more about the eligibility criteria <a href="/sgecofund/fund-info"><b>here</b></a></h5>
   </div>
   <div class="grid-column">
-    <img src="/images/sgeco-webinar.svg" style="max-width:25vh;" alt="..."><h5>Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. Sign up for a webinar  <a href="/sgecofund/fund-info"><b>here</b></a></h5>
+    <img src="/images/sgeco-webinar.svg" style="max-width:25vh;" alt="..."><h5>Attend one of our public workshops to learn more about the application process and tips on crafting a good proposal. Sign up for a workshop  <a href="https://form.gov.sg/#!/611e072e4bfeba00121f144d" target="_blank"><b>here</b></a></h5>
   </div>
-</div> -->
+</div>
