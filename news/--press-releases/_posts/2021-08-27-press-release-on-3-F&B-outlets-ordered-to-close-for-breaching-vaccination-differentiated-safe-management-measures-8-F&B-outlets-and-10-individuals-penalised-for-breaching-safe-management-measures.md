@@ -1,3 +1,11 @@
+---  
+title: 3 Outlets Ordered to Close for Breaching Vaccination Differentiated Safe Management Measures; 8 Outlets and 10 Individuals Penalised for Breaching Safe Management Measures 
+permalink: /resource-room/category/2021-08-27-12-outlets-penalised-for-breaching-measures/
+image:  
+file_url:  
+description:  
+---  
+
 **3 F&amp;B Outlets Ordered to Close for Breaching Vaccination Differentiated Safe Management Measures;8 F&amp;B Outlets and 10 Individuals Penalised for Breaching Safe Management Measures**
 
 1 Following stepped-up enforcement over the past week, three F&amp;B outlets have been ordered to close for breaching Vaccination Differentiated Safe Management Measures (VDS). Seven other F&amp;B outlets were ordered to close, and one F&amp;B outlet and ten individuals were fined for breaching safe management measures (SMMs). Enforcement checks will continue to be stepped up to guard against community transmission in higher risk settings, such as F&amp;B premises, even as Singapore continues to reopen gradually.
