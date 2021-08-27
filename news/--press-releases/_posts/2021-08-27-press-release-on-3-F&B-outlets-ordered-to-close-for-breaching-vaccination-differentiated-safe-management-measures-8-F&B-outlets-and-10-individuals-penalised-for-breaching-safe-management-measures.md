@@ -38,7 +38,8 @@
 
 _(Photo credit: Singapore Tourism Board)_
 
-![](RackMultipart20210827-4-eujfpj_html_619f2698a284ad82.jpg)
+![Mun Chee Kee](https://user-images.githubusercontent.com/76760384/131106940-c3b764d9-9e09-4406-8c98-5735f90f417d.jpg)
+
 
 **ANNEX C**
 
@@ -70,26 +71,28 @@ _(Photo credit: Singapore Tourism Board)_
 
 _(Photo credit: Singapore Food Agency)_
 
-![](RackMultipart20210827-4-eujfpj_html_f4496624bf8cf056.png)
+![Belly Lok Lok Bar](https://user-images.githubusercontent.com/76760384/131106988-da1a5245-c87e-4252-a288-e3bfa00e20a5.jpg)
+
 
 **Chips Café and Bar** failed to ensure safe distancing of at least 1 metre between seated customers.
 
 _(Photo credit: Singapore Tourism Board)_
 
-![](RackMultipart20210827-4-eujfpj_html_b76438c10124218c.jpg)
+![Chips Café and Bar](https://user-images.githubusercontent.com/76760384/131107018-e2a62df2-8785-4ec7-bd75-eab7e3c8cb70.jpg)
+
 
 **Glassy Junction Pub &amp; Restaurant** failed to minimise interaction between staff and customers and was foundplaying music in the premises.
 
 _(Photo credit: Singapore Tourism Board)_
 
-![](RackMultipart20210827-4-eujfpj_html_c9da3c4b12390154.gif)
+![Glassy Junction Pub   Restaurant](https://user-images.githubusercontent.com/76760384/131107043-0463956e-828e-4d2f-a5b5-fed0d28cbc05.jpg)
+
 
 **Haru** deliberately delayed the entry of enforcement officers into its premises and provided false information that there were no customers in its premises.
 
 _(Photo credit: Urban Redevelopment Authority)_
 
-![](RackMultipart20210827-4-eujfpj_html_1e36fdf7c29e8b07.jpg)
+![Haru](https://user-images.githubusercontent.com/76760384/131107067-8247c5f5-2711-41d5-8822-72561440a832.jpg)
 
-[1](#sdfootnote1anc)Individual with cleared status means a) fully vaccinated individual i.e. 2 weeks after receiving the full regime of Pfizer-BioNTech/ Comirnaty, Moderna or after completing the full regime of vaccines on the World Health Organisation&#39;s Emergency Use Listing (including the appropriate duration post-vaccination for the vaccine to be fully effective); b) individual who has recovered from Covid-19 and can provide a valid Pre-Event Test (PET) exemption notice; or c) individual who has a valid negative PET result from an MOH-approved COVID-19 test provider within the last 24 hours.
 
-Page **1** of **11**
+Footnote: Individual with cleared status means a) fully vaccinated individual i.e. 2 weeks after receiving the full regime of Pfizer-BioNTech/ Comirnaty, Moderna or after completing the full regime of vaccines on the World Health Organisation&#39;s Emergency Use Listing (including the appropriate duration post-vaccination for the vaccine to be fully effective); b) individual who has recovered from Covid-19 and can provide a valid Pre-Event Test (PET) exemption notice; or c) individual who has a valid negative PET result from an MOH-approved COVID-19 test provider within the last 24 hours.
