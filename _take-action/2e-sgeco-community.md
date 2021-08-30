@@ -8,6 +8,8 @@ third_nav_title: SG Eco Fund
 
 Access our collection of [resources](/resources/){:target="_blank"} that cover key environmental issues in Singapore (useful for those looking for an issue to get involved in or looking for more data and evidence for their own proposals)
 
+[Click here](/resources/awarded-projects.pdf){:target="_blank"} to view the list of projects that were awarded in the first grant call back in May 2021.
+
 <!-- View the SG Eco Fund [Press Release]() -->
 
 <!-- 
