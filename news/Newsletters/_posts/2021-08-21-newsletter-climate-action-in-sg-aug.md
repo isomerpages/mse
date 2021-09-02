@@ -1,7 +1,7 @@
 ---  
-title: Climate Action in SG (July 2021)  
+title: Climate Action in SG (Aug 2021)  
 # permalink: http://www.mse.gov.sg/resources/april-climate-action.pdf
 image:  
-file_url:  ../resources/july-climate-action.pdf
+file_url:  ../resources/aug-climate-action.pdf
 description:  
 ---  
