@@ -47,7 +47,7 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
         <h4>Your requested funding is <b>more than $10,000</b>:</h4>
         <div>
             <p>1) Complete the <a href="https://form.gov.sg/611b508d7f4b5f001229b8a5" target="_blank">application form</a></p>
-            <a href="/images/SG-Eco-Fund-Sample-Form-(Main).pdf">View sample form</a>
+            <a href="/images/SG-Eco-Fund-Sample-(Main).pdf">View sample form</a>
             <p>You will also be required to submit the following supporting documents:</p>
             <ul>
             <li>Budget <a href="/images/SG-Eco-Fund-Budget-Template.xlsx" target="_blank">(budget template)</a></li>
