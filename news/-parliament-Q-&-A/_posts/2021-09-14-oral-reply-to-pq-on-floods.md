@@ -1,12 +1,12 @@
 ---  
-title: Oral Reply to Parliamentary Questions on Floods 
-permalink: /resource-room/category/2021-09-14-oral-reply-to-pq-on-floods/  
+title: Oral Reply to Parliamentary Questions on Flooding 
+permalink: /resource-room/category/2021-09-14-oral-reply-to-pq-on-flooding/  
 image:  
 file_url:  
 description:  
 ---  
 
-#### Oral Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Questions on Floods    
+#### Oral Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Questions on Flooding    
 
 **Mr Seah Kian Peng:** To ask the Minister for Sustainability and the Environment (a) whether the Ministry has conducted a comprehensive review of areas that are susceptible to flash flood situations like what was experienced on the morning of Friday 20 August 2021; and (b) what plans are being made to mitigate such possibilities from recurring going forward.
 
