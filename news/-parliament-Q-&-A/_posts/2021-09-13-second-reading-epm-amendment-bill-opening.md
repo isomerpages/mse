@@ -1,6 +1,6 @@
 ---  
 title: Opening Speech for Second Reading Of The Environmental Protection And Management (Amendment) Bill by Mr Desmond Tan, Minister of State for Sustainability and the Environment 
-permalink: /resource-room/category/2021-09-13-second-reading-epm-amendment-bill/  
+permalink: /resource-room/category/2021-09-13-second-reading-epm-amendment-bill-opening/  
 image:  
 file_url:  
 description:  
