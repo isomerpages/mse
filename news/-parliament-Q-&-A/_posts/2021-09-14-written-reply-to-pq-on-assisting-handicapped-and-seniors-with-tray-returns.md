@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Assisting Handicapped and Seniors with Tray Returns by Ms Grace Fu, Minister for Sustainability and the Environment  
-permalink: /resource-room/category/2021-09-14-written-reply-to-pq-on-assisting-handicapped-and-seniors-with-tray-returns.md/  
+permalink: /resource-room/category/2021-09-14-written-reply-to-pq-on-assisting-handicapped-and-seniors-with-tray-returns/  
 image:  
 file_url:  
 description:  
