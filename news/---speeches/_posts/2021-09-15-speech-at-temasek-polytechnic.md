@@ -1,5 +1,5 @@
 ---  
-title: Lunch of Temasek Polytechnic's Training and Certification Course for Chiller Technicians - Mr Desmond Tan
+title: Launch of Temasek Polytechnic's Training and Certification Course for Chiller Technicians - Mr Desmond Tan
 permalink: /resource-room/category/2021-09-15-speech-at-temasek-polytechnic/
 image:  
 file_url:  
