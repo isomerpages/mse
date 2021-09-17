@@ -112,53 +112,53 @@ Continued enforcement efforts since 1 September 2021 against breaches of Safe Ma
 
 _(Photo credit: URA)_
 
-![](RackMultipart20210917-4-1gzkglv_html_90326edec18c48b4.jpg)
+![](news/news-images/press-release-2021-09-17-image-1.jpg)
 
 **I-BAR &amp; BISTRO** was found to have provided or allowed customers to play card games within its premises. URA has issued an order requiring the operator to close for 10 days from 15 to 24 September 2021 (both dates inclusive).
 
 _(Photo credit: URA)_
 
-![](RackMultipart20210917-4-1gzkglv_html_29546b872b8bb94e.jpg)
+![](news/news-images/press-release-2021-09-17-image-2.jpg)
 
-![](RackMultipart20210917-4-1gzkglv_html_a6223debd9f26714.jpg)
+![](news/news-images/press-release-2021-09-17-image-3.jpg)
 
 **Nagara Thai** failed to ensure safe distancing of at least 1 metre between seated customers. ESG has issued an order requiring the operator to close for 10 days from 15 to 24 September 2021 (both dates inclusive).
 
 _(Photo credit: ESG)_
 
-![](RackMultipart20210917-4-1gzkglv_html_552fa16757b87a27.jpg)
+![](news/news-images/press-release-2021-09-17-image-4.png)
 
 **Nana Original Thai Food** failed to ensure safe distancing of at least 1 metre between seated customers. STB has issued an order requiring the operator to close for 10 days from 13 to 22 September 2021 (both dates inclusive).
 
 _(Photo credit: STB)_
 
-![](RackMultipart20210917-4-1gzkglv_html_ea6d48099c0e5cc3.jpg)
+![](news/news-images/press-release-2021-09-17-image-5.jpg)
 
-![](RackMultipart20210917-4-1gzkglv_html_5ad4b35491844d96.jpg)
+![](news/news-images/press-release-2021-09-17-image-6.jpg)
 
 **Ninja Eateries** failed to ensure safe distancing of at least 1 metre between seated customers. ESG has issued an order requiring operator to close for 10 days from 15 to 24 September 2021 (both dates inclusive).
 
 _(Photo credit: ESG)_
 
-![](RackMultipart20210917-4-1gzkglv_html_7781247b4482b1b5.jpg)
+![](news/news-images/press-release-2021-09-17-image-7.jpg)
 
 **NTUC Foodfare at AMK Hub** failed to ensure safe distancing of at least 1 metre between seated customers. ESG has issued an order requiring the operator to close for 10 days from 3 to 12 September 2021 (both dates inclusive).
 
 _(Photo credit: ESG)_
 
-![](RackMultipart20210917-4-1gzkglv_html_501c687ac33e87f3.jpg)
+![](news/news-images/press-release-2021-09-17-image-8.png)
 
 **Penyet Town** failed to ensure safe distancing of at least 1 metre between seated customers. ESG has issued an order requiring the operator to close for 10 days from 10 to 19 September 2021 (both dates inclusive).
 
 _(Photo credit: ESG)_
 
-![](RackMultipart20210917-4-1gzkglv_html_f64ceded7d07508a.jpg)
+![](news/news-images/press-release-2021-09-17-image-9.png)
 
 **Yu Kee Specialities** failed to ensure safe distancing of at least 1 metre between seated customers. ESG has issued an order requiring the operator to close for 10 days from 15 to 24 September 2021 (both dates inclusive).
 
 _(Photo credit: ESG)_
 
-![](RackMultipart20210917-4-1gzkglv_html_e234c784bc3b0732.jpg)
+![](news/news-images/press-release-2021-09-17-image-10.png)
 
 **ANNEX C**
 
@@ -168,12 +168,14 @@ _(Photo credit: ESG)_
 
 _(Photo credit: STB)_
 
-![](RackMultipart20210917-4-1gzkglv_html_7eba1d79c49e1c2d.jpg) ![](RackMultipart20210917-4-1gzkglv_html_9840883bd37b0de5.jpg)
+![](news/news-images/press-release-2021-09-17-image-11.jpg)
+
+![](news/news-images/press-release-2021-09-17-image-12.jpg)
 
 2 **Club Royal** (7500A Beach Road, #01-301/302) is a pivoted nightlife establishment which had not been allowed to reopen. However, it was found to be operating with customers dining in. SFA has permanently revoked its food licence.
 
 _(Photo credit: STB)_
 
-![](RackMultipart20210917-4-1gzkglv_html_e7439c3c38901372.jpg)
+![](news/news-images/press-release-2021-09-17-image-13.jpg)
 
 [1](#sdfootnote1anc)Individual with cleared status means: a) fully vaccinated individual, i.e. 2 weeks after receiving the full regime of Pfizer-BioNTech/ Comirnaty, Moderna or after completing the full regime of vaccines on the World Health Organization&#39;s Emergency Use Listing (including the appropriate duration post-vaccination for the vaccine to be fully effective); b) individual who has recovered from COVID-19 and can provide a valid Pre-Event Test (PET) exemption notice; or c) individual who has a valid negative PET result from an Ministry of Health-approved COVID-19 test provider within the last 24 hours.
