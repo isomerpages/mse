@@ -54,16 +54,79 @@ input:checked + label + .accordion-content {
 <p><strong>POWERING OUR NEEDS IN A GREENER WAY</strong><br>    Industries, power stations, and motor vehicles are the main sources of air pollution. However, these are essential functions we cannot forego. To ensure good air quality, we set emission standards and encourage the adoption of progressively cleaner fuels in the industrial and transportation sectors.</p>
 
 <h2 id="our-key-targets">Our Key Targets</h2>
-<ol>
-    <li><p>To maintain the Pollutant Standards Index (PSI) for ambient air within the ‘good’ range for 85% of the year, and within the ‘moderate’ range for remaining 15%.</p>
-    </li>
-    <li><p>Lower the annual ambient level of fine particulate matter (PM2.5) to 12 µg/m3  by 2020 and maintain it at this level till 2030.</p>
-    </li>
-    <li><p>Keep annual ambient level of sulphur dioxide under 15µg/m3  till 2030.</p>
-    </li>
-    <li><p>We are currently exploring more stringent air quality targets that are benchmarked to World Health Organisation’s Air Quality Guidelines.</p>
-    </li>
-</ol>
+
+<p>Singapore Ambient Air Quality Targets</p>
+
+<table style="font-weight: 400;" width="693">
+<!-- Table format -->
+<tbody>
+<tr>
+<td>
+<p><strong>Pollutant</strong></p>
+</td>
+<td>
+<p><strong>Singapore Targets by 2020</strong></p>
+</td>
+<td>
+<p><strong>Long Term Targets</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Sulphur Dioxide (SO</strong><strong>2)</strong></p>
+</td>
+<td>
+<p>24-hour mean: 50&micro;g/m3&nbsp;(WHO Interim Target)</p>
+</td>
+<td>
+<p>24-hour mean: 20&micro;g/m3<br />(WHO Final)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Particulate Matter (PM</strong><strong>2.5)</strong></p>
+</td>
+<td>
+<p>Annual mean: 12&micro;g/m3&nbsp;(Sustainable Singapore Blueprint target)<br />24-hour mean: 37.5&micro;g/m3&nbsp;(WHO Interim Target)</p>
+</td>
+<td>
+<p>Annual mean: 10&micro;g/m3<br />24-hour mean: 25&micro;g/m3&nbsp;(WHO Final)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Particulate Matter (PM</strong><strong>10)</strong></p>
+</td>
+<td colspan="2">
+<p>Annual mean: 20 &micro;g/m3<br />24-hour mean: 50 &micro;g/m3&nbsp;(WHO Final)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Ozone</strong></p>
+</td>
+<td colspan="2">
+<p>8-hour mean: 100&micro;g/m3&nbsp;(WHO Final)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Nitrogen Dioxide (NO</strong><strong>2)</strong></p>
+</td>
+<td colspan="2">
+<p>Annual mean: 40&micro;g/m3<br />1-hour mean: 200&micro;g/m3&nbsp;(WHO Final)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Carbon Monoxide&nbsp;(CO)</strong></p>
+</td>
+<td colspan="2">
+<p>8-hour mean: 10mg/m3<br />1-hour mean: 30mg/m3&nbsp;(WHO Final)</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <h2 id="our-main-plans">Our Main Plans</h2>
 
@@ -107,13 +170,13 @@ input:checked + label + .accordion-content {
         <p> <em>24-HOUR AIR QUALITY MONITORING NETWORK</em></p>
         <p>The ambient air in Singapore is monitored through a network of air monitoring stations located in different parts of Singapore. The monitoring stations measure concentration levels of particulate matter (PM10), fine particulate matter (PM2.5), sulphur dioxide (SO2), nitrogen dioxide (NO2), ozone (O3), and carbon monoxide (CO). These six pollutant parameters determine the Pollutant Standards Index (PSI).  </p>
         <p>The state of air quality has an impact on our health and quality of life.</p>
-        <p>As such, the 24-hour Pollutant Standards Index (PSI) readings of the 5 regions of Singapore are reported every hour on the  <a href="http://www.haze.gov.sg/home">Haze microsite</a>, and myENV  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app. The 24-hour and 1-hour PM2.5, 24-hour PM10, 24-hour SO<sub>2</sub>, 8-hour CO, 8-hour O3  and 1-hour NO<sub>2</sub>  concentration levels are also published every hour on the  <a href="http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution-control/psi/pollutant-concentrations">NEA website</a>.</p>
+        <p>As such, the 24-hour Pollutant Standards Index (PSI) readings of the 5 regions of Singapore are reported every hour on the  <a href="http://www.haze.gov.sg/home">Haze microsite</a>, and myENV  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app. The pollutant  concentration readings are also published regularly on the <a href="www.haze.gov.sg/resources/pollutant-concentrations)">haze website</a>.</p>
         <p><em>ACHIEVING HIGHER AIR QUALITY STANDARDS</em></p>
         <p>MEWR has adopted the World Health Organisation (WHO) Air Quality Guidelines (AQG) for particulate matter (PM10), nitrogen dioxide (NO<sub>2</sub>), carbon monoxide (CO) and ozone (O<sub>3</sub>), and the WHO Interim Targets for fine particulate matter (PM2.5) and sulphur dioxide (SO<sub>2</sub>), as Singapore’s air quality targets for 2020. To attain these air quality targets by 2020, abatement measures are being implemented to reduce emissions from vehicles and industries.</p>
         <p><em>NEW AIR QUALITY REPORTING SYSTEM</em></p>
         <p>Since August 2012, NEA has been reporting the 24-hour PM2.5 concentration levels alongside the PSI. This was done as the part of the transition to the new air quality reporting system. From 1 April 2014 onwards, the 24-hour PM2.5 concentration levels has been incorporated into the PSI. The PSI now reflects a total of 6 pollutants – sulphur dioxide (SO<sub>2</sub>), particulate matter (PM10) and fine particulate matter (PM2.5), nitrogen dioxide (NO<sub>2</sub>), carbon monoxide (CO) and ozone (O<sub>3</sub>).</p>
         <p>Under the new PSI system, the health advisory will be based on the new 24-hour PSI as it now directly takes into account PM2.5.</p>
-        <p>Previously, health advisories issued by the Government were based on 24-hour PSI and 24-hour PM2.5, whichever was worse. Moreover, the 3-hour PSI is calculated based on PM2.5 concentration levels averaged across three hours. The 1-hour PM2.5 readings, which reflect PM2.5 levels averaged across one hour, is now reported every hour on various NEA-managed platforms.</p>
+        <p>Previously, health advisories issued by the Government were based on 24-hour PSI and 24-hour PM2.5, whichever was worse. The 1-hour PM2.5 readings, which reflect PM2.5 levels averaged across one hour, is now reported every hour on various NEA-managed platforms.</p>
         <p>To learn more about the changes, visit <a href="http://www.haze.gov.sg/home">Haze microsite.</a></p>
     </div>
 </div>
@@ -141,7 +204,7 @@ input:checked + label + .accordion-content {
         <p><em>A HAZE ACTION PLAN IN PLACE</em></p>
         <p>We have in place a set of measures and procedures to activate in the event of serious haze levels.</p>
         <p><em>SUGGESTIONS FOR HOMES AND OFFICES</em></p>
-        <p>NEA has compiled a list of air cleaning devices for  <a href="http://www.nea.gov.sg/anti-pollution-radiation-protection/air-pollution/psi/air-cleaning-devices">buildings with central air-conditioning system</a>.</p>
+        <p>For air cleaning devices, see <a href="www.nea.gov.sg/our-services/pollution-control/air-pollution/managing-haze/air-cleaning-devices">this list/a>.</p>
         <p><em>TIMELY UPDATES FOR THE PUBLIC</em></p>
         <p>The 24-hr PSI readings by the 5 regions of Singapore are made available on the myEnv  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app,  <a href="http://www.twitter.com/NEAsg">Twitter</a>  account and  <a href="http://www.nea.gov.sg/">website</a>.</p>
         <p><em>MEASURES IN PLACE TO MANAGE TRANSBOUNDARY HAZE POLLUTION</em></p>
