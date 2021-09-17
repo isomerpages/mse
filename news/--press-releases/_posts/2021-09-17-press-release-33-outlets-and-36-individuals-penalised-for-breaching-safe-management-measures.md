@@ -179,3 +179,5 @@ _(Photo credit: STB)_
 ![](news/news-images/press-release-2021-09-17-image-13.jpg)
 
 [1](#sdfootnote1anc)Individual with cleared status means: a) fully vaccinated individual, i.e. 2 weeks after receiving the full regime of Pfizer-BioNTech/ Comirnaty, Moderna or after completing the full regime of vaccines on the World Health Organization&#39;s Emergency Use Listing (including the appropriate duration post-vaccination for the vaccine to be fully effective); b) individual who has recovered from COVID-19 and can provide a valid Pre-Event Test (PET) exemption notice; or c) individual who has a valid negative PET result from an Ministry of Health-approved COVID-19 test provider within the last 24 hours.
+
+---
