@@ -236,13 +236,6 @@ permalink: /climate-action-week/
 
 <div class="card-banner" style="background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(../images/cawbanner.jpeg)">
   <h3>Climate Action Week 2021</h3> Climate Action Week rallies our people and communities to take collective climate action and secure a sustainable future for Singapore. In line with the Singapore Green Plan 2030, the theme this year is “City of Green Possibilities”.
-  <!-- In 2020, more than 30 events were organised by our 3P partners during CAW.  This year, we once again welcome you to join us in organising climate initiatives to build an active green citizenry. -->
-  <!-- Held from 12-18 July 2021, the objectives for Climate Action Week 2021 are to:
-  - RAISE AWARENESS of climate adaptation and mitigation efforts by Public, Private and People sectors to support the Green Plan;
-  - PARTNER communities and organisations to take concrete steps to realise net-zero emissions aspirations;
-  - RALLY citizens to adopt a sustainable lifestyle, and be environmental stewards;
-  - CO-CREATE solutions to achieve our climate pledge; and
-  - EMPOWER stakeholders to enhance climate resilience. -->
 </div>
 
 <div class="grid">
@@ -279,14 +272,6 @@ permalink: /climate-action-week/
               <a class="button_caw" href="../resources/CAW_Events.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
-      <!-- <div class="overflow-container">
-        <div class="card-event">
-          <img src="../images/thumbnail.png" />
-          <div class="card-event-infos">
-            <h2>MSE - Partners for the Environment Forum 2021</h2>
-            <a class="button_caw" href="https://www.facebook.com/events/1034775983592957" target="_blank">Join the Facebook Event on 12 July</a>
-          </div> -->
-        </div>
 <!-- test modal -->
 <!-- test modal -->
         <div class="card-event">
@@ -310,15 +295,6 @@ permalink: /climate-action-week/
             <h2><a href="https://www.grab.com/sg/press/others/grab-singapore-announces-transport-sustainability-goal-as-part-of-its-grabforgood-initiative-aims-for-a-full-fleet-running-on-cleaner-energy-by-2030/" class="external-link">Grab - Regional Green Programme & JustGrab Green</a></h2>
             <p>14 July</p>
           </div>
-              <!-- <div id="open-modal" class="modal-window">
-                <div>
-                  <h1>Grab - Regional Green Programme & JustGrab Green</h1>
-                      The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog. <br><br>
-                      The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.The quick brown fox jumped over the lazy dog.
-                      <br><br><a href="url"><h5>Click here to join the event</h5></a>
-                  <a href="#modal-close" title="Close" class="modal-close">CLOSE &times;</a>
-              </div>
-          </div> -->
         </div>
         <div class="card-event">
           <img src="https://asi.sutd.edu.sg/wp-content/themes/asi-avada/assets/images/sutd-asi-logo-web-2021-fc.png" />
