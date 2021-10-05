@@ -18,7 +18,6 @@ permalink: /climate-action-week/
 /* End of offsetting margin to clear space */
 
 
-
 .grid {
   display: grid;
   gap: 10px;
@@ -48,8 +47,6 @@ permalink: /climate-action-week/
   border-radius: 5px
   margin: 10px 10px;
 }
-
-
 
 /* Cards */
 
@@ -108,13 +105,6 @@ permalink: /climate-action-week/
 }
 
 
-/* .card-event .card-event-infos a, h2:hover {
-  text-decoration: none;
-  background-color: #444;
-} */
-
-
-
 .card-banner {
   background-size: cover;
   background-position: center;
@@ -143,13 +133,6 @@ permalink: /climate-action-week/
   text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 }
 
-/* #org > a {
-  text-decoration:none;
-  a:hover {
-  background: lightgrey;
-  }
-  } */
-
 /* To hide title breadcrumb banner and right icons */
 .bp-section.is-small.bp-section-pagetitle {
   display: none;
@@ -159,62 +142,6 @@ permalink: /climate-action-week/
   display: none;
 }
 
-/* Modal pop-ups for events */
-.modal-window {
-  position: fixed;
-  background-color: rgba(200, 200, 200, 0.75);
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 999;
-  opacity: 0;
-  pointer-events: none;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
-}
-
-.modal-window:target {
-  opacity: 1;
-  pointer-events: auto;
-}
-
-.modal-window > div {
-  width: auto;
-  max-width: 80vw;
-  position: relative;
-  margin: 10% auto;
-  padding: 2em;
-  background: #fff;
-  color: #444;
-}
-
-.modal-window header {
-  font-weight: bold;
-}
-
-.modal-close {
-  color: black;
-  line-height: 50px;
-  font-size: 1em;
-  position: absolute;
-  right: 0;
-  text-align: center;
-  top: 0;
-  width: 70px;
-  text-decoration: none;
-  margin: 2em;
-}
-
-.modal-window h1 {
-  font-size: 150%;
-  margin: 0 0 15px;
-}
-
-#open-modal > div > a {
- color: black;
-}
 
 /* Media screening */
 @media(max-width: 600px){
@@ -272,8 +199,7 @@ permalink: /climate-action-week/
               <a class="button_caw" href="../resources/CAW_Events.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
-<!-- test modal -->
-<!-- test modal -->
+      <div class="overflow-container">
         <div class="card-event">
           <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
           <div class="card-event-infos">
@@ -291,7 +217,6 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
           <div class="card-event-infos">
-            <!-- <a href="#open-modal"></a> -->
             <h2><a href="https://www.grab.com/sg/press/others/grab-singapore-announces-transport-sustainability-goal-as-part-of-its-grabforgood-initiative-aims-for-a-full-fleet-running-on-cleaner-energy-by-2030/" class="external-link">Grab - Regional Green Programme & JustGrab Green</a></h2>
             <p>14 July</p>
           </div>
