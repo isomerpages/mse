@@ -45,5 +45,3 @@ description:
 13 With this, I wish you all a very enriching discussion ahead, and I look forward to hearing your proposals. I am sure you will enjoy this process of constructive discussion with your peers, as we all have a common passion, a common vision for Lim Chu Kang.
 
 Thank you very much.
-
-2
