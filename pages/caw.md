@@ -18,7 +18,6 @@ permalink: /climate-action-week/
 /* End of offsetting margin to clear space */
 
 
-
 .grid {
   display: grid;
   gap: 10px;
@@ -48,8 +47,6 @@ permalink: /climate-action-week/
   border-radius: 5px
   margin: 10px 10px;
 }
-
-
 
 /* Cards */
 
@@ -108,13 +105,6 @@ permalink: /climate-action-week/
 }
 
 
-/* .card-event .card-event-infos a, h2:hover {
-  text-decoration: none;
-  background-color: #444;
-} */
-
-
-
 .card-banner {
   background-size: cover;
   background-position: center;
@@ -143,13 +133,6 @@ permalink: /climate-action-week/
   text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 }
 
-/* #org > a {
-  text-decoration:none;
-  a:hover {
-  background: lightgrey;
-  }
-  } */
-
 /* To hide title breadcrumb banner and right icons */
 .bp-section.is-small.bp-section-pagetitle {
   display: none;
@@ -159,62 +142,6 @@ permalink: /climate-action-week/
   display: none;
 }
 
-/* Modal pop-ups for events */
-.modal-window {
-  position: fixed;
-  background-color: rgba(200, 200, 200, 0.75);
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 999;
-  opacity: 0;
-  pointer-events: none;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
-}
-
-.modal-window:target {
-  opacity: 1;
-  pointer-events: auto;
-}
-
-.modal-window > div {
-  width: auto;
-  max-width: 80vw;
-  position: relative;
-  margin: 10% auto;
-  padding: 2em;
-  background: #fff;
-  color: #444;
-}
-
-.modal-window header {
-  font-weight: bold;
-}
-
-.modal-close {
-  color: black;
-  line-height: 50px;
-  font-size: 1em;
-  position: absolute;
-  right: 0;
-  text-align: center;
-  top: 0;
-  width: 70px;
-  text-decoration: none;
-  margin: 2em;
-}
-
-.modal-window h1 {
-  font-size: 150%;
-  margin: 0 0 15px;
-}
-
-#open-modal > div > a {
- color: black;
-}
 
 /* Media screening */
 @media(max-width: 600px){
@@ -272,8 +199,7 @@ permalink: /climate-action-week/
               <a class="button_caw" href="../resources/CAW_Events.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
-<!-- test modal -->
-<!-- test modal -->
+      <div class="overflow-container">
         <div class="card-event">
           <img src="https://web.sgbc.online/assets/sgbc/sgbc-logo-medium.jpg" />
           <div class="card-event-infos">
@@ -291,7 +217,6 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://assets.grab.com/wp-content/uploads/sites/4/2020/04/01111035/Grab_Final_Master_Logo_2019_RGB_green.png" />
           <div class="card-event-infos">
-            <!-- <a href="#open-modal"></a> -->
             <h2><a href="https://www.grab.com/sg/press/others/grab-singapore-announces-transport-sustainability-goal-as-part-of-its-grabforgood-initiative-aims-for-a-full-fleet-running-on-cleaner-energy-by-2030/" class="external-link">Grab - Regional Green Programme & JustGrab Green</a></h2>
             <p>14 July</p>
           </div>
@@ -440,90 +365,6 @@ permalink: /climate-action-week/
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
           <div class="overflow-container">
-          <!-- <div class="card-event">
-            <img src="https://sagesch.files.wordpress.com/2017/05/logo-nygh2.png" />
-            <div class="card-event-infos">
-              <h2>Nanyang Girls High School - Plastic bottle collection competition, upcycling competition, sustainable lifestyle and zero-waste programmes</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://tampinesnorthpri.moe.edu.sg/qql/slot/u513/our%20school/school%20profile/School_Crest.png" />
-            <div class="card-event-infos">
-              <h2>Tampines North Primary School - Love Our Food</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://www.2020psec.sg/wp-content/uploads/2020/09/P10-360x360.png" />
-            <div class="card-event-infos">
-              <h2>Qihua Primary School - Green Wave & Virtual Eco-tour/sharing</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://www.where2learn.com/wp-content/uploads/cache/images/2021/01/punggol-primary-school/punggol-primary-school-506047199.jpg" />
-            <div class="card-event-infos">
-              <h2>Punggol Primary School - Clean Plate Challenge during mealtimes</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://thesmartlocal.com/reviews/wp-content/uploads/2013/02/wdg-1361792567.jpg" />
-            <div class="card-event-infos">
-              <h2>Woodgrove Primary School - Event on "Vampire Appliances"</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://www.moe.gov.sg/-/media/images/school-logos/secondary-schools/kuo-chuan-presbyterian-secondary-school.png" />
-            <div class="card-event-infos">
-              <h2>Kuo Chuan Presbyterian Primary School - Various events with hands-on activities</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://thesmartlocal.com/reviews/wp-content/uploads/2013/03/1-1364578315.gif" />
-            <div class="card-event-infos">
-              <h2>Sembawang Primary School - Sharing on sustainable practices and zero waste lifestyle habits </h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://www.where2learn.com/wp-content/uploads/2020/02/east-spring-primary-school.jpg" />
-            <div class="card-event-infos">
-              <h2>East Spring Primary School - Clean Plate Campaign and Earth Week</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://www.minds.org.sg/wp-content/uploads/2020/04/logo-minds@2x.png" />
-            <div class="card-event-infos">
-              <h2>Towner Gardens School (MINDS) - Edible Gardening</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://www.where2learn.com/wp-content/uploads/2020/02/fengshan-primary-school.jpg" />
-            <div class="card-event-infos">
-              <h2>Fengshan Primary School (FSPS) Environmental Committee - Urban Farming Programmes</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://www.where2learn.com/wp-content/uploads/cache/images/2021/01/ai-tong-school/ai-tong-school-2251316606.jpg" />
-            <div class="card-event-infos">
-              <h2>Ai Tong School - Climate Action Wall</h2>
-                <p>12-18 July</p>
-            </div>
-          </div>
-          <div class="card-event">
-            <img src="https://www.rp.edu.sg/images/default-source/about-us/historical-milestones/milestones-02.jpg" />
-            <div class="card-event-infos">
-              <h2>Republic Polytechnic - Sustainable Living - Reduce waste and consumption, Reverse Vending Machine</h2>
-                <p>April - September 2021</p>
-            </div>
-          </div> -->
           <div class="card-event">
             <img src="https://s3.ap-southeast-1.amazonaws.com/logos.form.gov.sg/1590560379953-SWCDC_Logo_FC_RGB_1080px.png" />
             <div class="card-event-infos">
