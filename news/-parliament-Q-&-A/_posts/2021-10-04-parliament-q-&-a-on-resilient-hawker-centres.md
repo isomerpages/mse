@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Resilient Hawker Centres by Ms Grace Fu, Minister for Sustainability and the Environment  
-permalink: /resource-room/category/2021-10-05-parliament-q-&-a-on-resilient-hawker-centres/  
+permalink: /resource-room/category/2021-10-04-parliament-q-&-a-on-resilient-hawker-centres/  
 image:  
 file_url:  
 description:  
