@@ -233,6 +233,3 @@ _(Photo credit: Singapore Food Agency)_
 
 1. **Prajin Karaoke** (5001 Beach Road, #03-77, Golden Mile Complex) is a pivoted nightlife establishment which had not been allowed to reopen. It was found operating with dine-in patrons. SFA has permanently revoked its food licence.
 
-[1](#sdfootnote1anc)Individual with cleared status means: a) fully vaccinated individual, i.e. 2 weeks after receiving the full regime of Pfizer-BioNTech/ Comirnaty, Moderna or after completing the full regime of vaccines on the World Health Organization&#39;s Emergency Use Listing (including the appropriate duration post-vaccination for the vaccine to be fully effective); b) individual who has recovered from COVID-19 and can provide a valid Pre-Event Test (PET) exemption notice; or c) individual who has a valid negative PET result from an Ministry of Health-approved COVID-19 test provider within the last 24 hours.
-
-Page **1** of **18**
