@@ -183,45 +183,45 @@ _Seniors urged to stay home and to only go out for essential activities_
 
 _(Photo credit: Urban Redevelopment Authority)_
 
-![](RackMultipart20211008-4-1cly2kj_html_668002f440f15e60.jpg)
+![](/news/news-images/press-release-2021-10-08-Bazuka.jpg)
 
 **Ho1e In The Wall** (11 East Coast Road, #01-03) allowed intermingling between different groups of customers on 17 September 2021. URA issued an order requiring the operator to close for 10 days from 2 to 11 October 2021 (both dates inclusive).
 
 _(Photo credit: Urban Redevelopment Authority)_
 
-![](RackMultipart20211008-4-1cly2kj_html_7b957f984337879c.jpg)
+![](/news/news-images/press-release-2021-10-08-Ho1e In The Wall.jpg)
 
 **The STARZ Bistro** (66 East Coast Road, #03-01) allowed customers to play dice games on 17 September 2021. As the establishment is a repeat offender, URA issued an order requiring the operator to close for 20 days from 2 to 21 October 2021 (both dates inclusive).
 
 _(Photo credit: Urban Redevelopment Authority)_
 
-![](RackMultipart20211008-4-1cly2kj_html_e03f810af1eaa064.jpg)
+![](/news/news-images/press-release-2021-10-08-The STARZ Bistro.jpg)
 
 **New Delhi Restaurant** (64 Race Course Road) failed to ensure customers within the premises adhered to the permitted group size. It also failed to minimise physical interaction between customers and allowed singing on its premises. STB issued an order that required the operator to close for 10 days from 24 September to 3 October 2021 (both dates inclusive).
 
 _(Photo credit: Singapore Tourism Board)_
 
-![](RackMultipart20211008-4-1cly2kj_html_b41e18f139bd593c.jpg)
+![](/news/news-images/press-release-2021-10-08-New Delhi Restaurant.jpg)
 
 **D&#39;Sweet** (145 Jalan Besar) failed to ensure safe distancing of at least 1 metre between seated customers. STB issued an order that required the operator to close for 10 days from 26 September to 5 October 2021 (both dates inclusive).
 
 _(Photo credit: Singapore Tourism Board)_
 
-![](RackMultipart20211008-4-1cly2kj_html_94eee839a41ba358.jpg)
+![](/news/news-images/press-release-2021-10-08-Dsweet.jpg)
 
-![](RackMultipart20211008-4-1cly2kj_html_1aead33ecc3a5b14.png)
+![](/news/news-images/press-release-2021-10-08-DSweet2.png)
 
 **Al-Bismi Restaurant** (41 Dickson Road) failed to ensure safe distancing of at least 1 metre between seated customers. STB issued an order requiring the operator to close for 10 days from 3 to 12 October 2021 (both dates inclusive).
 
 _(Photo credit: Singapore Tourism Board)_
 
-![](RackMultipart20211008-4-1cly2kj_html_e459c1138a275eca.png)
+![](/news/news-images/press-release-2021-10-08-Al-Bismi Restaurant.png)
 
 **Shanghai** (8 Ubi Road 2 #01-01, #01-02, Zervex) allowed patrons to be seated in groups larger than the permitted group size. It failed to ensure a safe distance of at least 1 metre between seated patrons, and to ensure that masks were worn by staff and patrons. It also played pre-recorded music at the premises. SFA has issued an order requiring the operator to close for 10 days from 3 October to 12 October 2021 (both dates inclusive).
 
 _(Photo credit: Singapore Food Agency)_
 
-![](RackMultipart20211008-4-1cly2kj_html_c7bbaca611fce8d9.jpg)
+![](/news/news-images/press-release-2021-10-08-Shanghai.jpg)
 
 **ANNEX D**
 
