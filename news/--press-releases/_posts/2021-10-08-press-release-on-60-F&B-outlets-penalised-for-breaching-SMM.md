@@ -1,3 +1,11 @@
+---  
+title: 60 F&B Outlets Penalised for Breaching Safe Management Measures 
+permalink: /resource-room/category/2021-10-08-Press-Release-60-outlets-penalised-for-breaching-SMM/  
+image:  
+file_url:  
+description:  
+---  
+
 #### 60 F&B Outlets Penalised for Breaching Safe Management Measures
 
 _Seniors urged to stay home and to only go out for essential activities_
