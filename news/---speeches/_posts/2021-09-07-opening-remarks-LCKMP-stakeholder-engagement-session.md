@@ -1,12 +1,12 @@
----  
-title: Opening Remarks at the Lim Chu Kang Master Plan Stakeholder Engagement Session - Ms Grace Fu
+---
+title: Opening Remarks at the Lim Chu Kang Master Plan Stakeholder Engagement
+  Session - Ms Grace Fu
 permalink: /resource-room/category/2021-09-07-opening-remarks-LCKMP-stakeholder-engagement-session/
-image:  
-file_url:  
-description:  
----  
-
-####Opening Remarks by Ms Grace Fu, Minister for Sustainability and the Environment, at the Lim Chu Kang Master Plan Stakeholder Engagement Session on 7 September 2021
+image: null
+file_url: null
+description: null
+---
+#### Opening Remarks by Ms Grace Fu, Minister for Sustainability and the Environment, at the Lim Chu Kang Master Plan Stakeholder Engagement Session on 7 September 2021
 
 **Introduction**
 
