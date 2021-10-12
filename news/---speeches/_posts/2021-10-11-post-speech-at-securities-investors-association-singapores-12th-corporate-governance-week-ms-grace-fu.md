@@ -2,9 +2,10 @@
 title: Speech at Securities Investors Association Singapore’s 12th Corporate
   Governance Week - Ms Grace Fu
 date: 2021-10-11
-permalink: /resource-room/category/2021-10-11-speech-at-sias
+permalink: /resource-room/category/2021-10-11-speech-at-sias/
 layout: post
 ---
+
 
 #### Speech by Ms Grace Fu, Minister For Sustainability and the Environment, at the Launch of Securities Investors Association Singapore (SIAS)&#39;s 12th Corporate Governance Week on 11 October 2021
 
