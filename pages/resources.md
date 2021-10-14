@@ -2,7 +2,6 @@
 title: Resources
 permalink: /resources/
 ---
-
 <style>
 /*--------------------------------------------------------------
 DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
@@ -98,7 +97,15 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <div id="resources-container">
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
-    <div class="card">
+  <div class="card">
+        <a href="files/resources/Key-Environmental-Statistics-2021-Publication.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>Key Environmental Statistics 2021</h5>
+            </div>
+          <img src="/images/Key-Environmental-Statistics-2021-Cover.jpg" alt="" style="width:300px;">
+        </a>
+    </div>  
+	<div class="card">
         <a href="/resources/key-environmental-statistics.pdf" target="_blank">  
             <div class="card-content">
             <h5>Key Environmental Statistics 2020</h5>
