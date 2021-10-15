@@ -23,7 +23,6 @@ sections:
     - infobar:
         title: <h2 style="font-family:'Cabin';margin-top:1em;">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:
-<!--
     - infopic:
         title: <h2 style="font-family:'Cabin'">Climate Action Week 2021</h2>
         # subtitle: What we are doing about climate change?
@@ -33,7 +32,6 @@ sections:
         # url: https://climategamechanger.sg/
         image: /images/infopic-1.svg
         alt: Game changing climate change
--->
     - infopic:
         title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
         # subtitle: What can you do?
