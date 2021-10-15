@@ -4,7 +4,6 @@ date: 2021-10-12
 permalink: /resource-room/category/2021-10-12-speech-at-neec/
 layout: post
 ---
-
 #### Speech by Ms Grace Fu, Minister For Sustainability and the Environment, at the National Energy Efficiency Conference (NEEC) On on 12 October 2021
 
 Distinguished Guests
@@ -41,21 +40,13 @@ Distinguished Guests
 
  12 I congratulate the 13 Energy Efficiency National Partnership award winners, who are leading the industry by example in terms of energy efficiency and sustainability. Let me share some of their good work.
 
-13 Concentrate Manufacturing Singaporemakes concentrates used in soft drinks by PepsiCo, its global parent company. The plant&#39;s energy efficiency projects[^1] helped reduce their energy intensity by 44 per cent
-# 2
- from 2018 to 2021. This means annual savings of about 300 megawatt-hour of electricity.
-# 3
+13 Concentrate Manufacturing Singaporemakes concentrates used in soft drinks by PepsiCo, its global parent company. The plant&#39;s energy efficiency projects[^1] helped reduce their energy intensity by 44 per cent[^2] from 2018 to 2021. This means annual savings of about 300 megawatt-hour of electricity.[^3]
+
  The company has committed to not just improving its energy intensity by 8 per cent annually, but also reducing absolute greenhouse gas emissions by 75 per cent by 2030. To drive greater commitment and awareness, the sustainability performance of the company is shared with all staff during fortnightly Townhall meetings. Employees who start energy savings initiatives are also recognised. For their efforts, Concentrate Manufacturing Singapore will receive the award for _Excellence in Energy Management_.
 
-14 Another award recipient is Containers Printers, which provides innovative packaging solutions. Containers Printers installed solar panels on its rooftops in 2019, which currently provides 20 per cent of its electricity needs. By switching to cleaner energy, the company&#39;s carbon footprint has reduced by 800 tonnes per year. In 2020, Containers Printers tapped on NEA&#39;s Energy Efficiency Fund (E2F) grant to replace its fixed-speed air compressor with a variable speed air compressor, thereby halving
-# 4
- the energy use of the compressor. Containers Printers also leveraged NEA&#39;s E2F grant to replace over 2,300 fluorescent tubes with LED lights, again halving energy usage
-# 5
-. These efforts have collectively resulted in around 710 megawatt-hour in annual energy savings, or $92,000 per year. For its efforts, Containers Printers will be receiving the award for _Outstanding SME of the Year_.
+14 Another award recipient is Containers Printers, which provides innovative packaging solutions. Containers Printers installed solar panels on its rooftops in 2019, which currently provides 20 per cent of its electricity needs. By switching to cleaner energy, the company&#39;s carbon footprint has reduced by 800 tonnes per year. In 2020, Containers Printers tapped on NEA&#39;s Energy Efficiency Fund (E2F) grant to replace its fixed-speed air compressor with a variable speed air compressor, thereby halving[^4] the energy use of the compressor. Containers Printers also leveraged NEA&#39;s E2F grant to replace over 2,300 fluorescent tubes with LED lights, again halving energy usage[^5]. These efforts have collectively resulted in around 710 megawatt-hour in annual energy savings, or $92,000 per year. For its efforts, Containers Printers will be receiving the award for _Outstanding SME of the Year_.
 
-15 There is a good ecosystem in Singapore to support companies&#39; journey towards a more sustainable future. There are ESCOs like Siemens Pte Ltd, the _Outstanding Energy Services Provider of the Year_ award winner this year, which has been providing energy efficiency consultancy services to building and industrial sectors for more than 10 years. Knowing that capital costs can be the major hurdle for most implementation decisions, Siemens rolled out Energy Performance Contracting, where customers get to enjoy zero upfront cost while co-sharing the guaranteed energy savings with Siemens. There are also various government grants that companies can tap on such as the E2F, EDB&#39;s Resource Efficiency Grant and EMA&#39;s Genco Energy Efficiency Grant Call
-# 6
-.
+15 There is a good ecosystem in Singapore to support companies&#39; journey towards a more sustainable future. There are ESCOs like Siemens Pte Ltd, the _Outstanding Energy Services Provider of the Year_ award winner this year, which has been providing energy efficiency consultancy services to building and industrial sectors for more than 10 years. Knowing that capital costs can be the major hurdle for most implementation decisions, Siemens rolled out Energy Performance Contracting, where customers get to enjoy zero upfront cost while co-sharing the guaranteed energy savings with Siemens. There are also various government grants that companies can tap on such as the E2F, EDB&#39;s Resource Efficiency Grant and EMA&#39;s Genco Energy Efficiency Grant Call[^6].
 
 **Conclusion**
 
@@ -67,12 +58,12 @@ Thank you.
 
 [^1]:Replacement of conventional metal halide lamps with LED lights in warehouse and production areas, and optimisation of their chiller plant
 
-[2](#sdfootnote2anc)0.35 kWh/kg in 2018 to 0.196 KWh/kg as of end June 21
+[^2]: 0.35 kWh/kg in 2018 to 0.196 KWh/kg as of end June 21
 
-[3](#sdfootnote3anc) Annual consumption of a 4-room HDB flat is 4,747.2 kWh, and monthly consumption is 395.6 kWh, based on EMA&#39;s statistics in Sep 2020 on average monthly household electricity consumption.
+[^3]: Annual consumption of a 4-room HDB flat is 4,747.2 kWh, and monthly consumption is 395.6 kWh, based on EMA&#39;s statistics in Sep 2020 on average monthly household electricity consumption.
 
-[4](#sdfootnote4anc) 49% savings.
+[^4]: 49% savings.
 
-[5](#sdfootnote5anc) 51% savings
+[^5]: 51% savings
 
-[6](#sdfootnote6anc)The second Genco Energy Efficiency Grant Call will close on 30 Sep 21.
+[^6]: The second Genco Energy Efficiency Grant Call will close on 30 Sep 21.
