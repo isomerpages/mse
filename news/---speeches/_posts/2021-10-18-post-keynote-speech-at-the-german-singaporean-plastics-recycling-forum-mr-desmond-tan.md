@@ -5,7 +5,7 @@ date: 2021-10-18
 permalink: /2021-10-15-speech-at-german-singaporean-forum/
 layout: post
 ---
-#### Keynote Speech by Mr Desmond Tan, Minister of State For Sustainability and the Environment, at the German-Singaporean Plastics Recycling Forum on 15 October 2021
+#### Keynote Speech by Mr Desmond Tan, Minister of State for Sustainability and the Environment, at the German-Singaporean Plastics Recycling Forum on 15 October 2021
 
 The future of plastic recycling in a circular economy – solving a worldwide crisis through international collaboration and knowledge transfer
 
