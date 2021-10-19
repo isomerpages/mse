@@ -5,7 +5,7 @@ third_nav_title: SG Eco Fund
 ---
 
 
-The SG Eco Fund is only open for application during the grant call periods. The grant call is now open from **26 August 2021 to 17 October 2021**.
+The SG Eco Fund is only open for application during the grant call periods. The grant call for 2021 is now closed.
 
 Attend one of our SG Eco Fund workshops to learn more about the application process and tips on crafting a good proposal. Sign up for a workshop [here](https://form.gov.sg/#!/611e072e4bfeba00121f144d){:target="_blank"}.
 
