@@ -7,7 +7,7 @@ third_nav_title: SG Eco Fund
 
 The SG Eco Fund is only open for application during the grant call periods. The grant call for 2021 is now closed.
 
-Attend one of our SG Eco Fund workshops to learn more about the application process and tips on crafting a good proposal. Sign up for a workshop [here](https://form.gov.sg/#!/611e072e4bfeba00121f144d){:target="_blank"}.
+Check out the <a href="https://www.mse.gov.sg/sgecofund/community" target="_blank"><b>recording</b></a> of our public workshop to learn tips on crafting a good proposal for the SG Eco Fund.
 
 ![Timeline](/images/sgeco-timeline.png)
 
@@ -28,7 +28,7 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
             <h2><b>Sprout</b></h2>
             <h4>Your requested funding is <b>$10,000 or less</b>:</h4>
             <div>
-                <p>1) Complete the <a href="https://form.gov.sg/611b508d7f4b5f001229b8a5" target="_blank">application form.</a></p>
+                <p>1) Complete the <!--<a href="https://form.gov.sg/611b508d7f4b5f001229b8a5" target="_blank">-->application form.</p>
                 <a href="/images/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
                 <p> You will also be required to submit the following supporting documents:</p>
                 <ul>
@@ -46,7 +46,7 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
         <h2><b>Main</b></h2>
         <h4>Your requested funding is <b>more than $10,000</b>:</h4>
         <div>
-            <p>1) Complete the <a href="https://form.gov.sg/611b508d7f4b5f001229b8a5" target="_blank">application form</a></p>
+            <p>1) Complete the <!--<a href="https://form.gov.sg/611b508d7f4b5f001229b8a5" target="_blank">-->application form.</p>
             <a href="/resources/SG-Eco-Fund-Sample-(Main).pdf">View sample form</a>
             <p>You will also be required to submit the following supporting documents:</p>
             <ul>
