@@ -12,6 +12,12 @@ Access our collection of [resources](/resources/){:target="_blank"} that cover k
 
 [Click here](/resources/awarded-projects.pdf){:target="_blank"} to view the list of projects that were awarded in the first grant call back in May 2021.
 
+[Click here](https://greenplan.medium.com/){:target="_blank"} to read stories about past SG Eco Fund recipients.
+
+Watch this recording of the SG Eco Fund Workshop to learn tips on crafting a good proposal:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ld5pez-3b2g" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- View the SG Eco Fund [Press Release]() -->
 
 <!-- 
