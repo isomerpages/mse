@@ -12,16 +12,16 @@ third_nav_title: SG Eco Fund
 
 <a class="button_david" href="/sgecofund/apply/">Apply for the SG Eco Fund</a></center>
 
-#### The SG Eco Fund is only open for application during the grant call period. The grant call is now open from **26 August 2021 to 17 October 2021**.  
+#### The SG Eco Fund is only open for application during the grant call period. The grant call for 2021 is now closed.  
 
 <br> 
 
 
 <div class="logos-row">
   <div class="grid-column">
-    <img src="/images/sgeco-question.svg" style="max-width:25vh;" alt="..."><h5>Not sure if you are eligible to apply for the SG Eco Fund? Read more about the eligibility criteria <a href="/sgecofund/fund-info"><b>here</b></a></h5>
+    <img src="/images/sgeco-question.svg" style="max-width:25vh;" alt="..."><h5>Not sure if you are eligible to apply for the SG Eco Fund? Read more about the eligibility criteria <a href="/sgecofund/fund-info"><b>here</b></a>.</h5>
   </div>
   <div class="grid-column">
-    <img src="/images/sgeco-webinar.svg" style="max-width:25vh;" alt="..."><h5>Attend one of our public workshops to learn more about the application process and tips on crafting a good proposal. Sign up for a workshop  <a href="https://form.gov.sg/#!/611e072e4bfeba00121f144d" target="_blank"><b>here</b></a></h5>
+    <img src="/images/sgeco-webinar.svg" style="max-width:25vh;" alt="..."><h5>Check out the <a href="/sgecofund/community"><b>recording</b></a> of our public workshop to learn tips on crafting a good proposal for the SG Eco Fund.</h5>
   </div>
 </div>
