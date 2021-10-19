@@ -7,7 +7,7 @@ third_nav_title: SG Eco Fund
 
 The SG Eco Fund is only open for application during the grant call periods. The grant call for 2021 is now closed.
 
-Check out the <a href="https://www.mse.gov.sg/sgecofund/community" target="_blank"><b>recording</b></a> of our public workshop to learn tips on crafting a good proposal for the SG Eco Fund.
+Check out the <a href="/sgecofund/community"><b>recording</b></a> of our public workshop to learn tips on crafting a good proposal for the SG Eco Fund.
 
 ![Timeline](/images/sgeco-timeline.png)
 
