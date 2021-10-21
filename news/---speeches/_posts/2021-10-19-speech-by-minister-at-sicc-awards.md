@@ -1,6 +1,6 @@
 ---
 title: SICC Awards Ceremony and Gala - Ms Grace Fu
-date: 2021-10-12
+date: 2021-10-19
 permalink: /resource-room/category/2021-10-19-speech-by-minister-at-sicc-awards/
 layout: post
 ---
