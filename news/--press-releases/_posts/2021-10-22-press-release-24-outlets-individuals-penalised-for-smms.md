@@ -109,7 +109,7 @@ _Members of the public reminded to exercise social responsibility and observe sa
 
 ![](/news/news-images/press-release-2021-10-22-image-6.png)
 
-[1](#sdfootnote1anc) NEA took enforcement action against 84 and 92 individuals from 8 to 10 October 2021 and 15 to 17 October 2021 respectively, as part of stepped up enforcement action for breaches of SMMs at hawker centres. Please refer to NEA&#39;s media advisories on 11 and 19 October 2021 for more information.
+[1](#sdfootnote1anc) NEA took enforcement action against 84 and 92 individuals from 8 to 10 October 2021 and 15 to 17 October 2021 respectively, as part of stepped up enforcement action for breaches of SMMs at hawker centres. Please refer to NEA&#39;s media advisories on 11 & 19 October 2021 for more information.
 
 [2](#sdfootnote2anc)Individual with cleared status means: a) fully vaccinated individual, i.e. 2 weeks after receiving the full regime of Pfizer-BioNTech/ Comirnaty, Moderna or after completing the full regime of vaccines on the World Health Organization&#39;s Emergency Use Listing (including the appropriate duration post-vaccination for the vaccine to be fully effective); b) individual who has recovered from COVID-19 and can provide a valid Pre-Event Test (PET) exemption notice; or c) individual who has a valid negative PET result from an Ministry of Health-approved COVID-19 test provider within the last 24 hours.
 
