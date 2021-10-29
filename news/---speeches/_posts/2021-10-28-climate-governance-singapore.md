@@ -1,10 +1,11 @@
----
-title: Climate Governance Singapore Launch - Ms Grace Fu
+---  
+title: Climate Governance Singapore Launch - Ms Grace Fu  
 permalink: /resource-room/category/2021-10-28-climate-governance-singapore/
-image: null
-file_url: null
-description: null
+image:  
+file_url:  
+description:  
 ---
+
 #### Opening Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Climate Governance Singapore launch on 28 October 2021
 
 Professor Lily Kong, President of Singapore Management University (SMU),  
