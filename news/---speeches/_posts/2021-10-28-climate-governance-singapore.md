@@ -1,11 +1,10 @@
----  
-title: Climate Governance Singapore Launch - Ms Grace Fu  
+---
+title: Climate Governance Singapore Launch - Ms Grace Fu
 permalink: /resource-room/category/2021-10-28-climate-governance-singapore/
-image:  
-file_url:  
-description:  
----  
-
+image: null
+file_url: null
+description: null
+---
 #### Opening Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Climate Governance Singapore launch on 28 October 2021
 
 Professor Lily Kong, President of Singapore Management University (SMU),  
@@ -24,13 +23,17 @@ Ladies and Gentlemen,
 
 3	First, the Government has charted a clear direction on the critical importance of sustainability. While Singapore has always prioritised sustainable development, we recognise the need to do more. We launched the Singapore Green Plan 2030 earlier this year, as a whole-of-nation roadmap with concrete and ambitious sectoral targets. The Green Plan builds on preceding efforts and positions Singapore to achieving our net-zero emissions aspiration.   
 
-a. Through the GreenGov.SG sustainability movement under the Green Plan, the public sector is leading by example and rallying stakeholders across all sectors. We have enhanced green procurement requirements for all agencies, to galvanise greener products and practices from our partners. New and existing public sector buildings must achieve Green Mark Platinum (Super Low Energy) standards or equivalent, and will deploy solar photovoltaics where feasible. Over time, we will install solar energy systems on the rooftops of 6,000 public buildings.  
+<ol style="list-style-type: lower-alpha; margin-left: 40px">
+<li>Through the GreenGov.SG sustainability movement under the Green Plan, the public sector is leading by example and rallying stakeholders across all sectors. We have enhanced green procurement requirements for all agencies, to galvanise greener products and practices from our partners. New and existing public sector buildings must achieve Green Mark Platinum (Super Low Energy) standards or equivalent, and will deploy solar photovoltaics where feasible. Over time, we will install solar energy systems on the rooftops of 6,000 public buildings. </li>
 
-b. Through the Green Economy pillar of the Green Plan, we will harness sustainability as an engine and enabler of growth. We are investing in a green finance ecosystem to promote the local and regional green economy.   
+<li>Through the Green Economy pillar of the Green Plan, we will harness sustainability as an engine and enabler of growth. We are investing in a green finance ecosystem to promote the local and regional green economy. </li>
+</ol>
 
-i. The Monetary Authority of Singapore (MAS) launched the Sustainable Bond Grant Scheme and Green and Sustainability-Linked Loan Grant Scheme (GSLS) to enhance access to green financing, effective from January 2021. This scheme is the first of its kind globally and will support corporates of all sizes to obtain sustainable funding. MAS also recently committed US$1.8 billion of its reserves to climate-related investments.    
+<ol style="list-style-type: lower-roman; margin-left: 80px">
+<li>The Monetary Authority of Singapore (MAS) launched the Sustainable Bond Grant Scheme and Green and Sustainability-Linked Loan Grant Scheme (GSLS) to enhance access to green financing, effective from January 2021. This scheme is the first of its kind globally and will support corporates of all sizes to obtain sustainable funding. MAS also recently committed US$1.8 billion of its reserves to climate-related investments.</li>
 
-ii. To support local industries in developing sustainability capabilities, practices, and products, Enterprise Singapore has set aside up to S$180 million under the Enterprise Sustainability Programme to help 6,000 Singapore companies.   
+<li>To support local industries in developing sustainability capabilities, practices, and products, Enterprise Singapore has set aside up to S$180 million under the Enterprise Sustainability Programme to help 6,000 Singapore companies.</li>
+</ol>
 
 4	Second, Singapore has developed robust innovation capabilities, especially through public-private partnerships. DBS, SGX, Standard Chartered, and Temasek launched the Climate Impact X (CIX), a carbon exchange and marketplace to help corporations decarbonise hard-to-abate emissions with high-quality, nature-based solution projects. CIX will be the world’s first carbon exchange and marketplace to use satellite monitoring, machine learning, and blockchain technology to enhance transparency, integrity, and quality of carbon credits. We have also pledged $25 billion under the Research, Innovation and Enterprise (RIE) 2025 plan to support the development and commercialisation of sustainability innovations, such as in renewable energy, the circular economy, and low-carbon solutions.   
 
@@ -52,4 +55,4 @@ Stewards of Sustainable Industries
 
 10	Let me conclude. I commend our corporate leaders for embracing sustainability and moving the needle on cutting-edge solutions for a greener economy.    
 
-11	You are important enablers of change and will shape the world for our future generations. Our legacy for them must be a sustainable one, and this is a journey that the Climate Governance Singapore will do well to uphold. Thank you.    
+11	You are important enablers of change and will shape the world for our future generations. Our legacy for them must be a sustainable one, and this is a journey that the Climate Governance Singapore will do well to uphold. Thank you.
