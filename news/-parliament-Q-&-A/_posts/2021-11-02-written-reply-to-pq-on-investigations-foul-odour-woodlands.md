@@ -8,7 +8,7 @@ description:
  
 #### Written Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on Update on Investigations of Foul Odour in Air in Woodlands    
  
-**Ms Mariam Jaafar:** To ask the Minister for Sustainability and the Environment whether the Ministry can provide an update on the investigations of the foul odour in the air in Woodlands.
+**Ms Mariam Jaafar:** To ask the Minister for Sustainability and the Environment whether the Ministry can provide an update on the investigations of the foul odour in the air in Woodlands. 
 
 **Answer:**
 
