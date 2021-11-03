@@ -8,7 +8,7 @@ description:
  
 #### Written Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on Plans to Adjust Imported Amounts of Different Types of Food and Supporting Local Producers to Produce 30% of Singapore's Nutritional Needs by 2030    
  
-**Dr Shahira Abdullah:** To ask the Minister for Sustainability and the Environment how does SFA plan to adjust the amounts of different types of food that are imported into Singapore to ensure that surplus food is kept to a minimum whilst local food producers scale up to produce 30% of Singapore&#39;s nutritional needs by 2030.
+**Dr Shahira Abdullah:** To ask the Minister for Sustainability and the Environment how does SFA plan to adjust the amounts of different types of food that are imported into Singapore to ensure that surplus food is kept to a minimum whilst local food producers scale up to produce 30% of Singapore&#39;s nutritional needs by 2030. 
 
 **Answer:**
 
