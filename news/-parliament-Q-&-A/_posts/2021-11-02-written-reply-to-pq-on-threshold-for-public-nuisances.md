@@ -8,7 +8,7 @@ description:
  
 #### Written Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on Threshold on Number of Persons Affected Before a Nuisance is Considered an Offence of Public Nature under Penal Code and Environmental Public Health    
  
-**Mr Louis Ng Kok Kwan:** To ask the Minister for Sustainability and the Environment (a) whether there is any threshold on the number of persons who must be affected before a nuisance can be considered to be an offence of a public nature under the (i) Penal Code and (ii) Environmental Public Health Act; (b) if so, what is the threshold; and (c) whether persons who are affected in their own homes are considered part of the threshold number.
+**Mr Louis Ng Kok Kwang:** To ask the Minister for Sustainability and the Environment (a) whether there is any threshold on the number of persons who must be affected before a nuisance can be considered to be an offence of a public nature under the (i) Penal Code and (ii) Environmental Public Health Act; (b) if so, what is the threshold; and (c) whether persons who are affected in their own homes are considered part of the threshold number.
 
 **Answer:**
 
