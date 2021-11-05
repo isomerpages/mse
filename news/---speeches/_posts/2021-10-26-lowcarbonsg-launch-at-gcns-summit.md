@@ -1,12 +1,11 @@
----  
+---
 title: Launch of LowCarbonSG at Global Compact Network Signgapore Summit
-permalink: /resource-room/category/2021-10-26-lowcarbonsg-launch-at-gcns-summit.md
-image:  
-file_url:  
-description:  
----  
-
-**SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE GLOBAL COMPACT NETWORK SINGAPORE SUMMIT ON 26 OCTOBER 2021**
+permalink: /resource-room/category/2021-10-26-lowcarbonsg-launch-at-gcns-summit
+image: null
+file_url: null
+description: null
+---
+#### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE GLOBAL COMPACT NETWORK SINGAPORE SUMMIT ON 26 OCTOBER 2021
 
 
 Ms Goh Swee Chen, President of the Global Compact Network Singapore,
@@ -14,7 +13,7 @@ Ms Goh Swee Chen, President of the Global Compact Network Singapore,
 Ladies and Gentlemen
 
 
-	Good morning.
+Good morning.
 
 **TAKING DECISIVE ACTIONS ON CLIMATE CHANGE**
 
@@ -56,5 +55,4 @@ Ladies and Gentlemen
 
 16	I thank all of you for your efforts in building a sustainable Singapore, and look forward to your contributions in the future green economy.
 
-Thank you. 
-
+Thank you.
