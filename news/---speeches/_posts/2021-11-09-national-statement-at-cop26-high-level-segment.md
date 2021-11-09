@@ -30,7 +30,7 @@ Mr President,
 <li>We shall also finalise the outstanding technical work under the Enhanced Transparency Framework and come to a decision on common reporting timeframes for NDCs.
 
 The completion of the Paris Rulebook will see us shifting from negotiations to concrete implementation and collaboration. It is time for us to put an end to this chapter that has gone on for 6 years.</li>
-	</ol>
+</ol>
 
 <li>Third, COP-26 must deliver a strong support package for developing countries. This will enable developing countries to implement effective adaptation strategies and achieve their climate pledges, so that we can collectively fulfil the Paris Agreement&#39;s goals.</li>
 
@@ -83,7 +83,7 @@ The completion of the Paris Rulebook will see us shifting from negotiations to c
 
 5 How fast we can move also depends on the development and maturity of emerging low-carbon technologies such as carbon capture and low-carbon hydrogen. As and when international collaborations and new enabling technologies materialise, we will review and enhance our climate goals.
 
-Importance of International Partnerships and Regional Cooperation
+**Importance of International Partnerships and Regional Cooperation**
 
 6 Beyond Singapore&#39;s requirement, international partnerships can strengthen our collective global climate action. We have joined several coalitions over the past week in Glasgow.
 
