@@ -29,13 +29,13 @@ sections:
         description: A whole-of-nation movement to advance Singapore’s national agenda on sustainable development, the Green Plan charts ambitious and concrete targets to strengthen Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and position us to achieve our long-term net zero emissions aspiration as soon as viable.
         button: Learn more
         url: https://greenplan.gov.sg/
-        # image: /images/infopic-1.svg
-        # alt: Singapore Green Plan 2030
+        image: /images/infopic-1.svg
+        alt: Singapore Green Plan 2030
         
     - infopic:
         # title: <h2 style="font-family:'Cabin'">Climate Action Week 2021</h2>
         # subtitle: What we are doing about climate change?
-        # description: Find out <a id="homehoverlink1" href="https://www.mse.gov.sg/climate-action-week">what events are happening from 12-18 July</a> for this year's Climate Action Week.
+        # description: Find out <a id="homehoverlink1" href="https://www.mse.gov.sg/climate-action-week">what events are happening </a> for this year's Climate Action Week.
         # as we come together to strengthen our climate change resilience and transition to a low-carbon future.
         # button: Learn more
         # url: https://climategamechanger.sg/
@@ -43,9 +43,10 @@ sections:
         # alt: Game changing climate change
         
     - infopic:
-        title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
+        #title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
         # subtitle: What can you do?
-        # description: Our <a id="homehoverlink2" href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
+        # description: Our <a id="homehoverlink2" href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> 
+        # maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
         # url: /take-action/individuals
         # image: /images/infopic-2.svg
         # alt: Zero Waste Masterplan
