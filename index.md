@@ -23,6 +23,7 @@ sections:
     - infobar:
         title: <h2 style="font-family:'Cabin';margin-top:1em;">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:
+        
     - infopic:
         title: <h2 style="font-family:'Cabin'">Singapore Green Plan 2030</h2>
         # subtitle: What we are doing about climate change?
@@ -41,15 +42,6 @@ sections:
         # url: https://climategamechanger.sg/
         # image: /images/infopic-1.svg
         # alt: Game changing climate change
-        
-    - infopic:
-        #title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
-        # subtitle: What can you do?
-        # description: Our <a id="homehoverlink2" href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> 
-        # maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
-        # url: /take-action/individuals
-        # image: /images/infopic-2.svg
-        # alt: Zero Waste Masterplan
     
     - infopic:
         title: <h2 style="font-family:'Cabin'">Sustainability is for Everyone</h2>
