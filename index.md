@@ -35,7 +35,7 @@ sections:
     - infopic:
         title: <h2 style="font-family:'Cabin'">Singapore Green Plan 2030</h2>
         # subtitle: What can you do?
-        description: A whole-of-nation movement to advance Singapore’s national agenda on sustainable development, the Green Plan charts ambitious and concrete targets to strengthen Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and position us to achieve our long-term net zero emissions aspiration as soon as viable.
+        description: Climate change is a global challenge, and Singapore is taking firm actions to do our part to build a sustainable future. Singapore Green Plan 2030 is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.
         button: Learn More
         url: https://greenplan.gov.sg/
         image: /images/infopic-1.svg
