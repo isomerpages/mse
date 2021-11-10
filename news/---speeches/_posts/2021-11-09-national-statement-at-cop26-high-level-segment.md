@@ -1,11 +1,11 @@
 ---
 title: UNFCCC 26th Conference of Parties (COP-26) High Level Segment - Ms Grace Fu
-permalink: /resource-room/category/2021-11-10-national-statement-at-cop26-high-level-segment/
+permalink: /resource-room/category/2021-11-09-national-statement-at-cop26-high-level-segment/
 image: null
 file_url: null
 description: null
 ---
-#### National Statement by Ms Grace Fu, Minister for Sustainability and the Environment, at the UNFCCC 26th Conference of Parties (COP-26) High Level Segment on 10 November 2021  
+#### National Statement by Ms Grace Fu, Minister for Sustainability and the Environment, at the UNFCCC 26th Conference of Parties (COP-26) High Level Segment on 9 November 2021  
 
 Mr President,
 
