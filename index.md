@@ -33,12 +33,13 @@ sections:
         # image: /images/infopic-1.svg
         # alt: Game changing climate change
     - infopic:
-        title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
+        title: <h2 style="font-family:'Cabin'">Singapore Green Plan 2030</h2>
         # subtitle: What can you do?
-        description: Our <a id="homehoverlink2" href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
-        # url: /take-action/individuals
-        image: /images/infopic-2.svg
-        alt: Zero Waste Masterplan
+        description: Climate change is a global challenge, and Singapore is taking firm actions to do our part to build a sustainable future. Singapore Green Plan 2030 is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.
+        button: Learn More
+        url: https://greenplan.gov.sg/
+        image: /images/infopic-1.svg
+        alt: Singapore Green Plan 2030
     - infopic:
         title: <h2 style="font-family:'Cabin'">Sustainability is for Everyone</h2>
         # subtitle: What can you do?
