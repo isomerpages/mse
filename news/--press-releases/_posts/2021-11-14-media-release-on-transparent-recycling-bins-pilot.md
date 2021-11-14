@@ -8,8 +8,6 @@ description:
 
 ####  Transparent recycling bins pilot to nudge positive recycling behaviour
 
-Transparent recycling bins pilot to nudge positive recycling behaviour
-
 *Making recycling bins transparent was one of the recommendations from the #RecycleRight Citizens’ Workgroup in 2019*
 
 **Singapore, 14 November 2021** – The Ministry of Sustainability and the Environment (MSE) and National Environment Agency (NEA) have commenced two pilots to establish whether the use of transparent recycling bin designs can help to encourage the right recycling behaviour. The eight-week-long pilots were launched by Senior Minister of State for Sustainability and the Environment Dr Amy Khor during the Hong Kah North Environment Drive 2021 event today. 
@@ -40,7 +38,7 @@ b) 6 Nov - the Pasir Ris Park “Kayak N Klean”, a clean-up exercise using kay
 
 c) 14 Nov - the Hong Kah North Environment Drive 2021, featuring a Facebook live engagement session with residents, with a focus on how to recycle right. 
 
-- End -
+**END** 
 
 **Annex**
 
@@ -52,3 +50,12 @@ c) 14 Nov - the Hong Kah North Environment Drive 2021, featuring a Facebook live
 
 3 Pilot B tests whether the **segregation of recyclables** will make a difference in the contamination rate of the bins. It comprises two control bins (co-mingled bins) and two experiment bins (segregated bins). 
 
+|                               |                                **Pilot A**                               |                                                                                                                   |
+|-------------------------------|:------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------|
+| **Mode**                      | Control (two bins – one at Hong Kah North SMC and one at East Coast GRC) | Experiment (two bins – one at Hong Kah North SMC and one at East Coast GRC)                                       |
+| **Description of bin design** | Regular 660L blue recycling bin                                          | Recycling bin with a circular transparent feature                                                                 |
+| **Locations**                 | Blk 441C Bukit Batok West Ave 8 and Blk 3 Bedok South Ave 1              | Blk 440B Bukit Batok West Ave 8 and Blk 29 Upper Changi Road.                                                     |
+|                               |                                **Pilot B**                               |                                                                                                                   |
+| **Mode**                      | Control (two bins – one at Hong Kah North SMC and one at East Coast GRC) | Experiment (two bins – one at Hong Kah North SMC and one at East Coast GRC)                                       |
+| **Description of bin design** | Transparent co-mingled recycling bin                                     | Transparent segregated recycling bin with individual compartments for glass, paper, metal and plastic recyclables |
+| **Locations**                 | Blk 369 Bukit Batok St 31 and Blk 37 Bedok South Ave 2                   | Blk 343 Bukit Batok Street 34 and Blk 33 Bedok South Ave 2                                                        |
