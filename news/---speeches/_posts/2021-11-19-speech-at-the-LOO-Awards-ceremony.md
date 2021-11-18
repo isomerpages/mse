@@ -52,7 +52,7 @@ Award Recipients
 
 14 I congratulate all recipients and hope these awards will encourage you to keep up the great work and inspire others around you. I also thank the Restroom Association Singapore for organising the LOO awards for the past 13 years, and your relentless efforts in advocating for clean public toilets.  
 
-**Conclusion**. 
+**Conclusion**
 
 15 Let us continue to raise our standards of cleanliness and hygiene. Together, we can keep Singapore safe and clean for everyone.  
 
