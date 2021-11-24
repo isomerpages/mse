@@ -1,5 +1,5 @@
 ---  
-title: Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Official Inauguration of Shiok Meats' Mini Plant on 22 November 2021 
+title: Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Official Inauguration of Growthwell Food's Innovation and R&D Manufacturing Centre on 24 Nov 2021 
 permalink: /resource-room/category/2021-11-22-speech-by-Minister-at-shiok-meats-inauguration-on-22-nov/  
 image:  
 file_url:  
