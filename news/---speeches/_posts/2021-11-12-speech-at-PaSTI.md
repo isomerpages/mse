@@ -29,9 +29,9 @@ Ladies and Gentlemen,
 
 7 Phase Two, which we are launching today, will build on this. It will establish facility-level M&R guidelines that are applicable for the region, and test-drive these guidelines through pilot projects. If successfully implemented, this proof-of-concept will support facilities and businesses in their decarbonisation journeys and make their operations more sustainable.   
 
-a Companies stand to reap efficiency gains by incorporating emissions considerations in designing and running their facilities.  
+<ol style="list-style-type: lower-alpha; margin-left: 40px"><li>Companies stand to reap efficiency gains by incorporating emissions considerations in designing and running their facilities.</li>
 
-b To facilitate transparency, a third-party verification mechanism can be added to create a robust MRV system that will support the greening of our industries and economies, in the global push for a low-carbon, climate-resilient future.  
+<li>To facilitate transparency, a third-party verification mechanism can be added to create a robust MRV system that will support the greening of our industries and economies, in the global push for a low-carbon, climate-resilient future.</li></ol>
 
 8 Collective and committed global action is needed to overcome climate change. Singapore is keen to cooperate with other like-minded partners for a greener, brighter tomorrow.  
 
