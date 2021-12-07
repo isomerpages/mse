@@ -31,14 +31,14 @@ permalink: /take-action/organisations/
             <div>
             <h5><i class="fas fa-plug"></i></h5></div>
             <div>
-                <h5><a href="https://www.e2singapore.gov.sg/households/saving-energy-at-home/energy-saving-tips/more-energy-saving-practices-at-home">Boost Energy Efficiency</a></h5>
+                <h5><a href="https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/energy-efficient-singapore">Boost Energy Efficiency</a></h5>
             </div>
         </div>
         <div class='grid-column'>
             <div>
             <h5><i class="fas fa-dumpster"></i></h5></div>
             <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/waste-management-recycling.php">Encourage Recycling</a></h5>
+                <h5><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work">Encourage Recycling</a></h5>
             </div>
         </div>
     </div>
@@ -54,14 +54,14 @@ permalink: /take-action/organisations/
             <div>
             <h5><i class="fas fa-universal-access"></i></h5></div>
             <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/organisational-awareness.php">Build Organisational Awareness</a></h5>
+                <h5><a href="https://sec.org.sg/our-programmes/eco-certifications/">Build Organisational Awareness</a></h5>
             </div>
         </div>
         <div class='grid-column'>
             <div>
             <h5><i class="fas fa-shopping-cart"></i></h5></div>
             <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/purchasing-operation.php">Conscious Purchasing</a></h5>
+                <h5><a href="https://sec.org.sg/our-programmes/eco-certifications/">Conscious Purchasing</a></h5>
             </div>
         </div>
     </div>
