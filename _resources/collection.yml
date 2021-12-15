@@ -1,4 +1,5 @@
 collections:
   resources:
     output: true
-    order: []
+    order:
+      - FAQ/.keep
