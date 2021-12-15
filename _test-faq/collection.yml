@@ -1,5 +1,5 @@
 collections:
-  resources:
+  test-faq:
     output: true
     order:
       - FAQ/Test FAQ.md
