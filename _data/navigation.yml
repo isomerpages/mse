@@ -1,14 +1,5 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/mse-logo.png
-
 links:
-  # - title: Feature
-  #   url: /feature/
   - title: Latest News
     resource_room: true
   - title: Policies
