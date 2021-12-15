@@ -2,4 +2,5 @@ collections:
   resources:
     output: true
     order:
+      - FAQ/Test FAQ.md
       - FAQ/.keep
