@@ -109,7 +109,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 	<div class="card">
         <a href="/resources/CW_Report_MEWR.pdf" target="_blank">  
             <div class="card-content">
-            <h5>MSE’s Response to #RecycleRight Citizens’ Workgroup Report</h5>
+            <h5>Response to Citizens’ Workgroup Report (2019)</h5>
             </div>
           <img src="/images/CW_Report_MEWR_Cover.jpg" alt="" style="width:300px;">
         </a>
