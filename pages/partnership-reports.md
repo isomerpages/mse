@@ -102,7 +102,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
             <h5>MSE-NYC Youth Circle Report (2021)</h5>
             </div>
-          <img src="/images/youth-circle-report-cover.jpg" alt="" style="width:300px border:1px solid black;">
+          <img src="/images/youth-circle-report-cover.jpg" alt="" style="width:300px; border:1px solid black;">
 		<p style="text-align: center; font-size: 0.8em;">MSE was one of the first agencies to work with the National Youth Council (NYC) to start a Youth Circle, for youth leaders to work with the Ministry on specific policy issues. The pioneer batch of the MSE-NYC Youth Circle studied the issue of food waste, and how a Good Samaritan Law Food Donation Act might encourage donation of surplus or unsold food to the needy. This is a report by the Youth Circle on insights gained from its engagement of stakeholders in the food industry, and its recommendations.</p>
         </a>
     </div>  
