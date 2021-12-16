@@ -1,6 +1,6 @@
 ---
-title: Partnership Reports
-permalink: /partnership-reports/
+title: Partnering with the Community
+permalink: /partnering-community/
 ---
 <style>
 /*--------------------------------------------------------------
