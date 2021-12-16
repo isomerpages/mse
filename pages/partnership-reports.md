@@ -95,7 +95,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 </style>
 
 <div id="resources-container">
-<h1 style="text-align:center"><b>Resources</b></h1>
+<h1 style="text-align:center"><b>Partnership Reports</b></h1>
 <div class="cards">
   <div class="card">
         <a href="/files/resources/good_samaritan_law_report_090321.pdf" target="_blank">  
