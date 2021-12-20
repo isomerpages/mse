@@ -14,7 +14,7 @@ DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
     max-width: 180px;
     max-height: auto;
     padding: 0px;
-    border-radius: 15px 15px 0px 0px;
+    border-radius: 0px;
 }
 
 .card {
