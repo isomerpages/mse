@@ -41,6 +41,7 @@ DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
     /* font-weight: bold; */
     color: inherit;
     text-decoration: none;
+	line-height: 150%;
 }
 
 .card:hover {
