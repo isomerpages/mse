@@ -13,7 +13,7 @@ DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
     border: 0;
     max-width: 180px;
     max-height: auto;
-    padding: 1em;
+    padding: 0px;
     border-radius: 15px 15px 0px 0px;
 }
 
@@ -102,7 +102,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
             <h5>MSE-NYC Youth Circle Report<br>(2021)</h5>
             </div>
-          <img src="/images/youth-circle-report-cover.jpg" alt="" style="width:80%; border:1px solid black; border-radius: 0px; padding: 0px">
+          <img src="/images/youth-circle-report-cover.jpg" alt="" style="width:80%; border:1px solid black; border-radius: 0px;">
 		<p style="text-align: center; font-size: 0.8em;">This is a report by the MSE-National Youth Council Youth Circle that studied the issue of food waste, and made recommendations on how a Good Samaritan Law Food Donation Act might encourage the donation of surplus or unsold food to the needy.</p>
         </a>
     </div>  
