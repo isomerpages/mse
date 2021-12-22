@@ -98,9 +98,9 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
   <div class="card">
-        <a href="/files/resources/Key-Environmental-Statistics-2021-Publication.pdf" target="_blank">  
+        <a href="/files/resources/CW_Report_MEWR.pdf" target="_blank">  
             <div class="card-content">
-            <h5>Key Environmental Statistics 2021</h5>
+            <h5>#RecycleRight Citizens’ Workgroup Report</h5>
             </div>
           <img src="/images/Key-Environmental-Statistics-2021-Cover.jpg" alt="" style="width:300px;">
         </a>
