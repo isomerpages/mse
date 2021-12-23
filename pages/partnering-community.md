@@ -1,5 +1,5 @@
 ---
-title: Partnering with the Community
+title: Partnering the Community
 permalink: /partnering-community/
 ---
 <style>
