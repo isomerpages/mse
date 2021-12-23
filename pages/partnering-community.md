@@ -112,7 +112,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
             <h5>Response to Citizens’ Workgroup Report (2019)</h5>
             </div>
-        <img src="/images/CW_Report_MEWR_Cover.png" alt="" style="width:80%;">
+        <img src="/images/CW_Report_MEWR_Cover.jpg" alt="" style="width:80%;">
 		<p style="text-align: center; font-size: 0.8em;">TBC</p>
         </a>
     </div>
