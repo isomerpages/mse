@@ -1,5 +1,5 @@
 ---
-title: Partnering with the Community
+title: Partnering the Community
 permalink: /partnering-community/
 ---
 <style>
@@ -104,16 +104,25 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <h5>MSE-NYC Youth Circle Report<br>(2021)</h5>
             </div>
           <img src="/images/youth-circle-report-cover.jpg" alt="" style="width:80%; border:1px solid black;">
-		<p style="text-align: center; font-size: 0.8em;">This is a report by the MSE-National Youth Council Youth Circle that studied the issue of food waste, and made recommendations on how a Good Samaritan Law Food Donation Act might encourage the donation of surplus or unsold food to the needy.</p>
+		<p style="text-align: center; font-size: 0.8em;">This is a report by a group of youth leaders who worked with the Ministry of Sustainability and the Environment and the Singapore Food Agency to study the issue of food waste, and how a Good Samaritan Law Food Donation Act might encourage donation of surplus or unsold food to the needy.</p>
         </a>
-    </div>  
+    </div>
+    <div class="card">
+        <a href="/resources/CW_Report_MEWR.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>Response to Citizens’ Workgroup Report (2019)</h5>
+            </div>
+        <img src="/images/CW_Report_MEWR_Cover.jpg" alt="" style="width:80%;">
+		<p style="text-align: center; font-size: 0.8em;">In 2019, the Ministry of Sustainability and the Environment convened a #RecycleRight Citizens’ Workgroup to study how household recycling could be improved. This is the Ministry’s response to the recommendations of the Workgroup.</p>
+        </a>
+    </div>
     <div class="card">
         <a href="/resources/CW_Report_Participants.pdf" target="_blank">  
             <div class="card-content">
             <h5>#RecycleRight Citizens’ Workgroup Report (2019)</h5>
             </div>
         <img src="/images/CW_Report_Participants_Cover.png" alt="" style="width:80%;">
-		<p style="text-align: center; font-size: 0.8em;">This report was developed from recommendations by the MSE’s inaugural Citizens’ Workgroup where more than 40 citizens from diverse background worked together to co-create solutions to improve the way households recycle in Singapore.</p>
+		<p style="text-align: center; font-size: 0.8em;">This is a report of the recommendations of a diverse group of citizens brought together by the Ministry of Sustainability and the Environment to co-create solutions to improve the way households recycle in Singapore.</p>
         </a>
     </div>
 </div>
