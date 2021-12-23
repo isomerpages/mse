@@ -113,7 +113,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <h5>Response to Citizens’ Workgroup Report (2019)</h5>
             </div>
         <img src="/images/CW_Report_MEWR_Cover.jpg" alt="" style="width:80%;">
-		<p style="text-align: center; font-size: 0.8em;">TBC</p>
+		<p style="text-align: center; font-size: 0.8em;">In 2019, the Ministry of Sustainability and the Environment convened a #RecycleRight Citizens’ Workgroup to study how household recycling could be improved. This is the Ministry’s response to the recommendations of the Workgroup.</p>
         </a>
     </div>
     <div class="card">
