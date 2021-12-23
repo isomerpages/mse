@@ -108,12 +108,12 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="/resources/CW_Report_Participants.pdf" target="_blank">  
+        <a href="/resources/CW_Report_MEWR.pdf" target="_blank">  
             <div class="card-content">
-            <h5>#RecycleRight Citizens’ Workgroup Report (2019)</h5>
+            <h5>Response to Citizens’ Workgroup Report (2019)</h5>
             </div>
-        <img src="/images/CW_Report_Participants_Cover.png" alt="" style="width:80%;">
-		<p style="text-align: center; font-size: 0.8em;">This report was developed from recommendations by the MSE’s inaugural Citizens’ Workgroup where more than 40 citizens from diverse background worked together to co-create solutions to improve the way households recycle in Singapore.</p>
+        <img src="/images/CW_Report_MEWR_Cover.png" alt="" style="width:80%;">
+		<p style="text-align: center; font-size: 0.8em;">TBC</p>
         </a>
     </div>
     <div class="card">
