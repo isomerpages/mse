@@ -49,7 +49,7 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-<h1><b>Frequently Asked Questions</b></h1>
+<p><i>Information accurate as of 31 December 2021.</i></p>
 
 <h1><b>Participate</b></h1>
 
