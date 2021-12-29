@@ -71,20 +71,20 @@ input:checked + label + .accordion-content {
   	<input type="checkbox" id="title2"  /><label for="title2">How does the Ministry control air pollution from industries in Singapore?</label>
 	<div class="accordion-content">
 		<p>The National Environment Agency (NEA) evaluates the hazard and pollution impact of industries to ensure that they do not contribute to unmanageable pollution, health and safety hazards. NEA checks the designs of industrial plants and pollution control equipment at the building plan stage for compliance with pollution control requirements. An industry is allowed to be set up only if it is sited in an appropriate industrial estate, and can comply with the pollution control requirements.
-    
-    NEA&#39;s Source Emission Test Scheme requires industries to conduct source emission tests on their own, or engage [accredited laboratories](https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality/accredited-testing-bodies-for-source-emission-tests) under the [Singapore Laboratory Accreditation Scheme (SAC-SINGLAS)](https://www.sac-accreditation.gov.sg/services/accreditation-services/laboratories) to monitor their air emissions regularly, and take measures to ensure their compliance with the prescribed air emission standards.
-    
-    NEA also conducts regular inspections on industries, fuel analyses and smoke observations of chimneys, to ensure that pollution control equipment is maintained and operated properly. |
+			
+			NEA&#39;s Source Emission Test Scheme requires industries to conduct source emission tests on their own, or engage [accredited laboratories](https://www.nea.gov.sg/our-services/pollution-control/air-pollution/air-quality/accredited-testing-bodies-for-source-emission-tests) under the [Singapore Laboratory Accreditation Scheme (SAC-SINGLAS)](https://www.sac-accreditation.gov.sg/services/accreditation-services/laboratories) to monitor their air emissions regularly, and take measures to ensure their compliance with the prescribed air emission standards.
+			
+			NEA also conducts regular inspections on industries, fuel analyses and smoke observations of chimneys, to ensure that pollution control equipment is maintained and operated properly. |
 </p>
 	</div>
     	<input type="checkbox" id="title3"  /><label for="title3">How does the Ministry mitigate the burning of incense and joss paper in public places?</label>
 	<div class="accordion-content">
-		<p>Currently, there are no regulations against the burning of incense and joss paper in public places. Being a multi-cultural society, the Government encourages members of public, including temples and devotees, to practise graciousness and consideration for the environment and neighbouring premises, when carrying out religious practices in public places. 
-    
-    Devotees are advised to clean up the place after they have made their offerings. When burning joss paper, candles and other offerings, they should make use of the proper pits and containers provided at the designated points, such as those provided by the Town Councils. 
-    
-    The National Environment Agency (NEA) works closely with religious associations and the town councils on reminding devotees to avoid burning joss papers on the ground and grass patches, and that it is also not necessary to throw joss paper in the air but to burn them instead.
-    
-    If you have an enquiry, you may contact NEA via this [online feedback form](https://www.nea.gov.sg/corporate-functions/feedback).</p>
+		<p>Currently, there are no regulations against the burning of incense and joss paper in public places. Being a multi-cultural society, the Government encourages members of public, including temples and devotees, to practise graciousness and consideration for the environment and neighbouring premises, when carrying out religious practices in public places.
+			
+			Devotees are advised to clean up the place after they have made their offerings. When burning joss paper, candles and other offerings, they should make use of the proper pits and containers provided at the designated points, such as those provided by the Town Councils.
+			
+			The National Environment Agency (NEA) works closely with religious associations and the town councils on reminding devotees to avoid burning joss papers on the ground and grass patches, and that it is also not necessary to throw joss paper in the air but to burn them instead.
+			
+			If you have an enquiry, you may contact NEA via this [online feedback form](https://www.nea.gov.sg/corporate-functions/feedback).</p>
 	</div>
 </div>
