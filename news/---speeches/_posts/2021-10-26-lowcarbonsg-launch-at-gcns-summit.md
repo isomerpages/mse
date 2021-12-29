@@ -1,5 +1,5 @@
 ---
-title: Launch of LowCarbonSG at Global Compact Network Signgapore Summit
+title: Launch of LowCarbonSG at Global Compact Network Singapore Summit
 permalink: /resource-room/category/2021-10-26-lowcarbonsg-launch-at-gcns-summit
 image: null
 file_url: null
