@@ -49,8 +49,6 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-<p><i>Information accurate as of 31 December 2021.</i></p>
-
 <h1><b>Participate</b></h1>
 
 <h2 id="community-volunteer">Community Volunteer</h2>
@@ -162,4 +160,8 @@ Living close to one another necessitates good neighbourly behaviour so that we c
 	<div class="accordion-content">
 		<p>For now, companies may only use fixed-price credits issued by the National Environment Agency (NEA) to meet their carbon tax liability. Nonetheless, the Government is exploring the feasibility of enabling companies to partially offset their carbon tax liability with international carbon credits. We are studying the key design features, potential legislative changes and implementation options, and we will announce our decision in due course.</p>
 	</div>
+
+<p><i>Information accurate as of 31 December 2021.</i></p>
+	
+</div>
 </div>
