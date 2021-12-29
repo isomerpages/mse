@@ -1,4 +1,4 @@
 ---
-title: Participate
-permalink: /faq/participate
+title: Public Health
+permalink: /faq#public-health
 ---  
