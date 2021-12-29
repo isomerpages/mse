@@ -1,6 +1,6 @@
 ---
 title: Climate & Weather
-permalink: /faq#climate-and-weather
+permalink: /faq#climate---weather
 ---  
 <style>
 
