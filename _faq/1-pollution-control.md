@@ -1,6 +1,6 @@
 ---
-title: Frequently Asked Questions
-permalink: /faq/polluation-control
+title: Pollution Control
+permalink: /faq/pollution-control
 ---  
 <style>
 
