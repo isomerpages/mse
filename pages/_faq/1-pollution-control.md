@@ -88,3 +88,4 @@ input:checked + label + .accordion-content {
 			If you have an enquiry, you may contact NEA via this [online feedback form](https://www.nea.gov.sg/corporate-functions/feedback).</p>
 	</div>
 </div>
+</div>
