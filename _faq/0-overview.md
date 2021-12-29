@@ -1,5 +1,5 @@
 ---
-title: Participate
+title: Frequently Asked Questions
 permalink: /faq
 ---  
 <style>
