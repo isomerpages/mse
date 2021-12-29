@@ -50,7 +50,8 @@ input:checked + label + .accordion-content {
 <div class="container">
 
 <h1><b>Frequently Asked Questions</b></h1>
-
+	<p>Information accurate as of 31 December 2021.</p>
+	
 <h1><b>Participate</b></h1>
 
 <h2 id="community-volunteer">Community Volunteer</h2>
