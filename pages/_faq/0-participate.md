@@ -55,12 +55,14 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency. 
+		<p>
+			Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency. 
 			
 			NEA is recruiting Community Volunteers (CVs) to educate the public on environmental offences. The primary role of a CV is to educate environmental offenders to stop the offending acts and encourage greater ownership of the environment. Training will be provided by NEA. If an offender does not heed the repeated advice of a CV, the CV is empowered to take down the particulars of the non-compliant offender for NEA&#39;s consideration to follow through with enforcement action. 
 			
 			NEA also has other volunteering opportunities such as SG Clean Ambassadors who support the SG Clean Campaign by working with our 3P (People, Public and Private) partners to promote good personal habits and social norms to raise standards of cleanliness and public hygiene, and safeguard public health. If you share our vision and passion to make SG Clean a way of life, we welcome you to [sign up](https://form.gov.sg/#!/5e7484a2ca6a010011862c59) as an SG Clean Ambassador. 
 			
-			PUB also has a [volunteer programme](https://www.pub.gov.sg/getinvolved/volunteers) where you can do your part for water at the Singapore World Water Day events and public outreach activities.</p>
+			PUB also has a [volunteer programme](https://www.pub.gov.sg/getinvolved/volunteers) where you can do your part for water at the Singapore World Water Day events and public outreach activities.
+		</p>
 	</div>
 </div>
