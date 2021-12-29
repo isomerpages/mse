@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /participate
+permalink: /faq/participate
 ---  
 <style>
 
