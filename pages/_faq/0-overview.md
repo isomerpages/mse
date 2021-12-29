@@ -1,6 +1,6 @@
 ---
-title: Participate
-permalink: /faq/participate
+title: Frequenty Asked Questions
+permalink: /faq
 ---  
 <style>
 
