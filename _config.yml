@@ -30,6 +30,8 @@ collections:
     output: true
   cos:
     output: true
+  faq:
+  output: true
   # resources:
   #   output: true
 google_analytics: UA-183999332-1
