@@ -1,6 +1,6 @@
 ---
 title: Participate
-permalink: /faq/participate
+permalink: /faq
 ---  
 <style>
 
