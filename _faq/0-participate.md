@@ -49,6 +49,7 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
+<a name="participate"></a>
 <h1><b>Participate</b></h1>
 
 <h2 id="community-volunteer">Community Volunteer</h2>
@@ -66,6 +67,7 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
+<a name="pollution-control"></a>
 <h1><b>Pollution Control</b></h1>
 
 <h2 id="air-pollution-control">Air Pollution Control</h2>
@@ -106,6 +108,7 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
+<a name="public-health"></a>
 <h1><b>Public Health</b></h1>
 
 <h2 id="smoking-prohibition">Smoking Prohibition</h2>
@@ -145,6 +148,7 @@ Living close to one another necessitates good neighbourly behaviour so that we c
 	</div>
 </div>
 
+<a name="climate-and-weather"></a>
 <h1><b>Climate & Weather</b></h1>
 
 <h2 id="carbon-emissions">Carbon Emissions</h2>
