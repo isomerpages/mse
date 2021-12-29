@@ -66,3 +66,4 @@ input:checked + label + .accordion-content {
 		</p>
 	</div>
 </div>
+</div>
