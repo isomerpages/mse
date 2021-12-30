@@ -16,6 +16,6 @@ links:
       - title: Partnering the Community
         url: /partnering-community
       - title: Frequently Asked Questions
-        url: /faq
+        collection: faq
   - title: About Us
     collection: about-us
