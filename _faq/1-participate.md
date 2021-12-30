@@ -50,6 +50,8 @@ input:checked + label + .accordion-content {
 <div class="container">
 
 <a name="participate"></a>
+<h1><b>Frequently Asked Questions</b></h1>
+	
 <h2 id="community-volunteer">Community Volunteer</h2>
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
