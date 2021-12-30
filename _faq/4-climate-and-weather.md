@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Climate and Weather
 permalink: /faq/climate-weather
 ---  
 <style>
@@ -49,7 +49,7 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 <a name="climate-and-weather"></a>
-<h1><b>Climate & Weather</b></h1>
+<h1><b>Frequently Asked Questions</b></h1>
 
 <h2 id="carbon-emissions">Carbon Emissions</h2>
 <div>
@@ -67,5 +67,4 @@ input:checked + label + .accordion-content {
 
 <p><i>Information accurate as of 31 December 2021.</i></p>
 	
-</div>
 </div>
