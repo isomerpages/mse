@@ -9,8 +9,8 @@ links:
   - title: Resources
     url: /resources
     sublinks:
-      - title: Resources
-        url: /resources
+      #- title: Resources
+      #  url: /resources
       - title: Research & Innovation
         url: /research-and-innovation
       - title: Partnering the Community
