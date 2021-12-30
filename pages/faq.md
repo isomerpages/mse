@@ -52,6 +52,7 @@ input:checked + label + .accordion-content {
 <table>
   <tbody>
     <tr>
+	<td>Topics:</td>
       <td><a href="#participate">Participate</a></td>
       <td><a href="#pollution-control">Pollution Control</a></td>
       <td><a href="#public-health">Public Health</a></td>
