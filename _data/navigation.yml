@@ -15,9 +15,7 @@ links:
         url: /research-and-innovation
       - title: Partnering the Community
         url: /partnering-community
-      - title: Frequently Asked Questions
-        collection: faq
-      - title: Frequently Asked Questions
-        url: /faq
+      #- title: Frequently Asked Questions
+       # url: /faq
   - title: About Us
     collection: about-us
