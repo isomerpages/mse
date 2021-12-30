@@ -64,6 +64,7 @@ input:checked + label + .accordion-content {
 			<br>
 			PUB also has a <a href="https://www.pub.gov.sg/getinvolved/volunteers" target="_blank">volunteer programme</a> where you can do your part for water at the Singapore World Water Day events and public outreach activities.
 		</p>
-	</div>
 </div>
+</div>
+<p><i>Information accurate as of 31 December 2021.</i></p>
 </div>
