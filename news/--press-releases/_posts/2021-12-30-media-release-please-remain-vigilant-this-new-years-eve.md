@@ -7,7 +7,7 @@ description:
 ---  
 
 
-####Please Remain Vigilant and Avoid Crowded Places This New Year&#39;s Eve
+****Please Remain Vigilant and Avoid Crowded Places This New Year&#39;s Eve****
 
 _11 F&amp;B Outlets and 72 Individuals Penalised for Breaching Safe Management Measures During Stepped-up Enforcement Checks_
 
