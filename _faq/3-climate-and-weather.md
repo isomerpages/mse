@@ -1,3 +1,0 @@
----
-permalink: /faq/climate--weather
----  
