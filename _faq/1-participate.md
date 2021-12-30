@@ -1,3 +1,3 @@
 ---
-permalink: /faq#participate
+permalink: /faq/participate
 ---  
