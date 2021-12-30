@@ -1,3 +1,3 @@
 ---
-permalink: /faq#pollution-control
+permalink: /faq/pollution-control
 ---  
