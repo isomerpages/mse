@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Public Health
 permalink: /faq/public-health
 ---  
 <style>
@@ -49,7 +49,7 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 <a name="public-health"></a>
-<h1><b>Public Health</b></h1>
+<h1><b>Frequently Asked Questions</b></h1>
 
 <h2 id="smoking-prohibition">Smoking Prohibition</h2>
 <div>
@@ -90,5 +90,4 @@ Living close to one another necessitates good neighbourly behaviour so that we c
 
 <p><i>Information accurate as of 31 December 2021.</i></p>
 	
-</div>
 </div>
