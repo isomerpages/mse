@@ -1,3 +1,3 @@
 ---
-permalink: /faq#public-health
+permalink: /faq/public-health
 ---  
