@@ -1,3 +1,3 @@
 ---
-permalink: /faq#climate--weather
+permalink: /faq/climate--weather
 ---  
