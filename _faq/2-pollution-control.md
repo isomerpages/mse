@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Pollution Control
 permalink: /faq/pollution-control
 ---  
 <style>
@@ -49,8 +49,7 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-<a name="pollution-control"></a>
-<h1><b>Pollution Control</b></h1>
+<h1><b>Frequently Asked Questions</b></h1>
 
 <h2 id="air-pollution-control">Air Pollution Control</h2>
 <div>
