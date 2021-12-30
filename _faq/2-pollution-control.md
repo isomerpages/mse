@@ -92,4 +92,3 @@ input:checked + label + .accordion-content {
 <p><i>Information accurate as of 31 December 2021.</i></p>
 	
 </div>
-</div>
