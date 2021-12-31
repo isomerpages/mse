@@ -23,7 +23,7 @@ locations:
 contacts:
   - title: Feedback:<br><br>
     content:
-    - other: Please visit our <b><a href="/faq">Frequently Asked Question (FAQ)</a></b> page for more information.<br><br>
+    - other: Please visit our <b><a href="/faq">Frequently Asked Question (FAQ)</a></b> page for more information<br><br>
     - other: For environmental-related matters, <a href="https://www.nea.gov.sg/corporate-functions/feedback"><b>click here</b></a> to provide feedback to NEA<br><br>
     - other: For feedback on water supply, drainage or sewerage matters, <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx"><b>click here</b></a> to provide feedback to PUB<br><br>
     - other: For feedback on food safety and food security, <a href="https://www.sfa.gov.sg/feedback"><b>click here</b></a> to provide feedback to SFA<br><br>
