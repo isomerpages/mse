@@ -138,13 +138,12 @@ Nevertheless, homes are private spaces and our regulations need to be balanced a
 <br>
 We adopt a three-pronged approach on this issue:<br>
 <br>
-<ol style="list-style-type: lower-alpha;">
-    <li>Engender greater social responsibility by instilling consideration for the health and well-being of those around us, such as our family members and neighbours. This includes the widespread adoption/acceptance of new social norms of what constitutes acceptable behaviour. Agencies will explore effective ways of doing this such as developing targeted messages to be communicated across key platforms.</li>
+    a. Engender greater social responsibility by instilling consideration for the health and well-being of those around us, such as our family members and neighbours. This includes the widespread adoption/acceptance of new social norms of what constitutes acceptable behaviour. Agencies will explore effective ways of doing this such as developing targeted messages to be communicated across key platforms.<br>
 
- <li>Explore ways to facilitate productive conversations between neighbours to deal with difficult situations, before they escalate into intractable disputes.</li>
+ b. Explore ways to facilitate productive conversations between neighbours to deal with difficult situations, before they escalate into intractable disputes.<br>
 
- <li>Study how disputes can be better addressed by the inter-agency Community Dispute Management Framework by reviewing the Community Mediation Process and the Community Disputes Resolution Tribunal (CDRT) to enhance their effectiveness when residents turn to these channels.</li>
-</ol>
+ c. Study how disputes can be better addressed by the inter-agency Community Dispute Management Framework by reviewing the Community Mediation Process and the Community Disputes Resolution Tribunal (CDRT) to enhance their effectiveness when residents turn to these channels.<br>
+
 <br>
 Currently, NEA has collaborated with the Housing &amp; Development Board (HDB), Health Promotion Board (HPB), Municipal Services Office (MSO), and town councils to develop and issue joint advisories to units where feedback on tobacco smoke have been received. The advisory urges smokers to be considerate to their family members and neighbours, as well as advises them on the smoking cessation helplines available. We will continue to encourage and support ground-up efforts by community organisations and the grassroots. <br>
 <br>
