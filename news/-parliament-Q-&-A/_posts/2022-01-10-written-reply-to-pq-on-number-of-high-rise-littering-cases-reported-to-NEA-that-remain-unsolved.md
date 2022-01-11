@@ -1,5 +1,5 @@
 ---  
-title: Written Reply to Parliamentary Question on Parliamentary Question on number of high-rise littering cases reported to NEA that remain unsolved by Ms Grace Fu, Minister for Sustainability and the Environment  
+title: Written Reply to Parliamentary Question on number of high-rise littering cases reported to NEA that remain unsolved by Ms Grace Fu, Minister for Sustainability and the Environment  
 permalink: /resource-room/category/2022-01-10-written-reply-to-pq-on-number-of-high-rise-littering-cases-reported-to-NEA-that-remain-unsolved/  
 image:  
 file_url:  
