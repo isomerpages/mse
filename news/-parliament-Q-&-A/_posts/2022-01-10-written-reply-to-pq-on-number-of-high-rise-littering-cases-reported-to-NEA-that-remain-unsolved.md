@@ -23,7 +23,3 @@ description:
 2. From January to October 2021, there was a 20% decrease in high-rise littering feedback received by NEA compared to the same period in 2020. NEA deployed surveillance cameras over 2,200 times at more than 1,400 blocks. Surveillance cameras could not be deployed at 87 blocks due to the lack of suitable vantage points. From the deployments from January to October 2021, close to 2,000 acts of high-rise littering were captured and enforcement action successfully taken against close to 1,000 offenders. About 300 more residential units are currently under investigation.
 
 3. While we have laws to deter high-rise littering, it is also important to shape community norms to deter high-rise littering. Since 2020, NEA has been placing standees displaying information on on-going surveillance or localised statistics on offenders caught at the HDB blocks with persistent littering feedback, to deter such acts. Town Councils also display posters jointly produced by the Municipal Services Office at HDB blocks, highlighting the environmental and social consequences of high-rise littering.
-
-\*\*\*\*\*\*\*\*\*\*\*\*
-
-1
