@@ -10,11 +10,11 @@ description:
 
 **Question** :
 
-**\*2156.**  **Mr Edward Chia Bing Hui**** : To ask the Minister for Sustainability and the Environment (a) from January to October 2021, what is the number of high-rise littering cases reported to NEA that remain unsolved as the surveillance cameras are unable to capture good vantage points to identify the culprits; and (b) from January 2021 to date, how many of such culprits have been successfully identified through surveillance camera deployment and other methods.
+**\*2156.**  **Mr Edward Chia Bing Hui**: To ask the Minister for Sustainability and the Environment (a) from January to October 2021, what is the number of high-rise littering cases reported to NEA that remain unsolved as the surveillance cameras are unable to capture good vantage points to identify the culprits; and (b) from January 2021 to date, how many of such culprits have been successfully identified through surveillance camera deployment and other methods.
 
 **Question** :
 
-**\*2162.**  **Mr Gan Thiam Poh**** : To ask the Minister for Sustainability and the Environment with regard to the high-rise littering cases reported to NEA in the second half of 2021 (a) what is the number of cases that remain unsolved despite the presence of surveillance cameras in the vicinity and other enforcement measures; (b) whether the number of cases has increased as compared to the same period in 2020; and (c) whether the Ministry will be rolling out any new enforcement measures in 2022.
+**\*2162.**  **Mr Gan Thiam Poh** : To ask the Minister for Sustainability and the Environment with regard to the high-rise littering cases reported to NEA in the second half of 2021 (a) what is the number of cases that remain unsolved despite the presence of surveillance cameras in the vicinity and other enforcement measures; (b) whether the number of cases has increased as compared to the same period in 2020; and (c) whether the Ministry will be rolling out any new enforcement measures in 2022.
 
 **Answer:**
 
