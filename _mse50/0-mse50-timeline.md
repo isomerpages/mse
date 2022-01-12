@@ -425,7 +425,7 @@ a {
           </div>
           <div class="vesti-desc">
               <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on November 22 1982.</p>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
           </div>
         </div>
       </div>
