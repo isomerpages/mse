@@ -388,10 +388,8 @@ a {
           </div>
           <div class="vesti-desc">
                 <h2>Formation of Ministry of Environment</h2>
-            </a>
             <p>On 16 September 1972, the Ministry of the Environment (ENV), to tackle issues such as pollution control, sewerage, drainage and environmental health.</p>
                 <h2>Drafting of Singapore Water Master Plan</h2>
-            </a>
             <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
           </div>
           </div>
