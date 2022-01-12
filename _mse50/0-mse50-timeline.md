@@ -1,5 +1,5 @@
 ---
-title: Timeline of MSE History
+title: Timeline
 permalink: /mse50/timeline
 ---
 
@@ -370,6 +370,8 @@ a {
   }
 }
 </style>
+
+<h1><b>Timeline of MSE's History</b></h1><br>
 
 <div class="container">
     <div class="timeline clearfix">
