@@ -30,8 +30,8 @@ collections:
     output: true
   cos:
     output: true
-  mse50:
-    output: true
+  #mse50:
+  #  output: true
   # resources:
   #   output: true
 google_analytics: UA-183999332-1
