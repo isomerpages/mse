@@ -163,7 +163,7 @@ a {
 .vesti-desc h2 {
   color: #2d3e4f;
   text-transform: uppercase;
-  font-size: 1em;
+  font-size: 0.8em;
   font-weight: 800;
   margin-top: 35px;
   margin-bottom: 15px;
@@ -290,12 +290,9 @@ a {
     height: 100px;
     padding: 23px;
   }
-/*   .vesti-date-wrapper .vesti-date .date {
-    font-size: 1em;
-    line-height: 10px;
-  } */
+
   .vesti-date-wrapper .vesti-date .year {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 50px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
