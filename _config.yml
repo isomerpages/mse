@@ -30,7 +30,7 @@ collections:
     output: true
   cos:
     output: true
-  faq:
+  mse50:
     output: true
   # resources:
   #   output: true
