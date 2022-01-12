@@ -8,7 +8,7 @@ permalink: /take-action/individuals
   <div class='grid-row'>
     <div class='grid-column double-column'>
         <div class="lists">
-            <h1><b>(Test) Let's start with good personal habits</b></h1><br>
+            <h1><b>Let's start with good personal habits</b></h1><br>
                 Here are 10 easy ways to reduce waste as an individual: <br>
                 <ol>
                 <li>Swap out plastic bags for reusable bags </li>
