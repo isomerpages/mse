@@ -183,7 +183,6 @@ body {
 
 
 .button {
-  transform: translatez(40px)
   cursor: pointer;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
