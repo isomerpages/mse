@@ -183,7 +183,6 @@ body {
 
 
 .button {
-  transform: rotateY(180deg);
   cursor: pointer;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
