@@ -183,14 +183,12 @@ body {
 
 
 .button {
-  transform: translateZ(40px);
   cursor: pointer;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   font: inherit;
   border: none;
   position: relative;
-  transform-style: preserve-3d;`
   transition: 300ms ease;
   color: #484848 !important;
   text-transform: uppercase;
