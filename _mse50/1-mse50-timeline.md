@@ -189,6 +189,8 @@ a {
   font-size: 16px !important;
   font-weight: 400;
   line-height: 1.2rem;
+  margin-top: 10px;
+  margin-top: 10px;
 }
 
 @media (min-width: 768px) {
