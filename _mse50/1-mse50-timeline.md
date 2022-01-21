@@ -165,7 +165,7 @@ a {
   text-transform: uppercase;
   font-size: 1.2em;
   font-weight: 800;
-  margin-top: 35px;
+  margin-top: 28px !important;
   margin-bottom: 15px;
   transition-delay: 0s;
   transition-duration: 0.2s;
@@ -188,7 +188,7 @@ a {
   font-weight: 400;
   line-height: 1.2rem;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 12px !important;
 }
 
 @media (min-width: 768px) {
