@@ -34,7 +34,7 @@ a {
   clear: both;
 } 
 
-@media (min-width: 760px) {
+@media (min-width: 768px) {
   .vertical-line::after {
     top: -10px;
     right: 50%;
