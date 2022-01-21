@@ -8,10 +8,6 @@ permalink: /mse50/resources
 DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 /* refrain from using pure img selector as it changes the MSE logo size */
-
-body h1 {
-  font-weight:inherit;  
-}
 	
 #resources-container > div > div > a > img {
     display: block;
@@ -100,7 +96,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 </style>
 
 <div id="resources-container">
-<h1 style="text-align:center"><b>Learning Journeys</b></h1>
+<h1>Learning Journeys</h1>
 <div class="cards">
 <div class="card">
         <a href="https://www.roots.gov.sg/places/places-landing/trails/singapore-river-walk" target="_blank">  
@@ -120,7 +116,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div>	
 </div>
 	
-	<h1 style="text-align:center"><b>Publications</b></h1>
+<h1>Publications</h1>
 <div class="cards">
   <div class="card">
         <a href="#" target="_blank">  
