@@ -108,6 +108,7 @@ a {
   text-align: center;
   background: #fff;
   padding-top: 14px;
+  margin-bottom: 5px;
   border-width: 2px;
   border-style: solid;
   -webkit-border-radius: 50%;
