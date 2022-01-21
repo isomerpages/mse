@@ -134,8 +134,6 @@ a {
   text-transform: uppercase;
 }
 
-/*izmedju - remove later */
-
 .timeline-post:nth-child(2n+3) {
   clear: both;
 }
@@ -165,7 +163,7 @@ a {
 .vesti-desc h2 {
   color: #2d3e4f;
   text-transform: uppercase;
-  font-size: 0.8em;
+  font-size: 1.2em;
   font-weight: 800;
   margin-top: 35px;
   margin-bottom: 15px;
@@ -229,7 +227,7 @@ a {
   .vesti-desc h2 {
     margin-bottom: 15px;
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 20px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
     right: -75px;
