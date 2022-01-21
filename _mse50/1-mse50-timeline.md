@@ -226,11 +226,11 @@ a {
     font-size: 30px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -77px;
+    right: -75px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -77px;
+    left: -75px;
     bottom: 15px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
@@ -241,10 +241,23 @@ a {
 
 @media (min-width: 850px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -85px;
+    right: -80px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -85px;
+    left: -80px;
+  }
+  .timeline-post:nth-child(odd) .vesti-date-wrapper,
+  .timeline-post:nth-child(even) .vesti-date-wrapper {
+    width: 85px;
+  }
+}
+  
+  @media (min-width: 920px) {
+  .timeline-post:nth-child(odd) .vesti-date-wrapper {
+    right: -87px;
+  }
+  .timeline-post:nth-child(even) .vesti-date-wrapper {
+    left: -87px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -252,12 +265,12 @@ a {
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1023px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -95px;
+    right: -65px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -95px;
+    left: -65px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -267,10 +280,10 @@ a {
 
 @media (min-width: 1100px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -100px;
+    right: -65px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -100px;
+    left: -65px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
