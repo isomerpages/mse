@@ -96,7 +96,27 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 </style>
 
 <div id="resources-container">
-<h1 style="text-align:center"><b>Resources</b></h1>
+<h1 style="text-align:center"><b>Learning Journeys</b></h1>
+<div class="cards">
+<div class="card">
+        <a href="https://www.roots.gov.sg/places/places-landing/trails/singapore-river-walk" target="_blank">  
+            <div class="card-content">
+            <h5>Singapore River Walk</h5>
+            </div>
+          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
+        </a>
+    </div>
+<div class="card">
+        <a href="https://www.roots.gov.sg/places/places-landing/trails/Tampines-Heritage-Trail-Green-Spaces-Trail" target="_blank">  
+            <div class="card-content">
+            <h5>Green Spaces Trail</h5>
+            </div>
+          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
+        </a>
+    </div>	
+</div>
+	
+	<h1 style="text-align:center"><b>Publications</b></h1>
 <div class="cards">
   <div class="card">
         <a href="#" target="_blank">  
@@ -114,22 +134,6 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
           <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
         </a>
     </div>
-<div class="card">
-        <a href="https://www.roots.gov.sg/places/places-landing/trails/singapore-river-walk" target="_blank">  
-            <div class="card-content">
-            <h5>Singapore River Walk</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>
-<div class="card">
-        <a href="https://www.roots.gov.sg/places/places-landing/trails/Tampines-Heritage-Trail-Green-Spaces-Trail" target="_blank">  
-            <div class="card-content">
-            <h5>Green Spaces Trail</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>	
 </div>
 <!-- container end dic -->
 </div>
