@@ -27,7 +27,7 @@ img {
 a {
   text-decoration: none;
 }
-
+  
 .clearfix:after {
   content: " ";
   display: table;
@@ -171,6 +171,7 @@ a {
   transition-duration: 0.2s;
   transition-property: all;
   transition-timing-function: ease-out
+  line-height: 2.5rem;
 }
 
 .owl-item .vesti-desc h2 {
@@ -185,6 +186,7 @@ a {
   color: #2d3e4f;
   font-size: 16px !important;
   font-weight: 400;
+  line-height: 1.2rem;
 }
 
 @media (min-width: 768px) {
