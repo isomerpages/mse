@@ -114,6 +114,24 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
           <img src="#" alt="" style="width:300px;">
         </a>
     </div>
+	    </div>  
+	<div class="card">
+        <a href="https://www.roots.gov.sg/places/places-landing/trails/singapore-river-walk" target="_blank">  
+            <div class="card-content">
+            <h5>Singapore River Walk</h5>
+            </div>
+          <img src="#" alt="" style="width:300px;">
+        </a>
+    </div>
+		<div class="card">
+        <a href="https://www.roots.gov.sg/places/places-landing/trails/Tampines-Heritage-Trail-Green-Spaces-Trail
+" target="_blank">  
+            <div class="card-content">
+            <h5>Green Spaces Trail</h5>
+            </div>
+          <img src="#" alt="" style="width:300px;">
+        </a>
+    </div>	
 </div>
 <!-- container end dic -->
 </div>
