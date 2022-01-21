@@ -9,6 +9,10 @@ DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 /* refrain from using pure img selector as it changes the MSE logo size */
 
+body h1 {
+  font-weight:inherit;  
+}
+	
 #resources-container > div > div > a > img {
     display: block;
     border: 0;
