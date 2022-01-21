@@ -388,8 +388,7 @@ a {
 }
 </style>
 
-<h1 style="margin-top:0;">Timeline of MSE's History</h1><br>
-
+<h1 style="margin-top:0;">Timeline of MSE's History</h1>
 <div class="container">
     <div class="timeline clearfix">
     <div class="vertical-line">
