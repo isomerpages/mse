@@ -25,7 +25,7 @@ box-sizing: border-box;}
   margin-bottom: 10px
 }
 
-h1 {
+body h1 {
   font-weight:inherit;  
 }
   
