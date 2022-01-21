@@ -24,10 +24,6 @@ box-sizing: border-box;}
   max-width: 100%;
   margin-bottom: 10px
 }
-
-body h1 {
-  font-weight:inherit;  
-}
   
 a {
   text-decoration: none;
@@ -392,7 +388,7 @@ a {
 }
 </style>
 
-<h1><b>Timeline of MSE's History</b></h1><br>
+<h1>Timeline of MSE's History</h1><br>
 
 <div class="container">
     <div class="timeline clearfix">
