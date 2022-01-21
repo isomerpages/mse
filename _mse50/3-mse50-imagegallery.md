@@ -1,5 +1,5 @@
 ---
-title: MSE50 Image Gallery
+title: Gallery
 permalink: /mse50/gallery
 ---
 
