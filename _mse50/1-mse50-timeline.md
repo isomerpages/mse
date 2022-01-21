@@ -171,7 +171,7 @@ a {
   transition-delay: 0s;
   transition-duration: 0.2s;
   transition-property: all;
-  transition-timing-function: ease-out
+  transition-timing-function: ease-out;
   line-height: 2.5rem;
 }
 
@@ -295,28 +295,13 @@ a {
 }
   
 @media (min-width: 1200px) {
-/*  .timeline {
-    margin-top: 40px;
-  }*/
-  .timeline-post:nth-child(even) {
-    margin-top: 100px;
-  }
-  .vesti-date-wrapper .vesti-date {
-    width: 100px;
-    height: 100px;
-    padding: 23px;
-  }
 
-  .vesti-date-wrapper .vesti-date .year {
-    font-size: 1em;
-    line-height: 50px;
-  }
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -132px;
+    right: -70px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -132px;
+    left: -70px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -328,6 +313,24 @@ a {
 }
 
   @media (min-width: 1280px) {
+  
+  /*  .timeline {
+    margin-top: 40px;
+  }*/
+  .timeline-post:nth-child(even) {
+    margin-top: 100px;
+  }
+  .vesti-date-wrapper .vesti-date {
+    width: 88px;
+    height: 88px;
+    padding: 18px;
+  }
+
+  .vesti-date-wrapper .vesti-date .year {
+    font-size: 1em;
+    line-height: 50px;
+  }
+  
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
     right: -102px;
     top: 55px;
@@ -343,11 +346,11 @@ a {
 
 @media (min-width: 1400px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -104px;
+    right: -102px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -104px;
+    left: -102px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
