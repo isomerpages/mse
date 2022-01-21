@@ -327,13 +327,13 @@ a {
   }
 }
 
-@media (min-width: 1300px) {
+  @media (min-width: 1280px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -140px;
+    right: -102px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -140px;
+    left: -102px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -343,11 +343,11 @@ a {
 
 @media (min-width: 1400px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -146px;
+    right: -104px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -146px;
+    left: -104px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
