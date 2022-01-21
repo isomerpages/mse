@@ -25,6 +25,10 @@ box-sizing: border-box;}
   margin-bottom: 10px
 }
 
+h1 {
+  font-weight:inherit;  
+}
+  
 a {
   text-decoration: none;
 }
