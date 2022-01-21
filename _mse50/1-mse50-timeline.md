@@ -87,7 +87,7 @@ a {
 }
 
 .timeline-post:nth-child(even) {
-  margin-bottom: 0;
+  margin-bottom: 15px;
   margin-top: 100px;
 }
 
@@ -144,7 +144,7 @@ a {
 
 .timeline-post:nth-child(even) {
   /*float: right;*/
-  margin-bottom: 0;
+  margin-bottom: 15px;
   margin-top: 20px;
 }
 
@@ -221,7 +221,7 @@ a {
   }
   .timeline-post:nth-child(even) {
     float: right;
-    margin-bottom: 0;
+    margin-bottom: 15px;
     margin-top: 50px;
   }
   .vesti-desc h2 {
