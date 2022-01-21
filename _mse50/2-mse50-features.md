@@ -1,6 +1,6 @@
 ---
-title: Our Work
-permalink: /mse50/msefamily
+title: Our Officers
+permalink: /mse50/features
 ---
 
 <h1>Profiling Series</h1>
