@@ -1,5 +1,5 @@
 ---
-title: Timeline
+title: The Journey
 permalink: /mse50/timeline
 ---
 
