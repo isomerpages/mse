@@ -171,7 +171,7 @@ a {
   transition-duration: 0.2s;
   transition-property: all;
   transition-timing-function: ease-out;
-  line-height: 2.5rem;
+  line-height: 1.5rem;
 }
 
 .owl-item .vesti-desc h2 {
