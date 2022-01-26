@@ -1,5 +1,5 @@
 ---
-title: Timeline
+title: Our Journey
 permalink: /mse50/timeline
 ---
 
@@ -20,21 +20,22 @@ box-sizing: border-box;}
   position: relative;
 }
 
-img {
+.content img {
   max-width: 100%;
+  margin-bottom: 10px
 }
-
+  
 a {
   text-decoration: none;
 }
-
+  
 .clearfix:after {
   content: " ";
   display: table;
   clear: both;
 } 
 
-@media (min-width: 760px) {
+@media (min-width: 768px) {
   .vertical-line::after {
     top: -10px;
     right: 50%;
@@ -86,7 +87,7 @@ a {
 }
 
 .timeline-post:nth-child(even) {
-  margin-bottom: 0;
+  margin-bottom: 15px;
   margin-top: 100px;
 }
 
@@ -108,6 +109,7 @@ a {
   text-align: center;
   background: #fff;
   padding-top: 14px;
+  margin-bottom: 5px;
   border-width: 2px;
   border-style: solid;
   -webkit-border-radius: 50%;
@@ -132,8 +134,6 @@ a {
   text-transform: uppercase;
 }
 
-/*izmedju - remove later */
-
 .timeline-post:nth-child(2n+3) {
   clear: both;
 }
@@ -144,7 +144,7 @@ a {
 
 .timeline-post:nth-child(even) {
   /*float: right;*/
-  margin-bottom: 0;
+  margin-bottom: 15px;
   margin-top: 20px;
 }
 
@@ -163,14 +163,15 @@ a {
 .vesti-desc h2 {
   color: #2d3e4f;
   text-transform: uppercase;
-  font-size: 0.8em;
+  font-size: 1.2em;
   font-weight: 800;
-  margin-top: 35px;
+  margin-top: 28px !important;
   margin-bottom: 15px;
   transition-delay: 0s;
   transition-duration: 0.2s;
   transition-property: all;
-  transition-timing-function: ease-out
+  transition-timing-function: ease-out;
+  line-height: 1.5rem;
 }
 
 .owl-item .vesti-desc h2 {
@@ -185,6 +186,9 @@ a {
   color: #2d3e4f;
   font-size: 16px !important;
   font-weight: 400;
+  line-height: 1.2rem;
+  margin-top: 10px;
+  margin-bottom: 12px !important;
 }
 
 @media (min-width: 768px) {
@@ -217,20 +221,20 @@ a {
   }
   .timeline-post:nth-child(even) {
     float: right;
-    margin-bottom: 0;
+    margin-bottom: 15px;
     margin-top: 50px;
   }
   .vesti-desc h2 {
     margin-bottom: 15px;
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 20px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -77px;
+    right: -75px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -77px;
+    left: -75px;
     bottom: 15px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
@@ -241,10 +245,23 @@ a {
 
 @media (min-width: 850px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -85px;
+    right: -80px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -85px;
+    left: -80px;
+  }
+  .timeline-post:nth-child(odd) .vesti-date-wrapper,
+  .timeline-post:nth-child(even) .vesti-date-wrapper {
+    width: 85px;
+  }
+}
+  
+  @media (min-width: 920px) {
+  .timeline-post:nth-child(odd) .vesti-date-wrapper {
+    right: -87px;
+  }
+  .timeline-post:nth-child(even) .vesti-date-wrapper {
+    left: -87px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -252,12 +269,12 @@ a {
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1023px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -95px;
+    right: -65px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -95px;
+    left: -65px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -267,10 +284,10 @@ a {
 
 @media (min-width: 1100px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -100px;
+    right: -65px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -100px;
+    left: -65px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -279,28 +296,13 @@ a {
 }
   
 @media (min-width: 1200px) {
-/*  .timeline {
-    margin-top: 40px;
-  }*/
-  .timeline-post:nth-child(even) {
-    margin-top: 100px;
-  }
-  .vesti-date-wrapper .vesti-date {
-    width: 100px;
-    height: 100px;
-    padding: 23px;
-  }
 
-  .vesti-date-wrapper .vesti-date .year {
-    font-size: 1em;
-    line-height: 50px;
-  }
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -132px;
+    right: -70px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -132px;
+    left: -70px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -311,13 +313,31 @@ a {
   }
 }
 
-@media (min-width: 1300px) {
+  @media (min-width: 1280px) {
+  
+  /*  .timeline {
+    margin-top: 40px;
+  }*/
+  .timeline-post:nth-child(even) {
+    margin-top: 100px;
+  }
+  .vesti-date-wrapper .vesti-date {
+    width: 88px;
+    height: 88px;
+    padding: 18px;
+  }
+
+  .vesti-date-wrapper .vesti-date .year {
+    font-size: 1em;
+    line-height: 50px;
+  }
+  
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -140px;
+    right: -102px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -140px;
+    left: -102px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -327,11 +347,11 @@ a {
 
 @media (min-width: 1400px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -146px;
+    right: -102px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -146px;
+    left: -102px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -368,8 +388,7 @@ a {
 }
 </style>
 
-<h1><b>Timeline of MSE's History</b></h1><br>
-
+<h1 style="margin-top:0;">Timeline of MSE's History</h1>
 <div class="container">
     <div class="timeline clearfix">
     <div class="vertical-line">
