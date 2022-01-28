@@ -169,26 +169,19 @@ Members of the public are advised to check the Safe Distance @ Parks portal (saf
 
 **Alter Ego** (8 Raffles Avenue, #01-13D) failed to ensure safe distancing of at least 1 metre between groups of seated customers on multiple occasions. The operator has been issued an order to close for 10 days from 8 to 17 January 2022 (both dates inclusive).
 
+![Alt text for image on Isomer site](/images/press-releases/IMG_4333.JPG)
 
+![Alt text for image on Isomer site](/images/press-releases/IMG_4334.JPG)
 
 **Lu La** (17 Ann Siang Road) allowed alcohol consumption within its premises after 10.30 pm.
 
-![](RackMultipart20220128-4-jaoa6l_html_fa8ed4f07052c136.jpg)
-
 **Alankar Restaurant** (98 Dunlop Street) failed to ensure safe distancing of at least 1 metre between seated customers on several instances.
-
-![](RackMultipart20220128-4-jaoa6l_html_1d161a115112c05e.jpg)
 
 **Candy K-Bar** (111 Somerset Road, #02-07/08/09) accepted a dining group above the permitted group size, and continued to serve, sell and allow consumption of alcohol within its premises after 10.30 pm. The establishment also allowed customers to use a KTV system for singing, screened videos on the KTV system, and allowed customers to play darts on a dart machine.
 
-![](RackMultipart20220128-4-jaoa6l_html_a7188d1ba8b2447a.jpg)
 
 **Mr. Boss Disco** (6001 Beach Road, #01-48, Golden Mile Tower) provided its patrons with card games to be played within its premises. The operator has been issued an order to close for 10 days from 6 to 15 January 2022 (both dates inclusive).
 
-![](RackMultipart20220128-4-jaoa6l_html_4aea940b6448f9df.png)
 
 **The Eastern** (497 Geylang Road), a nightlife establishment that pivoted to F&amp;B, allowed intermingling between patrons, failed to maintain a safe distance of at least 1 metre between tables and groups, and failed to keep each recording made using the electronic video surveillance system for a period of not less than 28 days after the date the recording was made. The operator has been issued an order to close for 10 days from 12 to 21 January 2022.
 
-![](RackMultipart20220128-4-jaoa6l_html_5c437b951d99af64.png)
-
-Page **1** of **16**
