@@ -7,7 +7,7 @@ description: ""
 ---
 #### Agencies will step up enforcement during the Lunar New Year Period
 
-_56 Businesses and 360 Individuals Penalised for Breaching Safe Management Measures_
+*56 Businesses and 360 Individuals Penalised for Breaching Safe Management Measures*
 
 **28 January 2022** – During the upcoming festive period, agencies will be stepping up enforcement athotspots including Food and Beverage (F&amp;B) outlets, markets, malls, supermarkets and parks. Since the start of 2022, 56 F&amp;B outlets and 360 individuals have been penalised for breaching Safe Management Measures (SMMs) and Vaccination Differentiated SMMs (VDS). With the surge in Omicron variant infections in Singapore, we seek everyone&#39;s cooperation to continue to exercise individual responsibility and strictly adhere to SMMs. This will help to keep yourselves and the community safe.
 
@@ -42,52 +42,6 @@ _56 Businesses and 360 Individuals Penalised for Breaching Safe Management Measu
 Members of the public are advised to check the Safe Distance @ Parks portal (safedistparks.nparks.gov.sg) for the latest updates on visitorship levels before heading to parks. We request all park visitors to be socially responsible and observe SMMs. These include keeping to the permitted group size and wearing a mask except when engaging in strenuous exercises or consuming food, drink or medication.
 
 10 While we understand this festive period is a time for reunion with loved ones, there is a strong need to exercise caution amid the surging Omicron infections. Let us continue to be socially responsible and adhere to prevailing measures. This will allow everyone to enjoy the festivities safely and help Singapore ride through the Omicron wave.
-
-– End –
-
-**For**  **media queries**** , please contact:**
-
-**Nur Amalina Zulkefli (Ms)**
-
-Strategic Communications &amp; Media Operations
-
-Ministry of Sustainability and the Environment
-
-Tel: 9630 7675
-
-Email: [Nur\_Amalina\_ZULKEFLI@mse.gov.sg](mailto:Nur_Amalina_ZULKEFLI@mse.gov.sg)
-
-**Dawn Zhou (Ms)**
-
-Strategic Communications &amp; Media Operations
-
-Ministry of Sustainability and the Environment
-
-HP: 9239 6346
-
-Email: [Dawn\_Zhou@mse.gov.sg](mailto:Dawn_Zhou@mse.gov.sg)
-
-**Irna Masron (Ms)**
-
-Strategic Communications &amp; Media Operations
-
-Ministry of Sustainability and the Environment
-
-HP: 8132 3655
-
-Email: [Irna\_Masron@mse.gov.sg](mailto:Irna_Masron@mse.gov.sg)
-
-**About the Ministry of Sustainability and the Environment**
-
-The Ministry of Sustainability and the Environment (MSE) is committed to providing Singaporeans with a clean and sustainable environment, and resilient supplies of safe food and water.
-
-MSE works alongside its three statutory boards – the National Environment Agency (NEA), PUB, Singapore&#39;s National Water Agency, and the Singapore Food Agency (SFA) – to achieve this mission through innovation, technology, and vibrant partnerships with the private, public, and people (3P) sectors.
-
-For more information, please visit [http://www.mse.gov.sg/](http://www.mse.gov.sg/)
-
-![](RackMultipart20220128-4-jaoa6l_html_d1c2e36fddfbf8ad.png)[@MSEsingapore](http://www.facebook.com/MSEsingapore) ![](RackMultipart20220128-4-jaoa6l_html_2e8f9529e0ed0381.png) [@MSEsingapore](http://www.instagram.com/msesingapore)  ![](RackMultipart20220128-4-jaoa6l_html_b7755a637c8edf36.png) [@MSEsingapore](http://www.youtube.com/c/msesingapore)
-
-![](RackMultipart20220128-4-jaoa6l_html_62087595ed67a6dc.png)[@MSEsingapore](https://twitter.com/MSEsingapore)
 
 **ANNEX A**
 
