@@ -175,13 +175,20 @@ Members of the public are advised to check the Safe Distance @ Parks portal (saf
 
 **Lu La** (17 Ann Siang Road) allowed alcohol consumption within its premises after 10.30 pm.
 
+![Alt text for image on Isomer site](/images/press-releases/IMG_4335.JPG)
+
 **Alankar Restaurant** (98 Dunlop Street) failed to ensure safe distancing of at least 1 metre between seated customers on several instances.
+
+![Alt text for image on Isomer site](/images/press-releases/IMG_4336.PNG)
 
 **Candy K-Bar** (111 Somerset Road, #02-07/08/09) accepted a dining group above the permitted group size, and continued to serve, sell and allow consumption of alcohol within its premises after 10.30 pm. The establishment also allowed customers to use a KTV system for singing, screened videos on the KTV system, and allowed customers to play darts on a dart machine.
 
+![Alt text for image on Isomer site](/images/press-releases/IMG_4330.JPG)
 
 **Mr. Boss Disco** (6001 Beach Road, #01-48, Golden Mile Tower) provided its patrons with card games to be played within its premises. The operator has been issued an order to close for 10 days from 6 to 15 January 2022 (both dates inclusive).
 
+![Alt text for image on Isomer site](/images/press-releases/IMG_4331.PNG)
 
 **The Eastern** (497 Geylang Road), a nightlife establishment that pivoted to F&amp;B, allowed intermingling between patrons, failed to maintain a safe distance of at least 1 metre between tables and groups, and failed to keep each recording made using the electronic video surveillance system for a period of not less than 28 days after the date the recording was made. The operator has been issued an order to close for 10 days from 12 to 21 January 2022.
 
+![Alt text for image on Isomer site](/images/press-releases/IMG_4332.PNG)
