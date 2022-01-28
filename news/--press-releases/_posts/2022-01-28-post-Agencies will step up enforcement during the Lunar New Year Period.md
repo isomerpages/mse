@@ -169,9 +169,7 @@ Members of the public are advised to check the Safe Distance @ Parks portal (saf
 
 **Alter Ego** (8 Raffles Avenue, #01-13D) failed to ensure safe distancing of at least 1 metre between groups of seated customers on multiple occasions. The operator has been issued an order to close for 10 days from 8 to 17 January 2022 (both dates inclusive).
 
-![](RackMultipart20220128-4-jaoa6l_html_d9579d0f95725916.jpg)
 
-![](RackMultipart20220128-4-jaoa6l_html_2096cf9d08215cbf.jpg)
 
 **Lu La** (17 Ann Siang Road) allowed alcohol consumption within its premises after 10.30 pm.
 
