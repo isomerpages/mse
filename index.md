@@ -36,7 +36,7 @@ sections:
         title: <h2 style="font-family:'Cabin'">Singapore Green Plan 2030</h2>
         # subtitle: What can you do?
         description: Climate change is a global challenge, and Singapore is taking firm actions to do our part to build a sustainable future. Singapore Green Plan 2030 is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.
-        button: Learn More
+        button: Singapore Green Plan 2030
         url: https://greenplan.gov.sg/
         image: /images/infopic-1.svg
         alt: Singapore Green Plan 2030
