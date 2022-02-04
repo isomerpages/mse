@@ -3,11 +3,11 @@ title: Organisation Chart & Divisions
 permalink: /about-us/organisation-chart/
 ---
 
-<img src="/images/org-chart-1-nov-2021.jpg" alt="org chart">
+<img src="/images/MSE-org-chart-jan-2022.jpg" alt="org chart">
 
 
 
-### Corporate Development Division
+### Corporate Development Division (CDD)
 
 CDD provides support in the areas of human resources, finance, infocomms technology as well as readiness & corporate services.
 
