@@ -38,7 +38,7 @@ Numbered List
 <li>List Item 3</li>
 </ol>
 
-Alphabetical List
+Alphabetical List (add margin-left in 40px increments for indentation)
 <ol style="list-style-type: lower-alpha; margin-left: 40px">
 <li>List Item 1</li>
 <li>List Item 2</li>
