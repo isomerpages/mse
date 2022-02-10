@@ -1,6 +1,6 @@
 ---  
 title: Insert Title
-permalink: /resource-room/category/sample
+permalink: Insert Permalink e.g. /resource-room/category/yyyy-mm-dd-description
 image:  
 file_url:  
 description:  
