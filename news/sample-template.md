@@ -8,12 +8,15 @@ description:
 
 #### Header to start with four hash symbols
 
-**Bold**
+**Use asterisks to bold text**
 
+**Image**
 Image Example: ![Simple Descriptive Text Of Image](/news/news-images/press-release-2020-04-10-image-2.png)
 
+**Hyerlink**
 Hyperlink Example: [Singapore Green Plan Website](https://greenplan.gov.sg)
 
+**Table**
 Table Example:
 
 | Header 1 | Header 2 | Header 3 |
@@ -23,6 +26,15 @@ Table Example:
 | Body 1.3 | Body 2.3 | Body 3.3 |
 
 Suggest to use table generators available online, e.g.: https://www.tablesgenerator.com/markdown_tables 
+
+**Footnote**
+Footnote Example
+Footnote 1[^1]
+Footnote 2[^2]
+[^1]: This is the first footnote.
+[^2]: This is the second footnote.
+
+**Lists/Bullet Points**
 
 Unordered List (Bullet Points)
 <ul>
