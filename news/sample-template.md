@@ -64,7 +64,7 @@ Roman Numbers List
 <li>List Item 3</li>
 </ol>
 
-For sub/indented points, add margin-left in ol style in 40px increments
+For indentation, add margin-left in ol style in 40px increments
 
 Example of lists with sub points
 
