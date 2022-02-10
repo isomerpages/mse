@@ -67,7 +67,7 @@ Roman Numbers List
 <li>List Item 3</li>
 </ol>
 
-For indentation, add margin-left in ol style (see example below). Suggested margin is 40px for first indentation, and 20px increment for subsequent.
+For indentation, add margin-left in ol style (see example below). Suggested margin-left is 40px for the first indentation, and 20px increment for subsequent.
 
 Example of lists with sub points
 
