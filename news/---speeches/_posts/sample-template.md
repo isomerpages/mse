@@ -11,8 +11,9 @@ description:
 
 **Bold**
 
-Image
-![Alt text](img.jpg)
+Image Example: ![Simple Descriptive Text Of Image](/news/news-images/press-release-2020-04-10-image-2.png)
+
+Hyperlink Example: [Singapore Green Plan Website](https://greenplan.gov.sg)
 
 Unordered List (Bullet Points)
 <ul>
