@@ -38,9 +38,36 @@ Numbered List
 <li>List Item 3</li>
 </ol>
 
-Alphabetical List (add margin-left in 40px increments for indentation)
-<ol style="list-style-type: lower-alpha; margin-left: 40px">
+Alphabetical List 
+<ol style="list-style-type: lower-alpha">
 <li>List Item 1</li>
 <li>List Item 2</li>
+<li>List Item 3</li>
+</ol>
+
+Roman Numbers List 
+<ol style="list-style-type: lower-roman">
+<li>List Item 1</li>
+<li>List Item 2</li>
+<li>List Item 3</li>
+</ol>
+
+For sub/indented points, add margin-left in ol style in 40px increments
+
+Example of lists with sub points
+
+<ol>
+<li>List Item 1</li>
+<li>List Item 2</li>
+  <ol style="list-style-type: lower-alpha; margin-left: 40px">
+  <li>List Item 1</li>
+  <li>List Item 2</li>
+    <ol style="list-style-type: lower-roman; margin-left: 80px"">
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+    <li>List Item 3</li>
+    </ol>
+  <li>List Item 3</li>
+  </ol>
 <li>List Item 3</li>
 </ol>
