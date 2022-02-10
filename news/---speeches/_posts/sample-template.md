@@ -1,7 +1,6 @@
 ---  
 title: TO BE FILLED IN (example: Opening Speech at XXX - Ms Grace Fu)
 permalink: /resource-room/category/sample
-<!-- permalink: TO BE FILLED IN (example: /resource-room/category/2022-01-01-speech-at-XXX) -->
 image:  
 file_url:  
 description:  
