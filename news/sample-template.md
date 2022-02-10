@@ -41,8 +41,8 @@ Footnote 2 <sup><a href="#fn2" id="ref2">2</a></sup>
 [^2]: This is the second footnote.
 
 (Insert at the bottom of the file)
-<sup id="fn1">1</sup> [This is the first footnote.]<a href="#ref1">↩</a>
-<sup id="fn2">2</sup> [This is the second footnote.]<a href="#ref2">↩</a>
+<sup id="fn1">1</sup> This is the first footnote.<a href="#ref1">↩</a>
+<sup id="fn2">2</sup> This is the second footnote.<a href="#ref2">↩</a>
 
 **Lists/Bullet Points**
 
