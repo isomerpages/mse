@@ -19,7 +19,7 @@ Table Example:
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
 | Body 1.1 | Body 2.1 | Body 3.1 |
-| Body 1.2 | Body 2.2 | Body 3.2 |
+| Body 1.2 | Body 2.2 | ![Simple Descriptive Text Of Image](/news/news-images/press-release-2020-04-10-image-2.png) |
 | Body 1.3 | Body 2.3 | Body 3.3 |
 
 Suggest to use table generators available online, e.g.: https://www.tablesgenerator.com/markdown_tables 
