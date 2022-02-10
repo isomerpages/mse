@@ -31,7 +31,14 @@ Unordered List (Bullet Points)
 <li>List Item 3</li>
 </ul>
 
-Order List
+Numbered List
+<ol>
+<li>List Item 1</li>
+<li>List Item 2</li>
+<li>List Item 3</li>
+</ol>
+
+Alphabetical List
 <ol style="list-style-type: lower-alpha; margin-left: 40px">
 <li>List Item 1</li>
 <li>List Item 2</li>
