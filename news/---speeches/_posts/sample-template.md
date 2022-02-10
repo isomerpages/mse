@@ -9,6 +9,11 @@ description:
 
 #### HEADER
 
+**Bold**
+
+Image
+![Alt text](img.jpg)
+
 Unordered List (Bullet Points)
 <ul>
 <li>List Item 1</li>
