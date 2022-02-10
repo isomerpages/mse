@@ -32,6 +32,9 @@ Footnote Example
 Footnote 1 <sup><a href="#fn1" id="ref1">1</a></sup>
 Footnote 2 <sup><a href="#fn2" id="ref2">2</a></sup>
 
+[^1]: This is the first footnote.
+[^2]: This is the second footnote.
+
 (Insert at the bottom of the file)
 <sup id="fn1">1</sup> [Text of footnote 1]<a href="#ref1">↩</a>
 <sup id="fn2">2</sup> [Text of footnote 2]<a href="#ref2">↩</a>
@@ -85,6 +88,3 @@ Example of lists with sub points
   </ol>
 <li>List Item 3</li>
 </ol>
-
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
