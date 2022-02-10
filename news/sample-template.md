@@ -31,18 +31,11 @@ Suggest to use table generators available online, e.g.: https://www.tablesgenera
 
 Footnote Example
 
-Footnote 1[^1]
-Footnote 2[^2]
-
-Footnote 1 <sup><a href="#fn1" id="ref1">1</a></sup>
-Footnote 2 <sup><a href="#fn2" id="ref2">2</a></sup>
+This sentence contains a footnote[^1].
+This sentence contains a footnote[^2] too!
 
 [^1]: This is the first footnote.
 [^2]: This is the second footnote.
-
-(Insert at the bottom of the file)
-<sup id="fn1">1</sup> This is the first footnote.<a href="#ref1">↩</a>
-<sup id="fn2">2</sup> This is the second footnote.<a href="#ref2">↩</a>
 
 **Lists/Bullet Points**
 
