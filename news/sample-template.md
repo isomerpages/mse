@@ -1,5 +1,5 @@
 ---  
-title: TO BE FILLED IN (example: Opening Speech at XXX - Ms Grace Fu)
+title: Insert Title
 permalink: /resource-room/category/sample
 image:  
 file_url:  
