@@ -85,7 +85,7 @@ Example of lists with sub points
   <li>List Item 1</li>
   <li>List Item 2</li>
   <li>List Item 3</li>
-    <ol style="list-style-type: lower-alpha; margin-left: 80px"">
+    <ol style="list-style-type: lower-alpha; margin-left: 80px">
     <li>List Item 1</li>
     <li>List Item 2</li>
     <li>List Item 3</li>
