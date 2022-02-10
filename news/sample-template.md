@@ -36,9 +36,6 @@ Footnote 2 <sup><a href="#fn2" id="ref2">2</a></sup>
 <sup id="fn1">1</sup> [Text of footnote 1]<a href="#ref1">↩</a>
 <sup id="fn2">2</sup> [Text of footnote 2]<a href="#ref2">↩</a>
 
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
-
 **Lists/Bullet Points**
 
 Unordered List (Bullet Points)
@@ -88,3 +85,6 @@ Example of lists with sub points
   </ol>
 <li>List Item 3</li>
 </ol>
+
+[^1]: This is the first footnote.
+[^2]: This is the second footnote.
