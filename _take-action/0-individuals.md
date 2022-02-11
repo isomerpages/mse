@@ -29,7 +29,7 @@ permalink: /take-action/individuals
         </div>
     </div>
     <div class='grid-column'>
-        <img src="/images/take-action-1.svg">
+        <img src="/images/take-action-1.svg" alt="Take Action">
     </div>
 </div>
 
@@ -66,7 +66,7 @@ permalink: /take-action/individuals
 
   <div class='grid-row'>
     <div class='grid-column'>
-        <img src="/images/take-action-2.svg">
+        <img src="/images/take-action-2.svg" alt="Take Action">
     </div>
     <div class='grid-column double-column'>
         <div>
