@@ -12,7 +12,7 @@ permalink: /take-action/organisations/
 <div class='container' id='org'>
     <div class='grid-row'>
         <div class='grid-column'>
-            <img src="/images/take-action-4.svg" style="max-width:50vh; margin-top:20px">
+            <img src="/images/take-action-4.svg" alt="Take Action" style="max-width:50vh; margin-top:20px">
         </div> 
     </div>
     <div>
@@ -71,7 +71,7 @@ permalink: /take-action/organisations/
 
   <div class='grid-row'>
     <div class='grid-column'>
-        <img src="/images/take-action-5.svg">
+        <img src="/images/take-action-5.svg" alt="Take Action">
     </div>
     <div class='grid-column double-column'>
         <div class='lists'>
@@ -96,7 +96,7 @@ permalink: /take-action/organisations/
 <div class='grid-row' style="padding-bottom:0px">
     <div class='grid-column'>
             <h1><b>Utilize Our Resources</b></h1><br>
-        <img src="/images/take-action-6.svg" style="max-width:33vh;">
+        <img src="/images/take-action-6.svg" alt="Take Action" style="max-width:33vh;">
     </div> 
 </div>
 
