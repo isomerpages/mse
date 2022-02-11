@@ -3,6 +3,7 @@ title: Contact Us
 permalink: /contact-us/
 layout: contact_us
 title: Contact Us
+description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water.
 permalink: /contact-us/
 agency_name: MSE
 locations:
