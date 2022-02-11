@@ -102,7 +102,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
             <h5>#RecycleRight Citizens’ Workgroup Report</h5>
             </div>
-          <img src="/images/Key-Environmental-Statistics-2021-Cover.jpg" alt="" style="width:300px;">
+          <img src="/images/Key-Environmental-Statistics-2021-Cover.jpg" alt="Key Environmental Statistics 2021" style="width:300px;">
         </a>
     </div>  
 	<div class="card">
