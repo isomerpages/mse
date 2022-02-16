@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Oral Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on Measures to Avoid Deterioration in Residential Waste Disposal Methods
+#### Written Reply by Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on Measures to Avoid Deterioration in Residential Waste Disposal Methods
 
 **Dr Shahira Abdullah:** To ask the Minister for Sustainability and the Environment given the move to reduce the use of plastic bags in Singapore, what measures or safeguards will be put in place to avoid any deterioration in residential waste disposal methods.
 
