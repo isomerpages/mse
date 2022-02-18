@@ -1,6 +1,6 @@
 ---    
 title: MOU Signing between SUSS and SSA - Ms Grace Fu  
-permalink: /resource-room/category/2022-02-19-speech-by-minister-at-mou-signing-by-suss-and-ssa/ 
+permalink: /resource-room/category/2022-02-19-speech-by-minister-at-mou-signing-by-suss-and-ssa/  
 image:  
 file_url:  
 description:  
