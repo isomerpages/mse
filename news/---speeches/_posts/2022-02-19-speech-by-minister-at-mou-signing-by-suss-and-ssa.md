@@ -23,7 +23,7 @@ Ladies and Gentlemen
 
 2	I am happy to hear that SUSS and SSA will be developing and delivering a United Nations Sustainable Development Goals Educational Programme to equip and empower our youth with an understanding of the Sustainable Development Goals (SDGs) through courses, workshops as well as community projects.  
 
-**Urgency of Sustainable Development**  
+**Urgency of Sustainable Development**   
 
 3	The need for sustainable development has never been more urgent. The COVID-19 pandemic has exacerbated many of the world’s biggest challenges, such as poverty, livelihood, healthcare, food insecurity, and inequality. Climate change is another existential challenge that poses a serious threat to humanity.  
 
