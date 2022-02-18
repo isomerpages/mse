@@ -1,10 +1,10 @@
----    
-title: MOU Signing between SUSS and SSA - Ms Grace Fu  
-permalink: /resource-room/category/2022-02-19-speech-by-minister-at-mou-signing-by-suss-and-ssa/  
-image:  
-file_url:  
-description:  
----    
+---
+title: MOU Signing between SUSS and SSA - Ms Grace Fu
+permalink: /resource-room/category/2022-02-19-speech-at-mou-signing-by-suss-and-ssa/
+image:
+file_url:
+description:
+---
 
 #### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE MOU SIGNING EVENT BETWEEN SINGAPORE UNIVERISTY OF SOCIAL SCIENCES AND SINGAPORE SCOUT ASSOCIATION ON 19 FEBRUARY 2022  
 
