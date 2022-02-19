@@ -6,16 +6,13 @@ file_url:
 description:
 ---
 
-#### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE MOU SIGNING EVENT BETWEEN SINGAPORE UNIVERISTY OF SOCIAL SCIENCES AND SINGAPORE SCOUT ASSOCIATION ON 19 FEBRUARY 2022  
+#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the MOU signing event between Singapore University of Social Sciences and Singapore Scout Association on 19 February 2022 
 
-Prof Cheong Hee Kiat  
-President, Singapore University of Social Sciences  
+Prof Cheong Hee Kiat, President, Singapore University of Social Sciences  
 
-Dr Ang Hak Seng  
-Director, Centre of Excellence for Social Good  
+Dr Ang Hak Seng, Director, Centre of Excellence for Social Good  
 
-Mr Raymond Chia  
-President, Singapore Scout Association  
+Mr Raymond Chia, President, Singapore Scout Association  
 
 Ladies and Gentlemen  
 
