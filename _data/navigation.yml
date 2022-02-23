@@ -19,5 +19,5 @@ links:
         url: /faq
   - title: About Us
     collection: about-us
-  - title: MSE50
-    collection: mse50
+  #- title: MSE50
+  #  collection: mse50
