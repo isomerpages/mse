@@ -11,7 +11,7 @@ description:
 **Use asterisks to bold text**
 
 **Image**
-Image Example: ![Simple Descriptive Text Of Image](/news/news-images/press-release-2020-04-10-image-2.png)
+Image Example: ![Simple Descriptive Text Of Image](/news/news-images/15 Dec_1.png)
 
 **Hyerlink**
 Hyperlink Example: [Singapore Green Plan Website](https://greenplan.gov.sg)
