@@ -33,7 +33,7 @@ collections:
   #mse50:
     #output: true
    resources:
-     output: true
+    output: true
 google_analytics: UA-183999332-1
 resources_name: news
 
