@@ -1,6 +1,6 @@
 ---
 title: 
-permalink: /sample
+permalink:
 date: 2022-02-24
 layout: post
 description: ""
