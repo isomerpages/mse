@@ -19,7 +19,7 @@ Hyperlink Example: [Singapore Green Plan Website](https://greenplan.gov.sg)
 **Table**
 Table Example:
 
-| Header 1 | Header 2 | Header 3 |
+| Header 1 | Header 2 | <div style="width:500px">Header 3</div> |
 |----------|----------|:----------:|
 | Body 1.1 | Body 2.1 | Body 3.1 |
 | Body 1.2 | Body 2.2 | ![Simple Descriptive Text Of Image](/news/news-images/press-release-2020-04-10-image-2.png) |
