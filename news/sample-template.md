@@ -1,5 +1,5 @@
 ---  
-title: Insert Title
+title: Title 
 permalink: /resource-room/category/template
 image:  
 file_url:  
