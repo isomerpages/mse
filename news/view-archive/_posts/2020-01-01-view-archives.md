@@ -27,7 +27,7 @@ description:
   </div>
 </div>
 
-<p>For COS 2020, please <a href="/cos">click here</a></p>.
+<p><a href="/cos">click here to find out more about MSE Committee of Supply.</p>.
 </div>
 
 <!-- https://www.nas.gov.sg/archivesonline/ -->
