@@ -20,7 +20,6 @@ colors:
     - title: media-color-five
       color: '#323232'
 
-
 collections:
   about-us:
     output: true
