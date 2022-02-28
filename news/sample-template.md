@@ -1,6 +1,6 @@
 ---  
 title:
-permalink:
+permalink:/resource-room/category/sample template
 image:  
 file_url:  
 description:  
