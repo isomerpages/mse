@@ -14,7 +14,7 @@ description:
 Image Example: ![Simple Descriptive Text Of Image](/news/news-images/20Aug1.jpg)
 
 OR if you need to adjust the image width:
-<img src="/news/news-images/press-release-2020-04-10-image-2.png" alt="Simple Descriptive Text Of Image" style="width:150px;">
+<img src="/news/news-images/20Aug1.jpg" alt="Simple Descriptive Text Of Image" style="width:150px;">
 
 **Hyerlink**
 Hyperlink Example: [Singapore Green Plan Website](https://greenplan.gov.sg)
