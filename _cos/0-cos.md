@@ -1,5 +1,5 @@
 ---
-title: MSE Committee of Supply 2022
+title: MSE Committee of Supply 2021
 permalink: /cos
 ---
 
@@ -243,76 +243,25 @@ body {
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap" rel="stylesheet">
 <div class="container">
 <div class="card-content">
-<h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">BUILDING OUR CITY OF GREEN POSSIBILITIES</h2>
-  <!-- <p class="description"> Everyone can play a part in building a resilient and sustainable nation</p> -->
-  
-  <div class="card"> 
-    <div class="front" style="background-image: url(/images/cosclean.jpg)">
-      <h4>Public Health</h4>
-    </div>
-    <div class="back">
-        <div>
-          <p>Our collective efforts to shore up our public health defences will guard us against future threats.</p>
-          <a href="/cos/public-health"><button class="button">Learn More</button></a>
-        </div>
-      </div>
-  </div>
-  
+<h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">RALLYING COLLECTIVE ACTION <br> FOR A CLEANER AND GREENER FUTURE</h2>
+  <!-- <p class="description"> Everyone has a part to play in keeping our public spaces clean, and in saving resources as a way of life in Singapore</p> -->
+        
   <div class="card">
-    <div class="front" style="background-image: url(/cos/resources/cos-food-supply.jpg);">
-      <h4>Food Supply & Safety
-      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
+    <div class="front" style="background-image: url(/images/cosclean.jpg);">
+      <h4>Cleaner Public Spaces</h4>      
     </div>
     <div class="back">
       <div>
-        <p>New schemes to support local farmers and strengthen resilience of food supply and safety.</p>
-        <a href="/cos/food"><button class="button">Learn More</button></a>
+        <p>Our collective efforts to shore up our public health defences will guard us against future threats. </p>
+        <a href="/cos/cleaner-public-spaces"><button class="button">Learn More</button></a>
       </div>
     </div>
   </div>
     
-
-  <div class="card">
-    <div class="front" style="background-image: url(/images/cosclimate.jpg)">
-      <h4>Coastal Protection
-      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
-    </div>
-    <div class="back">
-      <div>
-        <p>Shoring up coastal protection to ensure our resilient future.</p>
-        <a href="/cos/coastal-protection"><button class="button">Learn More</button></a>
-      </div>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="front" style="background-image: url(/images/coshawker.jpg)">
-      <h4>Hawker Culture</h4>
-    </div>
-    <div class="back">
-      <div>
-        <p>We are safeguarding our hawker culture and transforming the industry through new schemes and initiatives.</p>
-        <a href="/cos/hawker"><button class="button">Learn More</button></a>
-      </div>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="front" style="background-image: url(/images/coswaste.jpg)">
-      <h4>Closing Resource Loops
-      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
-    </div>
-    <div class="back">
-      <div>
-        <p>New schemes will be put in place to reduce waste and encourage sustainable habits.</p>
-        <a href="/cos/sustainable-living"><button class="button">Learn More</button></a>
-      </div>
-    </div>
-  </div>
-  
   <div class="card"> 
-    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpegg)">
-      <h4>Speeches & Infographics</h4>
+    <div class="front" style="background-image: url(/images/cosgreengov.jpg)">
+      <h4>GreenGov.SG
+      <img src="/images/sgplogowhite.png" alt=""></h4>
     </div>
     <div class="back">
         <div>
@@ -321,24 +270,24 @@ body {
         </div>
       </div>
   </div>
-  
-  <!--
-  <div class="card"> 
-    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg)">
-      <h4>GreenGov.SG
-      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
+
+  <div class="card">
+    <div class="front" style="background-image: url(/images/coswaste.jpg)">
+      <h4>Towards Zero Waste
+      <img src="/images/sgplogowhite.png" alt=""></h4>
     </div>
     <div class="back">
-        <div>
-          <a href="/cos/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
-        </div>
+      <div>
+        <p>New schemes and frameworks will be put in place to encourage recycling and reduce food waste and e-waste.</p>
+        <a href="/cos/sustainable-living"><button class="button">Learn More</button></a>
       </div>
+    </div>
   </div>
     
   <div class="card">
     <div class="front" style="background-image: url(/images/coswater.jpg)">
       <h4>Improving Water Efficiency
-      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
+      <img src="/images/sgplogowhite.png" alt=""></h4>
     </div>
     <div class="back">
       <div>
@@ -347,7 +296,32 @@ body {
       </div>
     </div>
   </div>
-  
+
+  <div class="card">
+    <div class="front" style="background-image: url(/images/cosclimate.jpg)">
+      <h4>Climate Resilience & Food Security
+      <img src="/images/sgplogowhite.png" alt=""></h4>
+    </div>
+    <div class="back">
+      <div>
+        <p>Mitigating and adapting to climate change will help ensure our resilient future.</p>
+        <a href="/cos/resilient-future"><button class="button">Learn More</button></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="front" style="background-image: url(/images/coshawker.jpg)">
+      <h4>Our Hawker Culture</h4>
+    </div>
+    <div class="back">
+      <div>
+        <p>We are safeguarding our hawker culture and transforming the industry through new programmes and schemes.</p>
+        <a href="/cos/hawker"><button class="button">Learn More</button></a>
+      </div>
+    </div>
+  </div>
+
   <div class="card" style="width: calc(100% - 2rem);
   min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
     <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
@@ -359,8 +333,7 @@ body {
       </div>
     </div>
   </div>
-  -->
-  
+
 </div>
 </div>
 
