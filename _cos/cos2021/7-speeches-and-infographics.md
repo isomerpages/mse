@@ -1,6 +1,6 @@
 ---
 title: Speeches and Infographics
-permalink: /cos/speeches-and-infographics
+permalink:
 ---
 <style>
 
