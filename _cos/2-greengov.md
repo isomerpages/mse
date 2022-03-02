@@ -1,6 +1,6 @@
 ---
-title: Green Government
-permalink: /cos/greengov
+title: Food Supply & Safety
+permalink: /cos/food
 ---
 <style>
 
