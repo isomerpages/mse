@@ -1,6 +1,6 @@
 ---
-title: Resilient Future
-permalink: /cos/resilient-future
+title: Hawker Culture
+permalink: /cos/hawker
 ---
 <style>
 
