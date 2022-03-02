@@ -1,6 +1,6 @@
 ---
 title: Green Government
-permalink: /cos/greengov
+permalink:
 ---
 <style>
 
