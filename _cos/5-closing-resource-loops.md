@@ -1,6 +1,6 @@
 ---
-title: Our Hawker Culture
-permalink: /cos/hawker
+title: Closing Resource Loops
+permalink: /cos/sustainable-living
 ---
 <style>
 
