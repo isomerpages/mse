@@ -1,5 +1,5 @@
 ---
-title: MSE Committee of Supply 2021
+title: MSE Committee of Supply 2022
 permalink: /cos
 ---
 
@@ -243,12 +243,12 @@ body {
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap" rel="stylesheet">
 <div class="container">
 <div class="card-content">
-<h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">RALLYING COLLECTIVE ACTION <br> FOR A CLEANER AND GREENER FUTURE</h2>
-  <!-- <p class="description"> Everyone has a part to play in keeping our public spaces clean, and in saving resources as a way of life in Singapore</p> -->
+<h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">BUILDING OUR CITY OF GREEN POSSIBILITIES</h2>
+  <!-- <p class="description"> Everyone can play a part in building a resilient and sustainable nation</p> -->
         
   <div class="card">
     <div class="front" style="background-image: url(/images/cosclean.jpg);">
-      <h4>Cleaner Public Spaces</h4>      
+      <h4>Food Supply & Safety</h4>      
     </div>
     <div class="back">
       <div>
