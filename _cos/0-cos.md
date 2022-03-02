@@ -247,8 +247,8 @@ body {
   <!-- <p class="description"> Everyone can play a part in building a resilient and sustainable nation</p> -->
         
   <div class="card">
-    <div class="front" style="background-image: url(cos/resources/cos-food-supply.jpg);">
-      <h4>Food Supply & Safety</h4>
+    <div class="front" style="background-image: url(/cos/resources/cos-food-supply.jpg);">
+      <h4>Food Supply & Safety
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
     <div class="back">
