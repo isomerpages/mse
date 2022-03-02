@@ -1,6 +1,6 @@
 ---
 title: MSE Committee of Supply 2021
-permalink: /cos
+permalink: 
 ---
 
 <style>
