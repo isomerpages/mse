@@ -1,6 +1,6 @@
 ---
 title: Towards Zero Waste
-permalink: /cos/sustainable-living
+permalink: 
 ---
 <style>
 
