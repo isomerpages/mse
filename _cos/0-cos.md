@@ -287,7 +287,7 @@ body {
   
   <div class="card">
     <div class="front" style="background-image: url(/images/coshawker.jpg)">
-      <h4>Our Hawker Culture</h4>
+      <h4>Hawker Culture</h4>
     </div>
     <div class="back">
       <div>
@@ -299,7 +299,7 @@ body {
   
   <div class="card">
     <div class="front" style="background-image: url(/images/coswaste.jpg)">
-      <h4>Closing Our Resource Loops
+      <h4>Closing Resource Loops
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
     <div class="back">
@@ -310,6 +310,18 @@ body {
     </div>
   </div>
   
+  <div class="card"> 
+    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpegg)">
+      <h4>Speeches & Infographics</h4>
+    </div>
+    <div class="back">
+        <div>
+          <p>New and ambitious targets will be set for the public sector as we place sustainability at the core of everything we do.</p>
+          <a href="/cos/greengov"><button class="button">Learn More</button></a>
+        </div>
+      </div>
+  </div>
+  
   <!--
   <div class="card"> 
     <div class="front" style="background-image: url(/images/cosgreengov.jpg)">
@@ -318,8 +330,7 @@ body {
     </div>
     <div class="back">
         <div>
-          <p>New and ambitious targets will be set for the public sector as we place sustainability at the core of everything we do.</p>
-          <a href="/cos/greengov"><button class="button">Learn More</button></a>
+          <a href="/cos/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
         </div>
       </div>
   </div>
@@ -336,7 +347,6 @@ body {
       </div>
     </div>
   </div>
-  -->
   
   <div class="card" style="width: calc(100% - 2rem);
   min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
@@ -349,7 +359,8 @@ body {
       </div>
     </div>
   </div>
-
+  -->
+  
 </div>
 </div>
 
