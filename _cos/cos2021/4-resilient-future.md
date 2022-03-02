@@ -1,6 +1,6 @@
 ---
 title: Resilient Future
-permalink: /cos/resilient-future
+permalink:
 ---
 <style>
 
