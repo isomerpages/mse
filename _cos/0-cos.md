@@ -324,7 +324,7 @@ body {
   
   <!--
   <div class="card"> 
-    <div class="front" style="background-image: url(/images/cosgreengov.jpg)">
+    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg)">
       <h4>GreenGov.SG
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
