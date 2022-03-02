@@ -1,6 +1,6 @@
 ---
-title: Cleaner Public Spaces
-permalink: /cos/cleaner-public-spaces
+title: Public Health
+permalink: /cos/public-health
 ---
 <style>
 
