@@ -1,6 +1,6 @@
 ---
 title: Hawker Culture
-permalink: /cos/hawker
+permalink: /cos2022/hawker
 ---
 <style>
 
