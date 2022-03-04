@@ -22,7 +22,7 @@ body {
 
 To complement existing programmes to encourage new entrants into the hawker trade, NEA has introduced the Hawkers Succession Scheme to provide an assisted pathway for aspiring hawkers to operate a hawker business with established clientele and hawker food recipes that have been refined over the years. NEA has convened an independent advisory panel consisting of hawkers, culinary chefs, training partner and hawker centre operator.
 
-This year, NEA will be working with stakeholders to jointly develop the scope of works and infrastructural improvements to be implemented at selected existing hawker centres under the Hawker Centres Transformation Programme. Separately, another new hawker centre to be built in Tampines Town.
+This year, NEA will be working with stakeholders to jointly develop the scope of works and infrastructural improvements to be implemented at selected existing hawker centres under the Hawker Centres Transformation Programme. In addition, another new hawker centre will be built in Tampines Town.
 
 <a href="/cos/resources/cos-annex-j.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
