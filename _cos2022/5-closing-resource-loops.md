@@ -1,6 +1,6 @@
 ---
 title: Closing Resource Loops
-permalink: /cos2022/sustainable-living
+permalink: /cos/sustainable-living
 ---
 <style>
 
