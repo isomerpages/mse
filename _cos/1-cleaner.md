@@ -1,6 +1,6 @@
 ---
 title: Cleaner Public Spaces
-permalink: /cos/cleaner-public-spaces
+permalink: /cos2021/cleaner-public-spaces
 ---
 <style>
 
