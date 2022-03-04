@@ -1,6 +1,6 @@
 ---
 title: Food Supply & Safety
-permalink: /cos2022/food
+permalink: /cos/food
 ---
 <style>
 
