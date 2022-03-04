@@ -272,7 +272,7 @@ body {
   
   <div class="card">
     <div class="front" style="background-image: url(/images/cos-food-supply.jpg);">
-      <h4>Food Supply & Safety
+      <h4>Food Supply
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
     <div class="back">
