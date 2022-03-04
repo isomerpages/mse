@@ -22,9 +22,9 @@ body {
 
 <ul>
   <li>COVID-19 has exacerbated the need to maintain high levels of public cleanliness and hygiene, and personal hygiene.</li>
-  <li>We will continue our efforts to uphold standards of hygiene and cleanliness at higher-risk premises by extending the environmental sanitation regime to cover more premises with high footfall or vulnerable occupants</li>
-  <li>NEA will continue to scale its wastewater surveillance programme and contribute to Singapore’s management of COVID-19, and other potential infectious diseases in future</li>
-  <li>To promote a smoke-free lifestyle in Singapore and reduce the exposure to harmful tobacco smoke, NEA, NParks, PUB and Sentosa Development Corporation (SDC) will be extending the smoking prohibition to more recreational sites</li>
+  <li>We will continue our efforts to uphold standards of hygiene and cleanliness at higher-risk premises by extending the environmental sanitation regime to cover more premises with high footfall or vulnerable occupants.</li>
+  <li>NEA will continue to scale its wastewater surveillance programme and contribute to Singapore’s management of COVID-19, and other potential infectious diseases in future.</li>
+  <li>To promote a smoke-free lifestyle in Singapore and reduce the exposure to harmful tobacco smoke, NEA, NParks, PUB and Sentosa Development Corporation (SDC) will be extending the smoking prohibition to more recreational sites.</li>
 </ul>
 
 <a href="/cos/resources/cos-annex-a.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
