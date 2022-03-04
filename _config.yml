@@ -29,8 +29,8 @@ collections:
     output: true
   cos:
     output: true
-  cos2022:
-    output: true
+  #cos2022:
+    #output: true
   #mse50:
     #output: true
   resources:
