@@ -311,13 +311,12 @@ body {
   </div>
   
   <div class="card"> 
-    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpegg)">
+    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg)">
       <h4>Speeches & Infographics</h4>
     </div>
     <div class="back">
         <div>
-          <p>New and ambitious targets will be set for the public sector as we place sustainability at the core of everything we do.</p>
-          <a href="/cos/greengov"><button class="button">Learn More</button></a>
+          <a href="/cos/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
         </div>
       </div>
   </div>
