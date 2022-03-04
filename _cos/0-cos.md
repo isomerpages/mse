@@ -1,6 +1,6 @@
 ---
 title: MSE Committee of Supply 2021
-permalink: /cos
+permalink: /cos2021
 ---
 
 <style>
@@ -253,7 +253,7 @@ body {
     <div class="back">
       <div>
         <p>Our collective efforts to shore up our public health defences will guard us against future threats. </p>
-        <a href="/cos/cleaner-public-spaces"><button class="button">Learn More</button></a>
+        <a href="/cos2021/cleaner-public-spaces"><button class="button">Learn More</button></a>
       </div>
     </div>
   </div>
@@ -266,7 +266,7 @@ body {
     <div class="back">
         <div>
           <p>New and ambitious targets will be set for the public sector as we place sustainability at the core of everything we do.</p>
-          <a href="/cos/greengov"><button class="button">Learn More</button></a>
+          <a href="/cos2021/greengov"><button class="button">Learn More</button></a>
         </div>
       </div>
   </div>
@@ -279,7 +279,7 @@ body {
     <div class="back">
       <div>
         <p>New schemes and frameworks will be put in place to encourage recycling and reduce food waste and e-waste.</p>
-        <a href="/cos/sustainable-living"><button class="button">Learn More</button></a>
+        <a href="/cos2021/sustainable-living"><button class="button">Learn More</button></a>
       </div>
     </div>
   </div>
@@ -292,7 +292,7 @@ body {
     <div class="back">
       <div>
         <p>Every drop is precious. We will manage water demand by encouraging the switch to more water-efficient products.</p>
-        <a href="/cos/water"><button class="button">Learn More</button></a>
+        <a href="/cos2021/water"><button class="button">Learn More</button></a>
       </div>
     </div>
   </div>
@@ -305,7 +305,7 @@ body {
     <div class="back">
       <div>
         <p>Mitigating and adapting to climate change will help ensure our resilient future.</p>
-        <a href="/cos/resilient-future"><button class="button">Learn More</button></a>
+        <a href="/cos2021/resilient-future"><button class="button">Learn More</button></a>
       </div>
     </div>
   </div>
@@ -317,7 +317,7 @@ body {
     <div class="back">
       <div>
         <p>We are safeguarding our hawker culture and transforming the industry through new programmes and schemes.</p>
-        <a href="/cos/hawker"><button class="button">Learn More</button></a>
+        <a href="/cos2021/hawker"><button class="button">Learn More</button></a>
       </div>
     </div>
   </div>
@@ -329,7 +329,7 @@ body {
     </div>
     <div class="back">
       <div>
-        <a href="/cos/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
+        <a href="/cos2021/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
       </div>
     </div>
   </div>
