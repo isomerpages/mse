@@ -1,6 +1,6 @@
 ---
 title: Coastal Protection
-permalink: /cos2022/coastal-protection
+permalink: /cos/coastal-protection
 ---
 <style>
 
