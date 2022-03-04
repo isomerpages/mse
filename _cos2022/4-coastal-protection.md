@@ -16,7 +16,7 @@ body {
 
 ## Shoring up coastal protection
 
-div>
+<div>
 <img src="/cos/resources/Icon_SeaLevels.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
