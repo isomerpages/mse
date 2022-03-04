@@ -1,6 +1,6 @@
 ---
 title: Towards Zero Waste
-permalink: /cos/sustainable-living
+permalink: /cos2021/sustainable-living
 ---
 <style>
 
@@ -31,4 +31,4 @@ To address food waste, NEA is exploring a framework for large industrial and com
 
 To address electrical and electronic waste (e-waste), we will implement an Extended Producer Responsibility (EPR) scheme for e-waste in July 2021. NEA appointed a Producer Responsibility Scheme (PRS) Operator for e-waste in February this year, and is working with the operator to set up the collection network. Residents can look forward to more avenues to recycle their e-waste later this year.
 
-<center><a class="button_cos" href="/cos/">Back to Overview</a></center>
+<center><a class="button_cos" href="/cos2021/">Back to Overview</a></center>
