@@ -20,8 +20,8 @@ body {
 <img src="/cos/resources/Icon_FoodSecurity.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
+We will continue to support our farmers to increase productivity, while ensuring that local production remains climate-resilient and resource-efficient.
 <ul>
-  <li>We will continue to support our farmers to increase productivity, while ensuring that local production remains climate-resilient and resource-efficient.</li>
   <li>$60 million Agri-Food Cluster Transformation (ACT) Fund, which was established in 2021, will be enhanced to offer higher co-funding quantum for a wider range of food types such as fruited vegetables, mushrooms, and shrimp.</li>
   <li>New land and sea tenders will also be launched on 20+10-year leases from end 2022 to provide businesses with certainty and facilitate long-term planning and investments.</li>
   <li>Temporary occupation licences (TOL) will be introduced for existing farms to transition them to leasehold.</li>
