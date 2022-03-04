@@ -1,6 +1,6 @@
 ---
 title: Resilient Future
-permalink: /cos/resilient-future
+permalink: /cos2021/resilient-future
 ---
 <style>
 
@@ -42,5 +42,5 @@ We will mitigate the Urban Heat Island (UHI) effect through a three-pronged stra
 <a href="/cos/resources/cos-annex-j.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
 
-<center><a class="button_cos" href="/cos/">Back to Overview</a></center>
+<center><a class="button_cos" href="/cos2021/">Back to Overview</a></center>
 
