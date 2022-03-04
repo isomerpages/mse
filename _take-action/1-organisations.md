@@ -106,6 +106,6 @@ Brochures, posters, and other materials are available for download at the NEA we
 Guidebooks developed by NEA and SFA for food retail, supermarkets and food manufacturers to reduce waste across the supply chain.
 -   [3R Guidebooks](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/3r-guidebooks):  
 Step-by-step guides to implement 3R programmes in hotels, offices, shopping malls; as well as during Meetings, Incentives, Conferences & Exhibition (MICE) events.
--   [Guide to Implementing Environmentally-Friendly Best Practices for Events](http://www.mse.gov.sg/top/faqs/guide-to-environmentally-friendly-practices-for-events)
+-   [Guide to Implementing Environmentally-Friendly Best Practices for Events](/resources/environmentally-friendly-events-guidelines.pdf)
 
 <center><a class="button_david" href="/resources/">More Resources</a></center>
