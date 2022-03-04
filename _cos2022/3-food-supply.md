@@ -14,15 +14,20 @@ body {
 
 </style>
 
-## Green Government: Public service to peak emissions around 2025
+## Strengthening resilience of food supply
 
 <div>
-<img src="/cos/resources/Icon_GreenGov.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
+<img src="/cos/resources/Icon_FoodSecurity.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
-As a small, island city-state with no natural resources, Singapore is particularly vulnerable to the impacts of climate change. The Government will lead efforts to ensure Singapore remains a green and liveable home by putting sustainability at the core of everything we do. New and ambitious sustainability targets will be set for the public sector.
+<ul>
+  <li>We will continue to support our farmers to increase productivity, while ensuring that local production remains climate-resilient and resource-efficient.</li>
+  <li>$60 million Agri-Food Cluster Transformation (ACT) Fund, which was established in 2021, will be enhanced to offer higher co-funding quantum for a wider range of food types such as fruited vegetables, mushrooms, and shrimp.</li>
+  <li>New land and sea tenders will also be launched on 20+10-year leases from end 2022 to provide businesses with certainty and facilitate long-term planning and investments.</li>
+  <li>Temporary occupation licences (TOL) will be introduced for existing farms to transition them to leasehold.</li>
+  <li>Most sea-based farmers will also see a substantial reduction in their annual fish farm licence fee after SFA’s review to ensure compliance costs incurred by farms are minimised and relevant.</li>
+</ul>
 
-This includes a target to peak our emissions around 2025, ahead of the national target. We will also use tools and levers at our disposal, including procurement, to influence those within and outside of the public service to adopt sustainability practices and to raise awareness. 
 
 <a href="/cos/resources/cos-annex-c.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
