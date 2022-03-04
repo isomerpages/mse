@@ -1,6 +1,6 @@
 ---
 title: Speeches and Infographics
-permalink: /cos/speeches-and-infographics
+permalink: /cos2021/speeches-and-infographics
 ---
 <style>
 
@@ -29,6 +29,6 @@ body {
 <a href="/cos/resources/mse-cos-infographics-social.zip">Infographics for Social Media (zip)</a>
 
 <div>
-<center><a class="button_cos" href="/cos/">Back to Overview</a></center>
+<center><a class="button_cos" href="/cos2021/">Back to Overview</a></center>
 </div> 
 
