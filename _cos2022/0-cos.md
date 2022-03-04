@@ -1,6 +1,6 @@
 ---
 title: MSE Committee of Supply 2022
-permalink: /cos2022
+permalink: /cos
 ---
 
 <style>
