@@ -1,6 +1,6 @@
 ---
 title: Public Health
-permalink: /cos2022/public-health
+permalink: /cos/public-health
 ---
 <style>
 
