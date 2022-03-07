@@ -28,7 +28,6 @@ We will continue to support our farmers to increase productivity, while ensuring
   <li>Most sea-based farmers will also see a substantial reduction in their annual fish farm licence fee after SFA’s review to ensure compliance costs incurred by farms are minimised and relevant.</li>
 </ul>
 
-
-<a href="/cos/resources/cos-annex-c.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
+<a href="/cos2022/resources/cos2022-annex-c-aquaculture-plan.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
 <center><a class="button_cos" href="/cos/">Back to Overview</a></center>
