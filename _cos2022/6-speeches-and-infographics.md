@@ -24,7 +24,7 @@ body {
 
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed','Lato', sans-serif;">INFOGRAPHICS</h2>
 
-<img src="/cos2022/resources/cos2022-mse-infographic1.png" alt="">
+<img src="/cos2022/resources/cos2022-mse-infographic1.png" alt=""><br>
 <img src="/cos2022/resources/cos2022-mse-infographic2.png" alt="">
 
 <div>
