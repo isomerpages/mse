@@ -349,7 +349,7 @@ body {
   
   <div class="card" style="width: calc(100% - 2rem);
   min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
-    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
+    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.png);">
       <h4>Speeches & Infographics</h4>      
     </div>
     <div class="back">
