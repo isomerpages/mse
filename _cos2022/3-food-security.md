@@ -1,5 +1,5 @@
 ---
-title: Food Supply
+title: Food Security
 permalink: /cos/food
 ---
 <style>
