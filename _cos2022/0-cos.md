@@ -298,7 +298,7 @@ body {
   </div>
   
   <div class="card"> 
-    <div class="front" style="background-image: url(/images/cosclean.jpg)">
+    <div class="front" style="background-image: url(/images/cosclean2022.jpg)">
       <h4>Public Health</h4>
     </div>
     <div class="back">
