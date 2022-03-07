@@ -310,7 +310,7 @@ body {
   </div>
   
   <div class="card"> 
-    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons-2.png)">
+    <div class="front" style="background-image: url(/cos2022/resources/cos-thumbnail-icons-2.png)">
       <h4>Speeches & Infographics</h4>
     </div>
     <div class="back">
