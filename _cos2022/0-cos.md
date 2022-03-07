@@ -253,7 +253,7 @@ body {
     </div>
     <div class="back">
       <div>
-        <p>We are shoring up coastal protection to ensure our resilient future.</p>
+        <p>We are formulating plans to safeguard our coastlines against sea level rise.</p>
         <a href="/cos/coastal-protection"><button class="button">Learn More</button></a>
       </div>
     </div>
