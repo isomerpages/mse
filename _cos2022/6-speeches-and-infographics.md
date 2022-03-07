@@ -26,7 +26,7 @@ body {
 
 <img src="/cos2022/resources/cos2022-mse-infographic1.png" alt=""><br>
 <img src="/cos2022/resources/cos2022-mse-infographic2.png" alt="">
-
+<a href="/cos2022/resources/cos2022-summary-infographic.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Infographics)</a>
 <div>
 <center><a class="button_cos" href="/cos/">Back to Overview</a></center>
 </div> 
