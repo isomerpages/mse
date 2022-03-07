@@ -1,6 +1,6 @@
 ---
 title: Cleaner Public Spaces
-permalink: /cos/cleaner-public-spaces
+permalink: /cos2021/cleaner-public-spaces
 ---
 <style>
 
@@ -34,4 +34,4 @@ NEA will continue to work with the environmental services (ES) industry to raise
 
 As more people dine out during Phase 3 Safe Reopening, we must continue to keep our public dining places safe by keeping them clean. NEA launched the [Clean Tables Campaign](https://www.sgclean.gov.sg/join/for-individuals/clean-tables-campaign/) in Feb 2021 to galvanise individuals and the community to do our part to return used crockery and trays, and clear and bin our own litter such as used tissues and wet wipes. This shows consideration for the next diner, and allows cleaners to focus on the most important task of cleaning and disinfecting tables. This self-service approach is also a more sustainable way of keeping our dining places clean.
 
-<center><a class="button_cos" href="/cos/">Back to Overview</a></center>
+<center><a class="button_cos" href="/cos2021/">Back to Overview</a></center>

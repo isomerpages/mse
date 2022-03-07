@@ -1,6 +1,6 @@
 ---
 title: Improving Water Efficiency
-permalink: /cos/water
+permalink: /cos2021/water
 ---
 <style>
 
@@ -24,4 +24,4 @@ We will continue to encourage water conservation and water efficient practices f
 <a href="/cos/resources/cos-annex-f.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
 
-<center><a class="button_cos" href="/cos/">Back to Overview</a></center>
+<center><a class="button_cos" href="/cos2021/">Back to Overview</a></center>

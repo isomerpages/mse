@@ -1,6 +1,6 @@
 ---
 title: Speeches and Infographics
-permalink: /cos2022/speeches-and-infographics
+permalink: /cos/speeches-and-infographics
 ---
 <style>
 
@@ -24,10 +24,9 @@ body {
 
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed','Lato', sans-serif;">INFOGRAPHICS</h2>
 
-<img src="/cos/resources/cos-mse-infographic1.png" alt="">
-<img src="/cos/resources/cos-mse-infographic2.png" alt="">
-<a href="/cos/resources/mse-cos-infographics-social.zip">Infographics for Social Media (zip)</a>
-
+<img src="/cos2022/resources/cos2022-mse-infographic1.png" alt=""><br>
+<img src="/cos2022/resources/cos2022-mse-infographic2.png" alt="">
+<br><a href="/cos2022/resources/cos2022-summary-infographic.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Infographics)</a>
 <div>
 <center><a class="button_cos" href="/cos/">Back to Overview</a></center>
 </div> 

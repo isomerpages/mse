@@ -1,6 +1,6 @@
 ---
 title: Green Government
-permalink: /cos/greengov
+permalink: /cos2021/greengov
 ---
 <style>
 
@@ -26,4 +26,4 @@ This includes a target to peak our emissions around 2025, ahead of the national 
 
 <a href="/cos/resources/cos-annex-c.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
-<center><a class="button_cos" href="/cos/">Back to Overview</a></center>
+<center><a class="button_cos" href="/cos2021/">Back to Overview</a></center>

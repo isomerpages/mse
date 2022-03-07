@@ -3,7 +3,7 @@ layout: homepage
 title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
 image: /images/caw-square.png
-# notification: <p><a style="font-family:'Cabin'" href="/mse50"><b>MSE TURNS 50!</b></a></p>
+notification: <p><a style="font-family:'Cabin'" href="/cos"><b>Learn more about MSE Committee of Supply 2022</b></a></p>
 permalink: /
 sections:
     - hero:

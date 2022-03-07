@@ -1,6 +1,6 @@
 ---
 title: MSE Committee of Supply 2022
-permalink: /cos2022
+permalink: /cos
 ---
 
 <style>
@@ -246,21 +246,35 @@ body {
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">BUILDING OUR CITY OF GREEN POSSIBILITIES</h2>
   <!-- <p class="description"> Everyone can play a part in building a resilient and sustainable nation</p> -->
   
-  <div class="card"> 
-    <div class="front" style="background-image: url(/images/cosclean.jpg)">
-      <h4>Public Health</h4>
+  <div class="card">
+    <div class="front" style="background-image: url(/images/cosclimate.jpg)">
+      <h4>Coastal Protection
+      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
     <div class="back">
-        <div>
-          <p>Our collective efforts to shore up our public health defences will guard us against future threats.</p>
-          <a href="/cos/public-health"><button class="button">Learn More</button></a>
-        </div>
+      <div>
+        <p>We are formulating plans to safeguard our coastlines against sea level rise.</p>
+        <a href="/cos/coastal-protection"><button class="button">Learn More</button></a>
       </div>
+    </div>
   </div>
   
   <div class="card">
-    <div class="front" style="background-image: url(/cos/resources/cos-food-supply.jpg);">
-      <h4>Food Supply & Safety
+    <div class="front" style="background-image: url(/images/coszerowaste2022.jpg)">
+      <h4>Towards Zero Waste
+      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
+    </div>
+    <div class="back">
+      <div>
+        <p>New schemes will be put in place to reduce waste and encourage sustainable habits.</p>
+        <a href="/cos/sustainable-living"><button class="button">Learn More</button></a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="front" style="background-image: url(/images/cosfood2022.jpg);">
+      <h4>Food Security
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
     <div class="back">
@@ -270,21 +284,7 @@ body {
       </div>
     </div>
   </div>
-    
-
-  <div class="card">
-    <div class="front" style="background-image: url(/images/cosclimate.jpg)">
-      <h4>Coastal Protection
-      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
-    </div>
-    <div class="back">
-      <div>
-        <p>Shoring up coastal protection to ensure our resilient future.</p>
-        <a href="/cos/coastal-protection"><button class="button">Learn More</button></a>
-      </div>
-    </div>
-  </div>
-  
+ 
   <div class="card">
     <div class="front" style="background-image: url(/images/coshawker.jpg)">
       <h4>Hawker Culture</h4>
@@ -297,27 +297,25 @@ body {
     </div>
   </div>
   
-  <div class="card">
-    <div class="front" style="background-image: url(/images/coswaste.jpg)">
-      <h4>Closing Resource Loops
-      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
+  <div class="card"> 
+    <div class="front" style="background-image: url(/images/cosclean2022.jpg)">
+      <h4>Public Health</h4>
     </div>
     <div class="back">
-      <div>
-        <p>New schemes will be put in place to reduce waste and encourage sustainable habits.</p>
-        <a href="/cos/sustainable-living"><button class="button">Learn More</button></a>
+        <div>
+          <p>Our collective efforts to shore up our public health defences will guard us against future threats.</p>
+          <a href="/cos/public-health"><button class="button">Learn More</button></a>
+        </div>
       </div>
-    </div>
   </div>
   
   <div class="card"> 
-    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpegg)">
+    <div class="front" style="background-image: url(/cos2022/resources/cos-thumbnail-icons-2.png)">
       <h4>Speeches & Infographics</h4>
     </div>
     <div class="back">
         <div>
-          <p>New and ambitious targets will be set for the public sector as we place sustainability at the core of everything we do.</p>
-          <a href="/cos/greengov"><button class="button">Learn More</button></a>
+          <a href="/cos/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
         </div>
       </div>
   </div>
@@ -350,7 +348,7 @@ body {
   
   <div class="card" style="width: calc(100% - 2rem);
   min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
-    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
+    <div class="front" style="background-image: url(/cos2022/resources/cos-thumbnail-icons-2.png);">
       <h4>Speeches & Infographics</h4>      
     </div>
     <div class="back">
