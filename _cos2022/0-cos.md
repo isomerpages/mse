@@ -260,7 +260,7 @@ body {
   </div>
   
   <div class="card">
-    <div class="front" style="background-image: url(/images/coswaste.jpg)">
+    <div class="front" style="background-image: url(/images/coszerowaste2022.jpg)">
       <h4>Towards Zero Waste
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
@@ -273,7 +273,7 @@ body {
   </div>
   
   <div class="card">
-    <div class="front" style="background-image: url(/images/cos-food-supply.jpg);">
+    <div class="front" style="background-image: url(/images/cosfood2022.jpg);">
       <h4>Food Supply
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
