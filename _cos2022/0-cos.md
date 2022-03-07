@@ -274,7 +274,7 @@ body {
   
   <div class="card">
     <div class="front" style="background-image: url(/images/cosfood2022.jpg);">
-      <h4>Food Supply
+      <h4>Food Security
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
     <div class="back">
