@@ -1,5 +1,5 @@
 ---
-title: Closing Resource Loops
+title: Towards Zero Waste
 permalink: /cos/sustainable-living
 ---
 <style>
@@ -14,7 +14,7 @@ body {
 
 </style>
 
-## Closing our resource loops
+## Towards a zero waste nation
 
 <div>
 <img src="/cos/resources/Icon_ZeroWaste.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
