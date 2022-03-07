@@ -247,44 +247,6 @@ body {
   <!-- <p class="description"> Everyone can play a part in building a resilient and sustainable nation</p> -->
   
   <div class="card">
-    <div class="front" style="background-image: url(/images/coshawker.jpg)">
-      <h4>Hawker Culture</h4>
-    </div>
-    <div class="back">
-      <div>
-        <p>We are safeguarding our hawker culture and transforming the industry through new schemes and initiatives.</p>
-        <a href="/cos/hawker"><button class="button">Learn More</button></a>
-      </div>
-    </div>
-  </div>
-  
-  <div class="card"> 
-    <div class="front" style="background-image: url(/images/cosclean.jpg)">
-      <h4>Public Health</h4>
-    </div>
-    <div class="back">
-        <div>
-          <p>Our collective efforts to shore up our public health defences will guard us against future threats.</p>
-          <a href="/cos/public-health"><button class="button">Learn More</button></a>
-        </div>
-      </div>
-  </div>
-  
-  <div class="card">
-    <div class="front" style="background-image: url(/images/cos-food-supply.jpg);">
-      <h4>Food Supply
-      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
-    </div>
-    <div class="back">
-      <div>
-        <p>New schemes to support local farmers and strengthen resilience of food supply and safety.</p>
-        <a href="/cos/food"><button class="button">Learn More</button></a>
-      </div>
-    </div>
-  </div>
-    
-
-  <div class="card">
     <div class="front" style="background-image: url(/images/cosclimate.jpg)">
       <h4>Coastal Protection
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
@@ -310,8 +272,45 @@ body {
     </div>
   </div>
   
+  <div class="card">
+    <div class="front" style="background-image: url(/images/cos-food-supply.jpg);">
+      <h4>Food Supply
+      <img src="/images/sgplogowhite.png" alt="SGP"></h4>
+    </div>
+    <div class="back">
+      <div>
+        <p>New schemes to support local farmers and strengthen resilience of food supply and safety.</p>
+        <a href="/cos/food"><button class="button">Learn More</button></a>
+      </div>
+    </div>
+  </div>
+ 
+  <div class="card">
+    <div class="front" style="background-image: url(/images/coshawker.jpg)">
+      <h4>Hawker Culture</h4>
+    </div>
+    <div class="back">
+      <div>
+        <p>We are safeguarding our hawker culture and transforming the industry through new schemes and initiatives.</p>
+        <a href="/cos/hawker"><button class="button">Learn More</button></a>
+      </div>
+    </div>
+  </div>
+  
   <div class="card"> 
-    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg)">
+    <div class="front" style="background-image: url(/images/cosclean.jpg)">
+      <h4>Public Health</h4>
+    </div>
+    <div class="back">
+        <div>
+          <p>Our collective efforts to shore up our public health defences will guard us against future threats.</p>
+          <a href="/cos/public-health"><button class="button">Learn More</button></a>
+        </div>
+      </div>
+  </div>
+  
+  <div class="card"> 
+    <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons-2.png)">
       <h4>Speeches & Infographics</h4>
     </div>
     <div class="back">
