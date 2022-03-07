@@ -261,7 +261,7 @@ body {
   
   <div class="card">
     <div class="front" style="background-image: url(/images/coswaste.jpg)">
-      <h4>Closing Resource Loops
+      <h4>Towards Zero Waste
       <img src="/images/sgplogowhite.png" alt="SGP"></h4>
     </div>
     <div class="back">
