@@ -26,8 +26,5 @@ This year, NEA will be working with stakeholders to jointly develop the scope of
 
 In addition, another new hawker centre will be built in Tampines Town.
 
-<a href="/cos/resources/cos-annex-j.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
-
-
 <center><a class="button_cos" href="/cos/">Back to Overview</a></center>
 
