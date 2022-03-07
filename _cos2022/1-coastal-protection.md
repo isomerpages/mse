@@ -22,6 +22,6 @@ body {
 
 Singapore’s coastline is highly varied. Coastal protection solutions will have to be developed based on the profiles of different segments of the coastlines. Following the commencement of the site-specific study for City-East Coast in 2021, studies at Jurong Island and the north-west coast will commence this year.
 
-<a href="/cos/resources/cos-annex-g.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
+<a href="/cos2022/resources/cos2022-annex-a-coastal-protection.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
 <center><a class="button_cos" href="/cos/">Back to Overview</a></center>
