@@ -1,197 +1,179 @@
 ---  
-title: Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment - Building back Stronger, Towards a Liveable and Endearing Home
+title: Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment at MSE COS Debates 2022
 permalink: /resource-room/category/2022-03-07-speech-by-senior-minister-of-state-dr-amy-khor-at-cos-2022
 image:  
 file_url:  
 description:  
 ---  
 
-**Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment at MSE&#39;s COS Debates 2022, 7 Mar 2022**
+#### SPEECH BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, MSE COS DEBATES, 7 MAR 2022
 
-**Building back Stronger, Towards a Liveable and Endearing Home**
+**INTRODUCTION**
 
-<div class="bp-youtube">  
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/esUMfxOvsvQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1.	COVID-19 has reinforced the importance of good personal hygiene and clean public spaces. These have always been our priorities, and will better prepare us beyond COVID for Disease X, which is not a matter of “if” but “when”.
 
-_Introduction_
+2.	Over the past two years, we have improved the cleanliness of public spaces – from working with premises managers to uphold high cleanliness standards, to ensuring individuals practise personal responsibility by returning trays and binning litter. 
 
-1 Chairman, I will now talk about building a liveable and endearing home by safeguarding public health and sustaining our hawker culture.
+3. **Ms Nadia Ahmad Samdin** would be pleased to know that since the Clean Tables Campaign and mandatory clean tables regime were implemented, the national average Tray and Crockery Return Rate (TCRR) in hawker centres has improved significantly, from 33% to 85%.~~  
 
-**Shoring up our Public Health Defences**
+4. We have also achieved a national average TCRR of above 85% in coffeeshops and food courts. Many have shared that the dining environment is now cleaner, with faster turnover of tables and fewer incidences of pests and bird nuisance. 
 
-2 I will start with public health. 
+**STRENGTHENING OUR PUBLIC HEALTH MEASURES**
 
-3 COVID-19 has underscored the importance of personal and public hygiene.
+**Working with Premises Managers to Raise Cleanliness Standards**
 
-4 Last year, we launched the SG Clean movement to urgently shore up our public health defences. Practices like hand washing have become the norm. Over 30,000 premiseshave achieved the &quot;SG Clean&quot; Quality Mark. We passed the Environmental Public Health (Amendment) Bill to introduce mandatory baseline environmental sanitation standards.
+5.	We will build on this progress to ensure a clean and safe Singapore. 
 
-5 But the battle is far from over.
+6.	We commenced the progressive roll-out of the Environmental Sanitation (ES) Regime last July, which specifies mandatory baseline ES standards for high-risk premises and places greater accountability on premises managers to meet these standards. 
 
-6 Gastroenteritis incidents affected more than 1,200 persons in 2018 and 2019. Such cases persist.
+7.	We introduced the ES regime in more than 3,000 premises under the inaugural phase, including preschools, MOE schools, food centres, markets and coffeeshops, and the first tranche of eldercare, youth and social service facilities. 
 
-7 Satisfaction levels of public cleanliness at premises like markets, hawker centres and coffeeshops remain low. On average, only 30% of patrons return their trays. Birds, which are attracted by food remnants, continue to be a nuisance, with about 90 feedback cases on this every month.
+8. Together with the sector leads, we developed sector-specific ES standards, and trained more than 3,600 Environmental Control Coordinators (ECCs). The ECCs will assist premises managers to develop and oversee the implementation of an ES programme, which specifies cleaning frequencies and disinfection protocols. To **Ms Hany Soh’s** query, the regime was rolled out to preschools in November 2021 and all have appointed personnel to be ECCs. 
 
-8 We need to do more. But it is not prudent to rely solely on scarce public resources, whether for cleaning, surveillance or enforcement. A lasting solution requires everyone to play their part.
+9.	The ES regime ensures that premises are properly cleaned and disinfected regularly. For example, from March this year, coffeeshops are required to carry out thorough cleaning every quarter on top of routine cleaning. This is a marked difference from just ad-hoc cleaning before. High-touch surfaces would also be cleaned and disinfected more frequently. 
 
-9 For example, on littering, which Mr Lim Biow Chuan raised, we have increased fines, deployed camera surveillance and reviewed the Corrective Work Order (CWO)regime. We can continue stepping up enforcement, including by sending every litterbug for CWO, but this is not sustainable for the long-term.
+10.	Premises managers are also sensitised to their responsibility to prevent outbreaks of infectious diseases like gastroenteritis within their premises. For instance, preschools have found the regime useful in providing clear guidance on minimum cleaning and disinfection frequencies, and scope of cleaning and disinfection works, neither of which were clearly defined before. 
 
-10 Instead, we will work with three main stakeholder groups to build and sustain a clean Singapore:
+11.	Ms Soh would be glad to hear that we will implement the regime at another 2,700 premises this year. These would include publicly accessible premises with high footfall such as large shopping malls, as well as private education institutions. 
 
-  a. With premises owners to uphold high public health standards;
-  b. With the environmental services industry to transform the sector; and
-  c. With individuals to engender greater social responsibility to keep Singapore clean.
+12.	We have worked with these sectors to develop sector-specific ES standards. All premises will minimally require an ECC. For large premises with multiple tenants like shopping malls, Environmental Control Officers (Specified Premises) will be introduced to oversee more wide-ranging public health issues and management of stakeholders. We aim to train 2,700 more ECCs and ECO(SP)s this year. 
 
-_Raise Public Health Standards with Premises Owners_
+**Extending Smoking Prohibition to Protect Singaporeans from Second-hand Tobacco Smoke**
 
-11 First, working with premises.
+13.	Another important aspect of a clean and safe environment is protecting Singaporeans against the harmful effects of second-hand tobacco smoke. 
 
-12 We will continue to promote the adoption of good hygiene practices with the &quot;SG Clean&quot; Quality Mark and waive certification costs this year.
+14.	Today, smoking is prohibited in more than 49,000 premises, including covered walkways and common areas of residential buildings. We have prioritised places where second-hand tobacco smoke affects more people, such as community spaces.
 
-13 We will implement the Environmental Sanitation (or ES) regime, as planned. Under this, premises managers must meet new mandatory baseline ES standards and proactively clean their premises. For the initial phase, we target to cover more than 2,000 preschools, schools, youth and eldercare facilities, hawker centres and coffeeshops by end Fiscal Year 2021.
+15. **Ms Cheryl Chan**, **Dr Lim Wee Kiak**, **Mr Louis Ng** and **Ms Poh Li San** would be glad to hear that, together with PUB, NParks and the Sentosa Development Corporation, NEA will extend the smoking prohibition to more places including all remaining public parks and gardens, Active, Beautiful, Clean (ABC) Waters Sites, and 10 beaches from 1 July 2022. 
 
-14 The ES Technical Committee has completed the technical guide which sets out the national baseline ES guidelines like daily cleaning frequencies for high-touch surfaces and toilets, and prescribed periodic cleaning for hard-to-reach areas. The guide can be customised to develop sector-specific ES standards, such as for eldercare facilities, which will be ready from mid-2021.
+16.	In addition to neighbourhood parks in public and private housing estates where smoking is already prohibited, smoking will be prohibited at Regional and City Parks like East Coast Park and Fort Canning Park, and all Park Connectors. Smoking will also be prohibited at 10 recreational beaches, including 3 beaches in Sentosa. 
 
-15 Training of over 2,000 Environmental Control Co-ordinators (ECCs) appointed to assist premises managers in developing an ES programme, will start from this month. Eligible participants will receive up to 90% in course fee subsidy.
+17.	With this extension, Singaporeans can enjoy these shared recreational sites without exposure to second-hand tobacco smoke. There will be a 3-month advisory period before enforcement commences on 1 October 2022. 
 
-16 Clean public toilets are critical to public health. Even with mandatory baseline standards, ageing infrastructure at some hawker centre and coffeeshop toilets remains an impediment to maintaining cleanliness.
+18. We currently have no plans to set up additional No Smoking Zones. We will review the need for further extensions of the smoking prohibition from time to time. Setting up No Smoking Zones requires significant stakeholder buy-in and operational resources to implement. We will need to plan extensively, assess the suitability of the precinct and availability of sites for designated smoking areas.
 
-17 This is why we introduced the Toilet Improvement Programme (TIP), which Mr Pritam Singh asked about.
+19. On smoking in homes, which **Dr Lim, Ms Poh** **and Mr Gan Thiam Poh** asked about, legislation is no panacea to curbing second-hand tobacco smoke in homes. There are privacy concerns and technological limitations to gathering evidence required for enforcement. 
 
-18 This is a one-off grant, where we co-fund hawker centres and coffeeshop operators to install better fittings and adopt productivity measures. Our priority is to make toilets easier to clean and maintain. That&#39;s why we mandated features like toilet pedestals with anti-stain technology and a vortex flushing system that saves water, in the same spirit as our Green Plan.
+20. The Designated Smoking Points in Nee Soon South have thus far not resulted in a sustained reduction in feedback received on smoking in homes in the division since its implementation. Nevertheless, we will continue to monitor the effectiveness of DSPs as localised solutions, even as we work with MOH and HPB to discourage smoking at home. 
 
-20 Cleaners will also be helped to work more efficiently. Feedback systems will allow more targeted cleaning. Similarly, ammonia detection systems will send alerts when cleaning is needed.
+21. On end-game laws for smoking, MOH remains open and will study how New Zealand implements the ban, its effectiveness and how their experience could be applicable to Singapore.
 
-21 Mr Singh suggested to pilot the TIP at a hawker centre with heavy footfall. In fact, the mandatory components of the TIP have already been tested at NEA-managed hawker centres. They were effective and practical. NEA has consulted, and will continue to consult, the Town Councils on the TIP. We will consider their suggestions, including to extend the implementation timeline of the TIP.
+**Supporting our Transition to an Endemic COVID-19 Environment**
 
-22 Mr Singh asked why we provide additional subsidies to hawker centres which remove their smoking corners. Protecting patrons from second-hand smoke and providing patrons with clean toilets are both important public health priorities. All new hawker centres built after 2011 are smoke-free. We have been encouraging the remaining 27 centres with smoking corners to remove them. A higher TIP co-funding amount can help accelerate this shift.
+22. Besides adopting preventive measures to minimise the spread of infectious diseases, we are building up capabilities to deal with public health threats. 
 
-23 Future-proofing the Environmental Services Industry
+23. Singapore is an early adopter of wastewater surveillance for COVID-19, which is being explored in various countries. In response to **Mr Gan’s** question, when transmission first occurred at workers’ dormitories, NEA brought in wastewater testing to assess the situation, including the viral loads collected from each dormitory. Our findings were used to complement individual testing, guide infection control measures and facilitate the progressive clearance of dormitories by the Inter-Agency Task Force.
 
-24 Second, we will work with the environmental services industry to transform the sector, which has experienced increased demand in the current pandemic.
+24.	Monitoring has since been expanded to student hostels, nursing homes, and residential sites. From a modest 8 sites in May 2020, we gradually expanded surveillance coverage to 200 sites in July 2021.
 
-25 With your permission, Chairman, may I display slides on the LCD screens. Since we launched the Environmental Services Industry Transformation Map (or ESITM) in 2017, the industry has made great strides to transform itself. For instance, 800 Super has secured better contracts locally and successfully ventured overseas. It achieved this through digitalisation and building capabilities such as GPS fleet management systems. Now, it offers integrated environmental solutions and boasts an Integrated Energy and Resource Recovery facility that powers industrial laundry services and animal feed processing.
+25.	Since February 2022, we have achieved surveillance coverage of 440 sites, including 150 sites distributed across residential areas and town centres. We have also expanded our laboratory testing capacity to 4,000 samples being tested per week, up from 2,500 in July last year. 
 
-26 As suggested by Dr Lim Wee Kiak, we will support the industry to futureproof their businesses beyond COVID-19. I will highlight some key areas.
+26.	As Singapore transits to COVID-endemicity, the focus of wastewater testing has shifted from early case detection to providing situational awareness. The data collected alerts government agencies and premises owners or operators of the situation, which allows them to calibrate public health measures. 
 
-27 One, we will move away from headcount-based contracts. The Government has taken the lead by requiring outcome-based contracting for our new cleaning contracts from May 2020. This ensures clear outcomes for service buyers and encourages cleaning companies to innovate and be more productive, which in turn creates better jobs and address manpower constraints. To date, more than 110 public and private sector organisations have adopted outcome-based contracting.
+27.	It provides objective information on whether infections among the population are increasing or decreasing, independent of the population’s health seeking behaviour and prevailing clinical test protocols. This will therefore be an important surveillance tool even as we transit to an endemic state. 
 
-28 NEA will roll out a refreshed outcome-based contracting guide for the cleaning industry this month, which will encourage better service delivery through technology adoption and process improvements.
+28.	Further research and development will allow the wastewater surveillance system to be used for monitoring other infectious disease threats in the future.
+;
+**Raising Cleanliness Standards at Public Toilets**
 
-29 It includes an easier method to measure service outcomes and sample contract clauses to cater for contingencies such as COVID-19. Service buyers and cleaning companies can agree on deploying more resources to meet additional cleaning requirements, based on the prices that cleaning companies have quoted upfront. This offers flexibility to adapt to changing requirements.
+29. **Mr Gan** asked about improvements to toilets. We launched the Toilet Improvement Programme in October 2020 to raise the cleanliness of toilets in hawker centres and coffeeshops. 
 
-30 Two, we have extended the Productivity Solutions Grant until Sep 2021 to support companies to adopt automation.
+30. The programme supported premises in improving toilet design and choice of sanitary fittings for easier cleaning, and coffeeshop operators’ initial adoption of fortnightly deep cleaning, on top of daily cleaning. NEA has received applications from 62 eligible coffeeshops and 28 hawker centres. 24 coffeeshops and 1 hawker centre have completed toilet enhancement works.
 
-31 Three, the Progressive Wage Model will be extended to waste management workers. The Tripartite Cluster for Waste Management will develop job ladders, training requirements and wage benchmarks.
+**SAFEGUARDING OUR HAWKER CULTURE** 
 
-32 We also have initiatives for the pest management sector, which Ms Rachel Ong spoke about.
+**Supporting Our Hawkers Throughout the Pandemic**
 
-33 We are encouraging premises and pest management companies to jointly pilot customised digital solutions through the INCUBATE programme. For example, NEA and Enterprise Singapore (ESG) recently closed a joint grant call with INCUBATE partners to seek solutions for a digital platform that integrates cleaning, waste and pest data.
+31.	I will now speak about our hawker culture, my favourite topic! Our hawkers are frontline heroes, providing us affordable hawker food during this pandemic. NEA has provided relief measures to hawkers over the last two years, including 10 months’ rental waivers and 6 months’ subsidies for table-cleaning and centralised dishwashing services. 
 
-34 We will also work with the sector to develop outcome-based contracting guidelines for pest management contracts, targeted to be ready by end 2021.
+32.	Eligible hawkers also received up to $9,000 via the Self-employed Person Income Relief Scheme (SIRS) in 2020, and a one-off cash payout of $500 under the Market and Hawker Centre Relief Fund (MHCRF) last year. 
 
-35 We will grow the talent pool of pest management professionals. NEA is working with IHLs and the industry to revise Continuing Education &amp; Training and Pre-Employment Training courses, such as the joint ITE-NEA certification courses for pest management. Lest members have the wrong impression, pest management goes beyond catching rats, killing cockroaches and controlling the mosquito population! It takes serious science to deal with these pests and prevent their multiplication!
+33.	We will continue to support our hawkers. Minister for Finance announced that small F&B businesses, one of the sectors most affected by COVID-19, will receive the Small Business Recovery Grant. 
 
-_Foster Individual and Social Responsibility around Public Hygiene_
+34.	SFA-licensed operators and stallholders in markets, hawker centres, coffeeshops, food courts and canteens will receive this grant. They will receive $1,000 for each local employee receiving mandatory CPF contributions, capped at $10,000. Those without local employees will receive a flat $1,000 if they are Singapore Citizens or Permanent Residents. 
 
-36 The third prong in our strategy is to foster individual responsibility around public hygiene as Mr Gan Thiam Poh mentioned. This involves behavioural change which is very challenging. But it is the only sustainable way forward.
+35.	Our efforts have helped hawkers during these tough times.  On average, 17 cooked food stallholders or 0.3% terminated their leases each month between 2020 and 2021.  This is lower than the monthly average of 28 terminations between 2017 to 2019. 
 
-37 Recently, I launched the Clean Tables Campaign at hawker centres, coffeeshops and food courts. As Ms Ong asked, we are adopting new ways to spread the word.
+36. **Ms Joan Pereira** asked if more can be done to help hawkers reduce ingredient cost. We will review her suggestion of bulk purchasing carefully and also consider the interest from our hawkers, where many may already have established relationships and specific arrangements with their suppliers for their preferred ingredients. 
 
-38 It is an uphill task to get individuals to clear their tables – old habits die hard – but it can be done. For example, at Bukit Merah Central Food Centre, the Hawkers&#39; Association customised trays with educational messages, and worked with hawkers and table cleaners to encourage patrons to return trays. They have achieved an exemplary tray return rate of more than 70%.I urge other hawker centres to follow their lead.
+37.	To prepare hawkers for the digital economy and expand their reach to potential patrons, hawkers, community groups, food delivery platforms, together with NEA and IMDA came together to form the SGTogether Alliance for Action (AfA) for Online Ordering for Hawkers last June and developed pilot initiatives to help hawkers utilise online services.
 
-39 In the coming months, we will roll out the campaign at all hawker centres, coffeeshops and foodcourts. NEA will install around 75 tray return racks at hawker centres on top of the 900 today. At coffeeshops, 10% have tray return infrastructure and SFA will work with the remaining operators to implement localised solutions. NEA will monitor the campaign outcome and conduct another survey on public attitudes towards tray return. We will also consider if we need to move beyond education to some form of regulation, as some members of the public have suggested.
+38.	About 1 in every 4 cooked food stallholders have been supported via NEA’s Food Delivery Support Scheme. Currently, about half of our 6,000 plus cooked food stallholders are on board these services, and almost 70% of them have adopted e-payment.
 
-**Safeguarding our Hawker Culture and Transforming the Hawker Industry**
+39.	WhyQ, Deliveroo, FoodPanda and Grab have stepped up to pilot a Common Acquirer Model for online food delivery in 15 hawker centres at zero commission to hawkers. Hawkers can receive online orders from any of these platforms through a single ordering device. Alternatively, they can choose to transact offline through WhyQ hawker captains. 
 
-_Introduction_
+40.	To date, 18 hawker centres have set up Digital Support for Hawkers groups, which provide peer support to help less digitally savvy hawkers embrace digital opportunities. This includes creating Facebook pages for each centre, facilitating online community group buys, and organising bulk meal orders. 
 
-40 I will now speak on sustaining hawker culture.
+41.	I am pleased to share that many of my fellow Members of Parliament have adopted AfA’s recommendations on group buys from hawkers for our lunches during Parliament sittings! For today’s lunch, many of us enjoyed wanton noodles, chicken rice and burgers from Commonwealth Crescent, Bukit Merah and Golden Mile!  More enticing and mouth-watering hawker dishes to come!
 
-41 Restrictions on dine-in during Circuit Breaker undoubtedly affected some hawkers, but they continued to work tirelessly to supply Singaporeans with affordable food. Many pivoted to food delivery services.
+**Futureproofing Our Hawker Centres**
 
-42 To support our frontline hawker heroes, we provided five months of rental waivers and subsidies for table-cleaning and centralised dishwashing services. More than $50mil in waivers and subsidies was provided to over 13,000 hawkers. Over 1,300 hawkers have also taken up the $500 grant to adopt food delivery services. Under IMDA&#39;s Hawkers Go Digital Programme, over 5,000 hawkers received an e-payment bonus up to $1,500 each.
+42. **Ms Nadia** asked for an update on the Hawker Centres Transformation Programme (HTP). Last year, I shared plans about the HTP to future-proof hawker centre infrastructure. While HTP will be applied to new and redeveloped centres, we are also piloting it at two existing centres even as they face constraints with limited floor space. 
 
-43 Despite the challenges, 2020 ended on a bright note. Hawker Culture was successfully inscribed on the UNESCO List. This is a proud moment for Singapore.
+43. I am pleased to announce that we will consult stakeholders, including Hawkers’ Associations, Town Councils and Advisers in 2022 to jointly develop the HTP pilot at Geylang Serai Market and Cheng San Market and Food Centre. 
 
-44 I will speak on two areas – supporting hawkers and future-proofing hawker centres. Both are essential parts of our hawker culture.
+44. The proposed scope of works may include High-Volume Low-Speed fans to improve ventilation, provisions to support flexible implementation of Safe Management Measures, such as quick deployment and removal of temporary access control, reconfiguration of tables and chairs to reduce crowding, and additional handwashing facilities to raise hygiene levels.
 
-_Sustaining the hawker trade and supporting our hawkers_
+**Sustaining the Hawker Trade** 
 
-45 First, supporting our hawkers and sustaining the trade. There is no hawker culture without our hawkers, whose average age is about 60 years old. We need to act urgently, as Mr Louis Ng and Mr Leong Mun Wai said, to ensure that future generations can continue to enjoy our hawker culture.
+45. Finally, our hawker culture would not exist without our hawkers. 
 
-46 Life as a hawker is not easy. I have spoken to many new hawkerpreneurs. Some do it for passion, some with ambition to eventually expand, and others to continue family legacies.
+46. On **Mr Don Wee**’s query, there has been healthy demand for hawker stalls, with high occupancy rates averaging consistently at about 97% at existing and new hawker centres. NEA has also been receiving enquiries from individuals who are keen to take up stalls at the new centres, and the monthly tender for vacant stalls at existing centres have continued to attract a good number of bids.  
 
-47 For example, Mr Fabian Tan of Skirt &amp; Dirt at Tiong Bahru Market, a 32-year-old culinary school graduate and former senior sous chef, joined the hawker trade through NEA&#39;s Incubation Stall Programme. Fabian&#39;s goal is to eventually open his own café or restaurant.
+47. **Ms Pereira** asked about efforts to attract new hawkers, including improving job prospects and working conditions. Our hawkers today are mostly self-employed individuals, with the flexibility and autonomy to decide their operating hours based on what they sell. They are covered by Medishield Life and can also top up their medical insurance individually, or even explore purchasing together as a group through their Hawkers’ Associations (HAs). 
 
-48 To aspiring hawkers: We will continue to do what we can to help you start on a good footing.
+48. We have been helping our aspiring hawkers prepare for the trade, through the Incubation Stall Programme and Hawkers’ Development Programme, and similar programmes by Socially-conscious Enterprise Hawker Centre operators. Over 40 new hawkers have joined the trade through these programmes. Their median age is 33, significantly lower than the overall median age of hawkers of 60.
 
-49 Last year, the Workgroup on Sustaining the Hawker Trademade recommendations which we accepted. Implementation is underway.
+49. 11 aspiring hawkers are currently operating incubation stalls, with another 6 awaiting allocation of incubation stalls.
 
-50 First, we introduced the Hawkers Development Programme to equip aspiring hawkers with the skills to run a successful business. The programme comprises classroom training, apprenticeship with veteran hawkers, and an incubation stage with mentorship support and training allowances.
+50. Some of our new hawkers include Ms Priscilla Huang (aged 31) of *Authentic Hong Kong Delights*, and Mr Lim Wei Keat (aged 27) of *Ah Keat Chicken Rice*, who joined the hawker trade over the past year after completing HDP. 
 
-51 I thank the veteran hawkers who have stepped forward as mentors. One example is Workgroup member Ms Sandy Tan Puay Puay, who owns Kueh Ho Jiak at Blk 6 Tanjong Pagar Plaza.
+51. In addition to Wei Keat’s chicken rice which we had for lunch, I have ordered mochi and water chestnut cakes from Priscilla for Parliament’s tea break today. A few others like Ms Amber Pong (aged 32) of *The Headless Baker* at Ghim Moh Market, who converted to a full-fledged hawker after completing her Incubation Stall Programme, even opened a second outlet in July last year .  
 
-52 Second, we enhanced the Incubation Stall Programme. In 2019, we extended the rental rebates to a total of 15 months. We are also increasing the number of incubation stalls.
+52. To ensure that veteran hawkers’ recipes and skills are not lost, the Hawkers Succession Scheme (HSS), which was shared** last year, will link retiring hawkers without succession plans but wish to pass on their businesses, skills and recipes, with aspiring hawkers. 
 
-53 Third, we introduced the Hawkers Succession Scheme. As Mr Gan highlighted, a critical factor in sustaining the trade is the transmission of culinary skills across generations. This scheme will also facilitate the transfer of hawker stalls and recipes, by matching veteran hawkers to aspiring successors. Mr Leong suggested that we focus on preserving hawker recipes. These schemes go beyond that, to ensure that the recipes live on so that we can continue to savour the delicious food.
+53. To **Ms Pereira** and **Mr Raj Joshua Thomas’s** question about the HSS, a 10-member independent advisory panel has been set up to work with NEA to support and review the HSS pilot. Among the 10 panellists, 6 are established hawkers. The rest include culinary chefs, hawker centre operators and culinary training partners. 
 
-54 We will convene an independent advisory panel comprising members of the hawker community, to help engage potential veteran hawkers and assess the successors&#39; readiness to take over.
+54. The panellists will help identify suitable veteran hawkers, assess aspiring successors’ readiness, and provide feedback to improve the programme.  
 
-55 Mr Muhamad Faisal Abdul Manap asked about reviving the hardship scheme.
+55. Under the pilot, aspiring hawkers will be assessed on culinary skills and capacity to learn, before pairing up with veteran hawkers. They will undergo a three-month apprenticeship under the veteran hawkers. Aspiring successors will be evaluated on their ability to execute the veterans’ signature dishes. Where needed, veteran hawkers may continue to mentor the successor for two additional months. In recognition of their time and effort spent, veteran hawkers will receive a nominal stipend of up to $5,500. 
 
-56 As he noted, we discontinued this in 1990 as job opportunities had increased, even for the unskilled. The scheme also had limited effectiveness with low take-up rate, as most hardship cases preferred to wait for a vacant stall in more popular centres.
+56. This is but a token of appreciation and is not a measure of the effort that veterans have invested into establishing their clientele and refining their recipes. The HSS is not intended to be a commercial arrangement but is an option to help retiring veteran hawkers find suitable successors and preserve their culinary legacy for future patrons.
 
-57 Today, we have many schemes to help the needy upskill and find good jobs, while providing financial assistance and other support.
+57. We will also introduce safeguards to protect the interest of the veteran hawkers such as requiring successors to serve the veteran hawkers’ signature dishes and retain the stall names for 3 years. 
 
-58 More importantly, subsidising rentals alone will not guarantee success. Rentals are not the biggest cost for our hawkers. It is raw materials and manpower costs that make up about three-quarters of hawkers&#39; operating costs, based on NEA&#39;s survey of our hawker centres. Sustaining a hawker stall requires entrepreneurship and passion, no different from any business. Nonetheless, we do want to support the needy who are genuinely passionate to enter the trade.
+**New Hawker Centres to Serve Residents’ Needs**
 
-59 We now have schemes which are open to all, including ex-offenders. Our Hawkers Development Programme and Incubation Stall Programme offer aspiring hawkers subsidised skills training, training allowances, rental subsidies and a fitted-out stall, including at hawker centres run by socially-conscious enterprises (SEHCs), to let them test their mettle at lower start-up costs.
+58. **Mr Gan** and **Mr Wee** asked about the construction progress of new hawker centres. 
 
-60 They can also bid for a stall through NEA&#39;s monthly tender exercise, where no minimum bids are required. As a result, the median rental of cooked food stalls in hawker centres today, including SEHCs, is much lower than the rentals in coffeeshops or food courts. This is part of our effort to keep operating costs low, and reduce the barriers of entry for new hawkers. Coupled with the earlier-mentioned schemes, we hope this improves the viability of the trade to attract a new generation of hawkers.
+59. While COVID-19 has caused some delay, four new centres – namely Bukit Canberra, Fernvale, One Punggol and Senja Hawker Centres, will begin operations by 3rd quarter this year. In addition, 5 more centres in the construction stage will progressively be completed in the next few years, and 2 more are in the planning and design stage. 
 
-_Future-proofing our hawker centres_
+60. Residents in Tampines Town can also look forward to another new hawker centre. More details of this new centre will be shared in due course.
 
-61 I will now speak on hawker centres–an important component of our hawker culture. Mr Leong said hawker centres have been declining in popularity. This is not true. An NEA survey found that close to 80% of Singaporeans patronise hawker centres at least once a week.
+61. **Ms Nadia** will be glad to hear that upcoming centres will incorporate sustainability features. All new centres will have food waste digesters. Some will also have solar panels. 
 
-62 Hence, it is opportune to consider how we can future-proof our hawker centres as Ms Nadia Ahmad Samdin suggested.
+62. Two redeveloped centres will also be starting operations this year. Market Street Hawker Centre that used to be at Golden Shoe Carpark will open for business from 1 April, at levels 2 and 3 of the integrated development CapitaSpring on Market Street, and continue to provide affordable food options for those working in the CBD.
 
-63 During the recent SG HawkerFest, more than 7,700 participants shared what infrastructure and features they hoped to see in future hawker centres. We received many suggestions, from improving ventilation, to providing live updates on crowd levels at hawker centres.
+63. We also expect Margaret Drive Hawker Centre, which replaces the hawker centre at Block 1A, 2A, 3A Commonwealth Drive, to commence operations from 4Q 2022.
 
-64 Building on the suggestions gathered, we will develop a Hawker Centres Transformation Programme (HTP) over the next few years with our stakeholders. The HTP will incorporate lessons from COVID-19, and sustain our hawker culture.
+64. Chairman, in Mandarin please.
 
-65 The programme will focus on ensuring a clean and safe environment at hawker centres. For example, aisles and tables will be better spaced to minimise crowding. We will create a more conducive environment for patrons, hawkers and cleaners. We will also enhance the use of technology and support digitalisation efforts. For example, we will work towards deploying sensors for crowd monitoring and to facilitate maintenance.
+65. 国 家 环 境 局 将 进 一 步 扩 大 禁 烟 令 范 围。从 7 月 1 日 起，我 们 将 禁 止 民 众 在 如 东 海 岸 公 园、福 康宁 公 园 等 区 域 和 市 区 公 园 以 及 连 接 各 个 公 园 的 公 园 连 道 上 吸 烟。 禁 烟 令 范 围 也 将 包 括“活 跃、 美 丽、清 洁”水 源 计 划 下 的 休 闲 设 施，以 及 包 括 圣 淘 沙 岛 上 3 个 沙 滩 在 内 的 10 个 休 闲 海 滩。
 
-66 Sustainability will also be a priority, as part of our effort to bring sustainability to the community under GreenGov.SG. The new Senja Hawker Centre will have features like food waste digestion, rainwater harvesting and solar panels.
+66. 在 过 去 的 两 年 里，政 府  通 过 各 种 方 式 援 助、支 持 我 们 的 小 贩。 这 包 括 免 去 总 共 10 个 月 的 租 金 以 及 补 贴 6 个 月 的 座 位 清 洁 和 中 央 碗 盘 清 洗 费 用。符 合 条 件 的 摊 贩 也 在 2020 年 收 到 高 达 9,000 元 的 收 入 补 贴，并 在 去 年 也 收 到 500 元 的 现 金 补 助。
 
-67 We will progressively implement the HTP at new hawker centres, and centres which undergo redevelopment.
+67. 以 继 续 支 持 摊 贩 们，我 们 将 通 过 刚 宣 布 的 小 商 家  复  苏 津 贴 计 划 提 供 所 有 持 有 食 品 局 执 照 的 巴 刹、小 贩 中 心、 咖 啡 店、食 阁 和 食 堂 的 业 者 和 摊 主 一 次 性 的 现 金 补 贴。 
 
-68 We will also conduct engagements with stakeholders at a few existing hawker centres to co-create centre-level solutions for these centres, to address infrastructure gaps based on COVID-19 lessons. We hope to learn from these &quot;test&quot; centres and continue to refine the HTP.
+68. 业 者 和 摊 主 每 雇 用 一 名 有 缴 交 公 积 金 的 员 工，可 获 得 1,000 元 补 贴，补 贴 顶 限 为 一 万 元。没 有 雇 用 员 工 的 业 者 和 摊 主 也 将 获 得 1,000 元。
 
-69 Chairman, in Mandarin please.
+69. 在 过 去 4 年 里，我 们 也 通 过 各 种 计划 培 训 小 贩 新 手。至 今 已 有 超 过 40 名 新 手 小 贩 加 入 小 贩 行 列。  我 们 会 继 续 支 持 新 手 小 贩， 包 括 通 过“小 贩 承 前 启 后 计 划” 配 对 新 手 小 贩 与 资 深 小 贩 促 进 手 艺 、 食 谱 的 传 承。
 
-70 小贩中心是新加坡小贩文化不可或缺的一部分。
+70. 此 外，今 年 将 会 有 四 个 新 的 小 贩 中 心 开 始 营 业。它 们 分 别 在 武 吉 班 让、三 巴 旺、盛 港 和 榜 鹅，将 为 这 些 市 镇 的 居 民 提 供 更 多 的 饮 食 选 择 和 便 利。我 们 也 将 会 在 淡 滨 尼 增 建 一 个 小 贩 中 心。详 情 我 们 之 后 会 再 公 布。
 
-71 最近，在举行&quot;新加坡小贩节&quot;(SG HawkerFest)期间，许多公众针对他们希望未来小贩中心可具有的基础设施和设备等提供了宝贵的建议。
+71. 最 后，马 吉 街 熟 食 中 心 也 将 从 4 月 1 日 起 迁 回 原 址，在 新 发 展 的  综 合 项 目 CapitaSpring 的 2、3 楼 重 新 开 业。所 有 原 来 在“金 鞋”中 心 的 摊 贩 也 都 会 回 到 重 新 开 业  的  马  吉 街 熟 食 中 心。
 
-72 我们将以这些建议为基础，在接下来几年，发展一项&quot;小贩中心转型计划&quot;。这项计划也将纳入冠病疫情历程中所吸取的经验，好让我们的小贩文化继续蓬勃发展，代代相传。
+**CONCLUSION**
 
-73 &quot;小贩中心转型计划&quot; 会着重于确保我们的小贩中心有清洁安全的环境，成为大家共享共聚、安心用餐的社区饭厅。例如，我们将改善通道和桌子的设置，使空间变得更宽畅，避免拥挤的情况。我们也会加强科技的应用，支持小贩中心数码化 – 例如，通过装置感应器来监控人流量和帮助维修工作。
+72. Chairman, despite the challenges of the pandemic, everyone – be it the cleaning industry, premises managers or hawkers – have demonstrated resilience, seized opportunities to improve cleanliness, and embrace new business opportunities online.
 
-74 &quot;小贩中心转型计划&quot; 会在新建与重建的小贩中心逐步推行。
-
-75 我们也会与现有小贩中心的利益相关方进行交流，共同制定可行的方案，以解決冠病疫情所突显的基础设施问题。
-
-_New Hawker Centres_
-
-76 Mr Gan asked about our new hawker centres. Construction of Bukit Canberra Hawker Centre and Fernvale Hawker Centre &amp; Market was delayed by COVID-19. However, we have made good progress since, and they are estimated to open in 4Q 2021. Senja Hawker Centre is also scheduled to open early next year.
-
-77 To Mr Gan and Ms Ong&#39;s questions, we will appoint socially-conscious enterprises to manage all new hawker centres. The SEHC model has allowed hawkers in these centres to better compete in a tough F&amp;B landscape. SEHC operators curate the food options and organise events to attract more footfall. We will continue to work closely with hawkers, operators and other stakeholders to refine the model.
-
-78 As is our MSE tradition, I have arranged to serve Skirt &amp; Dirt&#39;s sliders and Kueh Ho Jiak&#39;s kueh. Min jiang kueh from Munchi Delights and epok-epok from Kalsom Kuih Muih Curry Puff, both at Yishun Park Hawker Centre, are also back by popular demand. Also, in the same tradition, I will share a zero-waste tip with Members. Today, I am wearing a necklace fashioned from old t-shirts, turning it into NewCloth, just like NEWater, NewSand, NewOil and NewFeed!
-
-**Conclusion**
-
-79 Chairman, in conclusion, the past year has focused our attention on the importance of sustaining a liveable and endearing home – cleanliness and hygiene as our first line of defence, and safeguarding our hawker culture.
-
-80 My Ministry will continue to work hard on these fronts. But to succeed, we need everyone&#39;s support.
+73. Let us continue to work together to build a truly SG Clean Singapore, and safeguard our hawker culture for future generations. Indeed, let’s support SG Hawkers!
