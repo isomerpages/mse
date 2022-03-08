@@ -1,4 +1,1 @@
----
-title: Green Plan Test
-external_url: https://greenplan.gov.sg
----
+[Green Plan](https://greenplan.gov.sg)
