@@ -6,328 +6,207 @@ file_url:
 description:  
 ---  
 
-**Speech by Ms Grace Fu, Minister for Sustainability and the Environment at MSE&#39;s COS Debates 2022, 7 Mar 2022**
+#### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT COMMITTEE OF SUPPLY (COS) DEBATE, 7 MARCH 2022
 
-**Accelerating Towards a Sustainable, Resource-Efficient and Climate-Resilient Future**
+_ **A Resilient Singapore, For A Sustainable Future** _
 
-<div class="bp-youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4hSGDVqr7w4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Mr Chairman, I thank the Members for their questions.
 
 **INTRODUCTION**
 
-1 Several Ministers have spoken earlier about climate change and our responses under the SGP30.
+2.	COVID-19, climate change and income inequality. These are among the biggest threats confronting the world today. 
 
-2 I will now share MSE&#39;s work in three areas: (i) building our climate resilience; (ii) decarbonising our water sector; and (iii) moving towards a Zero Waste Nation.
+3.	The pandemic has laid bare the fragilities of global supply chains, the vulnerabilities of healthcare systems, and the cost of being underprepared.
 
-**BUILDING OUR CLIMATE RESILIENCE**
+4.	The effects of climate change could be far worse. The latest IPCC report underlines how climate change has resulted in the increased frequency and severity of extreme weather events, especially heat waves, droughts, and floods. Climate change will adversely impact economies and livelihoods, as well as security of essential resources such as water, food, and energy.
 
-3 COVID-19 has underscored the importance of building resilience in our systems.
+5.	COVID-19 has taught us the importance of resilience and this has relevance in the way we deal with climate change. Whether a disruption is brought about by extreme weather events, or a global pandemic, we must take action today to assess our risk exposure, prepare our people, and put in measures that will enable us to bounce back from disruption. 
 
-  a. We have started preparations to deal with the long-term effects of climate change.
+6.	In this COS, Senior Minister of State (SMS) Dr Amy Khor, Minister of State (MOS) Desmond Tan and I will share how the Ministry of Sustainability and the Environment (MSE) is strengthening our resilience across three areas: a) resource resilience; b) climate resilience; and c) public health resilience.
+7.	
+**RESOURCE RESILIENCE**
 
-  b. This includes investing strategically in R&amp;D and our infrastructure.
+7.	First, resource resilience.
+
+8.	As a globally connected economy with no natural resources, we are vulnerable to external shocks and supply disruptions. This has been made abundantly clear by the COVID-19 pandemic. As our demand for resources continues to grow, so will our exposure to such fluctuations. Excessive consumption of resources also generates waste and emissions, worsening the climate crisis.  
+
+9.	We must reduce waste and maximise resource efficiency. We also need to diversify our supply sources and promote circularity to reuse and recycle resources.  
+
+10.	This is no mean feat, but we have shown that it can be done. We have closed the water loop by reclaiming used water to become NEWater, allowing us to reuse every drop of water endlessly.  
+
+11.	MOS Desmond will share how we are strengthening the resilience of our food and water supply.  
+
+_Towards a Zero Waste Nation_
+
+12. **Ms Nadia Samdin** and **Ms Cheryl Chan** have asked for an update on our waste reduction efforts. Our Zero Waste Masterplan was driven by the need to reduce carbon emissions, boost resource resilience and conserve landfill space. We set a target to reduce waste-to-landfill per capita by 30 per cent by 2030. Under the Singapore Green Plan, we will frontload efforts to achieve a 20 per cent reduction per day by 2026. In an increasingly resource-constrained world, we need to shift to a circular economy, where trash is turned into treasure and reused endlessly.
+
+13.	As we strive to become a Zero Waste Nation, we need to encourage sustainable production, build capabilities to maximise resource recovery, and collectively adopt sustainability as a way of life. 
+
+14.	Let me elaborate.
+
+_Encouraging Sustainable Production_
+
+15.	One key upstream measure to encourage sustainable production is the Extended Producer Responsibility (EPR) scheme. EPR requires producers, such as manufacturers and importers, to be responsible for the collection and proper treatment of their products at end-of-life.
+
+(i) _EPR for e-waste_
+
+16. We implemented the e-waste EPR last year to ensure the proper handling and treatment of e-waste. This reduces our waste to landfill, and allows us to recover valuable resources like gold and copper from e-waste, for use in manufacturing new products.
+
+17. **Ms Yeo Wan Ling** asked for a progress update.
+
+18. Since the scheme started in July last year, ALBA, the appointed scheme operator, has collected around 3,500 tonnes of consumer e-waste, which is three times the amount collected annually under the National Environment Agency (NEA)&#39;s previous National Voluntary Partnership programme. This accounts for approximately 8.5 per cent of the consumer electronic and electrical equipment supplied in 2020. The e-waste collected includes large home appliances like refrigerators and air-conditioners, and information and communications technology (ICT) equipment like mobile phones and laptops.
+
+19. Members of the public can drop off e-waste at more than 500 e-waste recycling bins nationwide, at convenient locations such as community centres, supermarkets and electronics stores.ALBA also works with town councils to organise quarterly collection drives at housing estates and collection of bulky e-waste. For a fee, members of the public may contact ALBA to arrange for doorstep collection of e-waste.
+
+(ii) _Beverage Container Return Scheme_
+
+20.	Efforts are also ongoing to develop an EPR for packaging waste, starting with a return scheme for beverage containers. Under such a scheme, a deposit is included in the price of the pre-packaged beverages. Consumers will receive a refund upon returning the used beverage container.
+
+21.	To facilitate the development of this scheme, NEA formed a stakeholder group comprising key industry, academia and civil society representatives in December last year. 
+
+22.	Over the past two years, NEA has engaged more than 100 large and small producers, which make up about 80 per cent of the pre-packaged beverage market. This included industry briefings, surveys, and one-on-one engagements with individual companies and trade associations. Other stakeholders consulted included retailers, waste management companies and members of the public. NEA will continue to broaden engagement with the public and industry in the coming months, to co-design a cost-effective and suitable Beverage Container Return Scheme for Singapore.
+
+(iii) _Ensuring Sustainability of Waste Disposal Services_
+
+23.	As we strive towards a Zero Waste Nation, we need to continue to ensure the sustainability of essential waste disposal services, while encouraging waste reduction to conserve Semakau Landfill. 
+
+24.	Over the years, the operational costs of waste disposal have increased. 
+
+25.	To keep pace with rising costs, we will revise the refuse disposal fee for incinerable waste from $77 to $88 per tonne. This fee is paid by public waste collectors and general waste collectors to dispose of incinerable waste at the waste-to-energy plants.
+
+26.	We will also revise the refuse disposal fee for non-incinerable waste from $97 to $124 per tonne. This fee is paid by general waste collectors and toxic industrial waste collectors to dispose of non-incinerable waste at Semakau Landfill, such as treated toxic industrial waste and sludge.
+
+27.	The revised fees will take effect on 1 January 2024, two years from now. NEA will issue notification letters to the industry to allow the industry sufficient lead time to adjust. 
+
+28.	We encourage all businesses to adopt sustainable practices to generate less waste and recycle more, and play their part in the shift towards a greener and zero-waste Singapore.  
+
+_Building Capabilities to Maximise Resource Recovery_
+
+29.	As we put in place a comprehensive regulatory framework to encourage recycling, we also need to build capabilities in our local industry. 
+
+30.	A thriving local recycling industry can generate economic value, job opportunities and exportable solutions for the global green demand. EWR2 is a local e-waste recycling company that recycles large household appliances and ICT equipment, and was set up in response to the increasing demand for e-waste recycling services driven by the EPR scheme. It operates a highly automated recycling facility that can recover up to 95 per cent of materials used to make the appliances, of which about 80 per cent is being recycled. 
+
+31.	We are also pursuing chemical recycling of plastics that converts plastic waste into pyrolysis oil, which can be used as feedstock for the manufacturing of chemicals and plastics. 
+
+32.	NEA commissioned a feasibility study on the development of a Plastic Recovery Facility last year to extract plastics from our waste for chemical recycling. The facility will harness advanced plastic waste sorting capabilities and improve our plastic recycling rates. 
+
+33.	We are finding other new innovative ways to turn waste into resource. 
+
+34.	Semakau Landfill, for example, can potentially be mined for its landfilled materials. NEA and the Maritime and Port Authority of Singapore are carrying out a feasibility study to use such materials in its reclamation for Tuas Port. If feasible, this will prolong the lifespan of Semakau and at the same time, reduce the amount of reclamation materials to be imported.
+
+_Sustainability as a Way of life_
+
+35.	Our transition to a Zero Waste Nation will require everyone to play their part. To be a nation known for sustainable development, care for the environment must be reflected through our daily practices. Our personal and societal values drive the actions and choices we make daily.
+
+(i) _Disposable Carrier Bag Charge_
+
+
+36.	The use of disposables is an issue that many Singaporeans care about. While disposables have become an everyday convenience, they create large amounts of waste and use up finite resources.  
+
+37.	We convened a Citizens’ Workgroup in September 2020 to co-create solutions with the public in the spirit of Singapore Together. The Workgroup came up with recommendations on how we can reduce the use of disposables such as carrier bags, food containers, cutlery, and packaging. 
+
+38.	Implementing a charge for disposable carrier bags at supermarkets was one of the recommendations of the Workgroup. After careful deliberation, we announced last year that we would work out an appropriate model for a disposable carrier bag charge at supermarkets.
+
+39.	We did not decide on this lightly.
+
+40.	Our earlier considerations for not implementing a disposable carrier bag charge in Singapore are still valid. Plastic bags are often used to bag our garbage before throwing it down our rubbish chutes. Unlike many other countries, we do not directly landfill our disposables but incinerate them. Hence, we do not face the land and water pollution issues that plague those countries.  
+
+41.	Climate action and environmental protection are gaining pace internationally and locally, and we cannot continue with business as usual. A bag charge is becoming commonplace in jurisdictions around the world and closer to home, such as in Taiwan, Hong Kong and Malaysia. 
+
+42.	There is broad recognition that we can reduce wastage of plastic bags. In Singapore, an increasing number of retailers have voluntarily implemented a charge on disposable carrier bags, which has been shown to be effective in encouraging the use of reusables. For example, FairPrice’s “No Plastic Bag” initiative has saved more than 30 million plastic bags over two years, with seven out of 10 customers willing to bring their own bags.
+
+43.	More importantly, we want Singaporeans to be a part of the shift towards a green Singapore. We should show our care for the environment in the choices we make every day.
+
+44.	By making the cost of the bag visible to consumers, the intent of the bag charge is to nudge people to consider what they really need, instead of taking bags freely. 
+
+45.	The charge is not a ban. It will not remove the public’s access to disposable bags. It is a nudge to every one of us to develop the habit of bringing a reusable bag when shopping for groceries and more, and to reduce the use of disposables — an essential feature of Sustainable Living.
+
+46. **Dr Lim Wee Kiak** asked about our consultations in developing the bag charge framework. We have conducted extensive consultations over the past year, including with supermarkets and members of the public. Close to 6,000 stakeholders were consulted through focus group discussions, industry and public consultation sessions, and surveys. We have heard diverse views in our consultations, and have considered these views carefully.
+
+47. **Ms Yeo Wan Ling** and **Dr Lim** also asked for details on the bag charge.
+
+48. Let me share about the framework.
+
+49. We will introduce a charge of at least 5 cents per bag, for purchases made at the supermarket outlets. This will be applicable to all disposable carrier bags. We have kept the minimum charge low to moderate the cost impact on shoppers, including on low-income households.
+
+50. Charging per bag is equitable and effective. The more bags we take, the higher the amount we pay. Charging from the first bag would also encourage shoppers to bring their own bags from the outset.
+
+51. The charge will take effect in mid-2023.
+
+52. It will apply to operators of Singapore Food Agency (SFA)-licensed supermarkets with an annual turnover of more than $100 million, which will cover about two-thirds of all supermarket outlets. We are starting with the larger supermarket operators who have extensive market coverage. We will not extend the charge to smaller convenience stores for now, as suggested by **Mr Louis Ng**.
+
+53. During our consultation, concerns have been expressed about supermarket operators potentially profiting from the charge. We strongly encourage supermarket operators to channel the proceeds obtained from the bag charge to environmental or social causes, and consider initiatives to support lower-income families.
+
+54. To ensure accountability, we will require supermarket operators to publish information on the number of bags issued, amount of proceeds collected from the bag charge, and how these proceeds would be used. The public will then be able to see how the supermarket operators are using the proceeds.
+
+55. Over time, we hope that the charge will encourage Singaporeans to adopt sustainable habits and bring our own bags when shopping at supermarkets and other stores.
+
+56. At this point, I would like to quote Ms Liu Yining who wrote eloquently about the need to reduce the use of plastic disposables in a recent commentary in _Lianhe Zaobao_. Mr Chairman, in Mandarin please. 刘伊宁女士在3月4日的联合早报发表了这一篇评论。它的标题为&quot;塑料袋收费是一个减塑的种子&quot;。&quot;在人民多拿一个塑料袋的那一刻，能思考 &quot;是不是需要这个袋子&quot; 时，已在心中种下一颗幸福、善的种子，也为自己，国家及地球种下了一个希望。&quot; The larger purpose of the bag charge is to make all of us pause and think if we really need the next bag before we reach for the bag. It is a seed of hope for a better world — the first step on a journey towards sustainability and the beginning of a change in how we treat the environment.
+
+(ii) _Recycling as a Way of Life_
+
+57. **Ms Ng Ling Ling** asked how we can encourage and support families and communities to recycle more.
+
+58. Applying an idea from the Recycle Right Citizens&#39; Workgroup to encourage right recycling behaviour, we recently piloted the use of transparent recycling bins in Hong Kah North and East Coast GRC. Residents&#39; response was positive.
+
+59. To encourage recycling at every home, NEA is collaborating with the Singapore Institute of Technology to design a compact recycling container to better sort out and collect recyclables at home. These containers will be made available to households later this year. To minimise wastage, NEA will only distribute to households that want them.
+
+60. Our individual actions will determine the collective outcome for Singapore.
+
+61. Together, our zero-waste efforts will bring us closer to achieving our waste-to-landfill targets, and extend the lifespan of Semakau for as long as possible beyond 2035.
+
+**CLIMATE RESILIENCE**
+
+62. Next, I will touch on climate resilience.
+
+63. **Ms Poh Li San** , **Ms Nadia Samdin** , **Dr Lim Wee Kiak** and **Mr Sharael Taha** asked about our progress in shoring up our coastal and flood defences.
 
 _Coastal Protection_
 
-4 Sea-level rise poses an existential threat to Singapore.
+64.	Sea-level rise poses an existential threat for a low-lying island nation like Singapore.
 
-5 Dr Lim Wee Kiak, Ms Poh Li San and Ms Nadia Ahmad Samdinasked about our plans to protect Singapore&#39;s coastlines against rising sea levels.
+65.	The Centre for Climate Research Singapore has projected that climate change could cause mean sea-level rise of up to 1 metre by 2100. If there should be a confluence of extreme high tides and storm surges, some projections suggest that sea levels could be as high as 4 to 5 metres. This is high enough to potentially flood one-third of Singapore. 
 
-  a. In April last year, PUB was appointed the national coastal protection agency to safeguard Singapore&#39;s coastlines against the threat of rising sea levels, while managing inland flood risks.
+66.	Coastal protection is a long-term endeavour, and we have started planning ahead.
 
-  b. We will implement coastal protection measures in phases, beginning with the more vulnerable parts of our coastlines.
+67.	In May last year, PUB, the national coastal protection agency, embarked on a site-specific study at the coastline of City-East Coast.
 
-6 This year, PUB and JTC will embark on site-specific studies at the coastlines of City-East Coast and Jurong Island.
+68.	We are starting site-specific studies at other parts of our coastline. This year, JTC and PUB will commence studies at Jurong Island and the North-West Coast respectively.
 
-  a. Potential measures to be examined include sea walls, polders and nature-based solutions like mangrove planting.
+69.	Singapore has a varied coastline of over 300 km. Hence, our site-specific studies allow us to understand the characteristics of these different segments and develop the coastal protection solutions accordingly.
 
-  b. In developing these plans, we will search for innovation in complementing our land use, sea space needs and the natural environment. Some of the suggestions from Dr Lee Wee Kiak are interesting and I will take them into consideration.
+70.	Take the North-West Coast as an example. 
+
+71.	First, there are four coastal reservoirs – Tengeh, Poyan, Murai, and Sarimbun. We will study how to reinforce the dykes and dams for these important water sources to protect them from seawater intrusion. 
+
+72.	Next, we will study how best to dovetail coastal protection solutions with upcoming developments such as the future Sungei Kadut Eco-District and Lim Chu Kang high-tech agri-food cluster. 
+
+73.	There are also sections of mangrove habitats at the Sungei Buloh Wetland Reserve, and the Mandai Mangrove and Mudflat Nature Park. We must take care to minimise environmental impact in these biodiversity-rich areas. PUB will explore hybrid coastal protection solutions that combine nature-based elements with hard engineering measures, and will also work closely with NParks and stakeholders to conduct environmental studies, minimise impact, and enhance the existing ecosystems.
+
+74.	These studies are expected to take a few years.
+
+75.	To ensure that coastal and flood protection measures are adequately resourced, we established the Coastal and Flood Protection Fund in 2020 with an initial injection of S$5 billion. In May last year, the Government passed the Significant Infrastructure Government Loan Act (SINGA), to allow the raising of loans to finance major long-term infrastructure, such as coastal and drainage infrastructure. 
 
 _Flood Resilience_
 
-7 Climate Change has caused more intense rainfall, and more serious and frequent flooding.
+76. Even as we plan long term for the challenges of sea-level rise, we are already seeing more extreme weather patterns today. We see more flash floods from more intense rains.
 
-8 As Ms Cheryl Chan has said, it is important to develop a comprehensive and coordinated understanding of Singapore&#39;s level of flood resilience.
+77. **Ms Poh Li San** and **Ms Nadia Samdin** asked what PUB&#39;s plans are to mitigate inland floods. The Government has invested significantly with almost $2 billion spent on drainage improvement works since 2011. This includes the Stamford Diversion Canal, Stamford Detention Tank and the Bukit Timah First Diversion Canal. We have set aside another $1.4 billion to carry out further improvements to the drainage system till 2025.
 
-9 To holistically manage both inland and coastal flooding risks, PUB will be developing the Coastal-Inland Flood Model this year.
+78.	While we systematically improve our drainage system across the island, it is not possible to expand our drains to cater to every extreme rainfall event as it will mean less space for housing, parks or roads in land-scarce Singapore. Hence, it is important to strengthen community resilience and our collective response to flooding incidents.
 
-  a. This computational model will simulate flood risk events and evaluate effectiveness of coastal infrastructure designs against different climatic scenarios.
+79.	PUB has been enhancing its early warning systems to provide more timely updates to the public, including launching a dedicated Telegram channel last November. PUB has also expanded its fleet to 13 flood response vehicles that are able to stream real-time flood conditions and drive through higher floodwaters. This allows PUB to provide timely assistance during any heavy rain event. 
+ 
+80.	PUB cannot do it alone. We urge Singaporeans to be on alert for weather events, by subscribing to PUB’s flood alerts for timely updates on heavy rains and potential flood risk locations. Building owners must do their part in protecting their properties by installing effective flood protection measures. 
 
-  b. This will equip PUB with capabilities to plan and implement adaptation measures.
-
-10 Mr Gan Thiam Poh and Ms Hazel Poa asked about PUB&#39;s long-term measures to mitigate inland flood risks.
-
-  a. In the last decade, PUB has invested almost $2 billion on drainage works.
-
-  b. When designing drains and canals, PUB considers factors such as the extent and type of development, overall terrain and design rainfall intensity.
-
-  c. Key projects include the Bukit Timah First Diversion Canal and Stamford Detention Tank.
-
-  d. Over the next five years **,** we will invest another $1.36 billion.
-
-  e. Ten projects will commence this year, including drainage works at Seletar North Link and Serangoon Avenue 2 and 3.
-
-11 Despite our best efforts to improve our drainage system, it is not possible to completely eliminate flash floods.
-
-  a. It is not practical to build ever bigger drains to meet every extreme rainfall event in land-scarce Singapore.
-
-  b. This is why we introduced the holistic &#39;Source-Pathway-Receptor&#39; approach to managing flash floods.
-
-  a. This addresses flood protection by arresting water at source (such as detention tanks), expanding capacity of pathways (such as drains and canals), and deepening capacity of receptors, in low-lying areas.
-
-12 As Dr Lim Wee Kiak rightly pointed out, coastal and flood protection is a long-term and large-scale effort.
-
-  a. To ensure adequate and reliable resourcing, we established the Coastal and Flood Protection Fund under PUB last year with an initial injection of five billion dollars.
-
-  b. DPM announced at Budget that the Government intends to issue new bonds under the proposed Significant Infrastructure Government Loan Act, or SINGA, to finance infrastructure including for coastal and flood protection.
-
-_Keeping Singapore Cool_
-
-13 Global warming and rising temperature is another issue that we must grapple with.
-
-  a. This is compounded by the Urban Heat Island (or UHI) effect.
-
-  b. When temperature rises, we turn up air-conditioners, which in-turn generate more heat in the surrounding, resulting in a vicious cycle.
-
-  c. Built-up areas such as the CBD can be more than 3 degree Celsius hotter than our parks.
-
-  d. High temperatures can be uncomfortable for our daily activities, or increase the risk of heat injuries at the workplace, sports and military training.
-
-14 Mr Gan Thiam Poh asked about the measures taken to reduce the UHI effect and heat emissions.
-
-15 We will adopt three mitigation strategies:
-
-  a. First, we will measure, gather data and close our knowledge gaps on the UHI effects by deploying a network of sensors island wide.
-
-  b. Second, we will develop simulation models of the UHI effects under the Cooling Singapore 2.0 Research Project. This will help us better plan and right-site open spaces and greenery to provide comfort for our residents.
-
-  c. Third, we will develop and implement a UHI mitigation action plan. This will include piloting the use of cool materials, increasing urban greenery, and reducing heat emissions through district cooling.
-
-_Reducing Emissions_
-
-16 Decarbonisation and improving energy efficiency will continue to be our focus.
-
-17 Mr Louis Ng asked if we can publish a ranking of top emitters.
-
-  a. We agree on the need to provide a strong impetus for companies to reduce emissions, and will continue to study how we can spur this meaningfully.
-
-**DECARBONISING OUR WATER SECTOR**
-
-18 Next, on decarbonising our water sector.
-
-19 Ensuring resilient water supply has been our focus since independence.
-
-  a. With bold and innovative solutions, we have closed the water loop and reused our water endless times.
-
-  b. However, our water demand will continue to rise with population and economic growth, even as climate change brings about more erratic rainfall and dry spells.
-
-  c. Weather-resilient sources, such as NEWater and desalination, will be key pillars of our future water strategy.
-
-20 We must ensure that in achieving water sustainability, we do not become more reliant on energy and increase our carbon footprint.
-
-  a. In the same bold and innovative spirit that enabled us to close the water loop, MSE will strive to break new frontiers in decarbonising the water sector.
-
-_100% Green Waterworks_
-
-21 Last year we announced the construction of one of the world&#39;s largest floating solar panel system at Tengeh Reservoir.
-
-  a. We are on track to complete construction this year.
-
-  b. This will generate enough solar power to meet the energy demands of our five local water treatment plants, making Singapore one of the few in the world to have a fully green waterworks system.
-
-22 Ms Poh Li San asked for our plans for future floating solar panels, and for improving energy efficiency of water treatment.
-
-  a. PUB will complete deployment of two floating solar panel systems at Bedok and Lower Seletar Reservoirs this year.
-
-  b. PUB and EDB are also exploring potential deployments in Upper Pierce and Kranji Reservoirs respectively. The environmental impact assessments are under way.
-
-_Low-Energy NEWater and Desalination_
-
-23 Decades of R&amp;D efforts led to our NEWater and desalination solutions.
-
-24 Today, PUB is undertaking R&amp;D efforts to reduce energy use.
-
-  a. One promising example is the Flow Reversal technology in the reverse osmosis stage of NEWater production.
-
-  b. This has been shown to improve NEWater recovery rate from 75 per cent to 90 per cent with the same energy consumption.
-
-  c. Through scaling up more efficient technologies, PUB aims to reduce the energy required to produce one cubic metre of desalinated water from 3.5 kilowatt hours to 2 kilowatt hours, by 2025.
-
-25 Even as we opened our fourth desalination plant in Marina East, I am pleased to announce that our fifth desalination plant in Jurong Island will be completed this year.
-
-  a. The Plant will be co-located with Tuas Power&#39;s existing Tembusu Multi-Utilities Complex, boosting resource synergies across energy, and seawater intake and outfall structures.
-
-_Low-Carbon Water Treatment Facilities_
-
-26 Last year, we reported that work has begun on Tuas Nexus - Singapore&#39;s first integrated solid waste and used water treatment facility.
-
-  a. It is set for completion in phases from 2025.
-
-  b. It will harness synergies across the water-energy-waste nexus to maximise energy and resource recovery, enabling it to be fully energy self-sufficient and even export electricity to the grid.
-
-27 Building on Tuas Nexus, NEA and PUB plan to co-locate a food waste treatment facility at Changi Water Reclamation Plant.
-
-  a. The co-digestion of food waste and used water sludge generates additional biogas, providing more electricity for Changi Water Reclamation Plant.
-
-  b. Co-location also reduces the carbon footprint, as food waste collected in the east can be sent to Changi, instead of to Tuas Nexus in the west.
-
-  c. NEA expects to embark on the preliminary design study for the food waste treatment facility in the first half of this year.
-
-28 Through our green waterworks, low-energy water production and low-carbon water treatment, the next chapter of our water story will be written in a green and sustainable manner.
-
-**MOVING TOWARDS A ZERO WASTE NATION**
-
-29 I will now touch on waste.
-
-30 We set ambitious targets under our Zero Waste Masterplan in 2019.
-
-  a. Our national goal is to achieve a 70 per cent overall recycling rate, and reduce the amount of waste sent to Semakau Landfill per capita per day by 30 per cent by 2030.
-
-  b. Under the Green Plan, we aim to frontload our waste-to-landfill reduction efforts over the next five years, to achieve a 20% reduction per capita per day by 2026.
-
-31 We can achieve this if everyone plays their part, consuming less, wasting less, and recycling more.
-
-32 At the same time, we need a paradigm shift from a linear take-make-throw economy to a circular economy where waste is turned into resource and used over and over again.
-
-33 The Government surely cannot do this alone.
-
-  a. We need businesses, individuals, and all partners to come on board.
-
-  b. Let me share our plans on three priority waste streams – e-waste, food waste and packaging waste including plastics.
-
-_Closing the E-waste Loop_
-
-34 Let me start with e-waste.
-
-35 As Mr Louis Ng pointed out, Singapore generates about 60,000 tonnes of e-waste a year.
-
-  a. E-waste contains valuable resources like precious metals, which we can recover to reduce mining of raw materials.
-
-  b. However, only about six per cent of the e-waste disposed of by consumers is recycled via public recycling programmes.
-
-36 This is why we have introduced the Extended Producer Responsibility (or EPR) framework for e-waste.
-
-  a. This places responsibility on producers to collect and send their products for proper end-of-life treatment at e-waste recyclers licensed by the NEA.
-
-37 As Mr Melvin Yong and Mr Lim Biow Chuan askedabout Electric Vehicles batteries. It will be included in this framework.
-
-  a. The recyclers will have to adhere to depollution requirements and meet material recovery targets.
-
-  b. This ensures that our e-waste do not pollute the environment, and useful resources are recovered for reuse.
-
-38 To Mr Louis Ng&#39;s query, we are on track to start the EPR this July.
-
-  a. We recently appointed ALBA Group as the Producer Responsibility Scheme (or PRS) Operator to manage the physical collection and treatment of e-waste on behalf of the producers, who will finance the scheme.
-
-  b. NEA is working closely with ALBA and industry stakeholders to set up the collection infrastructure.
-
-39 Come July, the public can look forward to more ways to recycle e-waste.
-
-  a. In addition to the mandatory requirement for large retailers to offer instore collection service of e-waste,we have secured support from owners of other premises, such as shopping malls and Community Clubs, to place e-waste recycling bins at publicly accessible areas within their premises.
-
-40 To ensure the success of the EPR, NEA is working with premises owners and ALBA to raise awareness.
-
-  a. ALBA intends to launch a website and mobile app to provide information on the EPR, including the types of e-waste covered and the recycling locations.
-
-41 Individuals, too, can drive ground-up efforts on e-waste recycling.
-
-42 Take Mdm Lalitha for instance.
-
-  a. She chairs the Woodlands Environmental Committee and led an initiative to install e-waste recycling bins that was well-received by Woodlands residents.
-
-  b. Between October 2018 and March last year, about 338kg of e-waste was collected.
-
-  c. She had the following message to share, and I quote: &quot;Environmental conservation is a self-initiated mission. When you lead by example, others will be inspired to follow&quot;.
-
-  d. Let us play our part for the environment, just like Mdm Lalitha, and inspire our families and friends to do the same.
-
-_Closing the Food Waste Loop_
-
-43 Next, on food waste.
-
-44 We are driving nationwide efforts to reduce and recycle food waste through outreach efforts and regulatory measures.
-
-45 Last year, we announced the requirement for food waste at large commercial and industrial premises to be segregated for treatment.
-
-46 Mr Louis Ng asked if these premises should also report the amount of food waste segregated.
-
-  a. Indeed, we are considering a framework for these premises to measure and report the amount of food waste segregated for treatment.
-
-  b. This will highlight to them the amount of food waste they generate and the potential to reduce wastage.
-
-  c. We will start industry consultations on this in the second quarter of the year.
-
-47 Aside from mandatory measures, we will closely support businesses in their efforts to close waste loops.
-
-  a. NEA has been seeking applicants for its 3R Fund, a co-funding programme to support businesses in implementing waste reduction projects.
-
-  b. Parkway Parade received funding to install a new food waste treatment system on its premises, and actively reached out to tenants to segregate their food waste to be treated.
-
-  c. Between 2017 to 2020, Parkway Parade successfully diverted 1,200 tonnes of food waste from disposal.
-
-_Closing the packaging waste loop_
-
-48 Packaging waste is our third priority waste stream.
-
-  a. It accounts for about one-third of domestic waste disposed of, comprising materials such as plastic, paper, metal and glass.
-
-  b. While incineration reduces the volume of packaging waste, we can do more to reduce, reuse and recycle them.
-
-49 We will put in place an EPR framework for packaging waste, starting with a Deposit Refund Scheme (or DRS) for beverage containers.
-
-50 To Mr Louis Ng&#39;s question, we have been engaging the community and industry to develop a DRS framework for Singapore.
-
-  a. We plan to introduce the legislative framework for the DRS by 2022, and implement it in 2023.
-
-  b. The transition period will give industry time to set up the collection and recycling infrastructure.
-
-  c. We will continue to engage stakeholders and we welcome all to participate in shaping Singapore&#39;s own DRS framework.
-
-51 Another important aspect in recycling packaging waste is building up our local recycling capabilities.
-
-52 More than half of our domestic packaging waste disposed of is plastics.
-
-53 We are pursuing both mechanical and chemical recycling solutions, the latter which can take in contaminated plastics that are not suitable for mechanical recycling.
-
-  a. NEA and Shell are jointly studying the feasibility of chemical recycling in Singapore, including the carbon savings potential of diverting plastic waste from incineration to produce pyrolysis oil, or NEWOil, as feedstock for petrochemical plants.
-
-_Towards a Zero Waste Nation, together_
-
-54 One issue that has captured public attention is the excessive consumption of disposables.
-
-  a. This includes single-use plastics which Mr Louis Ng and Mr Dennis Tan have asked.
-
-  b. Disposables have a short lifespan and contribute significantly to our carbon footprint and waste.
-
-  c. Under [GreenGov.SG](https://www.greenplan.gov.sg/key-focus-areas/green-government/), the public service is considering measures to reduce the use of disposables, and will be announcing more details later in the year.
-
-55 Citizens are also actively co-creating solutions with us.
-
-56 In line with the SG Together movement, we convened a Citizens&#39; Workgroup in September last year.
-
-  a. Fifty-five citizens of various backgrounds jointly came up with recommendations to address the issue of excessive consumption of disposables.
-
-  b. They presented their recommendations to my Ministry and NEA in January.
-
-57 We are heartened by the wide range of ideas, from policies such as a mandatory carrier bag charge, to behavioural nudges such as visual cues in supermarkets.
-
-  a. We will share our responses to the recommendations next month and publish them on the Clean and Green Singapore website.
-
-  b. Where feasible, we will co-deliver them with the participants and other partners.
-
-58 It is our hope that all Singaporeans will have a growing consciousness to care for the environment, reduce their consumption and waste less.
-
-  a. In so doing, we can make sustainable living a way of life and achieve our vision of becoming a Zero Waste Nation together.
+81.	In July last year, PUB trialled the automated flood barrier at the entrance of Fortune Park Condominium leading to the basement carpark. The automated barrier uses approaching floodwaters to buoy itself up and block floodwaters from entering the premises, without the need for any human or mechanical intervention. It is a viable and cost-effective solution for flood protection, and we encourage building owners in low-lying areas to implement these automated barriers.
 
 **CONCLUSION**
 
-59 Mdm Chairperson, 2020 has been a rough year for Singapore and the world.
+82.	Mr Chairman, as a small island city-state with no natural resources, we have weathered many crises together as a people and as a nation. 
 
-  a. It has shown us that the current way in which we consume, our habits and the way we treat our planet is not sustainable.
+83.	We have overcome these crises and seized the opportunities to develop into a clean, green and liveable city that we see today.
 
-  b. But amidst the gloom, there were also many new and hopeful beginnings.
+84.	Climate change is the defining crisis of our generation.
 
-60 We look forward to working with all Singaporeans to take a green leap forward in 2021 towards a sustainable, resource-efficient and climate-resilient future for our nation.
-
-61 I will now hand over to Senior Minister of State Dr Amy Khor.
+85.	Together, let us build a resilient Singapore, for a sustainable future.
