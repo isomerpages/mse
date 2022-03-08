@@ -245,7 +245,9 @@ body {
 <div class="card-content">
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">BUILDING OUR CITY OF GREEN POSSIBILITIES</h2>
   <!-- <p class="description"> Everyone can play a part in building a resilient and sustainable nation</p> -->
-  
+ 
+  <center><a class="button_cos" href="/2022-03-07-press-release-cos-mse-2022">View Media Release</a></center>
+
   <div class="card">
     <div class="front" style="background-image: url(/images/cosclimate.jpg)">
       <h4>Coastal Protection
@@ -320,8 +322,6 @@ body {
       </div>
   </div>
   
-<a href="/2022-03-07-press-release-cos-mse-2022" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
-
 <center><a class="button_cos" href="/2022-03-07-press-release-cos-mse-2022">View Media Release</a></center>
   
   <!--
