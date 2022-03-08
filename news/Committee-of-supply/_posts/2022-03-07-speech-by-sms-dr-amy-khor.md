@@ -80,7 +80,7 @@ description:
 
 29 **Mr Gan** asked about improvements to toilets. We launched the Toilet Improvement Programme in October 2020 to raise the cleanliness of toilets in hawker centres and coffeeshops. 
 
-30 The programme supported premises in improving toilet design and choice of sanitary fittings for easier cleaning, and coffeeshop operators’ initial adoption of fortnightly deep cleaning, on top of daily cleaning. NEA has received applications from 62 eligible coffeeshops and 28 hawker centres. 24 coffeeshops and 1 hawker centre have completed toilet enhancement works.
+30 The programme supported premises in improving toilet design and choice of sanitary fittings for easier cleaning, and coffeeshop operators’ initial adoption of fortnightly deep cleaning, on top of daily cleaning. NEA has received applications from 62 eligible coffeeshops and 28 hawker centres. 24 coffeeshops and one hawker centre have completed toilet enhancement works.
 
 **SAFEGUARDING OUR HAWKER CULTURE** 
 
@@ -94,7 +94,7 @@ description:
 
 34	SFA-licensed operators and stallholders in markets, hawker centres, coffeeshops, food courts and canteens will receive this grant. They will receive $1,000 for each local employee receiving mandatory CPF contributions, capped at $10,000. Those without local employees will receive a flat $1,000 if they are Singapore Citizens or Permanent Residents. 
 
-35	Our efforts have helped hawkers during these tough times.  On average, 17 cooked food stallholders or 0.3% terminated their leases each month between 2020 and 2021.  This is lower than the monthly average of 28 terminations between 2017 to 2019. 
+35	Our efforts have helped hawkers during these tough times. On average, 17 cooked food stallholders or 0.3% terminated their leases each month between 2020 and 2021. This is lower than the monthly average of 28 terminations between 2017 to 2019. 
 
 36 **Ms Joan Pereira** asked if more can be done to help hawkers reduce ingredient cost. We will review her suggestion of bulk purchasing carefully and also consider the interest from our hawkers, where many may already have established relationships and specific arrangements with their suppliers for their preferred ingredients. 
 
@@ -106,7 +106,7 @@ description:
 
 40	To date, 18 hawker centres have set up Digital Support for Hawkers groups, which provide peer support to help less digitally savvy hawkers embrace digital opportunities. This includes creating Facebook pages for each centre, facilitating online community group buys, and organising bulk meal orders. 
 
-41	I am pleased to share that many of my fellow Members of Parliament have adopted AfA’s recommendations on group buys from hawkers for our lunches during Parliament sittings! For today’s lunch, many of us enjoyed wanton noodles, chicken rice and burgers from Commonwealth Crescent, Bukit Merah and Golden Mile!  More enticing and mouth-watering hawker dishes to come!
+41	I am pleased to share that many of my fellow Members of Parliament have adopted AfA’s recommendations on group buys from hawkers for our lunches during Parliament sittings! For today’s lunch, many of us enjoyed wanton noodles, chicken rice and burgers from Commonwealth Crescent, Bukit Merah and Golden Mile! More enticing and mouth-watering hawker dishes to come!
 
 **Futureproofing Our Hawker Centres**
 
@@ -126,7 +126,7 @@ description:
 
 48 We have been helping our aspiring hawkers prepare for the trade, through the Incubation Stall Programme and Hawkers’ Development Programme, and similar programmes by Socially-conscious Enterprise Hawker Centre operators. Over 40 new hawkers have joined the trade through these programmes. Their median age is 33, significantly lower than the overall median age of hawkers of 60.
 
-49 11 aspiring hawkers are currently operating incubation stalls, with another 6 awaiting allocation of incubation stalls.
+49 11 aspiring hawkers are currently operating incubation stalls, with another six awaiting allocation of incubation stalls.
 
 50 Some of our new hawkers include Ms Priscilla Huang (aged 31) of *Authentic Hong Kong Delights*, and Mr Lim Wei Keat (aged 27) of *Ah Keat Chicken Rice*, who joined the hawker trade over the past year after completing HDP. 
 
@@ -142,13 +142,13 @@ description:
 
 56 This is but a token of appreciation and is not a measure of the effort that veterans have invested into establishing their clientele and refining their recipes. The HSS is not intended to be a commercial arrangement but is an option to help retiring veteran hawkers find suitable successors and preserve their culinary legacy for future patrons.
 
-57 We will also introduce safeguards to protect the interest of the veteran hawkers such as requiring successors to serve the veteran hawkers’ signature dishes and retain the stall names for 3 years. 
+57 We will also introduce safeguards to protect the interest of the veteran hawkers such as requiring successors to serve the veteran hawkers’ signature dishes and retain the stall names for three years. 
 
 **New Hawker Centres to Serve Residents’ Needs**
 
 58 **Mr Gan** and **Mr Wee** asked about the construction progress of new hawker centres. 
 
-59 While COVID-19 has caused some delay, four new centres – namely Bukit Canberra, Fernvale, One Punggol and Senja Hawker Centres, will begin operations by 3rd quarter this year. In addition, 5 more centres in the construction stage will progressively be completed in the next few years, and 2 more are in the planning and design stage. 
+59 While COVID-19 has caused some delay, four new centres – namely Bukit Canberra, Fernvale, One Punggol and Senja Hawker Centres, will begin operations by 3rd quarter this year. In addition, five more centres in the construction stage will progressively be completed in the next few years, and two more are in the planning and design stage. 
 
 60 Residents in Tampines Town can also look forward to another new hawker centre. More details of this new centre will be shared in due course.
 
