@@ -76,98 +76,98 @@ _Empowering companies, households and workers_
 
 29 ESG launched the $180 million Enterprise Sustainability Programme to support Singapore companies in their sustainability journeys.
 
-Last year, NEA and ESG supported the Carbon Pricing Leadership Coalition Singapore&#39;s LowCarbonSG initiative to help companies build capabilities in measuring, monitoring and reducing their carbon emissions.
+30 Last year, NEA and ESG supported the Carbon Pricing Leadership Coalition Singapore&#39;s LowCarbonSG initiative to help companies build capabilities in measuring, monitoring and reducing their carbon emissions.
 
-NEA and the Singapore Institute of Technology (SIT) set up an Energy Efficiency Technology Centre (EETC) in 2020. It provides SMEs with low-cost energy assessments to help them identify opportunities to improve energy efficiency. The Centre also develops the workforce by training students and practitioners in industrial energy efficiency.
+31 NEA and the Singapore Institute of Technology (SIT) set up an Energy Efficiency Technology Centre (EETC) in 2020. It provides SMEs with low-cost energy assessments to help them identify opportunities to improve energy efficiency. The Centre also develops the workforce by training students and practitioners in industrial energy efficiency.
 
-NEA is working with SIT to strengthen the Centre&#39;s capabilities in the next phase. Enhancements will include setting up a training-and-simulation centre, to enable learners to practise their craft in a realistic, yet safe environment. With the enhancements, the Centre will be able to assume a more prominent role in Singapore&#39;s transition to a low-carbon economy. More details will be announced when ready.
+32 NEA is working with SIT to strengthen the Centre&#39;s capabilities in the next phase. Enhancements will include setting up a training-and-simulation centre, to enable learners to practise their craft in a realistic, yet safe environment. With the enhancements, the Centre will be able to assume a more prominent role in Singapore&#39;s transition to a low-carbon economy. More details will be announced when ready.
 
-NEA&#39;s Energy Efficiency Fund (E2F) helps SMEs in the manufacturing sector to defray the cost of adopting energy efficient technologies. Kawarin Enterprise Pte Ltd, a local steel manufacturing company, has benefitted from the Fund. By upgrading their old air compressors to more energy-efficient ones, they enjoyed annual cost savings of more than $30,000, and abated about 48 tonnes of carbon annually.
+33 NEA&#39;s Energy Efficiency Fund (E2F) helps SMEs in the manufacturing sector to defray the cost of adopting energy efficient technologies. Kawarin Enterprise Pte Ltd, a local steel manufacturing company, has benefitted from the Fund. By upgrading their old air compressors to more energy-efficient ones, they enjoyed annual cost savings of more than $30,000, and abated about 48 tonnes of carbon annually.
 
-To help the manufacturing sector mitigate the impact of higher carbon tax, I am happy to announce that from 1 April 2022, we will raise the Energy Efficiency Fund&#39;s maximum grant support for investing in energy efficient technologies, from 50% to 70% of qualifying costs. This will help companies invest in energy efficient equipment, such as lighting, air-conditioning, boilers and air compressors. We will simplify the grant application and disbursement process. I urge companies to take advantage of the higher support level early.
+34 To help the manufacturing sector mitigate the impact of higher carbon tax, I am happy to announce that from 1 April 2022, we will raise the Energy Efficiency Fund&#39;s maximum grant support for investing in energy efficient technologies, from 50% to 70% of qualifying costs. This will help companies invest in energy efficient equipment, such as lighting, air-conditioning, boilers and air compressors. We will simplify the grant application and disbursement process. I urge companies to take advantage of the higher support level early.
 
-The green transition will present new opportunities for our economy and workforce. We hope to anchor emerging green industries in Singapore to create good jobs. We are growing a new industry in agri-tech. Minister of State Desmond Tan has shared in his speech.
+35 The green transition will present new opportunities for our economy and workforce. We hope to anchor emerging green industries in Singapore to create good jobs. We are growing a new industry in agri-tech. Minister of State Desmond Tan has shared in his speech.
 
-Mature industries such as the Environmental Services industry are poised for transformation, catalysing higher demand for green skills. We will support our workers to develop these skills.
+36 Mature industries such as the Environmental Services industry are poised for transformation, catalysing higher demand for green skills. We will support our workers to develop these skills.
 
-Mr Eu Leng Pheng, who began his career in the chemical and marine industry, took a leap of faith and entered the waste management industry in 2017, as a Facilities Manager in LHT Holdings to support wood waste recycling operations. To make the transition, he took part in a professional course offered by the Waste Management and Recycling Association of Singapore. [^1] His vast experience in troubleshooting electrical components and circuit boards from his previous work experience allowed him to quickly render professional support to other engineers. He has also provided in-house training to the mechanics in his company, furthering their knowledge.
+37 Mr Eu Leng Pheng, who began his career in the chemical and marine industry, took a leap of faith and entered the waste management industry in 2017, as a Facilities Manager in LHT Holdings to support wood waste recycling operations. To make the transition, he took part in a professional course offered by the Waste Management and Recycling Association of Singapore. [^1] His vast experience in troubleshooting electrical components and circuit boards from his previous work experience allowed him to quickly render professional support to other engineers. He has also provided in-house training to the mechanics in his company, furthering their knowledge.
 
 [^1]: Note: Mr Eu attended WMRAS&#39;s Professional Course in Waste Management and Resource Recovery, which ran from 2018 to 2020. The course was replaced by WSG&#39;s Career Conversion Programme for Waste Professionals, where WMRAS is the programme manager.
 
-We are also encouraging households to embrace sustainability. NEA and PUB launched the Climate-Friendly Households Programme in 2020 to help 1- to 3-room HDB households reduce energy and water consumption. Eligible households can redeem $225 worth of e-vouchers to offset costs for energy-efficient refrigerators, LED lights, and water-efficient shower fittings. The vouchers are valid till 31 December 2023.
+38 We are also encouraging households to embrace sustainability. NEA and PUB launched the Climate-Friendly Households Programme in 2020 to help 1- to 3-room HDB households reduce energy and water consumption. Eligible households can redeem $225 worth of e-vouchers to offset costs for energy-efficient refrigerators, LED lights, and water-efficient shower fittings. The vouchers are valid till 31 December 2023.
 
-I urge eligible households to use these vouchers when your appliances are due for replacement. Making the switch can help households save on utility bills!
+39 I urge eligible households to use these vouchers when your appliances are due for replacement. Making the switch can help households save on utility bills!
 
 _Investing in science and technology_
 
-Second, we will continue to invest in science and technology to unlock possibilities for a low carbon future.
+40 Second, we will continue to invest in science and technology to unlock possibilities for a low carbon future.
 
-Our water story is a good example of the critical role R&amp;D plays in Singapore&#39;s development. Our decades of patient and persistent investment over the years have created two of our national taps, NEWater and desalinated water, and raised Singapore&#39;s profile as a leading global hydrohub.
+41 Our water story is a good example of the critical role R&amp;D plays in Singapore&#39;s development. Our decades of patient and persistent investment over the years have created two of our national taps, NEWater and desalinated water, and raised Singapore&#39;s profile as a leading global hydrohub.
 
-Our research objective now is to bring down the energy requirement through science and technology. In 2023, a desalination Integrated Validation Plant will be commissioned to trial promising technologies to reduce the energy consumption of desalination to less than 2 kWh/m3 (kilowatt hours per cubic metre of water). This will pave the way for the technologies to be implemented in full-scale desalination plants. The plant is just one of the many projects that are supported under our national Research, Innovation and Enterprise (RIE) 2025 plan.
+42 Our research objective now is to bring down the energy requirement through science and technology. In 2023, a desalination Integrated Validation Plant will be commissioned to trial promising technologies to reduce the energy consumption of desalination to less than 2 kWh/m3 (kilowatt hours per cubic metre of water). This will pave the way for the technologies to be implemented in full-scale desalination plants. The plant is just one of the many projects that are supported under our national Research, Innovation and Enterprise (RIE) 2025 plan.
 
-As Mr Gan Thiam Poh, Ms Poh Li San, and Professor Koh Lian Pin pointed out, science and technology are important enablers for the Green Plan. Under RIE2025, the Urban Solutions and Sustainability domain will strengthen our capabilities in addressing climate change, advancing energy transition, promoting liveability, and transforming our built environment.
+43 As Mr Gan Thiam Poh, Ms Poh Li San, and Professor Koh Lian Pin pointed out, science and technology are important enablers for the Green Plan. Under RIE2025, the Urban Solutions and Sustainability domain will strengthen our capabilities in addressing climate change, advancing energy transition, promoting liveability, and transforming our built environment.
 
-I am pleased to announce that the government has allocated $220 million for R&amp;D in resource circularity and water technologies. $80M will be allocated to Closing the Resource Loop, to develop sustainable resource recovery solutions for key waste streams such as e-waste, plastics, and food. It will support the development of useful and safe applications for treated waste residue, and low carbon waste treatment options. This will build on the $45 million Closing the Waste Loop under RIE2020. Under this funding initiative, NEA has funded 15 R&amp;D projects, with 7 garnering commercial interest.
+44 I am pleased to announce that the government has allocated $220 million for R&amp;D in resource circularity and water technologies. $80M will be allocated to Closing the Resource Loop, to develop sustainable resource recovery solutions for key waste streams such as e-waste, plastics, and food. It will support the development of useful and safe applications for treated waste residue, and low carbon waste treatment options. This will build on the $45 million Closing the Waste Loop under RIE2020. Under this funding initiative, NEA has funded 15 R&amp;D projects, with 7 garnering commercial interest.
 
-Another $87M will be allocated to the Centre of Excellence Programme to support water and membrane research at the Nanyang Environment and Water Research Institute (NEWRI), and the Separation Technologies Applied Research and Translation Centre. The remaining budget was allocated to the Competitive Funding for Water Research programme last year. Our investments will go towards developing high impact solutions for our national water needs.
+45 Another $87M will be allocated to the Centre of Excellence Programme to support water and membrane research at the Nanyang Environment and Water Research Institute (NEWRI), and the Separation Technologies Applied Research and Translation Centre. The remaining budget was allocated to the Competitive Funding for Water Research programme last year. Our investments will go towards developing high impact solutions for our national water needs.
 
-But beyond that, research and innovation will also be an engine for green growth, spurring private sector R&amp;D spending, job creation and technology spin-offs in the water industry and adjacent sectors. For example, NEWRI has developed technologies with local and global applications in areas such as biomimetic membranes for desalination, and anchored investments from global companies in Singapore.
+46 But beyond that, research and innovation will also be an engine for green growth, spurring private sector R&amp;D spending, job creation and technology spin-offs in the water industry and adjacent sectors. For example, NEWRI has developed technologies with local and global applications in areas such as biomimetic membranes for desalination, and anchored investments from global companies in Singapore.
 
-Science and technology will also inform our policies and interventions to keep Singapore liveable in the face of climate change. As Mr Leon Perera pointed out, rising urban temperatures is a major concern for our compact and dense city.
+47 Science and technology will also inform our policies and interventions to keep Singapore liveable in the face of climate change. As Mr Leon Perera pointed out, rising urban temperatures is a major concern for our compact and dense city.
 
-The government already incorporates urban planning measures to keep neighbourhoods cool. For example, weaving nature more intensively into our built environment, which Minister Desmond Lee will touch on later. The Government is also piloting the use of cool paints in 130 HDB blocks in Tampines under the Green Towns programme.
+48 The government already incorporates urban planning measures to keep neighbourhoods cool. For example, weaving nature more intensively into our built environment, which Minister Desmond Lee will touch on later. The Government is also piloting the use of cool paints in 130 HDB blocks in Tampines under the Green Towns programme.
 
-We are also working with MOH, MOM and the Workplace Safety and Health Council, to ensure that guidelines on managing heat stress at workplaces are regularly updated.
+49 We are also working with MOH, MOM and the Workplace Safety and Health Council, to ensure that guidelines on managing heat stress at workplaces are regularly updated.
 
 _Partnering people and communities_
 
-Third, Partner. We need to involve the whole of society in the sustainability movement, and develop a shared ownership of our environment.[^2]
+50 Third, Partner. We need to involve the whole of society in the sustainability movement, and develop a shared ownership of our environment.[^2]
 
 [^2]: Response to cuts **Ms Hany Soh** (Involvements in SG Green Plan 2030) and **Ms Janet Ang** (Sustainability to be in Singapore&#39;s DNA).
 
-Ms Nadia Samdin and Ms Hany Soh asked for an update on the SG Eco Fund. We have seen great interest since its launch in November 2020. As we wrap up our second grant call, I am happy to share that we will award $2.9 million to 68 projects. This includes 42 smaller projects under the new Sprout category, which has a simpler application process. In total, 105 individuals and organisations have been awarded $6.6 million in funding thus far. Some of the recipients in the second grant call are:
+51 Ms Nadia Samdin and Ms Hany Soh asked for an update on the SG Eco Fund. We have seen great interest since its launch in November 2020. As we wrap up our second grant call, I am happy to share that we will award $2.9 million to 68 projects. This includes 42 smaller projects under the new Sprout category, which has a simpler application process. In total, 105 individuals and organisations have been awarded $6.6 million in funding thus far. Some of the recipients in the second grant call are:
 
-Earth School Singapore, which has launched a new experiential education programme for primary school students;
+52 Earth School Singapore, which has launched a new experiential education programme for primary school students;
 
-U Farm, a social enterprise farm, which will train and employ persons with disabilities and host environmental programmes for the public;
+53 U Farm, a social enterprise farm, which will train and employ persons with disabilities and host environmental programmes for the public;
 
-Mr Neo Zhi Xuan and his team, who will develop a web application to educate the public on where and how to recycle different household items.
+54 Mr Neo Zhi Xuan and his team, who will develop a web application to educate the public on where and how to recycle different household items.
 
-Our applicants have diverse interests and goals, reflecting the reach of the grant. We will work with our grant recipients to maximise the impact of their projects and co-create relevant environmental and community engagement targets. SG Eco Fund will also explore new partnerships to rally more people to contribute to the Green Plan.
+55 Our applicants have diverse interests and goals, reflecting the reach of the grant. We will work with our grant recipients to maximise the impact of their projects and co-create relevant environmental and community engagement targets. SG Eco Fund will also explore new partnerships to rally more people to contribute to the Green Plan.
 
-Our local communities are also responding to the call to action. Mr Don Wee asked about the progress of Eco Towns.
+56 Our local communities are also responding to the call to action. Mr Don Wee asked about the progress of Eco Towns.
 
-In Tampines, Semula, a social enterprise, will be conducting plastic collection drives at F&amp;B outlets and shopping malls, and involving the community to process the collected plastics into art pieces.
+57 In Tampines, Semula, a social enterprise, will be conducting plastic collection drives at F&amp;B outlets and shopping malls, and involving the community to process the collected plastics into art pieces.
 
-In Nee Soon South, the grassroots organisation is setting up a Black Soldier Flies composting hub.
+58 In Nee Soon South, the grassroots organisation is setting up a Black Soldier Flies composting hub.
 
-In Chua Chu Kang and Hong Kah North, grassroots leaders have organised hackathons with residents to co-develop an Eco Town plan for the district.
+59 In Chua Chu Kang and Hong Kah North, grassroots leaders have organised hackathons with residents to co-develop an Eco Town plan for the district.
 
-We intend to provide more support, including capacity building workshops, to help more communities in Singapore plan and develop sustainability initiatives in their towns. This will complement HDB&#39;s Green Towns Programme to enhance the sustainability of estates. We will continue to consult and engage the public on environment and climate issues, including our net zero ambition, as SM Teo has explained.
+60 We intend to provide more support, including capacity building workshops, to help more communities in Singapore plan and develop sustainability initiatives in their towns. This will complement HDB&#39;s Green Towns Programme to enhance the sustainability of estates. We will continue to consult and engage the public on environment and climate issues, including our net zero ambition, as SM Teo has explained.
 
-Professor Koh Lian Pin suggested that sufficient time must be set aside for the public to learn about the issues and share their views. I agree fully.
+61 Professor Koh Lian Pin suggested that sufficient time must be set aside for the public to learn about the issues and share their views. I agree fully.
 
-Under the SG Together movement, we created many opportunities for Singaporeans to participate and contribute actively to sustainability.
+62 Under the SG Together movement, we created many opportunities for Singaporeans to participate and contribute actively to sustainability.
 
-Depending on the issue at hand, different approaches and modalities are adopted to engage stakeholders, and we endeavour to share the insights gathered from these consultations with the public. Across the public service, we are also growing capabilities to engage well and consistently, through shared frameworks, case studies and ongoing training.
+63 Depending on the issue at hand, different approaches and modalities are adopted to engage stakeholders, and we endeavour to share the insights gathered from these consultations with the public. Across the public service, we are also growing capabilities to engage well and consistently, through shared frameworks, case studies and ongoing training.
 
-For instance, the disposable carrier bag charge was developed after more than one year of extensive consultations and engagements with the industry and the public, including a Citizens&#39; Workgroup. MSE and NEA released our response to the recommendations by the Citizens&#39; Workgroup in 2021.
+64 For instance, the disposable carrier bag charge was developed after more than one year of extensive consultations and engagements with the industry and the public, including a Citizens&#39; Workgroup. MSE and NEA released our response to the recommendations by the Citizens&#39; Workgroup in 2021.
 
-For the Lim Chu Kang Masterplan, we brought stakeholders together over six months to discuss how the Lim Chu Kang area could be redeveloped to become our agri-food production hub of the future. The full report covering the whole engagement series has just been finalised and will be published soon.
+65 For the Lim Chu Kang Masterplan, we brought stakeholders together over six months to discuss how the Lim Chu Kang area could be redeveloped to become our agri-food production hub of the future. The full report covering the whole engagement series has just been finalised and will be published soon.
 
-I thank the participants for their valuable contributions. These consultations and engagements enable participants and stakeholders, including the Government, to hear and understand diverse views.
+66 I thank the participants for their valuable contributions. These consultations and engagements enable participants and stakeholders, including the Government, to hear and understand diverse views.
 
-Participants go away with a better appreciation of different perspectives and the rationale for policies, and the Government goes away with better informed and considered decisions. There is a sense of unity and shared responsibility in shaping the collective future of our society.
+67 Participants go away with a better appreciation of different perspectives and the rationale for policies, and the Government goes away with better informed and considered decisions. There is a sense of unity and shared responsibility in shaping the collective future of our society.
 
 **CITY OF GREEN POSSIBILITIES**
 
-And this is what the Green Plan is about — it is a movement, a collective movement, a collective movement towards a shared vision.
+68 And this is what the Green Plan is about — it is a movement, a collective movement, a collective movement towards a shared vision.
 
-It is a living plan that evolves as we engage and participate fully as a nation, and as new technologies and solutions present us with new options.
+69 It is a living plan that evolves as we engage and participate fully as a nation, and as new technologies and solutions present us with new options.
 
-It is my hope that the Green Plan will spark new possibilities that were once thought to be unattainable. That it will pave the way for a greener, brighter future. That when it is time to hand the torch over to the next generation, we will be remembered as faithful stewards of our island nation, who made the right and difficult choices. In good time.
+70 It is my hope that the Green Plan will spark new possibilities that were once thought to be unattainable. That it will pave the way for a greener, brighter future. That when it is time to hand the torch over to the next generation, we will be remembered as faithful stewards of our island nation, who made the right and difficult choices. In good time.
 
-This push towards a low-carbon future heralds a new phase in Singapore&#39;s sustainable development.
+71 This push towards a low-carbon future heralds a new phase in Singapore&#39;s sustainable development.
 
-Just as how we have transformed Singapore into a modern metropolis, our future will be even brighter as we work together to build Singapore into a city of green possibilities.
+72 Just as how we have transformed Singapore into a modern metropolis, our future will be even brighter as we work together to build Singapore into a city of green possibilities.
