@@ -1,6 +1,6 @@
 ---  
 title: MSE Committee of Supply 2022 Press Release  
-permalink: /resource-room/category/2020-03-07-press-release-cos-mse-2022/  
+permalink: /resource-room/category/2022-03-07-press-release-cos-mse-2022/  
 image:  
 file_url:  
 description:  
