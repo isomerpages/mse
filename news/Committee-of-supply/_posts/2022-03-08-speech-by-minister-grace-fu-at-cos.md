@@ -1,5 +1,5 @@
 ---  
-title: Speech by Minister Grace Fu - The Singapore Green Plan: Stewarding the Change towards a Low-Carbon Future
+title: Speech by Minister Grace Fu: The Singapore Green Plan - Stewarding the Change towards a Low-Carbon Future
 permalink: /resource-room/category/2022-03-08-speech-by-minister-grace-fu-at-cos-sgp-joint-segment-2022
 image:  
 file_url:  
@@ -10,71 +10,71 @@ description:
 
 _**The Singapore Green Plan: Stewarding the Change towards a Low-Carbon Future**_
 
-One year ago, we launched the Singapore Green Plan 2030 to catalyse a nationwide sustainability movement, to move towards a greener future. Since then, the international momentum for climate action has increased.
+1 One year ago, we launched the Singapore Green Plan 2030 to catalyse a nationwide sustainability movement, to move towards a greener future. Since then, the international momentum for climate action has increased.
 
-Senior Minister Teo Chee Hean spoke about the greater urgency and resolve internationally to take decisive action, and why Singapore will raise our climate ambitions to achieve net zero emissions by or around mid-century. He explained how carbon pricing will be pivotal in spurring Singapore&#39;s green transition.
+2 Senior Minister Teo Chee Hean spoke about the greater urgency and resolve internationally to take decisive action, and why Singapore will raise our climate ambitions to achieve net zero emissions by or around mid-century. He explained how carbon pricing will be pivotal in spurring Singapore&#39;s green transition.
 
-Singapore must catch and ride the green wave, to thrive in a low-carbon future. This is key to our continued relevance as an international hub for transport, business, and finance.
+3 Singapore must catch and ride the green wave, to thrive in a low-carbon future. This is key to our continued relevance as an international hub for transport, business, and finance.
 
 **SUSTAINABILITY AS A GROWING MOVEMENT**
 
-The sustainability movement in Singapore is growing and inspiring action across all segments of society.
+4 The sustainability movement in Singapore is growing and inspiring action across all segments of society.
 
-Ms Poh Li San and Ms Rachel Ong will be heartened to hear that we have made progress in many areas under the Green Plan including the following:
+5 Ms Poh Li San and Ms Rachel Ong will be heartened to hear that we have made progress in many areas under the Green Plan including the following:
 
-Two consortia have been awarded tenders to install more than 600 EV chargers in carparks across Singapore.
+6 Two consortia have been awarded tenders to install more than 600 EV chargers in carparks across Singapore.
 
-This year, we will begin trialling the import of electricity from Malaysia and Laos, and we are seeking proposals to import low-carbon energy from beyond our shores.
+7 This year, we will begin trialling the import of electricity from Malaysia and Laos, and we are seeking proposals to import low-carbon energy from beyond our shores.
 
-GreenGov.SG was launched to steer the public sector towards ambitious sustainability targets. Organisations such as Sentosa Development Corporation, Nanyang Technological University, and Khoo Teck Puat Hospital have drawn up their own sustainability plans.
+8 GreenGov.SG was launched to steer the public sector towards ambitious sustainability targets. Organisations such as Sentosa Development Corporation, Nanyang Technological University, and Khoo Teck Puat Hospital have drawn up their own sustainability plans.
 
-We have been engaging our partners from the people, private and public, or 3P sectors to make the Green Plan a reality, as raised by Ms Janet Ang. Green Plan Ministries have engaged more than 25,000 stakeholders over the past year, including corporates, youths, NGOs and the community. They have participated in initiatives such as the OneMillionTrees movement, Green Plan Conversations, and the Youth Action Challenge.
+9 We have been engaging our partners from the people, private and public, or 3P sectors to make the Green Plan a reality, as raised by Ms Janet Ang. Green Plan Ministries have engaged more than 25,000 stakeholders over the past year, including corporates, youths, NGOs and the community. They have participated in initiatives such as the OneMillionTrees movement, Green Plan Conversations, and the Youth Action Challenge.
 
-The private sector is adopting sustainability practices and committing resources to secure an early foothold in the green transition.
+10 The private sector is adopting sustainability practices and committing resources to secure an early foothold in the green transition.
 
-The Maritime and Aviation sectors are trialing the use of cleaner and lower-carbon fuels. SIA and Scoot will begin a pilot to use blended sustainable aviation fuel at Changi Airport.
+11 The Maritime and Aviation sectors are trialing the use of cleaner and lower-carbon fuels. SIA and Scoot will begin a pilot to use blended sustainable aviation fuel at Changi Airport.
 
-To accelerate the decarbonisation of the Built Environment sector, more than 80 organisations have signed an embodied carbon pledge launched by the Singapore Green Building Council.
+12 To accelerate the decarbonisation of the Built Environment sector, more than 80 organisations have signed an embodied carbon pledge launched by the Singapore Green Building Council.
 
-Global firms such as McKinsey, Bain and Company, and PwC have established sustainability hubs and centres in Singapore, to serve the region and beyond.
+13 Global firms such as McKinsey, Bain and Company, and PwC have established sustainability hubs and centres in Singapore, to serve the region and beyond.
 
-Civil society, community organisations and youths are galvanising a social movement on sustainability, empowering action and advocacy from the ground. At last year&#39;s Climate Action Week, over 60 partners from the 3P sectors organised more than 130 wide-ranging activities, a record for the event.
+14 Civil society, community organisations and youths are galvanising a social movement on sustainability, empowering action and advocacy from the ground. At last year&#39;s Climate Action Week, over 60 partners from the 3P sectors organised more than 130 wide-ranging activities, a record for the event.
 
-To mark Youth Day at the 26th United Nations Climate Change Conference, a group of Singaporeans and youth-led environmental and climate organisations, such as Ho Xiang Tian and FiTree, released a statement with wide-ranging recommendations on tackling climate change.
+15 To mark Youth Day at the 26th United Nations Climate Change Conference, a group of Singaporeans and youth-led environmental and climate organisations, such as Ho Xiang Tian and FiTree, released a statement with wide-ranging recommendations on tackling climate change.
 
-I am inspired by their passion to drive change and encourage our youths to continue to advocate and act for change.
+16 I am inspired by their passion to drive change and encourage our youths to continue to advocate and act for change.
 
 **LAYING THE FOUNDATION FOR A LOW-CARBON FUTURE**
 
-As we step towards a greener and low-carbon future, we will need to build a new social compact to prepare for changes in the way we live, work and play.
+17 As we step towards a greener and low-carbon future, we will need to build a new social compact to prepare for changes in the way we live, work and play.
 
-As citizens, we must reflect on the changes we are willing to make to our lifestyles. Across the economy, we must move boldly to transform and capture the opportunities from the green transition. As a nation, we must thoroughly debate the trade-offs, and come to a consensus on the right balance to strike.
+18 As citizens, we must reflect on the changes we are willing to make to our lifestyles. Across the economy, we must move boldly to transform and capture the opportunities from the green transition. As a nation, we must thoroughly debate the trade-offs, and come to a consensus on the right balance to strike.
 
-Today, my colleagues and I will give an update on how the government is preparing for the transition to a low-carbon future, anchored around the Green Plan.
+19 Today, my colleagues and I will give an update on how the government is preparing for the transition to a low-carbon future, anchored around the Green Plan.
 
-Minister Gan Kim Yong will elaborate on our efforts to grow Singapore&#39;s green economy and decarbonise our energy sector.
+20 Minister Gan Kim Yong will elaborate on our efforts to grow Singapore&#39;s green economy and decarbonise our energy sector.
 
-Minister Iswaran will speak about measures to further reduce carbon emissions in the transport sector.
+21 Minister Iswaran will speak about measures to further reduce carbon emissions in the transport sector.
 
-Minister Desmond Lee will share about our progress in greening our built environment, and in transforming Singapore into a City in Nature.
+22 Minister Desmond Lee will share about our progress in greening our built environment, and in transforming Singapore into a City in Nature.
 
-Minister Chan Chun Sing will give an update on how we are nurturing the next generation to be stewards in environmental sustainability, and how the Institutes of Higher Learning are driving skills training, research and innovation in sustainability.
+23 Minister Chan Chun Sing will give an update on how we are nurturing the next generation to be stewards in environmental sustainability, and how the Institutes of Higher Learning are driving skills training, research and innovation in sustainability.
 
 **STEWARDING THE CHANGE**
 
-Let me share about my Ministry&#39;s efforts to empower, invest in, and partner, companies, people and communities to move towards a low carbon future.
+24 Let me share about my Ministry&#39;s efforts to empower, invest in, and partner, companies, people and communities to move towards a low carbon future.
 
 _Empowering companies, households and workers_
 
-First, empowering businesses, workers and households. Improving energy efficiency is one of the primary ways that businesses can lower their carbon emission. We will provide targeted support to help every sector decarbonise. BCA will support the built environment sector; EMA the power generation sector; and EDB and NEA, the manufacturing sector.
+25 First, empowering businesses, workers and households. Improving energy efficiency is one of the primary ways that businesses can lower their carbon emission. We will provide targeted support to help every sector decarbonise. BCA will support the built environment sector; EMA the power generation sector; and EDB and NEA, the manufacturing sector.
 
-Professor Koh Lian Pin asked about the Energy Efficiency Fund, which is part of an enhanced package of support launched in January 2019 to help industries become more energy efficient and lower their carbon tax. Since then, we have committed over $75 million to support businesses to implement energy efficiency improvement and carbon abatement projects.
+26 Professor Koh Lian Pin asked about the Energy Efficiency Fund, which is part of an enhanced package of support launched in January 2019 to help industries become more energy efficient and lower their carbon tax. Since then, we have committed over $75 million to support businesses to implement energy efficiency improvement and carbon abatement projects.
 
-SMEs deserve our attention. They are at the heart of our economy, supplying products and services to many sectors, and employing a significant proportion of our workforce. While many of them are nimble, dynamic, and creative, they often lack resources to invest in energy-efficient technologies or make changes to their business.
+27 SMEs deserve our attention. They are at the heart of our economy, supplying products and services to many sectors, and employing a significant proportion of our workforce. While many of them are nimble, dynamic, and creative, they often lack resources to invest in energy-efficient technologies or make changes to their business.
 
-Earlier in the Budget debate, Mr Don Wee and Ms Denise Phua called for more support for SMEs. Over the years, we have built on our support for SMEs to achieve greater energy efficiency.
+28 Earlier in the Budget debate, Mr Don Wee and Ms Denise Phua called for more support for SMEs. Over the years, we have built on our support for SMEs to achieve greater energy efficiency.
 
-ESG launched the $180 million Enterprise Sustainability Programme to support Singapore companies in their sustainability journeys.
+29 ESG launched the $180 million Enterprise Sustainability Programme to support Singapore companies in their sustainability journeys.
 
 Last year, NEA and ESG supported the Carbon Pricing Leadership Coalition Singapore&#39;s LowCarbonSG initiative to help companies build capabilities in measuring, monitoring and reducing their carbon emissions.
 
