@@ -6,57 +6,57 @@ file_url:
 description:  
 ---  
 
-#### SPEECH BY MR DESMOND TAN, MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT
+#### SPEECH BY MR DESMOND TAN, MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE COMMITTEE OF SUPPLY DEBATE ON 7 MARCH 2022
 
 **BUILDING A SUSTAINABLE, RESILIENT, LIVEABLE AND VIBRANT CITY TOGETHER**
 
 **Introduction**
 
-1 Mr Chairman, I will be speaking about how MSE has taken steps and will continue to secure our food sources and water supply, with the support of industry and every Singaporean.
+1 Mr Chairman, I will be speaking about how the Ministry of Sustainability and the Environment (MSE) has taken steps and will continue to secure our food sources and water supply, with the support of industry and every Singaporean. 
 
 **Strengthening Resilience of Food Supply and Safety**
 
 _Progress update on 30x30 goal_
 
-2 First, on food security. Minister Grace mentioned earlier, climate change and pandemics such as COVID-19 are some of the biggest threats we face today. Coupled with the war in Ukraine, the confluence of factors is causing global supply and price volatility, and we can expect to feel the impact in the coming months. MSE plans to ensure food supply resilience through our three food baskets – diversify import sources, grow local, and grow overseas. Our &quot;grow local&quot; basket is supported by the 30x30 goal – an ambition to expand our capability to grow more food locally, in a sustainable and resource efficient way.
+2 First, on food security. Like Minister Grace mentioned earlier, climate change and pandemics such as COVID-19 are some of the biggest threats we face today. Coupled with the war in Ukraine, the confluence of factors is causing global supply and price volatility, and we can expect to feel the impact in the coming months. MSE plans to ensure food supply resilience through our three food baskets — diversify import sources, grow local, and grow overseas. Our “grow local” basket is supported by the 30x30 goal — an ambition to expand our capability to grow more food locally, in a sustainable and resource efficient way.
 
-3 Last year, I shared about our intention to masterplan the Lim Chu Kang region, and turn the area into a high-tech agri-food zone that can significantly raise food production, provide new and exciting job opportunities for Singaporeans.
+3 Last year, I shared about our intention to masterplan the Lim Chu Kang region, and turn the area into a high-tech agri-food zone that can significantly raise food production, and provide new and exciting job opportunities for Singaporeans. 
 
-4 I am glad to update Mr Don Wee and Prof Koh Lian Pin that in 2021, we completed a six-month series of engagements on how the government, industry, nature groups and public can co-create the future Lim Chu Kang region. Many industry players and other stakeholders are keen to embrace high-tech farming, with ideas like shared processing and distribution facilities, and centralised waste management systems for complementary uses which will enhance the entire farming eco-system. The feedback and ideas from the engagements will be folded into our actual planning phase of LCK masterplan this year.
+4 I am glad to update Mr Don Wee and Prof Koh Lian Pin that in 2021, we completed a six-month series of engagements on how the government, industry, nature groups and public can co-create the future Lim Chu Kang (LCK) region. Many industry players and other stakeholders are keen to embrace high-tech farming, with ideas like shared processing and distribution facilities, and centralised waste management systems for complementary uses which will enhance the entire farming eco-system. The feedback and ideas from the engagements will be folded into our actual planning phase of the LCK masterplan this year.
 
-5 We have also been driving research innovation and plugging existing technological gaps. Under the Singapore Food Story R&amp;D Programme, we set aside up to $144 million for R&amp;D for sustainable urban food production, future foods such as advanced biotech-based protein production, as well as food safety science and innovation. To date, around $75 million has been committed to over 30 projects.
+5 We have also been driving research innovation and plugging existing technological gaps. Under the Singapore Food Story Research and Development (R&D) Programme, we set aside up to $144 million for R&D for sustainable urban food production, future foods such as advanced biotech-based protein production, as well as food safety science and innovation. To date, around $75 million has been committed to over 30 projects. 
 
 6 I echo Dr Lim Wee Kiak&#39;s point that alternative proteins such as cell-based and plant-based meats can contribute to our nutritional needs. As some alternative proteins do not have a history of use as food, it is important to ensure the safe introduction of such novel food products into Singapore&#39;s market.
 
-7 This is why SFA developed the Novel Food Regulatory Framework in 2019 which requires companies to undertake pre-market food safety assessments as part of the process of seeking approval from SFA. I encourage novel food companies to engage SFA early through platforms such as SFA&#39;s Novel Food Virtual clinics to better understand SFA&#39;s requirements, so that they can prioritise their research efforts.
+7 This is why the Singapore Food Agency (SFA) developed the Novel Food Regulatory Framework in 2019, which requires companies to undertake pre-market food safety assessments as part of the process of seeking approval from SFA. I encourage novel food companies to engage SFA early through platforms such as SFA’s Novel Food Virtual clinics to better understand SFA’s requirements, so that they can prioritise their research efforts.
 
 _Building a more productive and sustainable aquaculture sector_
 
-8 Now, let me move on to our aquaculture industry. Mr Chairman, Fish is a commonly consumed source of protein that can be grown locally to contribute to our food security.
+8 Now, let me move on to our aquaculture industry. Mr Chairman, Fish is a commonly consumed source of protein that can be grown locally to contribute to our food security. 
 
-9 To Ms Nadia Samdin&#39;s question, SFA has been working closely with the industry over the past year to understand their needs, and introduce best practices that can help to uplift production and the sector. I have joined them in some of these engagement sessions and had the chance to visit many fish farms, in the Johor Straits, and Southern Waters.
+9 To Ms Nadia Samdin’s question, SFA has been working closely with the industry over the past year to understand their needs, and introduce best practices that can help to uplift production and the sector. I have joined them in some of these engagement sessions and had the chance to visit many fish farms, in the Johor Straits, and Southern Waters. 
 
-10 The sea-based fish farms in Singapore are varied, each with a unique approach to farming. Some, like Rong-Yao Fisheries culture their fish in traditional open net cage systems. With good farm management practices in place, Rong-Yao Fisheries has obtained the Good Aquaculture Practice (GAP) Fish Farming certification. We have also seen the emergence of high-tech farms which have the potential to transform fish farming by culturing fish intensively. The Eco-Ark by Aquaculture Centre of Excellence (ACE) is one of the world&#39;s first purpose-built floating closed containment aquaculture production structure that combines Offshore &amp; Marine Technology with a closed containment system, using water treatment technology to provide good quality seawater to culture the fish and at the same time reduce the vulnerability to external conditions.
+10 The sea-based fish farms in Singapore are varied, each with a unique approach to farming. Some, like Rong-Yao Fisheries, culture their fish in traditional open net cage systems. With good farm management practices in place, Rong-Yao Fisheries has obtained the Good Aquaculture Practice (GAP) Fish Farming certification. We have also seen the emergence of high-tech farms which have the potential to transform fish farming by culturing fish intensively. The Eco-Ark by Aquaculture Centre of Excellence (ACE) is one of the world’s first purpose-built floating closed containment aquaculture production structure that combines Offshore and Marine Technology with a closed containment system, using water treatment technology to provide good quality seawater to culture the fish and at the same time reduce the vulnerability to external conditions.
 
-11 Farms like Rong-Yao and ACE&#39;s Eco-Ark have found farming methods that work for them, but they also shared their hopes of getting greater certainty on their use of sea spaces, so that they can continue to invest in their future.
+11 Farms like Rong-Yao and ACE’s Eco-Ark have found farming methods that work for them, but they also shared their hopes of getting greater certainty on their use of sea spaces, so that they can continue to invest in their future. 
 
 _Regularising our sea spaces_
 
-12 Today, sea-based farms do not have a lease mechanism, and this creates some uncertainty for our farms. So, we will offer leases to all sea-based farms in the longer term. Incumbent farms will be eased into this arrangement by starting with yearly-renewable temporary occupation licences (TOL) from 1 Jan 2023. The charges will be progressively stepped up to market rate from 2023 to 2026. This will give farms sufficient lead time to consider longer-term investment decisions.
+12 Today, sea-based farms do not have a lease mechanism, and this creates some uncertainty for our farms. So, we will offer leases to all sea-based farms in the longer term. Incumbent farms will be eased into this arrangement by starting with yearly-renewable temporary occupation licences (TOL) from 1 January 2023. The charges will be progressively stepped up to market rate from 2023 to 2026. This will give farms sufficient lead time to consider longer-term investment decisions. 
 
 13 I also mentioned in my speech last year that SFA plans to launch new sea space tenders on lease. I am glad to share that this will happen from end-2022.
 
-14 Sea-based farms will see a reduction in their annual licence fee from 1 Jan 2023. SFA has reviewed the fish farm licence fees to ensure that it remains relevant and that compliance costs for the industry are minimised. Only new farm applications and farms with major changes to their farming activities such as a change in the food type that they want to produce, will be subject to a separate one-off assessment fee due to higher manpower and equipment costs incurred during the course of the assessment. Details will be announced in the coming months.
+14 Sea-based farms will see a reduction in their annual licence fee from 1 January 2023. SFA has reviewed the fish farm licence fees to ensure that it remains relevant and that compliance costs for the industry are minimised. Only new farm applications and farms with major changes to their farming activities, such as a change in the food type that they want to produce, will be subject to a separate one-off assessment fee due to higher manpower and equipment costs incurred during the course of the assessment. Details will be announced in the coming months.
 
 _Providing greater certainty for investments on agriculture space use_
 
-15 Ms Nadia Samadin, Prof Koh Lian Pin and Mr Raj Joshua Thomas&#39;s queries, we want to provide greater certainty for our farmers, so they will invest more into their farms. I am happy to announce that new land and sea parcels will benefit from longer term leases of 20+10 years. This means that future tenders will offer farmers the option of extending their lease beyond the initial 20-year period for an additional 10 years, subject to farms meeting SFA&#39;s production output conditions.
+15 To Ms Nadia Samadin, Prof Koh Lian Pin and Mr Raj Joshua Thomas’s queries, we want to provide greater certainty for our farmers, so they will invest more into their farms. I am happy to announce that new land and sea parcels will benefit from longer term leases of 20+10 years. This means that future tenders will offer farmers the option of extending their lease beyond the initial 20-year period for an additional 10 years, subject to farms meeting SFA’s production output conditions.
 
-16 This will apply to new land parcels in Sungei Tengah and Lim Chu Kang after the masterplanning exercise, as well as sea spaces that I mentioned earlier from end-2022 onwards. More details will be announced by SFA when the tenders are launched.
+16 This will apply to new land parcels in Sungei Tengah and LCK after the masterplanning exercise, as well as sea spaces that I mentioned earlier from end-2022 onwards. More details will be announced by SFA when the tenders are launched.
 
 _Enhancements to the Agri-Food Cluster Transformation Fund_
 
-17 Mr Don Wee and Mr Raj Joshua Thomas asked how we are helping farmers to upgrade their operations. Last year, I shared that SFA launched a $60million Agri-Food Cluster Transformation (ACT) Fund. This ACT fund supports farms&#39; needs in different aspects at different phases. For example, capability upgrade, innovation and test-bedding, as well as tech upscaling. SFA has received a total of 32 applications as of 31 Dec 2021. Eight applications have been approved, while the remaining applications are being processed and evaluated.
+17 Mr Don Wee and Mr Raj Joshua Thomas asked how we are helping farmers to upgrade their operations. Last year, I shared that SFA launched a $60million Agri-Food Cluster Transformation (ACT) Fund. This ACT fund supports farms’ needs in different aspects at different phases — for example, capability upgrade, innovation and test-bedding, as well as tech upscaling. SFA has received a total of 32 applications as of 31 December 2021. Eight applications have been approved, while the remaining applications are being processed and evaluated.
 
 18 Going forward, we will also expand the scope of the ACT fund to allow more food types that are commonly consumed in Singapore to benefit from higher co-funding quantum. This includes fruited vegetables, mushrooms, and shrimp. More farms can benefit from the higher co-funding support to invest in farming solutions.
 
@@ -66,7 +66,7 @@ _Encouraging Singaporeans to buy local produce_
 
 20 While local farms ramp up production to contribute to our 30 by 30 goal, it is critical that Singaporeans play a part by supporting local produce. Strengthening Singapore&#39;s food security is a whole-of-nation effort and without strong local demand, our farmers would find it hard to sustain a high level of production.
 
-21 With your permission Mr Chairman, may I display a slide on the LCD screens. To help Singaporeans better identify local produce, SFA launched a set of 3 logos to integrate branding for local produce in Feb 2022. These are the updated SG Fresh Produce logo to identify local farms (1 -star), and logos to differentiate farms certified under the Good Agricultural Practice scheme for quality assurance (2 stars), and Clean &amp; Green scheme for sustainable production (3 stars).
+21 To help Singaporeans better identify local produce, SFA launched a set of three logos to integrate branding for local produce in February 2022. These are the updated SG Fresh Produce logo to identify local farms (1 star), and logos to differentiate farms certified under the Good Agricultural Practice scheme for quality assurance (2 stars), and Clean & Green scheme for sustainable production (3 stars).
 
 22 By choosing local produce, everyone can contribute to our food security. Whether you are buying groceries for your family, or for your restaurant, choosing local produce supports local farmers, helping them not just survive but to flourish by becoming more productive and sustainable. Please, let me remind everybody to support our local produce!
 
@@ -92,7 +92,7 @@ _Encouraging Singaporeans to buy local produce_
 
 _Jurong Island Desalination Plant_
 
-32 We will continue to strengthen water security by developing weather-resilient sources like NEWater and desalinated water, and I am happy to announce that Singapore&#39;s latest plant, Jurong Island Desalination Plant, will be operational in Apr 2022.
+32 We will continue to strengthen water security by developing weather-resilient sources like NEWater and desalinated water. I am happy to announce that Singapore’s latest plant, Jurong Island Desalination Plant, will be operational in April 2022. 
 
 33 This plant is co-located with Tuas Power&#39;s existing Tembusu Multi-Utilities Complex (TMUC). It taps on cost and operational synergies in the water-energy nexus by sharing infrastructure such as the seawater intake and substation with the TMUC.
 
@@ -100,17 +100,17 @@ _Jurong Island Desalination Plant_
 
 _Tuas Nexus Update_
 
-35 In 2020, we announced that work had begun on Tuas Nexus - Singapore&#39;s first integrated solid waste and used water treatment facility, comprising NEA&#39;s Integrated Waste Management Facility (IWMF) and PUB&#39;s Tuas Water Reclamation Plant (TWRP). Mr Shawn Huang asked about the Tuas Nexus project and an update. To date, more than $4bil worth of contract works have been awarded by NEA and PUB. The Tuas Nexus is set to complete in phases from 2025.
+35 In 2020, we announced that work had begun on Tuas Nexus —Singapore’s first integrated solid waste and used water treatment facility, comprising the National Environment Agency (NEA)’s Integrated Waste Management Facility (IWMF) and PUB’s Tuas Water Reclamation Plant (TWRP). Mr Shawn Huang asked about the Tuas Nexus project and an update. To date, more than S$4 billion worth of contract works have been awarded by NEA and PUB. The Tuas Nexus is set to complete in phases from 2025.
 
-36 The electricity generated by IWMF will be sufficient to sustain the operations of Tuas Nexus and excess electricity will be exported to the national grid. When fully operational, the excess electricity exported to the grid by IWMF will be able to power up to 300,000 four-room HDB flats.
+36 The electricity generated by the IWMF will be sufficient to sustain the operations of Tuas Nexus and excess electricity will be exported to the national grid. When fully operational, the excess electricity exported to the grid by IWMF will be able to power up to 300,000 four-room HDB flats.
 
 37 This is just the beginning. We will continue to explore such synergies across various infrastructure facilities across the Government.
 
 _DTSS2 Update_
 
-38 Mr Chairman, the Deep Tunnel Sewerage system will transform the way Singapore transports our used water. This is essential in land-scarce Singapore, and when completed, will result in a 50% reduction in the land take for used water infrastructure.
+38 Mr Chairman, the Deep Tunnel Sewerage system will transform the way Singapore transports our used water. This is essential in land-scarce Singapore, and when completed, will result in a 50 per cent reduction in the land take for used water infrastructure.
 
-39 This is a multi-year, $6.5 billion project that showcases our commitment to forward planning. I am glad to update Mr Sitoh Yih Pin that for Phase 2 tunnel contracts which begun in 2017, more than 80% of the tunnelling works have been completed. The overall project including Tuas Water Reclamation Plant is scheduled to be ready by 2026.
+39 This is a multi-year, S$6.5 billion project that showcases our commitment to forward planning. I am glad to update Mr Sitoh Yih Pin that for Phase 2 tunnel contracts which began in 2017, more than 80 per cent of the tunnelling works have been completed. The overall project including Tuas Water Reclamation Plant is scheduled to be ready by 2026.
 
 **Call to action: Building a Sustainable, Resilient, Liveable and Vibrant City Together**
 
@@ -120,19 +120,19 @@ _Fostering community stewardship_
 
 41 Beyond our local waterways, we are also inspiring collective action to safeguard our marine environment from the threats posed by marine litter.
 
-42 I am pleased to update Ms Nadia Samdin that the Government is on track to publish Singapore&#39;s first National Action Strategy on Marine Litter in June 2022. The Strategy will describe Singapore&#39;s comprehensive approach to address the sources of marine litter. Ahead of the launch of the Strategy, we organised a public engagement session to seek feedback on measures to address marine litter and to galvanise 3P efforts to improve the situation in Singapore.
+42 I am pleased to update Ms Nadia Samdin that the Government is on track to publish Singapore&#39;s first National Action Strategy on Marine Litter in June 2022. The Strategy will describe Singapore&#39;s comprehensive approach to address the sources of marine litter. Ahead of the launch of the Strategy, we organised a public engagement session to seek feedback on measures to address marine litter and to 3P (People, Private, Public) efforts to improve the situation in Singapore.
 
 _Managing water demand_
 
-43 Ms Cheryl Chan and Ms Hany Soh asked how we can improve water conservation. The COVID-19 pandemic saw water consumption shift from the non-domestic sector to the domestic sector. In 2021, non-domestic water consumption fell by 6% while domestic water consumption increased by 6% compared to the pre-COVID period.
+43 Ms Cheryl Chan and Ms Hany Soh asked how we can improve water conservation. The COVID-19 pandemic saw water consumption shift from the non-domestic sector to the domestic sector. In 2021, non-domestic water consumption fell by 6 per cent while domestic water consumption increased by 6 per cent compared to the pre-COVID period.
 
 44 In per capita terms, household water consumption increased from 141 litres per day in 2019, to 158 litres per day in 2021. This was largely due to more time spent at home because of work from home and home-based learning arrangements, as well as more frequent hand washing, showering and cleaning by households to maintain higher hygiene standards as what Ms Chan and Ms Soh have pointed out.
 
-45 PUB will support households to make informed choices and raise awareness on water consumption at home, for example through the Smart Water Meter Programme. PUB has commenced the roll-out of the first phase of the programme in Tampines Central in January 2022 and will be installing some 300,000 smart water meters in new and existing residential, commercial and industrial premises, and target to complete by 2023.
+45 PUB will support households to make informed choices and raise awareness on water consumption at home, for example, through the Smart Water Meter Programme. PUB has commenced the roll-out of the first phase of the programme in Tampines Central in January 2022 and will be installing some 300,000 smart water meters in new and existing residential, commercial and industrial premises, and targets to complete by 2023.
 
 46 Water conservation starts with every Singaporean. I hope every individual can play their part to save water to ensure our water supply continues to be sustainable.
 
-47 I also want to thank Mr Murali for his suggestion to plug the existing gaps of enforcing foreign vehicles that has high idling engines. There are practical challenges, but I would like to assure Mr Murali that we will be studying his proposal.
+47 I also want to thank Mr Murali for his suggestion to plug the existing gaps of enforcing foreign vehicles that have high idling engines. There are practical challenges, but I would like to assure Mr Murali that we will be studying his proposal.
 
 **Conclusion**
 
