@@ -128,7 +128,12 @@ description:
 
 49 11 aspiring hawkers are currently operating incubation stalls, with another six awaiting allocation of incubation stalls.
 
-50 Some of our new hawkers include Ms Priscilla Huang (aged 31) of *Authentic Hong Kong Delights*, and Mr Lim Wei Keat (aged 27) of *Ah Keat Chicken Rice*, who joined the hawker trade over the past year after completing HDP. 
+50 Some of our new hawkers include Ms Priscilla Huang (aged 31) of *Authentic Hong Kong Delights* [^1], and Mr Lim Wei Keat (aged 27) of *Ah Keat Chicken Rice* [^2], who joined the hawker trade over the past year after completing HDP. 
+
+[^1]: ![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-1.JPG)
+![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-2.JPG)
+[^2]: ![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-3.JPG)
+![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-4.JPG)
 
 51 In addition to Wei Keat’s chicken rice which we had for lunch, I have ordered mochi and water chestnut cakes from Priscilla for Parliament’s tea break today. A few others like Ms Amber Pong (aged 32) of *The Headless Baker* at Ghim Moh Market, who converted to a full-fledged hawker after completing her Incubation Stall Programme, even opened a second outlet in July last year .  
 
@@ -148,7 +153,9 @@ description:
 
 58 **Mr Gan** and **Mr Wee** asked about the construction progress of new hawker centres. 
 
-59 While COVID-19 has caused some delay, four new centres – namely Bukit Canberra, Fernvale, One Punggol and Senja Hawker Centres, will begin operations by 3rd quarter this year. In addition, five more centres in the construction stage will progressively be completed in the next few years, and two more are in the planning and design stage. 
+59 While COVID-19 has caused some delay, four new centres[^3] – namely Bukit Canberra, Fernvale, One Punggol and Senja Hawker Centres, will begin operations by 3rd quarter this year. In addition, five more centres in the construction stage will progressively be completed in the next few years, and two more are in the planning and design stage. 
+
+[^3]: ![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-5.JPG)
 
 60 Residents in Tampines Town can also look forward to another new hawker centre. More details of this new centre will be shared in due course.
 
