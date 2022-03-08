@@ -139,3 +139,5 @@ _Managing water demand_
 **Conclusion**
 
 48 Mr Chairman, I thank Members for your support of the work done by MSE, PUB and SFA to ensure food security and water sustainability, and ask that you continue to help us build a sustainable, resilient, liveable and vibrant city together.
+
+<hr>
