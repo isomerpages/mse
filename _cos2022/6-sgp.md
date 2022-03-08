@@ -1,7 +1,3 @@
----
-title: Green Plan
----
-
 <html>
 	<head>
 		<title>Green Plan</title>
