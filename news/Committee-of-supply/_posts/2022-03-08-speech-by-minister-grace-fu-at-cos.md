@@ -1,12 +1,12 @@
 ---  
-title: Speech by Minister Grace Fu - The Singapore Green Plan: Stewarding the Change towards a Low-Carbon Future
+title: Speech by Minister Grace Fu - A Resilient Singapore, For A Sustainable Future
 permalink: /resource-room/category/2022-03-08-speech-by-minister-grace-fu-at-cos-sgp-joint-segment-2022
 image:  
 file_url:  
 description:  
----  
+--- 
 
-**SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT JOINT SEGMENT ON SINGAPORE GREEN PLAN 2030 AT COMMITTEE OF SUPPLY (COS) DEBATE, 8 MARCH 2022**
+#### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT JOINT SEGMENT ON SINGAPORE GREEN PLAN 2030 AT COMMITTEE OF SUPPLY (COS) DEBATE, 8 MARCH 2022
 
 _**The Singapore Green Plan: Stewarding the Change towards a Low-Carbon Future**_
 
