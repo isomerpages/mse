@@ -68,6 +68,8 @@ _Encouraging Singaporeans to buy local produce_
 
 21 To help Singaporeans better identify local produce, SFA launched a set of three logos to integrate branding for local produce in February 2022. These are the updated SG Fresh Produce logo to identify local farms (1 star), and logos to differentiate farms certified under the Good Agricultural Practice scheme for quality assurance (2 stars), and Clean & Green scheme for sustainable production (3 stars).
 
+![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-mos-speech-1.JPG)
+
 22 By choosing local produce, everyone can contribute to our food security. Whether you are buying groceries for your family, or for your restaurant, choosing local produce supports local farmers, helping them not just survive but to flourish by becoming more productive and sustainable. Please, let me remind everybody to support our local produce!
 
 23 Mr Chairman, in Mandarin please.
