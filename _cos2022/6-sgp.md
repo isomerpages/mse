@@ -1,1 +1,4 @@
-[Green Plan](https://greenplan.gov.sg)
+---
+title: Green Plan
+target: https://greenplan.gov.sg
+---
