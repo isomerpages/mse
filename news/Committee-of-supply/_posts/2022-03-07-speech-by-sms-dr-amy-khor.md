@@ -186,3 +186,5 @@ description:
 72 Chairman, despite the challenges of the pandemic, everyone – be it the cleaning industry, premises managers or hawkers – have demonstrated resilience, seized opportunities to improve cleanliness, and embrace new business opportunities online.
 
 73 Let us continue to work together to build a truly SG Clean Singapore, and safeguard our hawker culture for future generations. Indeed, let’s support SG Hawkers!
+
+<hr>
