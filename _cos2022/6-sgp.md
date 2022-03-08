@@ -1,8 +1,6 @@
-<html>
-	<head>
-		<title>Green Plan</title>
-		<meta http-equiv="REFRESH" content="0;url=https://greenplan.gov.sg">
-	</head>
-	<body>
-	</body>
-</html>
+---
+layout: forward
+target: https://greenplan.gov.sg
+targetname: greenplan.gov.sg
+targettitle: Green Plan
+---
