@@ -1,4 +1,4 @@
 ---
 title: Green Plan
-permalink: https://greenplan.gov.sg
+url: https://greenplan.gov.sg
 ---
