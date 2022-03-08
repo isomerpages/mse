@@ -1,5 +1,5 @@
 ---  
-title: Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment at MSE COS Debates 2022
+title: Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment - Building An SG Clean Singapore, And Safeguard Our Hawker Cultur
 permalink: /resource-room/category/2022-03-07-speech-by-senior-minister-of-state-dr-amy-khor-at-cos-2022
 image:  
 file_url:  
@@ -7,6 +7,8 @@ description:
 ---  
 
 #### SPEECH BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, MSE COS DEBATES, 7 MAR 2022
+
+**Building An SG Clean Singapore, And Safeguard Our Hawker Culture**
 
 **INTRODUCTION**
 
