@@ -241,13 +241,14 @@ body {
 
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap" rel="stylesheet">
+
+<div><center><a class="button_cos" href="/resource-room/category/2022-03-07-press-release-cos-mse-2022">View Press Release</a></center></div>
+
 <div class="container">
 <div class="card-content">
 <h2 class="description" style="color:#4a96b0; font-weight:bold; font-family:'Roboto Condensed'">BUILDING OUR CITY OF GREEN POSSIBILITIES</h2>
   <!-- <p class="description"> Everyone can play a part in building a resilient and sustainable nation</p> -->
  
-  <center><a class="button_cos" href="/2022-03-07-press-release-cos-mse-2022">View Press Release</a></center>
-
   <div class="card">
     <div class="front" style="background-image: url(/images/cosclimate.jpg)">
       <h4>Coastal Protection
@@ -322,7 +323,7 @@ body {
       </div>
   </div>
   
-<center><a class="button_cos" href="/2022-03-07-press-release-cos-mse-2022">View Press Release</a></center>
+<center><a class="button_cos" href="/resource-room/category/2022-03-07-press-release-cos-mse-2022">View Press Release</a></center>
   
   <!--
   <div class="card"> 
