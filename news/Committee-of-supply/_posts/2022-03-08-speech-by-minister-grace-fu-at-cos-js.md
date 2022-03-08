@@ -8,7 +8,7 @@ description:
 
 **SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT JOINT SEGMENT ON SINGAPORE GREEN PLAN 2030 AT COMMITTEE OF SUPPLY (COS) DEBATE, 8 MARCH 2022**
 
-_ **The Singapore Green Plan: Stewarding the Change towards a Low-Carbon Future** _
+_**The Singapore Green Plan: Stewarding the Change towards a Low-Carbon Future**_
 
 One year ago, we launched the Singapore Green Plan 2030 to catalyse a nationwide sustainability movement, to move towards a greener future. Since then, the international momentum for climate action has increased.
 
