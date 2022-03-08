@@ -312,7 +312,7 @@ body {
   
   <div class="card">
     <div class="front" style="background-image: url(/images/cos-sgp-masthead.jpg);">
-      <h4>Cleaner Public Spaces</h4>      
+      <h2><img src="/images/sgplogowhite.png" alt="SGP"></h2>      
     </div>
     <div class="back">
       <div>
@@ -333,7 +333,20 @@ body {
       </div>
   </div>
   
-<center><a class="button_cos" href="/resource-room/category/2022-03-07-press-release-cos-mse-2022" target="_blank">View Press Release</a></center>
+  <div>
+  <center><a class="button_cos" href="/resource-room/category/2022-03-07-press-release-cos-mse-2022" target="_blank">View Press Release</a></center>
+  </div>
+  
+  <div class="card" style="width: calc(100% - 2rem); min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
+    <div class="front" style="background-image: url(/cos2022/resources/cos-thumbnail-icons-2.png);">
+      <h4>Speeches & Infographics</h4>      
+    </div>
+    <div class="back">
+      <div>
+        <a href="/cos/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
+      </div>
+    </div>
+  </div>
   
   <!--
   <div class="card"> 
@@ -361,17 +374,6 @@ body {
     </div>
   </div>
   
-  <div class="card" style="width: calc(100% - 2rem);
-  min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
-    <div class="front" style="background-image: url(/cos2022/resources/cos-thumbnail-icons-2.png);">
-      <h4>Speeches & Infographics</h4>      
-    </div>
-    <div class="back">
-      <div>
-        <a href="/cos/speeches-and-infographics"><button class="button">Speeches & Infographics</button></a>
-      </div>
-    </div>
-  </div>
   -->
   
 </div>
