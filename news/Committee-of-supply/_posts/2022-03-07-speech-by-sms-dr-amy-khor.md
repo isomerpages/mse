@@ -130,10 +130,8 @@ description:
 
 50 Some of our new hawkers include Ms Priscilla Huang (aged 31) of *Authentic Hong Kong Delights* [^1], and Mr Lim Wei Keat (aged 27) of *Ah Keat Chicken Rice* [^2], who joined the hawker trade over the past year after completing HDP. 
 
-[^1]: ![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-1.JPG)
-![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-2.JPG)
-[^2]: ![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-3.JPG)
-![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-4.JPG)
+[^1]: ![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-1.JPG)<br>![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-2.JPG)
+[^2]: ![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-3.JPG)<br>![MSE COS 2022](/news/Committee-of-supply/images/mse-cos2022-sms-speech-4.JPG)
 
 51 In addition to Wei Keat’s chicken rice which we had for lunch, I have ordered mochi and water chestnut cakes from Priscilla for Parliament’s tea break today. A few others like Ms Amber Pong (aged 32) of *The Headless Baker* at Ghim Moh Market, who converted to a full-fledged hawker after completing her Incubation Stall Programme, even opened a second outlet in July last year .  
 
