@@ -316,7 +316,7 @@ body {
     </div>
     <div class="back">
       <div>
-        <p>Good progress has been made on the Singapore Green Plan 2030 as we accelerate decarbonisation and sustainability efforts.</p>
+        <p>We are making good progress on the Singapore Green Plan 2030 as decarbonisation and sustainability efforts are accelerated.</p>
         <a href="https://greenplan.gov.sg"><button class="button">Learn More</button></a>
       </div>
     </div>
