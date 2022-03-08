@@ -322,6 +322,18 @@ body {
     </div>
   </div>
 
+   <div class="card">
+    <div class="front" style="background-image: url(/images/cosclean.jpg);">
+      <h4>Cleaner Public Spaces</h4>      
+    </div>
+    <div class="back">
+      <div>
+        <p>Good progress has been made on the Singapore Green Plan 2030 as we accelerate decarbonisation and sustainability efforts.</p>
+        <a href="https://greenplan.gov.sg"><button class="button">Learn More</button></a>
+      </div>
+    </div>
+  </div>
+  
   <div class="card" style="width: calc(100% - 2rem);
   min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
     <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
