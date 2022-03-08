@@ -1,4 +1,4 @@
 ---
 title: Green Plan
-url: https://greenplan.gov.sg
+external_url: https://greenplan.gov.sg
 ---
