@@ -311,7 +311,7 @@ body {
   
   <div class="card">
     <div class="front" style="background-image: url(/images/cos-sgp-masthead.jpg);">
-      <h1><img src="/images/sgplogowhite.png" alt="SGP"></h1>      
+      <h2><img src="/images/sgplogowhite.png" alt="SGP"></h2>      
     </div>
     <div class="back">
       <div>
