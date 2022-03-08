@@ -310,6 +310,18 @@ body {
       </div>
   </div>
   
+  <div class="card">
+    <div class="front" style="background-image: url(/images/cos-sgp-masthead.jpg);">
+      <h4>Cleaner Public Spaces</h4>      
+    </div>
+    <div class="back">
+      <div>
+        <p>Good progress has been made on the Singapore Green Plan 2030 as we accelerate decarbonisation and sustainability efforts.</p>
+        <a href="https://greenplan.gov.sg"><button class="button">Learn More</button></a>
+      </div>
+    </div>
+  </div>
+  
   <div class="card"> 
     <div class="front" style="background-image: url(/cos2022/resources/cos-thumbnail-icons-2.png)">
       <h4>Speeches & Infographics</h4>
