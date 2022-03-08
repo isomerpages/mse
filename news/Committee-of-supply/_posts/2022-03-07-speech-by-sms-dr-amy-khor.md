@@ -16,7 +16,7 @@ description:
 
 2	Over the past two years, we have improved the cleanliness of public spaces – from working with premises managers to uphold high cleanliness standards, to ensuring individuals practise personal responsibility by returning trays and binning litter. 
 
-3 **Ms Nadia Ahmad Samdin** would be pleased to know that since the Clean Tables Campaign and mandatory clean tables regime were implemented, the national average Tray and Crockery Return Rate (TCRR) in hawker centres has improved significantly, from 33% to 85%.~~  
+3 **Ms Nadia Ahmad Samdin** would be pleased to know that since the Clean Tables Campaign and mandatory clean tables regime were implemented, the national average Tray and Crockery Return Rate (TCRR) in hawker centres has improved significantly, from 33% to 85%.
 
 4 We have also achieved a national average TCRR of above 85% in coffeeshops and food courts. Many have shared that the dining environment is now cleaner, with faster turnover of tables and fewer incidences of pests and bird nuisance. 
 
