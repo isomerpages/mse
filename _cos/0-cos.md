@@ -321,7 +321,7 @@ body {
       </div>
     </div>
   </div>
-
+  
   <div class="card" style="width: calc(100% - 2rem);
   min-width: calc(100% - 2rem); height: 120px; min-height: 120px;">
     <div class="front" style="background-image: url(/cos/resources/cos-thumbnail-icons.jpeg);">
