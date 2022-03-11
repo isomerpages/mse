@@ -34,11 +34,10 @@ For more details, please refer to this [guide](/resources/Guide-on-how-to-appeal
 **Resources &amp; Contact**
 
 **Legislation on appeals under the CPA:**
-
-[Carbon Pricing Act](https://sso.agc.gov.sg/Act/CPA2018)
-
-[Carbon Pricing (Appeals) Regulations](https://sso.agc.gov.sg/SL/CPA2018-S532-2020?DocDate=20200630)
-
+<ul>
+  <li>[Carbon Pricing Act](https://sso.agc.gov.sg/Act/CPA2018)</li>
+  <li>[Carbon Pricing (Appeals) Regulations](https://sso.agc.gov.sg/SL/CPA2018-S532-2020?DocDate=20200630)</li>
+</ul>
 **For further queries, please contact:**
 
 Carbon Pricing Appeals Secretary
