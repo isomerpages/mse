@@ -57,7 +57,7 @@ Our priorities are to:
 * Achieve Food Safety and Security Sustainably
 * Build a Liveable and Endearing Home -->
 
- Learn more about Singapore's environmental issues [here](/policies/overview/ "Learn The Policies").
+ Learn more about [Singapore's environmental issues](/policies/overview/ "Learn The Policies").
 
 <br>
 <br>
