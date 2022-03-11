@@ -10,7 +10,7 @@ Singapore is the first country in Southeast Asia to introduce a carbon price. Th
 
 The carbon tax will incentivise emissions reductions across all sectors and support the transition to a low-carbon economy. There are no exemptions for covered facilities, to maintain a transparent, fair, and consistent price signal across the economy.
 
-For more details on the CPA, please [click here](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/climate-change/carbon-tax).
+Find out more about [CPA](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/climate-change/carbon-tax).
 
 **Appeals under the Carbon Pricing Act**
 
@@ -35,9 +35,9 @@ For more details, please refer to this [guide](/resources/Guide-on-how-to-appeal
 
 **Legislation on appeals under the CPA:**
 
-[Click here](https://sso.agc.gov.sg/Act/CPA2018) to view the Carbon Pricing Act.
+[Carbon Pricing Act](https://sso.agc.gov.sg/Act/CPA2018)
 
-[Click here](https://sso.agc.gov.sg/SL/CPA2018-S532-2020?DocDate=20200630) to view the Carbon Pricing (Appeals) Regulations.
+[Carbon Pricing (Appeals) Regulations](https://sso.agc.gov.sg/SL/CPA2018-S532-2020?DocDate=20200630)
 
 **For further queries, please contact:**
 
