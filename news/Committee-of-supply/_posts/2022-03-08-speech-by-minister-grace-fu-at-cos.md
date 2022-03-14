@@ -172,3 +172,4 @@ _Partnering people and communities_
 
 72 Just as how we have transformed Singapore into a modern metropolis, our future will be even brighter as we work together to build Singapore into a city of green possibilities.
 
+<hr>
