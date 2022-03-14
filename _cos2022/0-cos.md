@@ -254,7 +254,7 @@ body {
     <div class="back">
       <div>
         <p>We are formulating plans to safeguard our coastlines against sea level rise.</p>
-        <a href="/cos/coastal-protection"><button class="button">Learn More</button></a>
+        <a href="/cos/coastal-protection"><button class="button">Coastal Protection</button></a>
       </div>
     </div>
   </div>
@@ -267,7 +267,7 @@ body {
     <div class="back">
       <div>
         <p>New schemes will be put in place to reduce waste and encourage sustainable habits.</p>
-        <a href="/cos/sustainable-living"><button class="button">Learn More</button></a>
+        <a href="/cos/sustainable-living"><button class="button">Towards Zero Waste</button></a>
       </div>
     </div>
   </div>
@@ -280,7 +280,7 @@ body {
     <div class="back">
       <div>
         <p>New schemes to support local farmers and strengthen resilience of food supply and safety.</p>
-        <a href="/cos/food"><button class="button">Learn More</button></a>
+        <a href="/cos/food"><button class="button">Food Security</button></a>
       </div>
     </div>
   </div>
@@ -292,7 +292,7 @@ body {
     <div class="back">
       <div>
         <p>We are safeguarding our hawker culture and transforming the industry through new schemes and initiatives.</p>
-        <a href="/cos/hawker"><button class="button">Learn More</button></a>
+        <a href="/cos/hawker"><button class="button">Hawker Culture</button></a>
       </div>
     </div>
   </div>
@@ -304,7 +304,7 @@ body {
     <div class="back">
         <div>
           <p>Our collective efforts to shore up our public health defences will guard us against future threats.</p>
-          <a href="/cos/public-health"><button class="button">Learn More</button></a>
+          <a href="/cos/public-health"><button class="button">Public Health</button></a>
         </div>
       </div>
   </div>
@@ -316,7 +316,7 @@ body {
     <div class="back">
       <div>
         <p>We are making good progress on the Singapore Green Plan 2030 as decarbonisation and sustainability efforts are accelerated.</p>
-        <a href="https://greenplan.gov.sg"><button class="button">Learn More</button></a>
+        <a href="https://greenplan.gov.sg"><button class="button">Green Plan</button></a>
       </div>
     </div>
   </div>
