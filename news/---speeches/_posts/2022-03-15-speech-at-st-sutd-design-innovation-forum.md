@@ -8,7 +8,7 @@ description:
 
 #### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Singapore University of Technology and Design (ST-SUTD) Design Innovation Forum on 15 March 2022
 
-_ **A Sustainable Future by Design: Reimagining our Possibilities** _
+_**A Sustainable Future by Design: Reimagining our Possibilities**_
 
 A very good afternoon to
 
