@@ -1,51 +1,109 @@
 ---  
-title: Singapore Chinese Chamber of Commerce and Industry (SCCCI)'s Career Women's Group International Women's Day Conference - Ms Grace Fu  
-permalink: /resource-room/category/2022-03-06-speech-at-sccci-international-womens-day-conference-2022/  
+title: Straits Times – Singapore University of Technology and Design (ST-SUTD) Design Innovation Forum - Ms Grace Fu  
+permalink: /resource-room/category/2022-03-15-speech-at-st-sutd-design-innovation-forum
 image:  
 file_url:  
 description:  
 ---  
 
-#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the SCCCI's IWD Conference on 6 March 2022
+#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Singapore University of Technology and Design (ST-SUTD) Design Innovation Forum on 15 March 2022
 
-新加坡中华总商会会长黄山忠先生，
+_ **A Sustainable Future by Design: Reimagining our Possibilities** _
 
-新加坡中华总商会事业女性组主席黄亦巧医生，
+A very good afternoon to
 
-各位来宾，
+Professor Chong Tow Chong, President of SUTD,
 
-女士先生们，
+Distinguished guests,
 
-**开场**
+Faculty members and students in the auditorium and online.
 
-1 大家晚上好。很高兴再次被邀请参加新加坡中华总商会事业女性组的国际三八妇女节论坛。这是一项重要的活动，汇聚了来自不同专业、领域的妇女一起来集思广益，讨论如何更好地在职场上为妇女提供支援和改善妇女的就业条件与环境。
+**INTRODUCTION**
 
-2 今年论坛的主题是 "Being我（wo）men"。这是一个巧妙又贴切的主题，可说是为今晚的讨论定下了基调。女性要如何平衡多方面的期望，实现个人的抱负，以及在社会上和家庭中扮演好她们的角色？
+1 Today&#39;s theme - A More Sustainable and Happier World by Design - brings to mind a recent sharing by Mr Liu Thai Ker, Singapore&#39;s former chief planner.
 
-**促进平等的职场**
+2 Mr Liu believed that cities should be sustainable by design, to meet the growing needs of future generations. And to design such a city, one would need: &quot;a humanist&#39;s heart, a scientist&#39;s head, and an artist&#39;s eye.&quot;
 
-3 政府把2021年定为 "欢庆新加坡女性年"。我们与社区伙伴携手合作，举办了160场新加坡女性发展对话会，吸引了全国将近6000人参加。我很高兴，中华总商会事业女性组也主办了其中一场对话会，与贵会会员展开了一项针对女性员工的调查。
+3 We may not always have articulated it in such elegant terms, but these elements are reflected in Singapore&#39;s national development journey.
 
-4 我们通过对话会得到的反馈包括，女性希望在职场上获得更平等的待遇、在实现事业抱负方面得到支持，以及能够更好地兼顾工作和家庭两方面的责任。我们必须建立公平、包容和进步的工作场所，消除阻碍女性事业发展的障碍。尽管工作场所没有明显的性别歧视，但是不少女性们会察觉到，她们因为必须履行家庭责任，而往往无法获得应得的晋升机会。
+4 Sustainability has been a part of Singapore&#39;s DNA since our early years of independence. We cleaned up our rivers and invested in water resilience many decades ago. We have consistently pursued sustainable development by balancing economic growth with environmental protection and social inclusion.
 
-5 为了解决这个问题，李显龙总理在去年的国庆群众大会上宣布，政府正在考虑把现有的劳资政公平雇佣指导原则纳入法律。这将为职场中的女性提供更大的保障，也能够让更多的女性在职场上充分地发挥所长。政府也在探讨如何照顾看护者，为她们的牺牲和贡献给予肯定。我们将加强支援，以减轻看护者的负担，并更好地照顾看护者的身心健康。雇主和同事们也可以尽一份力，多体谅那些因看护责任而需要灵活工作安排的同事，协力打造一个相互体谅的工作场所。
+**BACKGROUND**
 
-6 参与对话会的女性也表示，希望打造一个能让女性感到安全和被受尊重的社会。保障妇女和女孩的安全是我们的首要任务，政府严厉看待任何暴力和伤害女性的行为，包括职场暴力行为。我们大家都有责任建立一个相互尊重、互保安全的社会文化。我们将在接下来几个月在国会上提呈女性发展白皮书，到时将会公布更多详情。
+5 Why is sustainability an important design feature for Singapore?
 
-7 但是我们不能光靠法律和政策来解决问题。我们需要家庭、企业和社区伙伴，整体社会共同努力，促使人们改变观念，消除性别偏见和歧视，携手推动新加坡女性的发展。雇主也必须意识到雇用女性的价值，女性是宝贵的人力资源，性别多样性不仅能让企业机构更具创新性、更有利可图，还能更好地留住优秀的员工。 
+6 For one, we are a small city-state. Within our small land space, we need to accommodate not just housing, parks and commercial centres, but also air- and sea-ports, reservoirs and industries.
 
-**妇女与可持续发展**
+7 We have a small population, and our demographics are changing rapidly. Our workforce is becoming older and leaner, and we have also been calibrating the inflow of labour from other countries.
 
-8 今年国际三八妇女节的主题是 "性别平等共创可持续未来"。在经济和社会领域之外，环境的可持续发展正在成为变革的主要推动力。各国在去年的联合国气候变化大会上签署了《格拉斯哥气候公约》之后，我们看到全球多个国家都加大力度推进气候行动。放眼全球各地，不少女性正在领导对抗气候变化的这场斗争，身为科学家、工程师和非政府组织负责人的女性，凭她们各自的能力和专长，为应对气候变化作出了贡献。
+8 We also face significant resource constraints. Singapore imports over 90% of our food and about half of our water. We are vulnerable to supply disruptions caused by climate change, market volatilities and virus or disease outbreaks.
 
-9 根据经济合作与发展组织的一份调查报告，女性一般对环境课题触觉更加敏锐，而且更有可能进行回收再循环、减少浪费，以及养成可持续的消费习惯。  调查还显示，女性在重大决定上开始担起更大的责任，如环境、社会和治理（简称ESG）方面的财务投资，以及购买产业和车辆的决定。随着女性越来越有影响力，我们必须在各方面提高女性的参与度。
+9 Increasingly, carbon is becoming a constraint. At last year&#39;s United Nations Climate Change Conference in Glasgow, or COP26, there was strong international consensus to limit global warming to 1.5°C above pre-industrial levels. To keep this target within reach, the world needs a rapid and drastic reduction in emissions, to attain net zero by 2050. Similarly, at this year&#39;s Budget, the Singapore Government announced that we will raise our ambition to achieve net zero by or around mid-century.
 
-10 在本地，我们也看到越来越多的女性投入可持续发展领域的工作。多个企业机构，如新加坡交易所、城市发展和凯德集团的首席可持续发展总监，都由女性出任。一些女性也创办了推广可持续发展的组织。WISE就是一个例子。WISE是“可持续发展与环保领域中的女性”的英文缩写，这个团体刚于去年成立，目标是为身处可持续发展领域的女性发声，无论她们是消费者、投资者还是这领域的专业人士。这是一个突显女性能如何从基层积极推动改变的好例子。我希望能看到更多女性挺身而出，带领这类由基层发起的项目。
+10 As a small country with limited land, manpower and resources, our trade-offs are much starker than what most countries face. Reduction in our carbon emissions will require serious work to raise energy efficiency, lower energy needs and importation of low-carbon energy sources.
 
-11 我相信你们当中有许多人对可持续发展充满热忱，也有很多新颖创新的想法可以帮助新加坡实现迈向低碳社会的目标。我鼓励你们把想法和点子转化为实际行动。你可以先从小处着手，先在你的网络或社区内做起，然后逐步扩大规模。如果需要资助，可以申请我们永续部的新加坡生态基金帮你启动计划。申请程序很简单，而且我们还能够以共同出资的形式提供高达100万元的援助。
+11 But our experience with sustainability also gives us the confidence to reimagine a greener future. Through careful long-term planning and implementation, enabled by innovations in policy and technology, not only can we break out of these constraints, we will thrive in a low-carbon future.
 
-**结语**
+12 How will innovations in policy and technology enable our transition? I would like to offer four design parameters - product, process, system and society.
 
-12 最后，我要感谢新加坡中华总商会事业女性组作为我们在支持女性进步与发展方面的重要伙伴，以及小组为推动新加坡成为一个更公平、更包容的社会所作出的积极贡献。我也要感谢新加坡中华总商会的领导层肯定女性对本地商界和社会做出贡献的潜力，以及给予事业女性组的支持。我在此祝2022年国际三八妇女节论坛圆满成功，也期待在稍后的论坛中跟与会者一起讨论如何进一步促进新加坡女性的发展。
+**DESIGNING SUSTAINABLE PRODUCTS**
 
-13 谢谢！
+13 First, product design.
+
+14 Product design with sustainability in mind reduces waste in production, encourages the right consumer behaviour, and enables end-of life recycling. An example is exhibition panels. As a top global destination for meetings, conventions and exhibitions, there is a high demand for such panels in Singapore. Discarded exhibition panels can generate lots of waste, and take up valuable landfill space.
+
+15 Hence, I was delighted to learn that for SUTD&#39;s Open House, the exhibition panels are made entirely from recyclables, and are designed to minimize waste from fabrication. As shown here, they can be seamlessly assembled, stacked and stored without any glue or fastener, to be easily recycled at its end-of-life.
+
+**DESIGNING SUSTAINABLE PROCESSES**
+
+16 Second, redesigning processes for sustainability.
+
+17 Process redesign enables us to optimize resources and carbon footprint and turn our scarcity into a competitive advantage. One example in the waste treatment sector is Tuas Nexus, an integrated waste treated facility that encompasses a water reclamation plant, materials sorting and recovery plant, an anaerobic facility for food waste and water sludge.
+
+18 The current conventional process is for PUB to treat its wastewater independently, reclaim the water and dispose of its sludge in Semakau landfill.
+
+19 At Tuas Nexus, we will comingle and co-digest the sludge with food waste to triple the yield of biogas, which in turn will generate energy to power the wastewater facility. This enhances energy and resource recovery, and reduces overall carbon emissions. Furthermore, co-locating the facilities will lead to land savings of up to 2.6 hectares – about the size of four football fields – as compared to building the standalone facilities.
+
+20 In the agri-food sector, there are many opportunities to design and deploy innovative technologies. AI and the internet of things could increase farming and resource efficiency. Netatech, a local smart farming company, harnesses cloud computing and automation to drip irrigate its produce. This lowers costs and man hours, while raising crop yields.
+
+21 The Eco-Ark by the Aquaculture Centre of Excellence, a closed containment aquaculture production centre, combines water treatment technology, and offshore and marine technology, to maintain quality of its seawater and thus the resilience of its production process.
+
+**DESIGNING FOR SUSTAINABLE SYSTEMS**
+
+22 Third, designing for sustainability at a system level. A systems approach requires us to look beyond an entity, explore the interdependencies between entities, and aim to optimize at a system level.
+
+23 We are putting this into practice through our &#39;30 by 30&#39; strategy – to raise the capability and capacity of our agri-food industry to produce 30% of our nutritional needs by 2030, with just 1% of our land area.
+
+24 We are starting with the development of the infrastructure – master-planning the Lim Chu Kang region into a high-tech agri-food zone, to raise food production in a sustainable and resource-efficient manner. Our six-month stakeholder engagement exercise last year yielded many ideas to enhance the farming eco-system. It has helped to further shape our vision to &#39;grow more with less&#39; by leveraging technology, and achieving economies of scale via shared facilities for waste management, post-harvest and packaging.
+
+25 Next, we will introduce circular economy principles, where possible, such that the by-product of an entity can become an input of another in the eco-system. For example, soup stock can be made from fish trimmings, while the organic waste of poultry farms can be valorized as fertilizers for the vegetable farms.
+
+26 We will increase the climatic resilience of our food sources, by turning to R&amp;D that reduces carbon footprint and climatic impact. Novel food products such as alternative proteins can potentially help to meet global food demand with a smaller resource footprint – production is climate-resilient, and productive in terms of land and labour.
+
+**DESIGNING FOR A SUSTAINABLE SOCIETY**
+
+27 This brings me to my final point. A sustainable future requires a whole-of nation participation. It will only be realized if we do all the above by re-engineering a whole new way of life.
+
+28 We need to bring the entire society along – to discuss the challenges and trade-offs to be made, and to make the collective decisions that will make the green transition inclusive.
+
+29 That is why we have put together the Singapore Green Plan 2030 – to chart a common vision for a sustainable future, and a roadmap for everyone. Through the Green Plan, sustainability will shape our economy, our infrastructure, our way of life.
+
+30 The pursuit of sustainability will also create opportunities to re-imagine and re-design spaces that enhance both resilience and livability. Bishan-Ang Mo Kio park is a demonstration of how we have turned a concrete utilitarian canal into social spaces, with a river flanked by greenery, while retaining its floodwater retention capacity. It has created a green and blue lung for the residents in the community while retaining the park&#39;s flood control functions.
+
+31 We aim to do likewise in our coastal protection efforts for our nearly 300km of varied coastlines. We will dovetail engineering solutions with the recreational needs of the community, while preserving natural landmarks. This involves working closely with stakeholders to minimise environmental impact, and to protect existing ecosystems.
+
+32 Most importantly, we hope the Green Plan will spark a national conversation and galvanise action. And to cultivate Sustainable Living, where sustainability habits become a way of life and the social norm. For our individual actions will determine the collective outcome.
+
+33 SUTD has vast potential to steer the course. SUTD remains an ideal place to pursue one&#39;s passion in sustainability. The university boasts an extensive track record of putting sustainability into practice. And designing for a better future.
+
+34 The SUTD Sustainability Plan, and SUTD&#39;s commitment to devote $10m to sustainability research over the next three to five years, will further empower both faculty and students to pursue R&amp;D and design. SUTD has also been an active contributor to social and urban research. A decade on, the Lee Kuan Yew Centre for Innovative Cities continues to deliver impactful, actionable research findings on urban solutions.
+
+**CONCLUSION**
+
+35 Let me conclude. Our sustainability blueprint is a work-in-progress, to be designed, to be innovated.
+
+36 Our sustainability journey over the next few decades present immense opportunities for aspiring designers, architects, entrepreneurs, engineers, and policymakers among us. We are witnessing a global shift towards alternative sources of energy, circular economy, and a sustainable lifestyle.
+
+37 We need innovation in products, processes, systems and our society. It is up to the humanist, scientist, and artist within us to make our vision for a better future a reality.
+
+38 Thank you.
