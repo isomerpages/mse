@@ -14,7 +14,9 @@ permalink: /privacy/
 
 <li>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the digital service.</li>
 </ol>
+
 **Use of Data**
+
 <ol start="4">
 <li>If you provide us with personal data:
 
@@ -25,6 +27,7 @@ permalink: /privacy/
 (c) For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 </li>
 </ol>
+
 **Protection of Data**
 
 <ol start="5">
@@ -32,6 +35,7 @@ permalink: /privacy/
 
 <li>This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and we encourage you to consult the privacy notices of those digital services.</li>
 </ol>
+
 **Contact Information**
 
 <ol start="7">
