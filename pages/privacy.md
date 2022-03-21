@@ -43,4 +43,4 @@ b need more information on or access to data which you have provided directly to
 
 9 &quot;Non-Government entity&quot; refers to a person other than a Government Agency.
 
-10 &quot;Personal data&quot; shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012)
+10 &quot;Personal data&quot; shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
