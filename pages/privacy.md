@@ -31,7 +31,7 @@ c For your convenience, we may also display to you data you had previously suppl
 
 **Contact Information**
 
-1. Please contact MSE\_Feedback@mse.gov.sg if you:
+7 Please contact MSE\_Feedback@mse.gov.sg if you:
 
 a have any enquires or feedback on our data protection, policies and procedures; or
 
