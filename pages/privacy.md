@@ -3,8 +3,6 @@ title: Privacy Statement
 permalink: /privacy/
 ---
 
-### **Government Agency Privacy Statement**
-
 **&quot;General&quot;**
 
 <ol>
