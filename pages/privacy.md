@@ -27,7 +27,7 @@ c For your convenience, we may also display to you data you had previously suppl
 
 5 To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
 
-6 This digital service may contain links to non-Government digital services whose data protecti4on and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and we encourage you to consult the privacy notices of those digital services.
+6 This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and we encourage you to consult the privacy notices of those digital services.
 
 **Contact Information**
 
