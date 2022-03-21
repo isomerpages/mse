@@ -39,7 +39,7 @@ permalink: /privacy/
 **Contact Information**
 
 <ol start="7">
-<li>Please contact [MSE_Feedback@mse.gov.sg](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=MSE_Feedback@mse.gov.sg) if you:
+<li>Please contact <a href="mailto:MSE_Feedback@mse.gov.sg">MSE_Feedback@mse.gov.sg</a> if you:
 
 (a) have any enquires or feedback on our data protection, policies and procedures; or
 
