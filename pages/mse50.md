@@ -6,8 +6,7 @@ permalink: /mse50collection
 <style>
  
 .img-icon {
- min-width: 80px !important;
- max-width: 100px; 
+ max-width: 60% !important; 
 }
 
 .mse50-logo {
