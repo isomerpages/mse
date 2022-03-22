@@ -525,4 +525,4 @@ a {
 
 <h1>Our People</h1>
 
-<i>Coming Soon</i>
+<i>Coming Soon: Video Series of MSE Officers</i>
