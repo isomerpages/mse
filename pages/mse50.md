@@ -1,6 +1,6 @@
 ---
 title: MSE50
-permalink: /mse50
+permalink: /mse50collection
 ---
 
 <h1>Building a Green and Resilient Singapore</h1><br>
