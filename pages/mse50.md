@@ -397,11 +397,11 @@ a {
 
 @media (min-width: 1500px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -155px;
+    right: -100px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -155px;
+    left: -100px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
@@ -411,11 +411,11 @@ a {
 
 @media (min-width: 1600px) {
   .timeline-post:nth-child(odd) .vesti-date-wrapper {
-    right: -160px;
+    right: -100px;
     top: 55px;
   }
   .timeline-post:nth-child(even) .vesti-date-wrapper {
-    left: -160px;
+    left: -100px;
   }
   .timeline-post:nth-child(odd) .vesti-date-wrapper,
   .timeline-post:nth-child(even) .vesti-date-wrapper {
