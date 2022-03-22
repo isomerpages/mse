@@ -45,7 +45,7 @@ permalink: /mse50collection
 
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo">
 
-<h4><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary  (MSE50).</b> To commemorate this Golden Jubilee, MSE will be introducing a series of meaningful activities throughout the year to:</h4>
+<h4>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50). To commemorate this Golden Jubilee, MSE will be introducing a series of meaningful activities throughout the year to:</h4>
 <br>
 <div class="row">
  <div class="column">
