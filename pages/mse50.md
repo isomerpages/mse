@@ -39,7 +39,7 @@ permalink: /mse50collection
   }
 }
 
-# STYLING FOR TIMELINE
+/* STYLING FOR TIMELINE */
  
  *,
 *:after, 
