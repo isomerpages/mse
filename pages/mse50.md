@@ -6,12 +6,12 @@ permalink: /mse50collection
 <style>
  
 .img-icon {
- min-width: 80px;
+ min-width: 80px !important;
  max-width: 100px; 
 }
 
 .mse50-logo {
- max-width: 75%;
+ max-width: 75% !important;
  }
  
 .column {
