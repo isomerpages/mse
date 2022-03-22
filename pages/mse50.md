@@ -25,7 +25,8 @@ permalink: /mse50collection
  
 @media screen and (max-width: 600px) {
   .column {
-    width: 50%;
+    width: 75%;
+    margin-left: 12.5%;
   }
 }
 
