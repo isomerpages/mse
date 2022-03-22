@@ -37,7 +37,7 @@ permalink: /mse50collection
 
 </style>
 
-<b><h1>Building a Green and Resilient Singapore</h1></b>
+<h1><b>Building a Green and Resilient Singapore</b></h1>
 
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50">
 
