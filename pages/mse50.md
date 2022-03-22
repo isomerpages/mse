@@ -17,7 +17,7 @@ permalink: /mse50collection
 }
 
 .icon-desc {
- line-height: 1.5rem;
+ line-height: 1.5rem !important;
  margin: 0px;
  }
  
@@ -37,7 +37,7 @@ permalink: /mse50collection
 
 </style>
 
-<h1><b>Building a Green and Resilient Singapore</b></h1>
+<h1>Building a Green and Resilient Singapore</h1>
 
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50">
 
