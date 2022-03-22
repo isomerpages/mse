@@ -10,7 +10,7 @@ permalink: /mse50
 <p>To commemorate this Golden Jubilee, a special  MSE50 logo has been designed. The MSE50 logo is based on the MSE logo and utilises the same font, its iconic brandmark and  
 corporate colours.</p>
  
-<img src="/mse50/files/MSE50_Hori_Dark_RGB.png" alt="MSE50" max-width="350px">
+<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" max-width="350px">
  
 <p>With MSE50, we:
 <ul>
