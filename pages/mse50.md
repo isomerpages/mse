@@ -4,7 +4,7 @@ permalink: /mse50collection
 ---
 
 <style>
-
+ 
 .img-icon {
  min-width: 80px;
  max-width: 100px; 
@@ -16,6 +16,11 @@ permalink: /mse50collection
   margin: 5px;
 }
 
+.icon-desc {
+ line-height: 1.5rem;
+ margin: 0px;
+ }
+ 
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -32,12 +37,12 @@ permalink: /mse50collection
 
 </style>
 
-<h1>Building a Green and Resilient Singapore</h1><br>
+<b><h1>Building a Green and Resilient Singapore</h1></b>
 
-<h4>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary  (MSE50).</h4>
+<h4><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary  (MSE50).</b>
 
-<p>To commemorate this Golden Jubilee, a special  MSE50 logo has been designed. The MSE50 logo is based on the MSE logo and utilises the same font, its iconic brandmark and  
-corporate colours.</p>
+To commemorate this Golden Jubilee, a special  MSE50 logo has been designed. The MSE50 logo is based on the MSE logo and utilises the same font, its iconic brandmark and  
+corporate colours.</h4>
  
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" max-width="350px">
  
@@ -46,18 +51,18 @@ corporate colours.</p>
 <div class="row">
  <div class="column">
  <img src="images/mse50/milestones.png" class="img-icon"><br>
-  <p>Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
+  <p class="icon-desc">Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
  </div>
  <div class="column">
  <img src="images/mse50/people.png" class="img-icon"><br>
-  <p>Pay tribute to people who have contributed to  these environmental milestones</p>
+  <p class="icon-desc">Pay tribute to people who have contributed to  these environmental milestones</p>
  </div>
  <div class="column">
  <img src="images/mse50/public.png" class="img-icon"><br>
-  <p>Seek to foster a deep appreciation of sustainability and environment issues among  our citizens and encourage everyone to take  ownership of our environment</p>
+  <p class="icon-desc">Seek to foster a deep appreciation of sustainability and environment issues among  our citizens and encourage everyone to take  ownership of our environment</p>
  </div>
  <div class="column">
  <img src="images/mse50/partners.png" class="img-icon"><br>
-  <p>Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners</p>
+  <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners</p>
  </div>
 </div>
