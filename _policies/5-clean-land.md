@@ -78,7 +78,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>Industrial waste form up to 40% of the total amount of waste we produce. Their efforts to recycle materials and good waste management practices will bring us closer to our aims.</p>
 	</div>
-	<input type="checkbox" id="title3"  /><label for="title3">Provding An Efficient Waste Management System</label>
+	<input type="checkbox" id="title3"  /><label for="title3">Providing An Efficient Waste Management System</label>
 	<div class="accordion-content">
 		<p>NEA licenses public waste collectors and general waste collectors to bring solid waste disposed to our Waste-to-Energy plants and the Semakau landfill.</p>
 	</div>
