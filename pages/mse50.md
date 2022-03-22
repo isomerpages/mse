@@ -61,8 +61,3 @@ corporate colours.</p>
   <p>Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners</p>
  </div>
 </div>
-
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nrFxTglhBQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<caption>Placeholder for Short Film</caption>
-</div>
