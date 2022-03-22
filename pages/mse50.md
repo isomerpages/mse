@@ -522,3 +522,7 @@ a {
       </div>
     </div>
   </div>
+
+<h1>Our People</h1>
+
+<i>Coming Soon</i>
