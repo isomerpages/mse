@@ -32,14 +32,14 @@ permalink: /mse50collection
 
 <h1>Building a Green and Resilient Singapore</h1><br>
 
-<b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary  (MSE50).</b>
+<h4>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary  (MSE50).</h4>
 
 <p>To commemorate this Golden Jubilee, a special  MSE50 logo has been designed. The MSE50 logo is based on the MSE logo and utilises the same font, its iconic brandmark and  
 corporate colours.</p>
  
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" max-width="350px">
  
-<h2>With MSE50, we:</h2>
+<h4>With MSE50, we:</h4>
 
 <div class="row">
  <div class="column">
