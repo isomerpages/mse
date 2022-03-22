@@ -1,6 +1,6 @@
 ---
 title: MSE50
-permalink: /mse50collection
+permalink: 
 ---
 
 <style>
