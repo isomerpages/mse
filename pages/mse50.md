@@ -614,7 +614,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 <i>Coming Soon: Video Series of MSE Officers</i>
 
 <h1>Additional Resources</h1>
-
+<br>
 <div id="resources-container">
 <h4>Learning Journeys</h4>
 <div class="cards">
@@ -636,7 +636,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
     </div>	
 </div>
 	
-<h$>Publications</h4>
+<h4>Publications</h4>
 <div class="cards">
   <div class="card">
         <a href="#" target="_blank">  
