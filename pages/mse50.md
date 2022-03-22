@@ -42,16 +42,16 @@ corporate colours.</p>
   <p>Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
  </div>
  <div class="column">
- <img src="images/mse50/milestones.png" width="20px"><br>
-  <p>Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
+ <img src="images/mse50/people.png" width="20px"><br>
+  <p>Pay tribute to people who have contributed to  these environmental milestones</p>
  </div>
  <div class="column">
- <img src="images/mse50/milestones.png" width="20px"><br>
-  <p>Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
+ <img src="images/mse50/public.png" width="20px"><br>
+  <p>Seek to foster a deep appreciation of sustainability and environment issues among  our citizens and encourage everyone to take  ownership of our environment</p>
  </div>
  <div class="column">
- <img src="images/mse50/milestones.png" width="20px"><br>
-  <p>Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
+ <img src="images/mse50/partners.png" width="20px"><br>
+  <p>Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners</p>
  </div>
 </div>
 
