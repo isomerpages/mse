@@ -9,6 +9,10 @@ permalink: /mse50collection
  min-width: 80px;
  max-width: 100px; 
 }
+
+.mse50-logo {
+ max-width: 75%;
+ }
  
 .column {
   float: left;
@@ -37,7 +41,9 @@ permalink: /mse50collection
 
 </style>
 
-<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50">
+<h1>Building a Green and Resilient Singapore</h1>
+
+<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo">
 
 <h4><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary  (MSE50).</b> To commemorate this Golden Jubilee, MSE will be introducing a series of meaningful activities throughout the year to:</h4>
 <br>
