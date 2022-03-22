@@ -42,7 +42,7 @@ corporate colours.</p>
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" max-width="350px">
  
 <h4>With MSE50, we:</h4>
-
+<br>
 <div class="row">
  <div class="column">
  <img src="images/mse50/milestones.png" class="img-icon"><br>
