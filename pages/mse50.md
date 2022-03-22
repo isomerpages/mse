@@ -39,30 +39,27 @@ permalink: /mse50collection
 
 <b><h1>Building a Green and Resilient Singapore</h1></b>
 
+<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50">
+
 <h4><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary  (MSE50).</b>
 
-To commemorate this Golden Jubilee, a special  MSE50 logo has been designed. The MSE50 logo is based on the MSE logo and utilises the same font, its iconic brandmark and  
-corporate colours.</h4>
- 
-<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" max-width="350px">
- 
-<h4>With MSE50, we:</h4>
+To commemorate this Golden Jubilee, MSE will be introducing a series of meaningful activities throughout the year to:</h4>
 <br>
 <div class="row">
  <div class="column">
- <img src="images/mse50/milestones.png" class="img-icon"><br>
+ <img src="images/mse50/milestones.png" class="img-icon" alt="MSE50"><br>
   <p class="icon-desc">Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
  </div>
  <div class="column">
- <img src="images/mse50/people.png" class="img-icon"><br>
+ <img src="images/mse50/people.png" class="img-icon" alt="MSE50"><br>
   <p class="icon-desc">Pay tribute to people who have contributed to  these environmental milestones</p>
  </div>
  <div class="column">
- <img src="images/mse50/public.png" class="img-icon"><br>
+ <img src="images/mse50/public.png" class="img-icon" alt="MSE50"><br>
   <p class="icon-desc">Seek to foster a deep appreciation of sustainability and environment issues among  our citizens and encourage everyone to take  ownership of our environment</p>
  </div>
  <div class="column">
- <img src="images/mse50/partners.png" class="img-icon"><br>
+ <img src="images/mse50/partners.png" class="img-icon" alt="MSE50"><br>
   <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners</p>
  </div>
 </div>
