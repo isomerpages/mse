@@ -13,6 +13,7 @@ permalink: /mse50collection
 .column {
   float: left;
   width: 25%;
+  margin: 5px;
 }
 
 /* Clear floats after the columns */
