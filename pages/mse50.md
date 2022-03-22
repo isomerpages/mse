@@ -4,6 +4,11 @@ permalink: /mse50collection
 ---
 
 <style>
+
+.img-icon {
+ min-width: 80px;
+ max-width: 100px; 
+}
  
 .column {
   float: left;
@@ -38,19 +43,19 @@ corporate colours.</p>
 
 <div class="row">
  <div class="column">
- <img src="images/mse50/milestones.png" width="20px"><br>
+ <img src="images/mse50/milestones.png" class="img-icon"><br>
   <p>Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
  </div>
  <div class="column">
- <img src="images/mse50/people.png" width="20px"><br>
+ <img src="images/mse50/people.png" class="img-icon"><br>
   <p>Pay tribute to people who have contributed to  these environmental milestones</p>
  </div>
  <div class="column">
- <img src="images/mse50/public.png" width="20px"><br>
+ <img src="images/mse50/public.png" class="img-icon"><br>
   <p>Seek to foster a deep appreciation of sustainability and environment issues among  our citizens and encourage everyone to take  ownership of our environment</p>
  </div>
  <div class="column">
- <img src="images/mse50/partners.png" width="20px"><br>
+ <img src="images/mse50/partners.png" class="img-icon"><br>
   <p>Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners</p>
  </div>
 </div>
