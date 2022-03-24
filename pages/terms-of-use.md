@@ -17,7 +17,7 @@ Thank you for visiting the Ministry of Sustainability and the Environment's webs
     
 
 3.  **PRIVACY STATEMENT**   
-    Please click  [here](https://www.mse.gov.sg/privacy) to review this Site’s Privacy Statement.
+    Review this Site's [Privacy Statement](https://www.mse.gov.sg/privacy).
     
 
 4.  **RESTRICTIONS ON USE OF CONTENTS**  
