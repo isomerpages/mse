@@ -97,7 +97,18 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <div id="resources-container">
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
-  <div class="card">
+
+<div class="card">
+        <a href="/files/resources/Sustainability-MSE-Publication.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>Sustainability @ MSE 2022</h5>
+            </div>
+          <img src="/images/Sustainability-MSE-Publication-Cover.jpg" alt="Sustainability @ MSE 2022" style="width:300px;">
+        </a>
+    </div>  
+
+
+<div class="card">
         <a href="/files/resources/Key-Environmental-Statistics-2021-Publication.pdf" target="_blank">  
             <div class="card-content">
             <h5>Key Environmental Statistics 2021</h5>
