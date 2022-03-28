@@ -103,7 +103,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
             <h5>Sustainability @ MSE 2022</h5>
             </div>
-          <img src="/images/Sustainability-MSE-Publication-Cover.jpg" alt="Sustainability @ MSE 2022" style="width:300px;">
+          <img src="/images/Sustainability-MSE-Publication-Cover-2.jpg" alt="Sustainability @ MSE 2022" style="width:300px;">
         </a>
     </div>  
 
