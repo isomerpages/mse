@@ -116,6 +116,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
           <img src="/images/Key-Environmental-Statistics-2021-Cover.jpg" alt="Key Environmental Statistics 2021" style="width:300px;">
         </a>
     </div>  
+	
 	<div class="card">
         <a href="/resources/key-environmental-statistics.pdf" target="_blank">  
             <div class="card-content">
