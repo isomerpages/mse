@@ -20,7 +20,7 @@ margin-top: 10px !important;
  
 .column {
   float: left;
-  width: 30%;
+  width: 33%;
   margin: 5px;
 }
 
