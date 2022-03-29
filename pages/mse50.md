@@ -1,6 +1,6 @@
 ---
-title: MSE50
-permalink: 
+title: MSE50 — Building a Green and Resilient Singapore
+permalink: /mse50
 ---
 
 <style>
@@ -10,7 +10,8 @@ STYLING FOR INTRO
 --------------------------------------------------------------*/
  
 .img-icon {
- max-width: 60% !important; 
+ max-width: 60% !important;
+margin-top: 10px !important;
 }
 
 .mse50-logo {
@@ -509,31 +510,38 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
  
 </style>
 
-<h1>Building a Green and Resilient Singapore</h1>
-
-<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo">
-
-<h4>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50). To commemorate this Golden Jubilee, MSE will be introducing a series of meaningful activities throughout the year to:</h4>
-<br>
+<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo"><br>
+<p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b>
+<br><br>
+Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.
+<br><br>	
+Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.
+<br><br>
+The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
 <div class="row">
  <div class="column">
  <img src="images/mse50/milestones.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore</p>
+  <p class="icon-desc">Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore<br></p>
  </div>
  <div class="column">
  <img src="images/mse50/people.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Pay tribute to people who have contributed to  these environmental milestones</p>
+  <p class="icon-desc">Pay tribute to people who have contributed to  these environmental milestones<br></p>
  </div>
  <div class="column">
  <img src="images/mse50/public.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Seek to foster a deep appreciation of sustainability and environment issues among  our citizens and encourage everyone to take  ownership of our environment</p>
+  <p class="icon-desc">Seek to foster a deep appreciation of sustainability and environment issues among  our citizens and encourage everyone to take  ownership of our environment<br></p>
  </div>
  <div class="column">
  <img src="images/mse50/partners.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners</p>
+  <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners<br></p>
  </div>
 </div>
 
+<p>We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.
+<br><br>
+Stay tuned for more details!</p>
+
+<!--
 <h1>Our Journey</h1>
 
 <div class="container">
@@ -608,7 +616,9 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       </div>
     </div>
   </div>
+-->
 
+<!--
 <h1>Our People</h1>
 
 <i>Coming Soon: Video Series of MSE Officers</i>
@@ -655,5 +665,6 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
         </a>
     </div>
 </div>
+-->
+	
 <!-- container end dic -->
-</div>
