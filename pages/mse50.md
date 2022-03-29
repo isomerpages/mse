@@ -510,9 +510,9 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 </style>
 
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo">
-
-<h4>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50). <h4>
-<p>Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.
+<p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b>
+<br><br>
+Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.
 <br><br>	
 Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.
 <br><br>
@@ -538,8 +538,8 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
 </div>
 
 <p>We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.
-<br>
-More details will be released in due course.</p>
+<br><br>
+Stay tuned for more details!</p>
 
 <!--
 <h1>Our Journey</h1>
