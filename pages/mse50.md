@@ -517,6 +517,13 @@ Singapore has come a long way since the inception of the ministry in 1972. We we
 <br><br>	
 Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.
 <br><br>
+The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore.
+<br><br>
+We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.
+<br><br>
+Stay tuned for more details!</p>
+
+<!--
 The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
 <div class="row">
  <div class="column">
@@ -532,10 +539,7 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
   <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners<br></p>
  </div>
 </div>
-
-<p>We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.
-<br><br>
-Stay tuned for more details!</p>
+-->
 
 <!--
 <h1>Our Journey</h1>
