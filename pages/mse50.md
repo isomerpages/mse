@@ -1,6 +1,6 @@
 ---
 title: MSE50
-permalink: /mse50
+permalink: /mse50test
 ---
 
 <style>
