@@ -26,7 +26,7 @@ margin-top: 10px !important;
 
 .icon-desc {
  line-height: 1.5rem !important;
- margin: 0px;
+ margin: 10px 0px 10px 0px !important;
  }
  
 /* Clear floats after the columns */
