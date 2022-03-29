@@ -10,7 +10,8 @@ STYLING FOR INTRO
 --------------------------------------------------------------*/
  
 .img-icon {
- max-width: 60% !important; 
+ max-width: 60% !important;
+margin-top: 10px !important;
 }
 
 .mse50-logo {
@@ -517,7 +518,6 @@ Singapore has come a long way since the inception of the ministry in 1972. We we
 Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.
 <br><br>
 The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
-<br>
 <div class="row">
  <div class="column">
  <img src="images/mse50/milestones.png" class="img-icon" alt="MSE50"><br>
