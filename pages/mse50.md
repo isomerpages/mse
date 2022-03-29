@@ -20,7 +20,7 @@ margin-top: 10px !important;
  
 .column {
   float: left;
-  width: 25%;
+  width: 30%;
   margin: 5px;
 }
 
@@ -526,10 +526,6 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
  <div class="column">
  <img src="images/mse50/people.png" class="img-icon" alt="MSE50"><br>
   <p class="icon-desc">Pay tribute to people who have contributed to  these environmental milestones<br></p>
- </div>
- <div class="column">
- <img src="images/mse50/public.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Seek to foster a deep appreciation of sustainability and environment issues among  our citizens and encourage everyone to take  ownership of our environment<br></p>
  </div>
  <div class="column">
  <img src="images/mse50/partners.png" class="img-icon" alt="MSE50"><br>
