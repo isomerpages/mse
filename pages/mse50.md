@@ -1,6 +1,6 @@
 ---
 title: MSE50
-permalink: 
+permalink: /mse50
 ---
 
 <style>
@@ -534,6 +534,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
  </div>
 </div>
 
+<!--
 <h1>Our Journey</h1>
 
 <div class="container">
@@ -608,7 +609,9 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       </div>
     </div>
   </div>
+-->
 
+<!--
 <h1>Our People</h1>
 
 <i>Coming Soon: Video Series of MSE Officers</i>
@@ -655,5 +658,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
         </a>
     </div>
 </div>
+-->
+	
 <!-- container end dic -->
 </div>
