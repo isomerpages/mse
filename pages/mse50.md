@@ -1,5 +1,5 @@
 ---
-title: MSE50
+title: MSE50: Building a Green and Resilient Singapore
 permalink: /mse50test
 ---
 
@@ -508,8 +508,6 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 }
  
 </style>
-
-<h1>Building a Green and Resilient Singapore</h1>
 
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo">
 
