@@ -1,6 +1,6 @@
 ---
 title: MSE50 — Building a Green and Resilient Singapore
-permalink: /mse50test
+permalink: /mse50
 ---
 
 <style>
@@ -509,7 +509,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
  
 </style>
 
-<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo">
+<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo"><br>
 <p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b>
 <br><br>
 Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.
