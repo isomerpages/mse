@@ -1,5 +1,5 @@
 ---
-title: MSE50: Building a Green and Resilient Singapore
+title: MSE50 — Building a Green and Resilient Singapore
 permalink: /mse50test
 ---
 
