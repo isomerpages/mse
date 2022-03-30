@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on High-rise Littering Cases Captured on Surveillance Cameras by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2021-04-06-written-reply-to-pq-on-educating-young-on-unacceptable-social-behaviours/
+permalink: /resource-room/category/2021-04-05-written-reply-to-pq-on-high-rise-littering-on-surveillance-cameras/
 image:  
 file_url:  
 description:  

@@ -26,8 +26,6 @@ description:
 	<a class="button_david" href="/resources/parliamentary-replies-2017-2020.pdf" target="_blank">Parliamentary Q&A</a>
   </div>
 </div>
-
-<p>For COS 2020, please <a href="/cos">click here</a></p>.
 </div>
 
 <!-- https://www.nas.gov.sg/archivesonline/ -->

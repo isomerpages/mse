@@ -1,6 +1,6 @@
 ---
 title: Towards Zero Waste
-permalink: /cos/sustainable-living
+permalink: /cos2021/sustainable-living
 ---
 <style>
 
@@ -17,7 +17,7 @@ body {
 ## Sustainable Living: Accelerating efforts to reduce waste 
 
 <div>
-<img src="/cos/resources/Icon_ZeroWaste.svg" style="width:33vh; margin-bottom:0px; display:block;">
+<img src="/cos/resources/Icon_ZeroWaste.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
 In an increasingly carbon- and resource-constrained world, we must continue to reduce, reuse and recycle our resources, and pursue circular economy approaches. We will frontload our waste reduction efforts over the next five years, to reduce the amount of waste sent to landfill per capita per day by 20 per cent by 2026. This will accelerate progress towards the 30 per cent reduction target by 2030, as outlined in our Zero Waste Masterplan.
@@ -31,4 +31,4 @@ To address food waste, NEA is exploring a framework for large industrial and com
 
 To address electrical and electronic waste (e-waste), we will implement an Extended Producer Responsibility (EPR) scheme for e-waste in July 2021. NEA appointed a Producer Responsibility Scheme (PRS) Operator for e-waste in February this year, and is working with the operator to set up the collection network. Residents can look forward to more avenues to recycle their e-waste later this year.
 
-<center><a class="button_cos" href="/cos/">Back to Overview</a></center>
+<center><a class="button_cos" href="/cos2021/">Back to Overview</a></center>

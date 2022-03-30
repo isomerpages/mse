@@ -12,7 +12,7 @@ permalink: /take-action/organisations/
 <div class='container' id='org'>
     <div class='grid-row'>
         <div class='grid-column'>
-            <img src="/images/take-action-4.svg" style="max-width:50vh; margin-top:20px">
+            <img src="/images/take-action-4.svg" alt="Take Action" style="max-width:50vh; margin-top:20px">
         </div> 
     </div>
     <div>
@@ -31,14 +31,14 @@ permalink: /take-action/organisations/
             <div>
             <h5><i class="fas fa-plug"></i></h5></div>
             <div>
-                <h5><a href="https://www.e2singapore.gov.sg/households/saving-energy-at-home/energy-saving-tips/more-energy-saving-practices-at-home">Boost Energy Efficiency</a></h5>
+                <h5><a href="https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/energy-efficient-singapore">Boost Energy Efficiency</a></h5>
             </div>
         </div>
         <div class='grid-column'>
             <div>
             <h5><i class="fas fa-dumpster"></i></h5></div>
             <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/waste-management-recycling.php">Encourage Recycling</a></h5>
+                <h5><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work">Encourage Recycling</a></h5>
             </div>
         </div>
     </div>
@@ -54,14 +54,14 @@ permalink: /take-action/organisations/
             <div>
             <h5><i class="fas fa-universal-access"></i></h5></div>
             <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/organisational-awareness.php">Build Organisational Awareness</a></h5>
+                <h5><a href="https://sec.org.sg/our-programmes/eco-certifications/">Build Organisational Awareness</a></h5>
             </div>
         </div>
         <div class='grid-column'>
             <div>
             <h5><i class="fas fa-shopping-cart"></i></h5></div>
             <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/purchasing-operation.php">Conscious Purchasing</a></h5>
+                <h5><a href="https://sec.org.sg/our-programmes/eco-certifications/">Conscious Purchasing</a></h5>
             </div>
         </div>
     </div>
@@ -71,14 +71,14 @@ permalink: /take-action/organisations/
 
   <div class='grid-row'>
     <div class='grid-column'>
-        <img src="/images/take-action-5.svg">
+        <img src="/images/take-action-5.svg" alt="Take Action">
     </div>
     <div class='grid-column double-column'>
         <div class='lists'>
             <h1><b>Join Programmes</b></h1><br>
                 <ul>
                 <li><a href="https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-arrangement">Singapore Packaging Agreement (SPA) and Packaging Partnership Programme (PPP)</a>: Programmes to reduce packaging waste</li>
-                <li><a href="https://www.e2singapore.gov.sg/programmes-and-grants/programmes/energy-efficiency-national-partnership">Energy Efficiency National Partnership (EENP)</a>: A voluntary partnership programme that helps corporations enhance their long-term business competitiveness and reduce their carbon footprint by becoming more energy-efficient.</li>
+                <li><a href="https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector/energy-efficiency-national-partnership">Energy Efficiency National Partnership (EENP)</a>: A voluntary partnership programme that helps corporations enhance their long-term business competitiveness and reduce their carbon footprint by becoming more energy-efficient.</li>
                 <li><a href="http://sgls.sec.org.sg/">Labelling Scheme</a>: Singapore&#39;s leading environmental standard and certification mark that endorses consumer products with milder negative impact on the environment.</li>
                 <li><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work">3R Programme for Hotels</a>: A voluntary programme where participating hotels work with the Singapore Hotel Association and NEA to reduce waste.</li>
                 <li><a href="https://sec.org.sg/our-programmes/eco-certifications/">Project Eco Office</a>: A local certification scheme developed to promote environmentally-friendly offices, Project Eco-Office encourages management and staff working in offices to practise environmentally-friendly habits.</li>
@@ -96,7 +96,7 @@ permalink: /take-action/organisations/
 <div class='grid-row' style="padding-bottom:0px">
     <div class='grid-column'>
             <h1><b>Utilize Our Resources</b></h1><br>
-        <img src="/images/take-action-6.svg" style="max-width:33vh;">
+        <img src="/images/take-action-6.svg" alt="Take Action" style="max-width:33vh;">
     </div> 
 </div>
 
@@ -106,6 +106,6 @@ Brochures, posters, and other materials are available for download at the NEA we
 Guidebooks developed by NEA and SFA for food retail, supermarkets and food manufacturers to reduce waste across the supply chain.
 -   [3R Guidebooks](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/3r-guidebooks):  
 Step-by-step guides to implement 3R programmes in hotels, offices, shopping malls; as well as during Meetings, Incentives, Conferences & Exhibition (MICE) events.
--   [Guide to Implementing Environmentally-Friendly Best Practices for Events](http://www.mse.gov.sg/top/faqs/guide-to-environmentally-friendly-practices-for-events)
+-   [Guide to Implementing Environmentally-Friendly Best Practices for Events](/resources/environmentally-friendly-events-guidelines.pdf)
 
 <center><a class="button_david" href="/resources/">More Resources</a></center>

@@ -2,7 +2,6 @@
 title: Resources
 permalink: /resources/
 ---
-
 <style>
 /*--------------------------------------------------------------
 DAVID: START OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
@@ -98,12 +97,31 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <div id="resources-container">
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
-    <div class="card">
+	
+	<div class="card">
+        <a href="/files/resources/Sustainability-MSE-Publication.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>Sustainability @ MSE 2022</h5>
+            </div>
+          <img src="/images/Sustainability-MSE-Publication-Cover-2.jpg" alt="Sustainability @ MSE 2022" style="width:300px;">
+        </a>
+    </div>  
+
+	<div class="card">
+        <a href="/files/resources/Key-Environmental-Statistics-2021-Publication.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>Key Environmental Statistics 2021</h5>
+            </div>
+          <img src="/images/Key-Environmental-Statistics-2021-Cover.jpg" alt="Key Environmental Statistics 2021" style="width:300px;">
+        </a>
+    </div>  
+	
+	<div class="card">
         <a href="/resources/key-environmental-statistics.pdf" target="_blank">  
             <div class="card-content">
             <h5>Key Environmental Statistics 2020</h5>
             </div>
-          <img src="/images/key-environmental-statistics.png" style="width:300px;">
+          <img src="/images/key-environmental-statistics.png" alt="Key Environmental Statistics 2020" style="width:300px;">
         </a>
     </div>
     <div class="card">
@@ -111,16 +129,24 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
             <h5>Zero Waste Masterplan</h5>
             </div>
-        <img src="/images/zero-waste-masterplan.png" style="width:max-content;">
+        <img src="/images/zero-waste-masterplan.png" alt="Zero Waste Masterplan" style="width:max-content;">
 <!-- <p>The Zero Waste Masterplan sets a new waste reduction target for Singapore – to reduce the waste sent to Semakau Landfill each day by 30% by 2030. This will help to extend Semakau Landfill’s lifespan beyond 2035, when it is estimated to reach capacity. Find out what other efforts we are pursuing to build climate, resource and economic resilience in Singapore!</p> -->
         </a>
     </div>
     <div class="card">
         <a href="/resources/climate-action-plan.pdf" target="_blank">  
             <div class="card-content">
+                <h5> Climate Action Plan (2020) </h5>
+            </div>
+          <img src="/images/cap2020.png" alt="Climate Action Plan 2020" style="width:300px;">
+        </a>
+    </div>
+    <div class="card">
+        <a href="/resources/capmitigation.pdf" target="_blank">  
+            <div class="card-content">
                 <h5> Climate Action Plan (Mitigation) </h5>
             </div>
-          <img src="/images/climate-action-plan.jpg" style="width:300px;">
+          <img src="/images/climate-action-plan.jpg" alt="Climate Action Plan (Mitigation)" style="width:300px;">
         </a>
     </div>
     <div class="card">
@@ -129,7 +155,15 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
                 <h5>Climate Action Plan (Adaptation)</h5>
                 <!-- The latest publications of Singapore’s Climate Action Plan provides an update and summary of Singapore’s mitigation and adaptation plans. It sets out how Singapore intends to reduce greenhouse gas emissions and increase our energy efficiency to meet our 2030 climate pledge, and how Singapore may be affected by climate change and our strategy to prepare for them. -->
             </div>
-        <img src="/images/climate-action-plan2.png" style="width:300px;"> 
+        <img src="/images/climate-action-plan2.png" alt="Climate Action Plan (Adaptation)" style="width:300px;"> 
+        </a>
+    </div>
+    <div class="card">
+        <a href="/resources/capsummary.pdf" target="_blank">  
+            <div class="card-content">
+                <h5> Climate Action Plan (Summary) </h5>
+            </div>
+          <img src="/images/capsummary.png" alt="Climate Action Plan (Summary)" style="width:300px;">
         </a>
     </div>
     <div class="card">
@@ -137,7 +171,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>Sustainable Singapore Blueprint</h5>
             </div>
-        <img src="/images/ssb-logo.jpeg" style="width:300px;">
+        <img src="/images/ssb-logo.jpeg" alt="Sustainable Singapore Blueprint" style="width:300px;">
         </a>
     </div>
     <div class="card">
@@ -145,7 +179,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>Towards Zero Waste (Infographics, Videos)</h5>
             </div>
-        <img src="/images/towards-zero-waste.png" style="width:300px;">
+        <img src="/images/towards-zero-waste.png" alt="Towards Zero Waste" style="width:300px;">
         </a>
     </div>
     <div class="card">
@@ -153,7 +187,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>Guide for Environmentally-Friendly Events</h5>
             </div>
-        <img src="/images/events-resources.png" style="width:300px;">
+        <img src="/images/events-resources.png" alt="Guide for Environmentally-Friendly Events" style="width:300px;">
         </a>
     </div>
     <div class="card">
@@ -161,7 +195,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>NEA Educational Materials on the Environment</h5>
             </div>
-        <img src="/images/nea-resources-poster.png" style="width:300px;"> 
+        <img src="/images/nea-resources-poster.png" alt="NEA Educational Materials on the Environment" style="width:300px;"> 
         <p style="text-align: center; font-size: 0.8em;">e.g. Infographics & Posters on Climate Action, Energy, Dengue, etc</p>
         </a>
     </div>
@@ -170,7 +204,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>PUB Resources for Schools</h5>
             </div>
-        <img src="/images/pub-resources.png" style="width:300px;"> 
+        <img src="/images/pub-resources.png" alt="PUB Resources for Schools" style="width:300px;"> 
         </a>
     </div>
     <div class="card">
@@ -178,7 +212,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>SFA Resources & Tools</h5>
             </div>
-        <img src="/images/sfa-resources.png" style="width:300px;"> 
+        <img src="/images/sfa-resources.png" alt="SFA Resources & Tools" style="width:300px;"> 
         </a>
     </div>
     <div class="card">
@@ -186,7 +220,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>Clean & Green Singapore</h5>
             </div>
-        <img src="/images/cgs-resources.jpeg" style="width:300px;">
+        <img src="/images/cgs-resources.jpeg" alt="Clean & Green Singapore" style="width:300px;">
         <p style="text-align: center; font-size: 0.8em;">Posters, Infographics, Educational Guides</p>
         </a>
     </div>
@@ -195,7 +229,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>NEA Resources</h5>
             </div>
-        <img src="/images/nea-resources.png" style="width:300px;">
+        <img src="/images/nea-resources.png" alt="NEA Resources" style="width:300px;">
         <p style="text-align: center; font-size: 0.8em;">Posters, Infographics, Educational Guides</p>
         </a>
     </div>
@@ -204,7 +238,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>3R Guidebooks</h5>
             </div>
-        <img src="/images/3r-resources.png" style="width:300px;">
+        <img src="/images/3r-resources.png" alt="3R Guidebooks" style="width:300px;">
         <p style="text-align: center; font-size: 0.8em;">For implementing programmes in hotels, industrial estates, offices, malls, & events</p>
         </a>
     </div>
@@ -213,7 +247,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
                 <h5>Statistics from Data.gov.sg</h5>
             </div>
-        <img src="/images/data-resources.png" style="width:300px;">
+        <img src="/images/data-resources.png" alt="Statistics from Data.gov.sg" style="width:300px;">
         </a>
     </div>
 </div>

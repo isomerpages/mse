@@ -1,6 +1,6 @@
 ---
 title: Green Government
-permalink: /cos/greengov
+permalink: /cos2021/greengov
 ---
 <style>
 
@@ -17,7 +17,7 @@ body {
 ## Green Government: Public service to peak emissions around 2025
 
 <div>
-<img src="/cos/resources/Icon_GreenGov.svg" style="width:33vh; margin-bottom:0px; display:block;">
+<img src="/cos/resources/Icon_GreenGov.svg" alt="" style="width:33vh; margin-bottom:0px; display:block;">
 </div>
 
 As a small, island city-state with no natural resources, Singapore is particularly vulnerable to the impacts of climate change. The Government will lead efforts to ensure Singapore remains a green and liveable home by putting sustainability at the core of everything we do. New and ambitious sustainability targets will be set for the public sector.
@@ -26,4 +26,4 @@ This includes a target to peak our emissions around 2025, ahead of the national 
 
 <a href="/cos/resources/cos-annex-c.pdf" id="homehoverlink1" style="background-image:linear-gradient(#F4F0E5 48%, #4a96b0 50%);">(Download Factsheet)</a>
 
-<center><a class="button_cos" href="/cos/">Back to Overview</a></center>
+<center><a class="button_cos" href="/cos2021/">Back to Overview</a></center>

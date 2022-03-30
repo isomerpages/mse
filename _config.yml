@@ -1,5 +1,5 @@
 title: Ministry of Sustainability and the Environment
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://www.mse.gov.sg'
 favicon: /images/favicon.ico
 shareicon: /images/thumbnail.png
 # is_government: false
@@ -20,7 +20,6 @@ colors:
     - title: media-color-five
       color: '#323232'
 
-
 collections:
   about-us:
     output: true
@@ -30,8 +29,10 @@ collections:
     output: true
   cos:
     output: true
-  # resources:
-  #   output: true
+  cos2022:
+    output: true
+  resources:
+    output: true
 google_analytics: UA-183999332-1
 resources_name: news
 

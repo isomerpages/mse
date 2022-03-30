@@ -8,7 +8,7 @@ description:
 
 #### Ground-up initiatives build broader public awareness of key issues on sustainability and climate change  
 
-1 Singapore’s ‘Climate Action Week’ takes place from 15 - 21 August this year. Organised by the Ministry of Sustainability and the Environment (MSE), the Week features a line-up of 30 ground-up initiatives organised by 27 partners from the 3P (People, Private and Public) sectors. (Please click [here](https://climategamechanger.sg/2020/08/11/climate-action-week-how-you-can-participate/) for details on the initiatives.)  
+1 Singapore’s ‘Climate Action Week’ takes place from 15 - 21 August this year. Organised by the Ministry of Sustainability and the Environment (MSE), the Week features a line-up of 30 ground-up initiatives organised by 27 partners from the 3P (People, Private and Public) sectors. (See [Annex](../../../resources/Annex-list-of-CAW-events.pdf) for the full list)
 
 2 Climate change is a long-term existential challenge for Singapore. Even as we address the immediate issues stemming from the COVID-19 pandemic, we must continue to press on with sustainability efforts. Galvanising a whole-of-nation effort will be a key determinant of Singapore’s success in mitigating and adapting to the challenges posed by climate change.  
 
