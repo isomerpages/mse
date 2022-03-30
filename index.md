@@ -29,7 +29,7 @@ sections:
          description: 2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50). Singapore has come a long way since the inception of the ministry in 1972. We will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones and renew our commitment to build a green and resilient Singapore.
          button: MSE50
          url: /mse50
-         image: /images/infopic-1.svg
+         image: /images/mse50/MSE50_Hori_Dark_RGB.png
          alt: MSE50
     - infopic:
         title: <h2 style="font-family:'Cabin'">Singapore Green Plan 2030</h2>
