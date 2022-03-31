@@ -21,4 +21,4 @@ links:
     collection: about-us
     sublinks:
       - title: MSE50
-      - url: /mse50
+        url: /mse50
