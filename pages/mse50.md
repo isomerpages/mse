@@ -1,6 +1,6 @@
 ---
 title: MSE50 — Building a Green and Resilient Singapore
-permalink: /mse50standalone
+permalink: /mse50
 ---
 
 <style>
