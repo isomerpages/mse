@@ -24,14 +24,13 @@ sections:
         title: <h2 style="font-family:'Cabin';margin-top:1em;">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:
     - infopic:
-        # title: <h2 style="font-family:'Cabin'">Climate Action Week 2021</h2>
+        # title: <h2 style="font-family:'Cabin'">MSE Turns 50!</h2>
         # subtitle: What we are doing about climate change?
-        # description: Find out <a id="homehoverlink1" href="https://www.mse.gov.sg/climate-action-week">what events are happening from 12-18 July</a> for this year's Climate Action Week.
-        # as we come together to strengthen our climate change resilience and transition to a low-carbon future.
-        # button: Learn more
-        # url: https://climategamechanger.sg/
-        # image: /images/infopic-1.svg
-        # alt: Game changing climate change
+        # description: 2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50). We will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones and renew our commitment to build a green and resilient Singapore.
+        # button: About MSE50
+        # url: /mse50
+        # image: /images/mse50/MSE50_Hori_Dark_RGB.png
+        # alt: MSE50
     - infopic:
         title: <h2 style="font-family:'Cabin'">Singapore Green Plan 2030</h2>
         # subtitle: What can you do?
