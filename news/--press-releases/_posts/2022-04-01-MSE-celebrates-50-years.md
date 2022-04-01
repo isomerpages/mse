@@ -1,7 +1,7 @@
 ---
 title: Ministry of Sustainability and the Environment Celebrates 50	Years of Building a Green and Resilient Singapore
 permalink: /resource-room/category/2022-04-01-MSE-celebrates-50-years
-date: 2022-01-28
+date: 2022-04-01
 layout: post
 description: ""
 ---
