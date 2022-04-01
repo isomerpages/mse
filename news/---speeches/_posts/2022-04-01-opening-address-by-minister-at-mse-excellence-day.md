@@ -1,6 +1,6 @@
 ---  
 title: MSE Excellence Day - Ms Grace Fu
-permalink: /resource-room/category/2022-03-30-opening-address-by-minister-at-mse-excellence-day
+permalink: /resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day
 image:  
 file_url:  
 description:  
