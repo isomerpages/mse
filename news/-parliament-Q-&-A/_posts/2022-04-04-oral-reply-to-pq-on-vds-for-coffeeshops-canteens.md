@@ -8,9 +8,9 @@ description:
 
 #### Oral Reply by  Ms Grace Fu, Minister for Sustainability and the Environment, to Parliamentary Question on Vaccination-Differentiated Safe Management Measures (VDS) for coffeeshops and canteens
 
-** **: To ask the Minister for Sustainability and the Environment (a) whether the Ministry will consider to streamline the Vaccination-Differentiated Safe Management Measures (VDS) for coffeeshops and canteens to simplify these measures; (b) how many proposals have been received by the Singapore Food Agency (SFA) on the adoption of the new VDS; (c) how long will SFA take to approve the proposals; and (d) how frequently will SFA conduct checks for compliance at approved premises.    
+**Mr Yip Hon Weng**: To ask the Minister for Sustainability and the Environment (a) whether the Ministry will consider to streamline the Vaccination-Differentiated Safe Management Measures (VDS) for coffeeshops and canteens to simplify these measures; (b) how many proposals have been received by the Singapore Food Agency (SFA) on the adoption of the new VDS; (c) how long will SFA take to approve the proposals; and (d) how frequently will SFA conduct checks for compliance at approved premises.    
 
-** **: To ask the Minister for Sustainability and the Environment whether the Ministry will consider (i) easing the vaccination-differentiated safe management measures (VDS) for dining-in at coffee shops and industrial canteens and (ii) providing financial subsidies to help coffee shops and industrial canteens with compliance costs related to VDS.     
+**Mr Leon Perera**: To ask the Minister for Sustainability and the Environment whether the Ministry will consider (i) easing the vaccination-differentiated safe management measures (VDS) for dining-in at coffee shops and industrial canteens and (ii) providing financial subsidies to help coffee shops and industrial canteens with compliance costs related to VDS.     
 
 **Answer:**
 
