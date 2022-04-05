@@ -581,7 +581,7 @@ We look forward to celebrating not only with past and present staff but also wit
 Stay tuned for more details!</p>
 
   <div>
-  <center><a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a><a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">MSE Excellence Day Opening Speech</a></center>
+  <center><a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a> <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">MSE Excellence Day Opening Speech</a></center>
   </div>
   
 <!--
