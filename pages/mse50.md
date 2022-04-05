@@ -432,7 +432,6 @@ a {
 STYLING FOR BUTTONS
 --------------------------------------------------------------*/
  
-	
 .button {
   cursor: pointer;
   -webkit-backface-visibility: hidden;
@@ -443,7 +442,6 @@ STYLING FOR BUTTONS
   transition: 300ms ease;
   color: #484848 !important;
   text-transform: uppercase;
-  text-decoration: none;
   background: #ffffff;
   padding: 15px 20px;
   border: 2px solid #484848;
@@ -452,6 +450,7 @@ STYLING FOR BUTTONS
   border-radius: 15px;
   font-weight: bold;
   text-decoration: none !important;
+  font-size:0.9em;
 }
 .button:before {
   transition: 300ms ease;
@@ -580,9 +579,11 @@ We look forward to celebrating not only with past and present staff but also wit
 <br><br>
 Stay tuned for more details!</p>
 
-  <div>
-  <center><a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a> <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">MSE Excellence Day Opening Speech</a></center>
-  </div>
+<div>
+<center>
+	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">MSE Excellence Day Opening Speech</a>
+</center>
+</div>
   
 <!--
 The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
