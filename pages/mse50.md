@@ -428,7 +428,64 @@ a {
     width: 160px;
   }
 }
+/*--------------------------------------------------------------
+STYLING FOR BUTTONS
+--------------------------------------------------------------*/
  
+	
+.button {
+  cursor: pointer;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  font: inherit;
+  border: none;
+  position: relative;
+  transition: 300ms ease;
+  color: #484848 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ffffff;
+  padding: 15px 20px;
+  border: 2px solid #484848;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+  border-radius: 15px;
+  font-weight: bold;
+  text-decoration: none !important;
+}
+.button:before {
+  transition: 300ms ease;
+  position: absolute;
+  display: block;
+  content: "";
+  transform: translateZ(-40px);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  height: calc(100% - 20px);
+  width: calc(100% - 20px);
+  border-radius: 100px;
+  left: 10px;
+  top: 16px;
+}
+.button:hover {
+  transform: translateZ(55px);
+  color: #ffffff !important;
+  background: #4a96b0;
+  border-color: #4a96b0 !important;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+}
+.button:hover:before {
+  transform: translateZ(-45px);
+}
+.button:active {
+  transform: translateZ(20px);
+}
+.button:active:before {
+  transform: translateZ(-20px);
+  top: 10px;
+}
+	
 /*--------------------------------------------------------------
 STYLING FOR CARDS - ADDITIONAL RESOURCES
 --------------------------------------------------------------*/
@@ -523,6 +580,10 @@ We look forward to celebrating not only with past and present staff but also wit
 <br><br>
 Stay tuned for more details!</p>
 
+  <div>
+  <center><a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a><a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">MSE Excellence Day Opening Speech</a></center>
+  </div>
+  
 <!--
 The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
 <div class="row">
