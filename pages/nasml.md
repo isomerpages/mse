@@ -198,7 +198,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="p6-1"  /><label for="p6-1">List of Community Initiatives</label>
 	<div class="accordion-content">
-<table>
+<table class="annex-table">
 <thead>
   <tr>
     <th>&nbsp;&nbsp;&nbsp;&nbsp;<br>Initiative&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
@@ -207,7 +207,7 @@ input:checked + label + .accordion-content {
 </thead>
 <tbody>
   <tr>
-    <td colspan="2">Reducing Land-Based Sources of Marine Litter and Promoting and Strengthening Outreach and Stakeholder Engagement   </td>
+    <td colspan="2"><b>Reducing Land-Based Sources of Marine Litter and Promoting and Strengthening Outreach and Stakeholder Engagement</b></td>
   </tr>
   <tr>
     <td>Citizens’ Workgroup On Reducing Excessive Consumption of Disposables (RD CWG)</td>
@@ -218,7 +218,7 @@ input:checked + label + .accordion-content {
     <td>The International Coastal Cleanup Singapore conducts an annual environmental exercise with data collection of marine debris since 1992. More than 3,000 volunteers come together to clean up Singapore’s shorelines. In 2018, 20,915 cigarette butts   were collected during the International Coastal Cleanup in Singapore, with the highest number of cigarette butts found at beaches in  East Coast and Changi. The programme also aims to improve education and outreach efforts about the marine environment.    </td>
   </tr>
   <tr>
-    <td>Little Green Men Singapore   </td>
+    <td>Little Green Men Singapore</td>
     <td>This initiative organises coastal clean-ups in mangrove environments with volunteers.    </td>
   </tr>
   <tr>
@@ -227,10 +227,10 @@ input:checked + label + .accordion-content {
   </tr>
   <tr>
     <td>Small Change</td>
-    <td>This initiative organises coastal and dive clean-ups with volunteers and corporate groups. They also conduct outreach, conservation, and waste management talks.   </td>
+    <td>This initiative organises coastal and dive clean-ups with volunteers and corporate groups. They also conduct outreach, conservation, and waste management talks.</td>
   </tr>
   <tr>
-    <td>Trash Hero Singapore   </td>
+    <td>Trash Hero Singapore</td>
     <td>This initiative organises coastal clean-ups with volunteers. </td>
   </tr>
   <tr>
@@ -246,7 +246,7 @@ input:checked + label + .accordion-content {
     <td>This initiative organises coastal clean-ups and outreach for individuals and corporates.    </td>
   </tr>
   <tr>
-    <td colspan="2">Promoting and Strengthening Outreach and Stakeholder Engagement</td>
+	  <td colspan="2"><b>Promoting and Strengthening Outreach and Stakeholder Engagement</b></td>
   </tr>
   <tr>
     <td>East Coast Beach Plan</td>
@@ -261,11 +261,11 @@ input:checked + label + .accordion-content {
     <td>This is an initiative to install storage sheds (or ‘CleanPods’) containing cleaning equipment such as tongs, buckets, and carts for transportation of tools and trash at popular beach and park clean-up locations. The tools are made available to volunteers doing clean-ups. The intent is to reduce waste and promote re-use of litter picking tools. </td>
   </tr>
   <tr>
-    <td>Plastic-Lite Singapore   </td>
+    <td>Plastic-Lite Singapore</td>
     <td>This initiative focuses on education and outreach efforts to reduce the consumption of plastics. Plastic-Lite Singapore is co-delivering a voluntary guideline for F&amp;B establishments on reducing excessive use of disposables with NEA, which is one of the recommendations that arose from the Citizens’ Workgroup on Reducing Excessive Consumption of Disposables. The voluntary guideline will consist of a checklist of sustainable practices that F&amp;B establishments can adopt to reduce their use of disposables. It will be circulated to NEA’s network of F&amp;B partners and made available on NEA’s website for download. Part of the checklist may also be incorporated into the evaluation criteria of the Singapore Environment Council’s Eco F&amp;B Certification for F&amp;B establishments. </td>
   </tr>
   <tr>
-    <td colspan="2">Research &amp; Development</td>
+	  <td colspan="2"><b>Research &amp; Development</b></td>
   </tr>
   <tr>
     <td>Marine plastics research by National University of Singapore (NUS), St John’s Island Marine Laboratory and Singapore Centre for Environmental Life Sciences Engineering (SCELSE) and other research groups</td>
