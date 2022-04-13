@@ -53,6 +53,7 @@ input:checked + label + .accordion-content {
   text-align: center;
   padding: 5px 5px;
   text-decoration: none;
+	font-size: 1.2em;
 }
 
 /* Change background on mouse-over */
