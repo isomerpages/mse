@@ -72,7 +72,6 @@ input:checked + label + .accordion-content {
 </style>
 
 <h1><b>Addressing Marine Litter in Singapore</b></h1>
-<br>
 <div class="content-nav">
 <table>
   <tbody>
