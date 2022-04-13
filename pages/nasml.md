@@ -47,12 +47,18 @@ input:checked + label + .accordion-content {
 
 
 /* Links inside the navbar */
+
+.content-nav td {
+  width: 20%;
+}
+	
 .content-nav a {
   display: block;
   color: #4a96b0;
   text-align: center;
   padding: 5px 5px;
   text-decoration: none;
+	margin-bottom: 0px;
 	font-size: 1.2em;
 }
 
