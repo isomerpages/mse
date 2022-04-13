@@ -95,12 +95,6 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-			<br>
-			NEA is recruiting <a href="http://www.nea.gov.sg/programmes-grants/volunteering/community-volunteer-programme" target="_blank">Community Volunteers (CVs)</a> to educate the public on environmental offences. The primary role of a CV is to educate environmental offenders to stop the offending acts and encourage greater ownership of the environment. Training will be provided by NEA. If an offender does not heed the repeated advice of a CV, the CV is empowered to take down the particulars of the non-compliant offender for NEA&#39;s consideration to follow through with enforcement action.<br>
-			<br>
-			NEA also has other volunteering opportunities such as SG Clean Ambassadors who support the SG Clean Campaign by working with our 3P (People, Public and Private) partners to promote good personal habits and social norms to raise standards of cleanliness and public hygiene, and safeguard public health. If you share our vision and passion to make SG Clean a way of life, we welcome you to <a href="https://form.gov.sg/#!/5e7484a2ca6a010011862c59" target="_blank">sign up</a> as an SG Clean Ambassador.<br>
-			<br>
-			PUB also has a <a href="https://www.pub.gov.sg/getinvolved/volunteers" target="_blank">volunteer programme</a> where you can do your part for water at the Singapore World Water Day events and public outreach activities.
 		</p>
 	</div>
 </div>
@@ -113,12 +107,6 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-			<br>
-			NEA is recruiting <a href="http://www.nea.gov.sg/programmes-grants/volunteering/community-volunteer-programme" target="_blank">Community Volunteers (CVs)</a> to educate the public on environmental offences. The primary role of a CV is to educate environmental offenders to stop the offending acts and encourage greater ownership of the environment. Training will be provided by NEA. If an offender does not heed the repeated advice of a CV, the CV is empowered to take down the particulars of the non-compliant offender for NEA&#39;s consideration to follow through with enforcement action.<br>
-			<br>
-			NEA also has other volunteering opportunities such as SG Clean Ambassadors who support the SG Clean Campaign by working with our 3P (People, Public and Private) partners to promote good personal habits and social norms to raise standards of cleanliness and public hygiene, and safeguard public health. If you share our vision and passion to make SG Clean a way of life, we welcome you to <a href="https://form.gov.sg/#!/5e7484a2ca6a010011862c59" target="_blank">sign up</a> as an SG Clean Ambassador.<br>
-			<br>
-			PUB also has a <a href="https://www.pub.gov.sg/getinvolved/volunteers" target="_blank">volunteer programme</a> where you can do your part for water at the Singapore World Water Day events and public outreach activities.
 		</p>
 	</div>
 </div>
@@ -129,11 +117,6 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 			<br>
-			NEA is recruiting <a href="http://www.nea.gov.sg/programmes-grants/volunteering/community-volunteer-programme" target="_blank">Community Volunteers (CVs)</a> to educate the public on environmental offences. The primary role of a CV is to educate environmental offenders to stop the offending acts and encourage greater ownership of the environment. Training will be provided by NEA. If an offender does not heed the repeated advice of a CV, the CV is empowered to take down the particulars of the non-compliant offender for NEA&#39;s consideration to follow through with enforcement action.<br>
-			<br>
-			NEA also has other volunteering opportunities such as SG Clean Ambassadors who support the SG Clean Campaign by working with our 3P (People, Public and Private) partners to promote good personal habits and social norms to raise standards of cleanliness and public hygiene, and safeguard public health. If you share our vision and passion to make SG Clean a way of life, we welcome you to <a href="https://form.gov.sg/#!/5e7484a2ca6a010011862c59" target="_blank">sign up</a> as an SG Clean Ambassador.<br>
-			<br>
-			PUB also has a <a href="https://www.pub.gov.sg/getinvolved/volunteers" target="_blank">volunteer programme</a> where you can do your part for water at the Singapore World Water Day events and public outreach activities.
 		</p>
 	</div>
 </div>
@@ -146,12 +129,6 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-			<br>
-			NEA is recruiting <a href="http://www.nea.gov.sg/programmes-grants/volunteering/community-volunteer-programme" target="_blank">Community Volunteers (CVs)</a> to educate the public on environmental offences. The primary role of a CV is to educate environmental offenders to stop the offending acts and encourage greater ownership of the environment. Training will be provided by NEA. If an offender does not heed the repeated advice of a CV, the CV is empowered to take down the particulars of the non-compliant offender for NEA&#39;s consideration to follow through with enforcement action.<br>
-			<br>
-			NEA also has other volunteering opportunities such as SG Clean Ambassadors who support the SG Clean Campaign by working with our 3P (People, Public and Private) partners to promote good personal habits and social norms to raise standards of cleanliness and public hygiene, and safeguard public health. If you share our vision and passion to make SG Clean a way of life, we welcome you to <a href="https://form.gov.sg/#!/5e7484a2ca6a010011862c59" target="_blank">sign up</a> as an SG Clean Ambassador.<br>
-			<br>
-			PUB also has a <a href="https://www.pub.gov.sg/getinvolved/volunteers" target="_blank">volunteer programme</a> where you can do your part for water at the Singapore World Water Day events and public outreach activities.
 		</p>
 	</div>
 </div>
@@ -159,17 +136,56 @@ input:checked + label + .accordion-content {
 <a name="p4"></a>
 <h2><b>Priority Areas and Measures</b></h2>
 
-<h2 id="community-volunteer">Community Volunteer</h2>
+<h2 id="p4-1">Reduction of Land-Based Sources of Litter</h2>
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-			<br>
-			NEA is recruiting <a href="http://www.nea.gov.sg/programmes-grants/volunteering/community-volunteer-programme" target="_blank">Community Volunteers (CVs)</a> to educate the public on environmental offences. The primary role of a CV is to educate environmental offenders to stop the offending acts and encourage greater ownership of the environment. Training will be provided by NEA. If an offender does not heed the repeated advice of a CV, the CV is empowered to take down the particulars of the non-compliant offender for NEA&#39;s consideration to follow through with enforcement action.<br>
-			<br>
-			NEA also has other volunteering opportunities such as SG Clean Ambassadors who support the SG Clean Campaign by working with our 3P (People, Public and Private) partners to promote good personal habits and social norms to raise standards of cleanliness and public hygiene, and safeguard public health. If you share our vision and passion to make SG Clean a way of life, we welcome you to <a href="https://form.gov.sg/#!/5e7484a2ca6a010011862c59" target="_blank">sign up</a> as an SG Clean Ambassador.<br>
-			<br>
-			PUB also has a <a href="https://www.pub.gov.sg/getinvolved/volunteers" target="_blank">volunteer programme</a> where you can do your part for water at the Singapore World Water Day events and public outreach activities.
+		</p>
+	</div>
+</div>
+
+<h2 id="p4-2">Reduction of Sea-Based Sources of Litter</h2>
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<div class="accordion-content">
+		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
+		</p>
+	</div>
+</div>
+
+<h2 id="p4-3">Circular Economy Approach</h2>
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<div class="accordion-content">
+		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
+		</p>
+	</div>
+</div>
+
+<h2 id="p4-4">Research & Development</h2>
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<div class="accordion-content">
+		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
+		</p>
+	</div>
+</div>
+
+<h2 id="p4-5">Promotion and Strengthening Outreach and Stakeholder Engagement</h2>
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<div class="accordion-content">
+		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
+		</p>
+	</div>
+</div>
+
+<h2 id="p4-6">International Engagement and Collaboration</h2>
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<div class="accordion-content">
+		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
 	</div>
 </div>
