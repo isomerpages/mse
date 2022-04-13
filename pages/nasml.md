@@ -45,17 +45,11 @@ input:checked + label + .accordion-content {
 	display: block;
 }
 
-/* The navigation bar */
-.content-nav {
-  overflow: hidden;
-  background-color: #333;
-}
 
 /* Links inside the navbar */
 .content-nav a {
-  float: left;
   display: block;
-  color: #f2f2f2;
+  color: #333;
   text-align: center;
   padding: 5px 5px;
   text-decoration: none;
@@ -63,13 +57,13 @@ input:checked + label + .accordion-content {
 
 /* Change background on mouse-over */
 .content-nav a:hover {
-  background: #ddd;
-  color: black;
+  color: #4a96b0;
 }
 	
 </style>
 
 <h1><b>Addressing Marine Litter in Singapore</b></h1>
+<br>
 <div class="content-nav">
 <table>
   <tbody>
