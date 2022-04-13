@@ -165,7 +165,7 @@ Credits:<br>
 <li>Public Utilities Board</li> 
 <li>Singapore Food Agency</li> 
 <li>Singapore Land Authority</li> 
-<ul>
+</ul>
 </p>
 	
 </div>
