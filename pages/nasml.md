@@ -89,7 +89,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="community-volunteer">Community Volunteer</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p1-1"  /><label for="p1-1">Marine Litter – A Global Problem</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -101,16 +101,16 @@ input:checked + label + .accordion-content {
 
 <h2 id="p2-1">Marine and Coastal Landscape</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p2-1"  /><label for="p2-1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
 	</div>
 </div>
 
-<h2 id="p2-2">Marine Litter Policy Landscape</h2>
+<h2 id=" ">Marine Litter Policy Landscape</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p2-2"  /><label for="p2-2">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 			<br>
@@ -121,9 +121,8 @@ input:checked + label + .accordion-content {
 <a name="p3"></a>
 <h2><b>Principles</b></h2>
 
-<h2 id="community-volunteer">Community Volunteer</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p3-1"  /><label for="p3-1">Principles</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -135,7 +134,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="p4-1">Reduction of Land-Based Sources of Litter</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-1"  /><label for="p4-1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -144,7 +143,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="p4-2">Reduction of Sea-Based Sources of Litter</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-2"  /><label for="p4-2">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -153,7 +152,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="p4-3">Circular Economy Approach</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-3"  /><label for="p4-3">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -162,7 +161,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="p4-4">Research & Development</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-4"  /><label for="p4-4">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -171,7 +170,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="p4-5">Promotion and Strengthening Outreach and Stakeholder Engagement</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-5"  /><label for="p4-5">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -180,7 +179,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="p4-6">International Engagement and Collaboration</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-6"  /><label for="p4-6">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -192,7 +191,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="community-volunteer">Community Volunteer</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p5-1"  /><label for="p5-1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
@@ -203,7 +202,7 @@ input:checked + label + .accordion-content {
 <h2><b>Annexes</b></h2>
 
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">List of Community Initiatives</label>
+	<input type="checkbox" id="p6-1"  /><label for="p6-1">List of Community Initiatives</label>
 	<div class="accordion-content">
 <table>
 <thead>
