@@ -55,7 +55,7 @@ input:checked + label + .accordion-content {
 }
 
 /* Links inside the navbar */
-.navbar a {
+.content-nav a {
   float: left;
   display: block;
   color: #f2f2f2;
@@ -65,7 +65,7 @@ input:checked + label + .accordion-content {
 }
 
 /* Change background on mouse-over */
-.navbar a:hover {
+.content-nav a:hover {
   background: #ddd;
   color: black;
 }
