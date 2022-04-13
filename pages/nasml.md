@@ -69,6 +69,10 @@ input:checked + label + .accordion-content {
 .annex-table tr {
 	border: 1px solid black;
 }
+
+.annex-table td {
+	border: 1px solid black;
+}
 	
 </style>
 
