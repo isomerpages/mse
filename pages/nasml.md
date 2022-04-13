@@ -154,17 +154,17 @@ input:checked + label + .accordion-content {
 <p>
 Credits:<br>
 <ul>	
-<li>Ministry of Foreign Affairs</li>
-<li>Ministry of National Development</li>
-<li>Ministry of Education</li>
-<li>Ministry of Transport</li>
-<li>Ministry of Sustainability and the Environment</li>
-<li>Maritime and Port Authority of Singapore</li>
-<li>National Environment Agency</li>
-<li>National Parks Board</li>
-<li>Public Utilities Board</li> 
-<li>Singapore Food Agency</li> 
-<li>Singapore Land Authority</li> 
+<li><a href="https://mfa.gov.sg">Ministry of Foreign Affairs</a></li>
+<li><a href="https://mnd.gov.sg">Ministry of National Development</a></li>
+<li><a href="https://moe.gov.sg">Ministry of Education</a></li>
+<li><a href="https://mot.gov.sg">Ministry of Transport</a></li>
+<li><a href="https://mse.gov.sg">Ministry of Sustainability and the Environment</a></li>
+<li><a href="https://mpa.gov.sg">Maritime and Port Authority of Singapore</a></li>
+<li><a href="https://nea.gov.sg">National Environment Agency</a></li>
+<li><a href="https://nparks.gov.sg">National Parks Board</a></li>
+<li><a href="https://pub.gov.sg">Public Utilities Board</a></li> 
+<li><a href="https://sfa.gov.sg">Singapore Food Agency</a></li> 
+<li><a href="https://sla.gov.sg">Singapore Land Authority</a></li> 
 </ul>
 </p>
 	
