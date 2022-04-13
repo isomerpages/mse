@@ -49,9 +49,6 @@ input:checked + label + .accordion-content {
 .content-nav {
   overflow: hidden;
   background-color: #333;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
 }
 
 /* Links inside the navbar */
@@ -60,7 +57,7 @@ input:checked + label + .accordion-content {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 5px 5px;
   text-decoration: none;
 }
 
