@@ -59,6 +59,15 @@ input:checked + label + .accordion-content {
 .content-nav a:hover {
   color: #4a96b0;
 }
+
+.annex-table {
+	border: 1px solid black;
+	font-size: 1.2em;
+}
+	
+.annex-table tr {
+	border: 1px solid black;
+}
 	
 </style>
 
