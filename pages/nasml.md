@@ -205,9 +205,8 @@ input:checked + label + .accordion-content {
 <a name="p6"></a>
 <h2><b>Annexes</b></h2>
 
-<h2 id="community-volunteer">List of Community Initiatives</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="title1"  /><label for="title1">List of Community Initiatives</label>
 	<div class="accordion-content">
 <table>
 <thead>
