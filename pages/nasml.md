@@ -49,7 +49,7 @@ input:checked + label + .accordion-content {
 /* Links inside the navbar */
 .content-nav a {
   display: block;
-  color: #333;
+  color: #4a96b0;
   text-align: center;
   padding: 5px 5px;
   text-decoration: none;
