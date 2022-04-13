@@ -72,9 +72,9 @@ input:checked + label + .accordion-content {
 	
 </style>
 
-<div class="content-nav">
 <h1><b>Addressing Marine Litter in Singapore</b></h1>
-<table class="">
+<div class="content-nav">
+<table>
   <tbody>
 	<tr>
       <td><a href="#p1">Marine Litter</a></td>
