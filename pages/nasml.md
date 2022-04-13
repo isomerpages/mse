@@ -211,7 +211,7 @@ input:checked + label + .accordion-content {
 <div><p>
 Credits:<br>
 <ul>	
-<li><a href="https://mfa.gov.sg" target=”_blank”>Ministry of Foreign Affairs</a></li>
+<li><a target="_blank" href="https://mfa.gov.sg">Ministry of Foreign Affairs</a></li>
 <li><a target="_blank" href="https://mnd.gov.sg">Ministry of National Development</a></li>
 <li><a target="_blank" href="https://moe.gov.sg">Ministry of Education</a></li>
 <li><a target="_blank" href="https://mot.gov.sg">Ministry of Transport</a></li>
