@@ -213,7 +213,7 @@ input:checked + label + .accordion-content {
 		</p>
 	</div>
 </div>
-	
+<br>	
 <div><p>
 Credits:<br>
 <ul>	
