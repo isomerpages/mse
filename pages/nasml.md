@@ -83,7 +83,7 @@ input:checked + label + .accordion-content {
 </style>
 
 <h1><b>Addressing Marine Litter in Singapore</b></h1>
-<div class="content-nav">
+<!-- <div class="content-nav">
 <table>
   <tbody>
 	<tr>
@@ -96,6 +96,7 @@ input:checked + label + .accordion-content {
   </tbody>
 </table>
 </div>
+-->
 
 <a name="p1"></a>
 <h2><b>Marine Litter</b></h2>
@@ -137,7 +138,7 @@ input:checked + label + .accordion-content {
 <a name="p2"></a>
 <h2><b>Singapore’s Context</b></h2>
 
-<h2 id="p2-1">Marine and Coastal Landscape</h2>
+<h3 id="p2-1">Marine and Coastal Landscape</h3>
 <div>
 	<input type="checkbox" id="p2-1"  /><label for="p2-1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
@@ -146,7 +147,7 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<h2 id=" ">Marine Litter Policy Landscape</h2>
+<h3 id="p2-2">Marine Litter Policy Landscape</h3>
 <div>
 	<input type="checkbox" id="p2-2"  /><label for="p2-2">How can I become a community volunteer?</label>
 	<div class="accordion-content">
@@ -170,7 +171,7 @@ input:checked + label + .accordion-content {
 <a name="p4"></a>
 <h2><b>Priority Areas and Measures</b></h2>
 
-<h2 id="p4-1">Reduction of Land-Based Sources of Litter</h2>
+<h3 id="p4-1">Reduction of Land-Based Sources of Litter</h3>
 <div>
 	<input type="checkbox" id="p4-1"  /><label for="p4-1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
@@ -179,7 +180,7 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<h2 id="p4-2">Reduction of Sea-Based Sources of Litter</h2>
+<h3 id="p4-2">Reduction of Sea-Based Sources of Litter</h3>
 <div>
 	<input type="checkbox" id="p4-2"  /><label for="p4-2">How can I become a community volunteer?</label>
 	<div class="accordion-content">
@@ -188,7 +189,7 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<h2 id="p4-3">Circular Economy Approach</h2>
+<h3 id="p4-3">Circular Economy Approach</h3>
 <div>
 	<input type="checkbox" id="p4-3"  /><label for="p4-3">How can I become a community volunteer?</label>
 	<div class="accordion-content">
@@ -197,7 +198,7 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<h2 id="p4-4">Research & Development</h2>
+<h3 id="p4-4">Research & Development</h3>
 <div>
 	<input type="checkbox" id="p4-4"  /><label for="p4-4">How can I become a community volunteer?</label>
 	<div class="accordion-content">
@@ -206,7 +207,7 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<h2 id="p4-5">Promotion and Strengthening Outreach and Stakeholder Engagement</h2>
+<h3 id="p4-5">Promotion and Strengthening Outreach and Stakeholder Engagement</h3>
 <div>
 	<input type="checkbox" id="p4-5"  /><label for="p4-5">How can I become a community volunteer?</label>
 	<div class="accordion-content">
@@ -215,7 +216,7 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<h2 id="p4-6">International Engagement and Collaboration</h2>
+<h3 id="p4-6">International Engagement and Collaboration</h3>
 <div>
 	<input type="checkbox" id="p4-6"  /><label for="p4-6">How can I become a community volunteer?</label>
 	<div class="accordion-content">
@@ -227,7 +228,7 @@ input:checked + label + .accordion-content {
 <a name="p5"></a>
 <h2><b>Looking Ahead</b></h2>
 
-<h2 id="community-volunteer">Community Volunteer</h2>
+<h3 id="community-volunteer">Community Volunteer</h3>
 <div>
 	<input type="checkbox" id="p5-1"  /><label for="p5-1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
