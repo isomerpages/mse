@@ -427,6 +427,23 @@ Addressing marine litter requires national action. The Government works in partn
 </tbody>
 </table>
 	</div>
+	
+<div>
+	<input type="checkbox" id="p6-2"  /><label for="p6-2">References</label>
+	<div class="accordion-content">
+	<p>
+	California Coastal Commission. 2016. “The problem with marine debris,” Janu¬ary. http://www.coastal.ca.gov/publiced/ marinedebris.html.<br><br>
+	Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection (GESAMP) (IMO/FAO/UNESCO-IOC/UNIDO/WMO/IAEA/UN/UNEP/UNDP Joint Group of Experts on the Scientific Aspects of Marine Environ¬mental Protection).<br><br> 2015. “Sources, fate and effects of microplastics in the marine environment: A global assessment.” #90. Rep. Stud. GESAMP. .org/data/gesamp/files/media/Publications/Reports_and_studies_90/gallery_2230/object_2500_large.pdf.
+	Jambeck, Jenna R., Roland Geyer, Chris Wilcox, Theodore R. Siegler, Miriam Perry¬man, Anthony Andrady, Ramani Narayan, and Kara Lavender Law. 2015. “Plastic waste inputs from land into the ocean.” <i>Science</i> 347 (6223): 768-771.  http://www. sciencemag.org/content/347/6223/768.<br><br>
+	Ng, K. & Obbard, J., 2006. Prevalence of microplastics in Singapore’s coastal marine environment. <i>Marine Pollution Bulletin</i>, 52(7), pp. 761-767.<br><br>
+	Spalding, M., Fox, H., Allen, G. & Davidson, N., 2007. Marine Ecoregions of the World: A Bioregionalization of Coastal and Shelf Areas. <i>BioScience</i>, 57(7), pp. 573-583<br><br>
+	Scientific and Technical Advisory Panel (STAP) (2011). Marine Debris as a Global Environmental Problem: Introducing a solutions based framework focused on plastic. A STAP Document. Global Environment Facility, Washington, DC. <br><br>
+	UNEP (United Nations Environment Pro¬gramme) and IOC (Intergovernmental Oceanographic Commission). 2009. “UNEP/IOC guidelines on survey and monitoring of marine litter.” http://www.unep.org/regionalseas/marinelitter/publications/docs/Marine_Litter_Survey_and_ Monitoring_Guidelines.pdf.<br><br>
+	UNEP (United Nations Environment Programme) 2017. “Plastic and Microplastic in our Oceans – A Serious Environmental Threat”. <br><br>
+	UNGA (United Nations General Assembly). 2004. Oceans and the law of the sea: Report of the Secretary-General—Adden¬dum. August 18. A/59/62/Add.1. http://www.un.org/ga/59/ documentation/list0.html. <br><br>
+	</p>
+	</div>
+</div>
 </div>
 <br>	
 <div><p>
