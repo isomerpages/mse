@@ -190,12 +190,12 @@ input:checked + label + .accordion-content {
 In Singapore, we have minimised marine litter from land-based sources in the following ways:</p>
 		<p><ol style="list-style-type: upper-roman">
 		<li><b>Control of waste collection and disposal</b><br>
-			Through the Environmental Public Health Act (EPHA), NEA ensures there is a comprehensive and integrated waste collection and management system in Singapore. All waste from municipal, commercial and industrial sources in Singapore are collected for disposal or recycling. NEA also controls the discharge of trade effluent, oil, chemical, sewage or other polluting matters into drains, as well as hazardous substances into inland waters. The EPHA also includes strict anti-littering regulations. </li>
+Through the Environmental Public Health Act (EPHA), NEA ensures there is a comprehensive and integrated waste collection and management system in Singapore. All waste from municipal, commercial and industrial sources in Singapore are collected for disposal or recycling. NEA also controls the discharge of trade effluent, oil, chemical, sewage or other polluting matters into drains, as well as hazardous substances into inland waters. The EPHA also includes strict anti-littering regulations.</li>
 		<li></li>
 		<li></li>
 		<li></li>
 		<li></li>
-		</ol>
+		</ol></p>
 	</div>
 </div>
 
