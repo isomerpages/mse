@@ -166,8 +166,18 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="p3-1"  /><label for="p3-1">Principles</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-		</p>
+		<p><span>The challenge of marine litter is a multifaceted one, and each country has its own unique circumstances. Any approach to reduce marine litter must be tailored specifically to the needs of the country and local geographies, with no &lsquo;one size fits all&rsquo; solution. Furthermore, the complexity of the marine litter challenge means that a whole of nation approach is needed, to ensure we can tackle the issue holistically. This includes working closely with stakeholders from various sectors to understand the issue and develop solutions together, and to bring about the enduring and sustainable changes needed to reduce and prevent marine litter. &nbsp;</span></p>
+<p><span>As the largest quantity of marine litter entering oceans in the region stems from land-based sources, it is imperative to place focus on waste reduction and waste management. Singapore is committed to addressing both land-based and sea-based sources of marine litter through the measures outlined in this National Action Strategy, which is guided by the core principles of sustainable development and a circular economy approach, and supports the achievement of global goals, such as SDG 14.1. The priority areas for the National Action Strategy are as follows:&nbsp;</span></p>
+<ol style="list-style-type: upper-roman;margin-left:44px;">
+    <li>Reduction of Land-Based Sources of Litter</li>
+    <li>Reduction of Sea-Based Sources of Litter</li>
+    <li>Circular Economy Approach</li>
+    <li>Research &amp; Development</li>
+    <li>Maintaining and Strengthening Outreach &amp; Stakeholder Engagement</li>
+    <li>International Engagement and Collaboration</li>
+</ol>
+<p><span>The National Action Strategy will undergo regular reviews. This will ensure that Singapore adapts quickly to new circumstances and opportunities, in line with the collective global, regional and national imperatives. The following section broadly outlines the various policy actions which seek to address the issue of marine litter both internationally and domestically.&nbsp;</span></p>
+<div>
 	</div>
 </div>
 	
