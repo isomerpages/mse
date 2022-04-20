@@ -187,8 +187,16 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="p4-1"  /><label for="p4-1">Reduction of Land-Based Sources of Litter</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-		</p>
+		<p>Globally, land-based waste is the largest source of marine litter. To minimise the waste at source and prevent discharge of litter into the sea, countries need to prevent and reduce land-based sources of marine pollution through stringent regulations on pollution control and waste management. Countries also need to have in place a comprehensive waste and water management system to prevent any leakage of such waste into the seas and ocean. 
+In Singapore, we have minimised marine litter from land-based sources in the following ways:</p>
+		<p><ol style="list-style-type: upper-roman">
+		<li><b>Control of waste collection and disposal</b><br>
+			Through the Environmental Public Health Act (EPHA), NEA ensures there is a comprehensive and integrated waste collection and management system in Singapore. All waste from municipal, commercial and industrial sources in Singapore are collected for disposal or recycling. NEA also controls the discharge of trade effluent, oil, chemical, sewage or other polluting matters into drains, as well as hazardous substances into inland waters. The EPHA also includes strict anti-littering regulations. </li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		</ol>
 	</div>
 </div>
 
