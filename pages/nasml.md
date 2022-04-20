@@ -202,40 +202,89 @@ Through the Environmental Public Health Act (EPHA), NEA ensures there is a compr
 <div>
 	<input type="checkbox" id="p4-2"  /><label for="p4-2">Reduction of Sea-Based Sources of Litter</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-		</p>
+		<p><ol style="list-style-type: upper-roman">
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		</ol></p>
 	</div>
 </div>
 
 <div>
 	<input type="checkbox" id="p4-3"  /><label for="p4-3">Circular Economy Approach</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-		</p>
+		<p><ol style="list-style-type: upper-roman">
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		</ol></p>
 	</div>
 </div>
 
 <div>
 	<input type="checkbox" id="p4-4"  /><label for="p4-4">Research & Development</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-		</p>
+		<p><ol style="list-style-type: upper-roman">
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		</ol></p>
 	</div>
 </div>
 
 <div>
 	<input type="checkbox" id="p4-5"  /><label for="p4-5">Promotion and Strengthening Outreach and Stakeholder Engagement</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-		</p>
+		<p><ol style="list-style-type: upper-roman">
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		</ol></p>
 	</div>
 </div>
 
 <div>
 	<input type="checkbox" id="p4-6"  /><label for="p4-6">International Engagement and Collaboration</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-		</p>
+		<p>Given the transboundary nature of marine litter, Singapore contributes actively to regional and international efforts to coordinate action and work towards a collective approach to raise awareness and tackle the global problem of marine litter pollution.</p>
+		<p><ol style="list-style-type: upper-roman">
+		<li><b>International and Regional Platforms</b><br>
+		Internationally, Singapore has been an active participant in initiatives on marine litter. For example, Singapore participated in the United Nations Environment Programme’s (UNEP) work on marine litter and microplastics, including at the Ad-Hoc Open-Ended Expert Group (AHEG) on Marine Litter and Microplastics, which seeks to follow-up on the UNEA Resolutions 4/6 and 4/9 on Marine Plastic Litter and on Addressing Single-Use Plastic Products Pollution. Singapore is also involved in ongoing discussions under UNEP to establish an intergovernmental negotiations committee for a global agreement on marine plastic pollution. Singapore also participated in the G20’s work under the Japanese G20 Presidency to establish the 2019 G20 Implementation Framework for Actions on Marine Plastic Litter. These platforms have allowed Singapore to contribute to global efforts to address marine litter and play a part in developing international best practices and guidelines to address marine litter. <br><br>
+		Regionally, Singapore, alongside other ASEAN member states, adopted the Bangkok Declaration on Combating Marine Debris and the ASEAN Framework of Action on Marine Debris, to protect the marine environment and strengthen regional cooperation on marine debris issues at the 34th ASEAN Summit in June 2019. As a follow-up to the Framework of Action, Singapore worked with ASEAN Member States to develop an ASEAN Regional Action Plan on Combating Marine Debris (RAP). The RAP was endorsed and adopted by the ASEAN Ministerial Meeting on the Environment (AMME) in May 2021. Singapore is also active in marine litter initiatives organized by the Coordinating Body on the Seas of East Asia (COBSEA) and Partnerships in Environmental Management of the Seas of East Asia (PEMSEA).  Singapore’s participation at these regional platforms has also allowed us coordinate efforts with our neighbours and address marine litter collectively as a region. <br><br>
+		</li>
+		<li><b>Development Cooperation</b><br>
+		<p>Singapore conducts capacity building programmes under the Singapore Cooperation Programme (SCP) to support other developing countries in combatting marine litter. Singapore partnered Norway under the Singapore-Norway Third Country Training Programme (TCTP) to conduct a Regional Training Programme on Waste Management and Reduction of Marine Litter for government officials from the Asia-Pacific region.<a href="#_ftn1" name="_ftnref1" title=""><sup><sup><span style='font-size:16px;line-height:107%;font-family:"Calibri",sans-serif;'>[1]</span></sup></sup></a><span style="color:#2F5496;">&nbsp;</span>We also partnered Japan under the Japan-Singapore Partnership Programme for the 21<sup>st</sup> Century (JSPP21) to conduct two courses on &nbsp;&ldquo;Management of Waste and Reduction of Marine Litter&rdquo; for government officials from Southeast Asia, South Asia and the Pacific.<a href="#_ftn2" name="_ftnref2" title=""><sup><sup><span style='font-size:16px;line-height:107%;font-family:"Calibri",sans-serif;'>[2]</span></sup></sup></a> Another example is our partnership with United States under the Singapore-United States Third Country Training Programme (TCTP), where we conducted the &ldquo;Workshop on Addressing Plastic Pollution through Integrated Waste Management Strategies and Circular Economy&rdquo; for government officials from ASEAN Member States, ASEAN Secretariat and Timor-Leste.<a href="#_ftn3" name="_ftnref3" title=""><span style="vertical-align:super;"><span style="vertical-align:super;"><span style='font-size:16px;line-height:107%;font-family:"Calibri",sans-serif;'>[3]</span></span></span></a></p>
+<div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br>
+    <div id="ftn1" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+        <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><a href="#_ftnref1" name="_ftn1" title=""><sup><span style="font-size:12px;line-height:107%;"><sup><span style='font-size:12px;line-height:107%;font-family:"Calibri",sans-serif;'>[1]</span></sup></span></sup></a><span style="font-size:12px;line-height:107%;">&nbsp;Two runs of the programme were conducted in October 2017 and March 2019 for 45 foreign government officials.</span><span style='font-size:12px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+    </div>
+    <div id="ftn2" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+        <p style='margin:0cm;margin-bottom:.0001pt;font-size:13px;font-family:"Calibri",sans-serif;'><a href="#_ftnref2" name="_ftn2" title=""><span style="vertical-align:super;"><span style="vertical-align:super;"><span style='font-size:13px;line-height:107%;font-family:"Calibri",sans-serif;'>[2]</span></span></span></a> <span style="font-size:12px;">The programme was<sup>&nbsp;</sup>conducted from 1 to 5 March 2021 for 19 foreign government officials.</span></p>
+    </div>
+    <div id="ftn3" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+        <p style='margin:0cm;margin-bottom:.0001pt;font-size:13px;font-family:"Calibri",sans-serif;'><a href="#_ftnref3" name="_ftn3" title=""><span style="vertical-align:super;"><span style="font-size:12px;"><span style="vertical-align:super;"><span style='font-size:12px;line-height:107%;font-family:"Calibri",sans-serif;'>[3]</span></span></span></span></a><span style="font-size:12px;">&nbsp;</span><span style="font-size:12px;">The&nbsp;</span><span style="font-size:12px;">programme&nbsp;</span><span style="font-size:12px;">was conducted in September 2021 for 25 foreign government officials.</span>&nbsp;</p>
+    </div>
+</div></li>
+	</ol></p>
+	<div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br>
+    <div id="ftn1" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+        <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><a href="#_ftnref1" name="_ftn1" title=""><sup><span style="font-size:12px;line-height:107%;"><sup><span style='font-size:12px;line-height:107%;font-family:"Calibri",sans-serif;'>[1]</span></sup></span></sup></a><span style="font-size:12px;line-height:107%;">&nbsp;Two runs of the programme were conducted in October 2017 and March 2019 for 45 foreign government officials.</span><span style='font-size:12px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
+    </div>
+    <div id="ftn2" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+        <p style='margin:0cm;margin-bottom:.0001pt;font-size:13px;font-family:"Calibri",sans-serif;'><a href="#_ftnref2" name="_ftn2" title=""><span style="vertical-align:super;"><span style="vertical-align:super;"><span style='font-size:13px;line-height:107%;font-family:"Calibri",sans-serif;'>[2]</span></span></span></a> <span style="font-size:12px;">The programme was<sup>&nbsp;</sup>conducted from 1 to 5 March 2021 for 19 foreign government officials.</span></p>
+    </div>
+    <div id="ftn3" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+        <p style='margin:0cm;margin-bottom:.0001pt;font-size:13px;font-family:"Calibri",sans-serif;'><a href="#_ftnref3" name="_ftn3" title=""><span style="vertical-align:super;"><span style="font-size:12px;"><span style="vertical-align:super;"><span style='font-size:12px;line-height:107%;font-family:"Calibri",sans-serif;'>[3]</span></span></span></span></a><span style="font-size:12px;">&nbsp;</span><span style="font-size:12px;">The&nbsp;</span><span style="font-size:12px;">programme&nbsp;</span><span style="font-size:12px;">was conducted in September 2021 for 25 foreign government officials.</span>&nbsp;</p>
+    </div>
+</div>
 	</div>
 </div>
 	
@@ -244,7 +293,7 @@ Through the Environmental Public Health Act (EPHA), NEA ensures there is a compr
 <div>
 	<input type="checkbox" id="p5-1"  /><label for="p5-1">Looking Ahead</label>
 	<div class="accordion-content">
-		<p>Singapore currently has a suite of comprehensive, science-based measures to address the issue of marine litter. Further studies are being carried out to build upon our existing knowledge base to help us deepen our understanding of the scope and scale of marine litter, specific to Singapore’s context. This will enable us to further sharpen our efforts and put in place more targeted measures, particularly with regard to the movement or pathways of marine litter and their effects on the ecosystem.<br>
+		<p>Singapore currently has a suite of comprehensive, science-based measures to address the issue of marine litter. Further studies are being carried out to build upon our existing knowledge base to help us deepen our understanding of the scope and scale of marine litter, specific to Singapore’s context. This will enable us to further sharpen our efforts and put in place more targeted measures, particularly with regard to the movement or pathways of marine litter and their effects on the ecosystem.<br><br>
 Addressing marine litter requires national action. The Government works in partnership with our communities and stakeholders, to put in place enduring solutions to tackle this challenge. This National Action Strategy on Marine Litter seeks to galvanise and invigorate further efforts from all sectors of society, which will be critical in bring about lasting change. Through this whole of nation approach, we hope to ensure Singaporeans, for generations to come, can continue to enjoy the coastal and marine environment that surrounds our island home.
 		</p>
 	</div>
