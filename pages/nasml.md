@@ -142,9 +142,15 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="p2-1"  /><label for="p2-1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-			<br>
-		</p>
+		<p><span>Singapore is a small and heavily urbanised island-state in Southeast Asia situated at the southern tip of the Malayan Peninsula between Malaysia and Indonesia. Located between the Indian Ocean and the South China Sea, Singapore is bordered on the north by the narrow Johor Strait, which separates it from Peninsular Malaysia, and on the south by the Singapore Strait (Figure 1). The Johor Strait is divided into East and West Johor Straits by the Singapore-Malaysia causeway. The Strait receives water mainly from Sungai Johor and Sungai Pulai, both located in Malaysia.&nbsp;</span></p>
+<p><span>&nbsp;<img src="" style="width: 302.25pt; height: 189.75pt;" alt="Map of Singapore"></span></p>
+<p style='text-align:center;'><span>Figure 1: Map of Singapore<br>&nbsp;</span></p>
+<p><span>Biogeographically, Singapore is enclosed between two of the largest marine ecoregions of the world &ndash; the Western Indo-Pacific and Central Indo-Pacific regions<a href="#_ftn1" name="_ftnref1" title=""><span style="vertical-align:super;"><span style="vertical-align:super;"><span style='font-size:16px;line-height:107%;font-family:"Calibri",sans-serif;'>[1]</span></span></span></a> &ndash; and additionally sits near the Coral Triangle. &nbsp;While Singapore is one of the smallest countries in the world with a total land area of 728 square kilometres (as of 2020) and a 511-kilometre coastline, our waters and coastline harbour relatively rich marine biodiversity, and are home to 12 of the 23 species of Indo-Pacific seagrass, 31 true mangrove plant species (two-thirds of that in Asia), over 250 species of hard corals (a quarter of the world&rsquo;s 800 species), over 200 species of sponges, over 60 species of echinoderms, over 50 species of sea anemones and many other species of marine plants and animals.&nbsp;</span></p>
+<div><br>
+    <div id="ftn1" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+        <p style='margin:0cm;margin-bottom:.0001pt;font-size:13px;font-family:"Calibri",sans-serif;'><a href="#_ftnref1" name="_ftn1" title=""><span style="vertical-align:super;"><span style="vertical-align:super;"><span style='font-size:13px;line-height:107%;font-family:"Calibri",sans-serif;'>[1]</span></span></span></a> Spalding, et al., 2007</p>
+    </div>
+</div>
 	</div>
 </div>
 
