@@ -156,9 +156,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="p2-2"  /><label for="p2-2">Marine Litter Policy Landscape</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
-			<br>
-		</p>
+		<p>In 2020, Singapore established the Interagency Taskforce on Marine Litter, to coordinate and implement marine litter policies across our government agencies. The Ministry of Sustainability and the Environment chairs the Taskforce, which consists of nine agencies. The National Environment Agency (NEA) and the National Parks Board (NParks) provide technical support to the Taskforce, including through research projects and studies.</p>
 	</div>
 </div>
 	
