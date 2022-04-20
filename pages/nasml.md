@@ -241,12 +241,11 @@ In Singapore, we have minimised marine litter from land-based sources in the fol
 	
 <a name="p5"></a>
 <h2><b>Looking Ahead</b></h2>
-
-<h3 id="community-volunteer">Community Volunteer</h3>
 <div>
-	<input type="checkbox" id="p5-1"  /><label for="p5-1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p5-1"  /><label for="p5-1">Looking Ahead</label>
 	<div class="accordion-content">
-		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
+		<p>Singapore currently has a suite of comprehensive, science-based measures to address the issue of marine litter. Further studies are being carried out to build upon our existing knowledge base to help us deepen our understanding of the scope and scale of marine litter, specific to Singapore’s context. This will enable us to further sharpen our efforts and put in place more targeted measures, particularly with regard to the movement or pathways of marine litter and their effects on the ecosystem. 
+Addressing marine litter requires national action. The Government works in partnership with our communities and stakeholders, to put in place enduring solutions to tackle this challenge. This National Action Strategy on Marine Litter seeks to galvanise and invigorate further efforts from all sectors of society, which will be critical in bring about lasting change. Through this whole of nation approach, we hope to ensure Singaporeans, for generations to come, can continue to enjoy the coastal and marine environment that surrounds our island home.
 		</p>
 	</div>
 </div>
