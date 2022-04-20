@@ -184,54 +184,48 @@ input:checked + label + .accordion-content {
 <a name="p4"></a>
 <h2><b>Priority Areas and Measures</b></h2>
 
-<h3 id="p4-1">Reduction of Land-Based Sources of Litter</h3>
 <div>
-	<input type="checkbox" id="p4-1"  /><label for="p4-1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-1"  /><label for="p4-1">Reduction of Land-Based Sources of Litter</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
 	</div>
 </div>
 
-<h3 id="p4-2">Reduction of Sea-Based Sources of Litter</h3>
 <div>
-	<input type="checkbox" id="p4-2"  /><label for="p4-2">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-2"  /><label for="p4-2">Reduction of Sea-Based Sources of Litter</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
 	</div>
 </div>
 
-<h3 id="p4-3">Circular Economy Approach</h3>
 <div>
-	<input type="checkbox" id="p4-3"  /><label for="p4-3">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-3"  /><label for="p4-3">Circular Economy Approach</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
 	</div>
 </div>
 
-<h3 id="p4-4">Research & Development</h3>
 <div>
-	<input type="checkbox" id="p4-4"  /><label for="p4-4">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-4"  /><label for="p4-4">Research & Development</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
 	</div>
 </div>
 
-<h3 id="p4-5">Promotion and Strengthening Outreach and Stakeholder Engagement</h3>
 <div>
-	<input type="checkbox" id="p4-5"  /><label for="p4-5">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-5"  /><label for="p4-5">Promotion and Strengthening Outreach and Stakeholder Engagement</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
 	</div>
 </div>
 
-<h3 id="p4-6">International Engagement and Collaboration</h3>
 <div>
-	<input type="checkbox" id="p4-6"  /><label for="p4-6">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p4-6"  /><label for="p4-6">International Engagement and Collaboration</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 		</p>
