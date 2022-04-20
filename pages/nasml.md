@@ -162,7 +162,6 @@ input:checked + label + .accordion-content {
 	
 <a name="p3"></a>
 <h2><b>Principles</b></h2>
-
 <div>
 	<input type="checkbox" id="p3-1"  /><label for="p3-1">Principles</label>
 	<div class="accordion-content">
@@ -178,7 +177,7 @@ input:checked + label + .accordion-content {
 </ol>
 <p><span>The National Action Strategy will undergo regular reviews. This will ensure that Singapore adapts quickly to new circumstances and opportunities, in line with the collective global, regional and national imperatives. The following section broadly outlines the various policy actions which seek to address the issue of marine litter both internationally and domestically.&nbsp;</span></p>
 <div>
-	</div>
+</div>
 </div>
 	
 <a name="p4"></a>
