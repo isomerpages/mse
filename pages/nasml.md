@@ -143,6 +143,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="p2-1"  /><label for="p2-1">How can I become a community volunteer?</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
+			<br>
 		</p>
 	</div>
 </div>
