@@ -191,7 +191,14 @@ In Singapore, we have minimised marine litter from land-based sources in the fol
 		<p><ol style="list-style-type: upper-roman">
 		<li><b>Control of waste collection and disposal</b><br>
 Through the Environmental Public Health Act (EPHA), NEA ensures there is a comprehensive and integrated waste collection and management system in Singapore. All waste from municipal, commercial and industrial sources in Singapore are collected for disposal or recycling. NEA also controls the discharge of trade effluent, oil, chemical, sewage or other polluting matters into drains, as well as hazardous substances into inland waters. The EPHA also includes strict anti-littering regulations.</li>
-		<li></li>
+		<li><b>Integrated solid waste management system</b><br>
+		<p>All incinerable wastes including plastics that are not segregated at source for recycling are collected and disposed of at waste-to-energy (WTE) plants. These WTE plants are fitted with modern air pollution control systems such as flue gas treatment systems to ensure that flue gases are treated to meet local air emission standards. Ash from the WTE process, together with other non-incinerable wastes, are disposed of at the off-shore sanitary Semakau Landfill.<a href="#_ftn1" name="_ftnref1" title=""><sup><sup><span style='font-size:16px;line-height:107%;font-family:"Calibri",sans-serif;'>[1]</span></sup></sup></a> This integrated solid waste management system ensures the proper collection and treatment of all solid wastes, and prevents waste, such as plastic, from entering the ocean.<strong>&nbsp;</strong></p>
+<div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br>
+    <div id="ftn1" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+        <p style='margin:0cm;margin-bottom:.0001pt;font-size:13px;font-family:"Calibri",sans-serif;text-align:justify;'><a href="#_ftnref1" name="_ftn1" title=""><span style="vertical-align:super;"><span style="vertical-align:super;"><span style='font-size:13px;line-height:107%;font-family:"Calibri",sans-serif;'>[1]</span></span></span></a><span style="vertical-align:super;">&nbsp;</span><span style="font-size:12px;">Monitoring wells are provided &nbsp;along the 7km-long perimeter bund of Semakau Landfill for water sampling to ensure that &nbsp;water quality meets the Environmental Protection and Management (Trade Effluent) Regulations, leachate is contained within the landfill and the surrounding sea water quality is not compromised.</span></p>
+    </div>
+</div>
+		</li>
 		<li></li>
 		<li></li>
 		<li></li>
@@ -274,17 +281,6 @@ Through the Environmental Public Health Act (EPHA), NEA ensures there is a compr
     </div>
 </div></li>
 	</ol></p>
-	<div style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br>
-    <div id="ftn1" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
-        <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><a href="#_ftnref1" name="_ftn1" title=""><sup><span style="font-size:12px;line-height:107%;"><sup><span style='font-size:12px;line-height:107%;font-family:"Calibri",sans-serif;'>[1]</span></sup></span></sup></a><span style="font-size:12px;line-height:107%;">&nbsp;Two runs of the programme were conducted in October 2017 and March 2019 for 45 foreign government officials.</span><span style='font-size:12px;line-height:107%;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
-    </div>
-    <div id="ftn2" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
-        <p style='margin:0cm;margin-bottom:.0001pt;font-size:13px;font-family:"Calibri",sans-serif;'><a href="#_ftnref2" name="_ftn2" title=""><span style="vertical-align:super;"><span style="vertical-align:super;"><span style='font-size:13px;line-height:107%;font-family:"Calibri",sans-serif;'>[2]</span></span></span></a> <span style="font-size:12px;">The programme was<sup>&nbsp;</sup>conducted from 1 to 5 March 2021 for 19 foreign government officials.</span></p>
-    </div>
-    <div id="ftn3" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
-        <p style='margin:0cm;margin-bottom:.0001pt;font-size:13px;font-family:"Calibri",sans-serif;'><a href="#_ftnref3" name="_ftn3" title=""><span style="vertical-align:super;"><span style="font-size:12px;"><span style="vertical-align:super;"><span style='font-size:12px;line-height:107%;font-family:"Calibri",sans-serif;'>[3]</span></span></span></span></a><span style="font-size:12px;">&nbsp;</span><span style="font-size:12px;">The&nbsp;</span><span style="font-size:12px;">programme&nbsp;</span><span style="font-size:12px;">was conducted in September 2021 for 25 foreign government officials.</span>&nbsp;</p>
-    </div>
-</div>
 	</div>
 </div>
 	
