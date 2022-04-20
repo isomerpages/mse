@@ -138,9 +138,8 @@ input:checked + label + .accordion-content {
 <a name="p2"></a>
 <h2><b>Singapore’s Context</b></h2>
 
-<h3 id="p2-1">Marine and Coastal Landscape</h3>
 <div>
-	<input type="checkbox" id="p2-1"  /><label for="p2-1">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p2-1"/><label for="p2-1">Marine and Coastal Landscape</label>
 	<div class="accordion-content">
 		<p><span>Singapore is a small and heavily urbanised island-state in Southeast Asia situated at the southern tip of the Malayan Peninsula between Malaysia and Indonesia. Located between the Indian Ocean and the South China Sea, Singapore is bordered on the north by the narrow Johor Strait, which separates it from Peninsular Malaysia, and on the south by the Singapore Strait (Figure 1). The Johor Strait is divided into East and West Johor Straits by the Singapore-Malaysia causeway. The Strait receives water mainly from Sungai Johor and Sungai Pulai, both located in Malaysia.&nbsp;</span></p>
 <p><span>&nbsp;<img src="" style="width: 302.25pt; height: 189.75pt;" alt="Map of Singapore"></span></p>
@@ -154,9 +153,8 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<h3 id="p2-2">Marine Litter Policy Landscape</h3>
 <div>
-	<input type="checkbox" id="p2-2"  /><label for="p2-2">How can I become a community volunteer?</label>
+	<input type="checkbox" id="p2-2"  /><label for="p2-2">Marine Litter Policy Landscape</label>
 	<div class="accordion-content">
 		<p>Protecting the environment is everyone&#39;s responsibility. You can make a difference by being an environment volunteer with the National Environment Agency (NEA) and PUB, Singapore&#39;s National Water Agency.<br>
 			<br>
