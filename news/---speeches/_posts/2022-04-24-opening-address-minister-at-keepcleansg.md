@@ -7,9 +7,7 @@ description:
 ---  
 #### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Keep Clean, Singapore! 2022 Launch Event on 24 April 2022
 
-Mr Edward D&#39;Silva,
-
-Public Hygiene Council Chairman
+Mr Edward D&#39;Silva, Public Hygiene Council Chairman
 
 Advisers
 
