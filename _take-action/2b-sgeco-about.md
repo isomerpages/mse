@@ -66,7 +66,7 @@ To enable our community to build a sustainable and green Singapore.
 
 **Funding Principles**
 
-Our assessment of projects will be guided by the following principles:
+Our assessment of projects will be guided by the following principles: 
 
 1. Environmental Benefit – Projects should advance environmental sustainability in Singapore
 2. Community Action - Projects should inspire and enable the community to co-create and/or co-deliver environmental solutions
@@ -80,11 +80,10 @@ _________________________________________________________
 The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory Committee comprising representatives from the People, Private and Public (3P) sectors, as well as the SG Eco Office. The members of the Board of Trustees and Advisory Committee are as follows:
 
 
-
 <div>
 	<input type="checkbox" id="board"  /><label for="board">Board of Trustees</label>
 	<div class="accordion-content">
-        <li>Albert Chua (Chairman), Permanent Secretary, Ministry of Sustainability and the Environment</li>
+        <li>Stanley Loh (Chairman), Permanent Secretary, Ministry of Sustainability and the Environment</li>
         <li>Chaly Mah, Chairman, Singapore Tourism Board</li>
         <li>Lily Kong, President, Singapore Management University</li>
         <li>Zuraidah Abdullah, CEO, Mendaki</li>
@@ -96,17 +95,18 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 	<input type="checkbox" id="advisory"  /><label for="advisory">Advisory Committee</label>
 	<div class="accordion-content">
         <li>Amy Hing (Co-Chair), 1 Deputy Secretary, Ministry of Sustainability and the Environment</li>
-        <li>Neo Gim Huay (Co-Chair), Managing Director (Sustainability), Temasek International</li>
-        <li>Elmie Nekmat, Associate Professor and Deputy Head, Department of Communications and New Media, National University of Singapore</li>
+	<li>Fang Eu-Lin (Co-Chair), Partner (Sustainability and Climate Change Advisory), PwC</li>
+        <li>Neo Gim Huay, Centre for Nature and Climate, World Economic Forum</li>
+        <li>Elmie Nekmat, Assistant Professor, Department of Communications and New Media, National University of Singapore</li>
         <li>Esther An, Chief Sustainability Officer, City Developments Limited</li>
         <li>Fang Eu-Lin, Partner (Sustainability and Climate Change Advisory), PwC</li>
         <li>Heng Whoo Kiat, Director, Eco-City Project Office, Ministry of National Development</li>
         <li>Jen Teo, Executive Director, Singapore Environment Council</li>
-        <li>Melissa Low, Research Fellow, Energy Studies Institute, National University of Singapore</li>
+        <li>Melissa Low, Research Fellow, Centre for Nature-based Climate Solutions, National University of Singapore</li>
         <li>Sivasothi N, Senior Lecturer, Department of Biological Sciences, National University of Singapore</li>
         <li>Wang Weixiang, Director, Environmental Policy Division, Ministry of Sustainability and the Environment</li>
         <li>Winston Chow, Associate Professor (Science, Technology, and Society), School of Social Sciences, Singapore Management University</li>
-        <li>Zakir Hussain, Singapore Editor, The Straits Times, SPH</li>
+        <li>Zakir Hussain, Singapore Editor, The Straits Times, SPH Media</li>
 	</div>
 </div>
 
@@ -114,7 +114,7 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 	<input type="checkbox" id="office"  /><label for="office">SG Eco Office</label>
 	<div class="accordion-content">
 		<p>The SG Eco Office, under the Ministry of Sustainability and the Environment, aims to realise sustainability initiatives with 3P partners, leveraging whole-of-government networks and resources.<br><br>
-		Besides administering the SG Eco Fund, the SG Eco Office is also involved in implementing Eco Towns and developing sustainable community assets.</p>
+		Besides administering the SG Eco Fund, the SG Eco Office is also involved in empowering communities to take ownership and co-create sustainability initiatives. </p>
 	</div>
 </div>
 
