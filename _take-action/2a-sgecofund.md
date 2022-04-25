@@ -22,8 +22,8 @@ third_nav_title: SG Eco Fund
     <img src="/images/sgeco-question.svg" style="max-width:25vh;" alt="Question"><h5>Not sure if you are eligible to apply for the SG Eco Fund? Read more about the <a href="/sgecofund/fund-info"><b>eligibility criteria</b></a>.</h5>
   </div>
   <div class="grid-column">
-    <img src="/images/sgeco-webinar.svg" style="max-width:25vh;" alt="Recording"><h5>Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. <a href="#"><b>Sign up here</b></a>.</h5>
+    <img src="/images/sgeco-webinar.svg" style="max-width:25vh;" alt="Recording"><h5>Attend one of our <a href="#"><b>briefing webinars</b></a> to learn more about the application process and expectations on what makes a good application.</h5>
   </div>
 </div>
 
-<div><a href="/sgecofund/community"><b>Find resources and read more about our SG Eco Fund grantees</b></a>.</div>
+<div><h2><a href="/sgecofund/community"><b>Find resources and read more about our SG Eco Fund grantees</b></a>.</h2></div>
