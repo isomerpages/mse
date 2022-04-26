@@ -29,7 +29,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
             <h4>Your requested funding is <b>$10,000 or less</b>:</h4>
             <div>
                 <p>1) Complete the <a href="https://form.gov.sg/62305c9b09260b00127b63d4" target="_blank">application form.</a></p>
-                <a href="/images/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
+                <a href="/resources/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
                 <p> You will also be required to submit the following supporting documents:</p>
                 <ul>
                 <li>Pitch deck <a href="/files/sgecofund/SG-Eco-Fund-Pitch-Deck-Template.pptx" target="_blank">(pitch deck template)</a></li>
