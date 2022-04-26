@@ -26,6 +26,10 @@ View the SG Eco Fund [Press Release]() -->
 
 Read [stories](https://medium.com/greenplan/tagged/sg-eco-fund){:target="_blank"} about past SG Eco Fund recipients.
 
+<img src="/files/sgecofund/sgeco-community-seed-bank.jpeg" width="250px">
+<img src="/files/sgecofund/sgeco-mykilio.jpeg" width="250px">
+<img src="/files/sgecofund/sgeco-engineering-good.jpeg" width="250px">
+
 Check out the [complete list of SG Eco Fund recipients](/files/sgecofund/SGEF-GC1-and-GC2-awarded-projects-12.4.2022.pdf){:target="_blank"}.
 
 <b>Be <u>In</u>volved</b>
