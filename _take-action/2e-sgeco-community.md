@@ -4,7 +4,7 @@ permalink: /sgecofund/community
 third_nav_title: SG Eco Fund
 ---
 
- <center><h2>Eco is <b>IN</b></h2></center>
+ <center><h2>Eco is <b><u>IN</u></b></h2></center>
 
 <b>Be <u>In</u>formed</b>
 
