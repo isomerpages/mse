@@ -160,3 +160,19 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
+<div>
+	<input type="checkbox" id="grant-admin"  /><label for="grant-admin">Grant Administration</label>
+	<div class="accordion-content">
+        <p>Reimbursement for project costs will only take place after each project milestone and its associated deliverables are met. These milestones will be set and agreed upon by both grantee and the Trust before the commencement of the project.</p>
+        <p>Upon achieving each project milestone, grantees are required to submit the following documents:</p>
+            <ul>
+            <li>Project progress and/or completion reports.</li>
+            <li>Soft copies of original receipts, invoices, and/or payment records.</li>
+            <li>For projects with approved funding quantum of more than S$30,000 – A report of factual findings on their claims, prepared by an external auditor. The cost of engaging the auditor should be included in the project budget submitted with the application.</li>
+            </ul>
+        <p>The claim for the final reimbursement should be submitted within three months of the project completion date.<br><br>
+	The grantee and the SG Eco Fund’s Board of Trustees will co-own all intellectual property rights (IPRs) arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise the IPRs for charitable purposes. 
+</p>
+	</div>
+</div>
+
