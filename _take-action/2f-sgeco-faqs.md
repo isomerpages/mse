@@ -4,11 +4,11 @@ permalink: /sgecofund/faq
 third_nav_title: SG Eco Fund
 ---
 
-Can projects receive other sources of funding in addition to the SG Eco Fund?
+**Can projects receive other sources of funding in addition to the SG Eco Fund?**
 
 Applicants are not allowed to receive funding from more than one government grant scheme for the same project. However, applicants can still seek funding from other non-government sources. Applicants will be required to declare their funding sources in the application form.
 
-When will the results of my grant application be released?
+**When will the results of my grant application be released?**
 
 The release of the outcomes will depend on the grant category and when the application is submitted. The timeline can be found in the table below.
 
@@ -56,9 +56,9 @@ Applicants are discouraged from submitting the same project to the SG Eco Fund, 
 
 Grants will be given out on a reimbursement basis, upon completion of project milestones. The project milestones will be set and agreed by both applicant and the Trust before the commencement of the project. 
 
-Upon achieving agreed milestones, the grantee should submit these documents: 
-•	Project progress or completion report.
-•	Soft copies of original receipts, invoices, and/or payment records. 
+Upon achieving agreed milestones, the grantee should submit these documents:<br> 
+•	Project progress or completion report.<br>
+•	Soft copies of original receipts, invoices, and/or payment records. <br>
 •	For projects with approved funding quantum of more than S$30,000 – A report of factual findings on their claims, prepared by an external auditor. The cost of engaging the auditor should be included in the project budget during application.
 
 The claim for the final reimbursement should be submitted within three months of the project completion date.
@@ -103,7 +103,7 @@ No, a project does not need to be ‘new’ in order to be eligible for the SG E
 
 Yes. The SG Eco Fund recognises the need for financial sustainability of projects. The applicant can generate reasonable (not excessive) profits from the project if it supports the continued operation of the project and advances environmental sustainability in Singapore. 
 
-If grant recipients do not meet the agreed project targets, can they still receive the reimbursement for their costs?
+**If grant recipients do not meet the agreed project targets, can they still receive the reimbursement for their costs?**
 
 When setting project targets in the application, applicants should ensure that the targets are achievable, tangible, quantitative and relevant to the project objectives. The grant recipients would need to provide valid reasons should they not meet the targets. If the reasons are not accepted, reimbursement may be withheld or adjusted.
 
