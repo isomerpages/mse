@@ -6,7 +6,7 @@ third_nav_title: SG Eco Fund
 
  <center><h2>Eco is <b>IN</b></h2></center>
 
-**Be Informed**
+**Be <u>In</u>formed**
 
 Access our collection of [resources](/resources/){:target="_blank"} that cover key environmental issues in Singapore (useful for those looking for an issue to get involved in or looking for more data and evidence for their own proposals)
 
