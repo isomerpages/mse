@@ -141,8 +141,8 @@ input:checked + label + .accordion-content {
             <ul>
             <li>Professional services (e.g. events management, workshop facilitation, behavioural study, audit);</li>
             <li>Venue rental;</li>
-            <li>Educational materials (e.g. brochures, publications, books, etc);</li>
-            <li>Marketing and publicity (e.g. production of posters, EDMs, photography, etc);</li>
+            <li>Educational materials (e.g. brochures, publications, books);</li>
+            <li>Marketing and publicity (e.g. production of posters, EDMs, photography);</li>
             <li>Logistics and transportation; and</li>
             <li>Equipment and tools necessary for project implementation.</li>
             </ul>
@@ -154,7 +154,7 @@ input:checked + label + .accordion-content {
             <li>Food and beverage;</li>
             <li>Gifts and prizes (e.g. tokens of appreciation, cash prizes, vouchers, medals);</li>
             <li>Overseas or foreign visitor&#39;s expenses and fees (e.g. air ticket, accommodation);</li>
-            <li>Media space rental (e.g. newspaper, TV, radio, MRT and bus advertisements, etc);</li>
+            <li>Media space rental (e.g. newspaper, TV, radio, MRT and bus advertisements);</li>
             <li>Goods and Services Tax (GST).</li>
             </ul>
 	</div>
@@ -163,15 +163,15 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="grant-admin"  /><label for="grant-admin">Grant Administration</label>
 	<div class="accordion-content">
-        <p>Reimbursement for project costs will only take place after each project milestone and its associated deliverables are met. These milestones will be set and agreed upon by both grantee and the Trust before the commencement of the project.</p>
-        <p>Upon achieving each project milestone, grantees are required to submit the following documents:</p>
+        <p>Reimbursement for project costs will only take place after each project milestone and its associated deliverables are met. These milestones will be set and agreed upon by both grant recipient and the Trust before the commencement of the project.</p>
+        <p>Upon achieving each project milestone, grant recipients are required to submit the following documents:</p>
             <ul>
             <li>Project progress and/or completion reports.</li>
             <li>Soft copies of original receipts, invoices, and/or payment records.</li>
-            <li>For projects with approved funding quantum of more than S$30,000 – A report of factual findings on their claims, prepared by an external auditor. The cost of engaging the auditor should be included in the project budget submitted with the application.</li>
+            <li>For projects with an approved grant quantum of more than S$30,000 – A report of factual findings on their claims, prepared by an external auditor. The cost of engaging the auditor should be included in the project budget submitted with the application.</li>
             </ul>
         <p>The claim for the final reimbursement should be submitted within three months of the project completion date.<br><br>
-	The grantee and the SG Eco Fund’s Board of Trustees will co-own all intellectual property rights (IPRs) arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise the IPRs for charitable purposes. 
+	The grant recipient and the SG Eco Fund’s Board of Trustees will co-own all intellectual property rights (IPRs) arising from or created in relation to the Project. The SG Eco Fund retains the rights to utilise the IPRs for charitable purposes. 
 </p>
 	</div>
 </div>
