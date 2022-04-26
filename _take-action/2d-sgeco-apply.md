@@ -11,6 +11,46 @@ Sprout applications can be submitted throughout the year, while Main application
 
 Refer to the table below for the SG Eco Fund application timelines for each category.
 
+<table>
+<thead>
+  <tr>
+    <th>Category</th>
+    <th>Application Submission Period</th>
+    <th>Application Deadline</th>
+    <th>Estimated Results Date</th>
+    <th>Estimated Project Start Date</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Sprout</td>
+    <td>1 January to 30 April</td>
+    <td>30 April</td>
+    <td>July</td>
+    <td>1 August   </td>
+  </tr>
+  <tr>
+    <td>1 May to 31 August</td>
+    <td>31 August</td>
+    <td>November</td>
+    <td>1 December</td>
+  </tr>
+  <tr>
+    <td>1 September to 31 December</td>
+    <td>31 December</td>
+    <td>March (following year)</td>
+    <td>1 April (following year)</td>
+  </tr>
+  <tr>
+    <td>Main</td>
+    <td>1 May to 31 August</td>
+    <td>31 August</td>
+    <td>March (following year)</td>
+    <td>1 April (following year)</td>
+  </tr>
+</tbody>
+</table>
+
 All application forms must be successfully submitted via FormSG (see below) by 23:59 of the respective deadline.
 
 Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. Sign up for a webinar <a href="#"><b>here</b></a>.
