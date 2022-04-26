@@ -95,13 +95,13 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 	<input type="checkbox" id="advisory"  /><label for="advisory">Advisory Committee</label>
 	<div class="accordion-content">
         <li>Amy Hing, 1 Deputy Secretary, Ministry of Sustainability and the Environment</li>
-	<li>Fang Eu-Lin, Partner (Sustainability and Climate Change Advisory), PwC</li>
-        <li>Neo Gim Huay, Managing Director, Centre for Nature and Climate, World Economic Forum</li>
-        <li>Elmie Nekmat, Assistant Professor, Department of Communications and New Media, National University of Singapore</li>
+	<li>Elmie Nekmat, Assistant Professor, Department of Communications and New Media, National University of Singapore</li>
         <li>Esther An, Chief Sustainability Officer, City Developments Limited</li>
+	<li>Fang Eu-Lin, Partner (Sustainability and Climate Change Advisory), PwC</li>
         <li>Heng Whoo Kiat, Director, Eco-City Project Office, Ministry of National Development</li>
-        <li>Jen Teo, Executive Director, Singapore Environment Council</li>
+	<li>Jen Teo, Executive Director, Singapore Environment Council</li>
         <li>Melissa Low, Research Fellow, Centre for Nature-based Climate Solutions, National University of Singapore</li>
+	<li>Neo Gim Huay, Managing Director, Centre for Nature and Climate, World Economic Forum</li>
         <li>Sivasothi N, Senior Lecturer, Department of Biological Sciences, National University of Singapore</li>
         <li>Wang Weixiang, Director, Environmental Policy Division, Ministry of Sustainability and the Environment</li>
         <li>Winston Chow, Associate Professor (Science, Technology, and Society), School of Social Sciences, Singapore Management University</li>
