@@ -73,7 +73,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
                 <p> You will also be required to submit the following supporting documents:</p>
                 <ul>
                 <li>Pitch deck <a href="/files/sgecofund/SG-Eco-Fund-Pitch-Deck-Template.pptx" target="_blank">(pitch deck template)</a></li>
-                <li>Budget <a href="/resources/SG-Eco-Fund-Budget-Template-Oct-2021.xlsx" target="_blank">(budget template)</a></li>
+                <li>Budget <a href="/files/sgecofund/SG-Eco-Fund-Budget-Template-2022.xlsx" target="_blank">(budget template)</a></li>
                 </ul>
                 <p>Please refer to the pitch deck template for details on what to include. Your pitch deck should not exceed 10 slides.</p>
                 <p>2) If your project is shortlisted, you will be invited to give a 10-minute pitch using your previously submitted deck.</p>
@@ -90,7 +90,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
             <a href="/resources/SG-Eco-Fund-Sample-(Main).pdf">View sample form</a>
             <p>You will also be required to submit the following supporting documents:</p>
             <ul>
-            <li>Budget <a href="/resources/SG-Eco-Fund-Budget-Template-Oct-2021.xlsx" target="_blank">(budget template)</a></li>
+            <li>Budget <a href="/files/sgecofund/SG-Eco-Fund-Budget-Template-2022.xlsx" target="_blank">(budget template)</a></li>
             <li>ACRA business profile report or ROS profile;</li>
             <li>Audited financial report for the last three years* (for organisations only);</li>
             <li>CV of key project team members (not required for public agencies).</li>
