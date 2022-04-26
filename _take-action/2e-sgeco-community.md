@@ -10,7 +10,7 @@ third_nav_title: SG Eco Fund
 
 Access our collection of [resources](/resources/){:target="_blank"} that cover key environmental issues in Singapore (useful for those looking for an issue to get involved in or looking for more stats and evidence for their own proposals)
 
-Need help getting your ground-up initiative off the ground? Find curated resources and support through <a href="www.groundupcentral.sg">GroundUp Central</a> managed by the National Volunteer and Philanthropy Centre (NVPC).
+Need help getting your ground-up initiative off the ground? Find curated resources and support through <a href="https://www.groundupcentral.sg" target="_blank">GroundUp Central</a> managed by the National Volunteer and Philanthropy Centre (NVPC).
 
 <!--View the [slides](/resources/SG-Eco-Fund-workshop-slides.pdf){:target="_blank"} presented at our workshop.
 
@@ -30,7 +30,7 @@ Check out the [complete list of SG Eco Fund recipients](/files/sgecofund/SGEF-GC
 
 <b>Be <u>In</u>volved</b>
  
-Looking for collaborators or other eco-warriors in your neighbourhood? Check out GroundUp Central’s [list of community and groundup initiatives](www.groundupcentral.sg/collaborate){:target="_blank"}.
+Looking for collaborators or other eco-warriors in your neighbourhood? Check out GroundUp Central’s [list of community and groundup initiatives](https://www.groundupcentral.sg/collaborate){:target="_blank"}.
  
 <!--
 
