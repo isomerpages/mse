@@ -53,7 +53,7 @@ Refer to the table below for the SG Eco Fund application timelines for each cate
 
 All application forms must be successfully submitted via FormSG (see below) by 23:59 of the respective deadline.
 
-Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. Sign up for a webinar <a href="#"><b>here</b></a>.
+Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. Sign up for a webinar <a href="https://form.gov.sg/#!/62555a215ea4620012ddc074"><b>here</b></a>.
 
 **Application Process**
 
