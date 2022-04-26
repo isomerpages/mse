@@ -95,9 +95,9 @@ input:checked + label + .accordion-content {
         </tr>
         </tbody>
         </table>
-	</div>
 	<div>
 		<h5>For a list of SG Eco Fund’s supported projects, click <a href="#"><b>here</b></a>.</h5>
+	</div>
 	</div>
 </div>
 
