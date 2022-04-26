@@ -83,10 +83,10 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 <div>
 	<input type="checkbox" id="board"  /><label for="board">Board of Trustees</label>
 	<div class="accordion-content">
-        <li>Stanley Loh (Chairman), Permanent Secretary, Ministry of Sustainability and the Environment</li>
         <li>Chaly Mah, Chairman, Singapore Tourism Board</li>
         <li>Lily Kong, President, Singapore Management University</li>
-        <li>Zuraidah Abdullah, CEO, Mendaki</li>
+	<li>Stanley Loh, Permanent Secretary, Ministry of Sustainability and the Environment</li>
+        <li>Zuraidah Abdullah, CEO, Yayasan MENDAKI</li>
 	</div>
 </div>
 
@@ -94,12 +94,11 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 <div>
 	<input type="checkbox" id="advisory"  /><label for="advisory">Advisory Committee</label>
 	<div class="accordion-content">
-        <li>Amy Hing (Co-Chair), 1 Deputy Secretary, Ministry of Sustainability and the Environment</li>
-	<li>Fang Eu-Lin (Co-Chair), Partner (Sustainability and Climate Change Advisory), PwC</li>
-        <li>Neo Gim Huay, Centre for Nature and Climate, World Economic Forum</li>
+        <li>Amy Hing, 1 Deputy Secretary, Ministry of Sustainability and the Environment</li>
+	<li>Fang Eu-Lin, Partner (Sustainability and Climate Change Advisory), PwC</li>
+        <li>Neo Gim Huay, Managing Director, Centre for Nature and Climate, World Economic Forum</li>
         <li>Elmie Nekmat, Assistant Professor, Department of Communications and New Media, National University of Singapore</li>
         <li>Esther An, Chief Sustainability Officer, City Developments Limited</li>
-        <li>Fang Eu-Lin, Partner (Sustainability and Climate Change Advisory), PwC</li>
         <li>Heng Whoo Kiat, Director, Eco-City Project Office, Ministry of National Development</li>
         <li>Jen Teo, Executive Director, Singapore Environment Council</li>
         <li>Melissa Low, Research Fellow, Centre for Nature-based Climate Solutions, National University of Singapore</li>
