@@ -22,13 +22,13 @@ Watch this recording of the SG Eco Fund Workshop to learn tips on crafting a goo
 
 View the SG Eco Fund [Press Release]() -->
 
-<b>Be <u>In</u>spired<b>
+<b>Be <u>In</u>spired</b>
 
 Read [stories](https://greenplan.medium.com/){:target="_blank"} about past SG Eco Fund recipients.
 
 Check out the [complete list of SG Eco Fund recipients](/files/sgecofund/SGEF-GC1-and-GC2-awarded-projects-12.4.2022.pdf){:target="_blank"}.
 
-<b>Be <u>In</u>volved<b>
+<b>Be <u>In</u>volved</b>
  
 Looking for collaborators or other eco-warriors in your neighbourhood? Check out GroundUp Central’s [list of community and groundup initiatives](www.groundupcentral.sg/collaborate){:target="_blank"}.
  
