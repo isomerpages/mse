@@ -70,7 +70,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title4"  /><label for="title4">"30 By 30" Local Production Goal</label>
 	<div class="accordion-content">
-		<p>SFA aims to increase local production to achieve a goal of “30 by 30”, which is to produce 30% of Singapore’s nutritional needs locally by 2030, up from less than 10% today. Technology advancements will be key in unlocking the potential of our agri-food industry to ‘grow more with less’, in a sustainable manner.</p>
+		<p>SFA aims to increase local production to achieve a goal of “30 by 30”, which is to build up our agri-food industry's capability and capacity to produce 30% of our nutitional needs locally and sustainably by 2030, up from less than 10% today. Technology advancements will be key in unlocking the potential of our agri-food industry to ‘grow more with less’, in a sustainable manner.</p>
 		<p>SFA is thus working with the agri-food industry and community to:</p>
 		<ul>
 			<li><p>Develop spaces for farming: To expand local food production, SFA tenders out spaces to agri-food companies with promising technologies through a competitive land tender basis.</p>

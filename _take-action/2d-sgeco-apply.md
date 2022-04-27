@@ -5,21 +5,61 @@ third_nav_title: SG Eco Fund
 ---
 
 
-The SG Eco Fund is only open for application during the grant call periods. The grant call for 2021 is now closed.
+The SG Eco Fund has two categories: Sprout (Up to $10,000) and Main (more than $10,000). 
 
-Check out the <a href="/sgecofund/community"><b>recording</b></a> of our public workshop to learn tips on crafting a good proposal for the SG Eco Fund.
+Sprout applications can be submitted throughout the year, while Main applications can be submitted between 1 May and 31 August each year. 
 
-![Timeline](/images/sgeco-timeline.png)
+Refer to the table below for the SG Eco Fund application timelines for each category.
+
+<table>
+<thead>
+  <tr>
+    <th>Category</th>
+    <th>Application Submission Period</th>
+    <th>Application Deadline</th>
+    <th>Estimated Results Date</th>
+    <th>Estimated Project Start Date</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Sprout</td>
+    <td>1 January to 30 April</td>
+    <td>30 April</td>
+    <td>July</td>
+    <td>1 August   </td>
+  </tr>
+  <tr>
+    <td>1 May to 31 August</td>
+    <td>31 August</td>
+    <td>November</td>
+    <td>1 December</td>
+  </tr>
+  <tr>
+    <td>1 September to 31 December</td>
+    <td>31 December</td>
+    <td>March (following year)</td>
+    <td>1 April (following year)</td>
+  </tr>
+  <tr>
+    <td>Main</td>
+    <td>1 May to 31 August</td>
+    <td>31 August</td>
+    <td>March (following year)</td>
+    <td>1 April (following year)</td>
+  </tr>
+</tbody>
+</table>
+
+All application forms must be successfully submitted via FormSG (see below) by 23:59 of the respective deadline.
+
+Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. Sign up for a webinar <a href="https://form.gov.sg/#!/62555a215ea4620012ddc074" target="_blank"><b>here</b></a>.
 
 **Application Process**
 
-All application forms must be submitted online via FormSG (see below) by **17 October 2021, 23:59pm**. Applications received via email will **not** be considered.
+Please note that the application form on FormSG **cannot** be saved as a draft. You may wish to refer to the sample forms below and prepare all information required before filling up the online form. In addition, once an application is submitted, applicants will not be able to make any amendments to the FormSG application.
 
-Please note that the application form on FormSG cannot be saved as a draft. You may wish to refer to the sample forms below and prepare all information required before filling up the online form. In addition, once an application is submitted, applicants will not be able to make any amendments.
-
-If you are applying for funding of $10,000 or less, please refer to the instructions under the &quot;Sprout&quot; category. For all other funding requests above $10,000, please refer to instructions under the &quot;Main&quot; category.
-
-*The Trust Secretariat may contact applicants via email for clarification and/or to obtain additional details, where necessary. Please note that incomplete application forms will not be processed.*
+*The Trust Secretariat may, but is not required to, contact applicants via email for clarification and/or to obtain additional details. Please note that incomplete application forms will not be processed.*
 
 <div class='container'>
   <div class='grid-row'>
@@ -28,16 +68,16 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
             <h2><b>Sprout</b></h2>
             <h4>Your requested funding is <b>$10,000 or less</b>:</h4>
             <div>
-                <p>1) Complete the <!--<a href="https://form.gov.sg/611b508d7f4b5f001229b8a5" target="_blank">-->application form.</p>
-                <a href="/images/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
+                <p>1) Complete the <a href="https://form.gov.sg/62305c9b09260b00127b63d4" target="_blank">application form.</a></p>
+                <a href="/resources/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
                 <p> You will also be required to submit the following supporting documents:</p>
                 <ul>
-                <li>Pitch deck <a href="/resources/SG-Eco-Fund-Pitch-Deck-Template.pptx" target="_blank">(pitch deck template)</a></li>
-                <li>Budget <a href="/resources/SG-Eco-Fund-Budget-Template-Oct-2021.xlsx" target="_blank">(budget template)</a></li>
+                <li>Pitch deck <a href="/files/sgecofund/SG-Eco-Fund-Pitch-Deck-Template.pptx" target="_blank">(pitch deck template)</a></li>
+                <li>Budget <a href="/files/sgecofund/SG-Eco-Fund-Budget-Template-2022.xlsx" target="_blank">(budget template)</a></li>
                 </ul>
-                <p>Please refer to the pitch deck template for details on what to include. Your pitch deck should not exceed 12 slides.</p>
-                <p>2) If your project is shortlisted, you will be invited to give a 10-minute pitch to the Evaluation Committee using your previously submitted deck.</p>
-                <p>3) You will be informed by email on the outcome of your application within 2 months of closure of the grant call.</p>
+                <p>Please refer to the pitch deck template for details on what to include. Your pitch deck should not exceed 10 slides.</p>
+                <p>2) If your project is shortlisted, you will be invited to give a 10-minute pitch using your previously submitted deck.</p>
+                <p>3) The outcome of your application will be conveyed to you via email.</p>
             </div> 
         </div>
     </div>
@@ -46,14 +86,15 @@ If you are applying for funding of $10,000 or less, please refer to the instruct
         <h2><b>Main</b></h2>
         <h4>Your requested funding is <b>more than $10,000</b>:</h4>
         <div>
-            <p>1) Complete the <!--<a href="https://form.gov.sg/611b508d7f4b5f001229b8a5" target="_blank">-->application form.</p>
+            <p>1) Complete the <a href="https://form.gov.sg/62618415b91a650012d1dfdd" target="_blank">application form.</a></p>
             <a href="/resources/SG-Eco-Fund-Sample-(Main).pdf">View sample form</a>
             <p>You will also be required to submit the following supporting documents:</p>
             <ul>
-            <li>Budget <a href="/resources/SG-Eco-Fund-Budget-Template-Oct-2021.xlsx" target="_blank">(budget template)</a></li>
+            <li>Budget <a href="/files/sgecofund/SG-Eco-Fund-Budget-Template-2022.xlsx" target="_blank">(budget template)</a></li>
             <li>ACRA business profile report or ROS profile;</li>
-            <li>Audited financial report for the last three years (for organisations only);</li>
+            <li>Audited financial report for the last three years* (for organisations only);</li>
             <li>CV of key project team members (not required for public agencies).</li>
             </ul>
-            <p>2) You will be informed by email on the outcome of your application within 4 months of closure of the grant call.</p>
+            <p><i>*If you are exempt from audited financial reports, please submit your unaudited financial reports instead.</i><br></p>
+            <p>2) The outcome of your application will be conveyed to you via email.</p>
     </div>
