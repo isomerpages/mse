@@ -1,6 +1,6 @@
 ---
 title: National Action Strategy
-permalink: 
+permalink: /nasml/
 ---  
 <style>
 
