@@ -1,3 +1,11 @@
+---  
+title: Media Release On St Gallen Symposium And May Ministerial Meeting On Implementation
+permalink: /resource-room/category/2022-05-03-media-release-on-st-gallen-symposium-and-may-ministerial-meeting-on-implementation  
+image:  
+file_url:  
+description:  
+---  
+
 **MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT GRACE FU ATTENDING 51ST ST. GALLEN SYMPOSIUM IN ST. GALLEN, SWITZERLAND, AND MAY MINISTERIAL MEETING ON IMPLEMENTATION IN COPENHAGEN, DENMARK IN MAY 2022** 
 
 **Singapore, 3 May 2022** – Ms Grace Fu, Minister for Sustainability and the Environment, will be in St. Gallen, Switzerland, from 4 to 6 May 2022, to attend the 51st St. Gallen Symposium (SGS). Thereafter, Minister Fu will attend the May Ministerial Meeting on Implementation marking the 30th Anniversary of the United Nations Framework Convention on Climate Change (UNFCCC), hosted by Denmark and co-chaired by the UK COP26 Presidency and incoming Egypt COP27 Presidency from 12 to 13 May 2022, in Copenhagen, Denmark. 
