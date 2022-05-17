@@ -7,7 +7,11 @@ permalink: /nasml/
 
 .back {
   padding: 0 1em;
-    align-items: center;
+    background-position: center;
+  background-size: cover;
+  text-align: left;
+  justify-content: center;
+  align-items: center;
 }
 /* .back .button {
   background: linear-gradient(135deg, #1a9be6, #1a57e6);
@@ -107,7 +111,7 @@ This is why Singapore has released its first National Action Strategy on Marine 
 <table>
      <tr>
            <td width="50%" text-align="center">
-             <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter">
+             <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter" style="width: 150pt; height: 150pt;">
               <h5>Reduction of land-based sources of litter</h5>
               Preventing waste from land from leaking into the sea</td>
            <td text-align="center">
