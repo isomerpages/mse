@@ -95,7 +95,7 @@ permalink: /nasml/
 
 <img src="/images/nasml/titlebar.png" alt="national action strategy titlebar">
 
-<h1><b>Addressing Marine Litter in Singapore</b></h1>
+<h2><b>Addressing Marine Litter</b></h2>
 
 Marine litter comes in many forms and includes plastic bags, glass, wood and tyres. It can come from many sources too, and is moved across the oceans by prevailing winds and tides.
 
@@ -107,13 +107,13 @@ This is why Singapore has released its first National Action Strategy on Marine 
 
 <table>
      <tr>
-           <td>
+           <td width="50%">
              <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter">
-              <h6>Reduction of land-based sources of litter</h6>
+              <h5>Reduction of land-based sources of litter</h5>
               Preventing waste from land from leaking into the sea</td>
            <td>
              <img src="/images/nasml/2.png" alt="Reduction of sea-based sources of litter">
-             <h6>Reduction of sea-based sources of litter</h6>
+             <h5>Reduction of sea-based sources of litter</h5>
 Preventing waste from vessels and off-shore installation from being disposed at sea</td>
       </tr>
   <tr>
