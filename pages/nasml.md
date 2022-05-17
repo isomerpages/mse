@@ -7,6 +7,7 @@ permalink: /nasml/
 
 .back {
   padding: 0 1em;
+    align-items: center;
 }
 /* .back .button {
   background: linear-gradient(135deg, #1a9be6, #1a57e6);
@@ -105,40 +106,41 @@ This is why Singapore has released its first National Action Strategy on Marine 
 
 <table>
      <tr>
-           <td width="50%">
+           <td width="50%" text-align="center">
              <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter">
               <h5>Reduction of land-based sources of litter</h5>
               Preventing waste from land from leaking into the sea</td>
-           <td>
+           <td text-align="center">
              <img src="/images/nasml/2.png" alt="Reduction of sea-based sources of litter">
              <h5>Reduction of sea-based sources of litter</h5>
 Preventing waste from vessels and off-shore installation from being disposed at sea</td>
       </tr>
   <tr>
-           <td>
+           <td text-align="center">
              <img src="/images/nasml/3.png" alt="Circular economy approach">
               <h5>Circular economy approach</h5>
               Targeting waste at its source by preventing the production of waste</td>
-           <td>
+           <td text-align="center">
              <img src="/images/nasml/4.png" alt="Research and development">
              <h5>Research and development</h5>
              Leveraging on science and technology</td>
       </tr>
     <tr>
-           <td>
+           <td text-align="center">
              <img src="/images/nasml/5.png" alt="International engagement and collaboration">
               <h5>International engagement and collaboration</h5>
             Marine litter is a transboundary issue</td>
-           <td>
+           <td text-align="center">
              <img src="/images/nasml/6.png" alt="outreach and stakeholder engagement">
              <h5>Promoting and strengthening outreach and stakeholder engagement</h5>
              Everyone makes a difference</td>
       </tr>
 </table>
 
+<p></p>
 
 <div class="back">
       <div>
-        <a href="/images/nasml/nasml.pdf"><button class="button">Download Now</button></a>
+        <a href="/images/nasml/nasml.pdf"><button class="button">Download National Action Strategy on Marine Litter Now</button></a>
       </div>
     </div>
