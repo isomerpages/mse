@@ -108,10 +108,33 @@ This is why Singapore has released its first National Action Strategy on Marine 
 <table>
      <tr>
            <td>
-                 <h4> Reduction of land-based sources of litter</h4>
-                        Preventing waste from land from leaking into the sea</td>
-           <td><h4>Reduction of sea-based sources of litter</h4>
+             <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter">
+              <h6>Reduction of land-based sources of litter</h6>
+              Preventing waste from land from leaking into the sea</td>
+           <td>
+             <img src="/images/nasml/2.png" alt="Reduction of sea-based sources of litter">
+             <h6>Reduction of sea-based sources of litter</h6>
 Preventing waste from vessels and off-shore installation from being disposed at sea</td>
+      </tr>
+  <tr>
+           <td>
+             <img src="/images/nasml/3.png" alt="Circular economy approach">
+              <h6>Circular economy approach</h6>
+              Targeting waste at its source by preventing the production of waste</td>
+           <td>
+             <img src="/images/nasml/4.png" alt="Research and development">
+             <h6>Research and development</h6>
+             Leveraging on science and technology</td>
+      </tr>
+    <tr>
+           <td>
+             <img src="/images/nasml/5.png" alt="International engagement and collaboration">
+              <h6>International engagement and collaboration</h6>
+            Marine litter is a transboundary issue</td>
+           <td>
+             <img src="/images/nasml/6.png" alt="outreach and stakeholder engagement">
+             <h6>Promoting and strengthening outreach and stakeholder engagement</h6>
+             Everyone makes a difference</td>
       </tr>
 </table>
 
