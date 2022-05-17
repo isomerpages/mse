@@ -6,8 +6,6 @@ permalink: /nasml/
 <style>
 
 .back {
-  background: #F4F0E5;
-  transform: rotateY(-180deg);
   padding: 0 1em;
 }
 /* .back .button {
@@ -119,21 +117,21 @@ Preventing waste from vessels and off-shore installation from being disposed at 
   <tr>
            <td>
              <img src="/images/nasml/3.png" alt="Circular economy approach">
-              <h6>Circular economy approach</h6>
+              <h5>Circular economy approach</h5>
               Targeting waste at its source by preventing the production of waste</td>
            <td>
              <img src="/images/nasml/4.png" alt="Research and development">
-             <h6>Research and development</h6>
+             <h5>Research and development</h5>
              Leveraging on science and technology</td>
       </tr>
     <tr>
            <td>
              <img src="/images/nasml/5.png" alt="International engagement and collaboration">
-              <h6>International engagement and collaboration</h6>
+              <h5>International engagement and collaboration</h5>
             Marine litter is a transboundary issue</td>
            <td>
              <img src="/images/nasml/6.png" alt="outreach and stakeholder engagement">
-             <h6>Promoting and strengthening outreach and stakeholder engagement</h6>
+             <h5>Promoting and strengthening outreach and stakeholder engagement</h5>
              Everyone makes a difference</td>
       </tr>
 </table>
