@@ -111,9 +111,9 @@ This is why Singapore has released its first National Action Strategy on Marine 
 <table>
      <tr>
            <td width="30%" text-align="center">
-             <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter" style="width: 150px; height: 150px;">
+             <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter" style="width: 150px;">
             </td>
-              <td><h5>Reduction of land-based sources of litter</h5>
+              <td valign="middle"><h5>Reduction of land-based sources of litter</h5>
               Preventing waste from land from leaking into the sea
               </td>          
       </tr>
@@ -121,14 +121,14 @@ This is why Singapore has released its first National Action Strategy on Marine 
           <td text-align="center">
              <img src="/images/nasml/2.png" alt="Reduction of sea-based sources of litter" style="width: 150px; height: 150px;">
     </td>
-    <td><h5>Reduction of sea-based sources of litter</h5>
+    <td valign="middle"><h5>Reduction of sea-based sources of litter</h5>
       Preventing waste from vessels and off-shore installation from being disposed at sea</td>
   </tr>
   <tr>
     <td text-align="center">
              <img src="/images/nasml/3.png" alt="Circular economy approach" style="width: 150px; height: 150px;">
     </td>
-    <td>
+    <td valign="middle">
              <h5>Circular economy approach</h5>
               Targeting waste at its source by preventing the production of waste</td>
   </tr>
@@ -136,7 +136,7 @@ This is why Singapore has released its first National Action Strategy on Marine 
     <td text-align="center">
             <img src="/images/nasml/4.png" alt="Research and development" style="width: 150px; height: 150px;">
     </td>
-    <td>
+    <td valign="middle">
                <h5>Research and development</h5>
              Leveraging on science and technology</td>
   </tr> 
@@ -144,7 +144,7 @@ This is why Singapore has released its first National Action Strategy on Marine 
     <td text-align="center">
             <img src="/images/nasml/5.png" alt="International engagement and collaboration" style="width: 150px; height: 150px;">
     </td>
-    <td>
+    <td valign="middle">
               <h5>International engagement and collaboration</h5>
             Marine litter is a transboundary issue</td>
   </tr>
@@ -152,7 +152,7 @@ This is why Singapore has released its first National Action Strategy on Marine 
     <td text-align="center">
            <img src="/images/nasml/6.png" alt="outreach and stakeholder engagement" style="width: 150px; height: 150px;">
     </td>
-    <td>
+    <td valign="middle">
       <h5>Promoting and strengthening outreach and stakeholder engagement</h5>
              Everyone makes a difference</td>
   </tr>
