@@ -111,31 +111,31 @@ This is why Singapore has released its first National Action Strategy on Marine 
 <table>
      <tr>
            <td width="50%" text-align="center">
-             <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter" style="width: 150pt; height: 150pt;">
+             <img src="/images/nasml/1.png" alt="Reduction of land-based sources of litter" style="width: 150px; height: 150px;">
               <h5>Reduction of land-based sources of litter</h5>
               Preventing waste from land from leaking into the sea</td>
            <td text-align="center">
-             <img src="/images/nasml/2.png" alt="Reduction of sea-based sources of litter">
+             <img src="/images/nasml/2.png" alt="Reduction of sea-based sources of litter" style="width: 150px; height: 150px;">
              <h5>Reduction of sea-based sources of litter</h5>
 Preventing waste from vessels and off-shore installation from being disposed at sea</td>
       </tr>
   <tr>
            <td text-align="center">
-             <img src="/images/nasml/3.png" alt="Circular economy approach">
+             <img src="/images/nasml/3.png" alt="Circular economy approach" style="width: 150px; height: 150px;">
               <h5>Circular economy approach</h5>
               Targeting waste at its source by preventing the production of waste</td>
            <td text-align="center">
-             <img src="/images/nasml/4.png" alt="Research and development">
+             <img src="/images/nasml/4.png" alt="Research and development" style="width: 150px; height: 150px;">
              <h5>Research and development</h5>
              Leveraging on science and technology</td>
       </tr>
     <tr>
            <td text-align="center">
-             <img src="/images/nasml/5.png" alt="International engagement and collaboration">
+             <img src="/images/nasml/5.png" alt="International engagement and collaboration" style="width: 150px; height: 150px;">
               <h5>International engagement and collaboration</h5>
             Marine litter is a transboundary issue</td>
            <td text-align="center">
-             <img src="/images/nasml/6.png" alt="outreach and stakeholder engagement">
+             <img src="/images/nasml/6.png" alt="outreach and stakeholder engagement" style="width: 150px; height: 150px;">
              <h5>Promoting and strengthening outreach and stakeholder engagement</h5>
              Everyone makes a difference</td>
       </tr>
@@ -144,7 +144,7 @@ Preventing waste from vessels and off-shore installation from being disposed at 
 <p></p>
 
 <div class="back">
-      <div>
+      <div align="center">
         <a href="/images/nasml/nasml.pdf"><button class="button">Download National Action Strategy on Marine Litter Now</button></a>
       </div>
     </div>
