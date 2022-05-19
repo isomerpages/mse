@@ -167,9 +167,7 @@ Addressing marine litter requires national action. The National Action Strategy 
       <div align="center">
         <a href="/images/nasml/nasml.pdf"><button class="button">Download National Action Strategy on Marine Litter Now</button></a>
       </div>
-    </div>
-    <div class="back">
       <div align="center">
         <a href="https://www.nea.gov.sg/docs/default-source/default-document-library/yearly-flotsam-data.pdf"><button class="button">Data on Marine Litter</button></a>
       </div>
-    </div>
+</div>
