@@ -26,4 +26,4 @@ third_nav_title: SG Eco Fund
   </div>
 </div>
 
-<div><h5>Find resources and read more about our SG Eco Fund grantees <a href="/sgecofund/community"><b>here</b></a>.</h5></div>
+<div><h5>Find <a href="/sgecofund/community">resources</a> and read more about our <a href="/sgecofund/community">SG Eco Fund grantees</a>.</h5></div>
