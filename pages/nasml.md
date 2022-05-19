@@ -100,13 +100,13 @@ permalink: /nasml/
 
 <h2><b>Addressing Marine Litter</b></h2>
 
-Marine litter comes in many forms and includes plastic bags, glass, wood and tyres. It can come from many sources too, and is moved across the oceans by prevailing winds and tides.
+Marine litter comes in many forms and includes plastic bags, glass, wood and tyres. It can come from many sources too, and is a transboundary issue as litter is moved across the oceans by prevailing winds and tides.
 
 Marine litter poses environmental, economic, health, cultural and aesthetic threats, including the loss of biodiversity and degradation of marine and coastal habitats and ecosystems.
 
 As a responsible global citizen, Singapore recognises our role in contributing to the collective response to tackling marine litter and microplastics. 
 
-This is why Singapore has released its first National Action Strategy on Marine Litter, which outlines comprehensive measures across six priority areas to tackle marine litter.
+This is why Singapore has released its first National Action Strategy on Marine Litter which aims to summarise and outline Singapore's various actions and measures to combat the issue of marine litter across six priority areas.
 
 <table>
      <tr>
@@ -122,7 +122,7 @@ This is why Singapore has released its first National Action Strategy on Marine 
              <img src="/images/nasml/2.png" alt="Reduction of sea-based sources of litter" style="width: 150px;">
     </td>
     <td valign="middle"><h5>Reduction of sea-based sources of litter</h5>
-      Preventing waste from vessels and off-shore installation from being disposed at sea</td>
+      Preventing waste from vessels and off-shore installations from being disposed at sea</td>
   </tr>
   <tr>
     <td text-align="center">
@@ -154,14 +154,22 @@ This is why Singapore has released its first National Action Strategy on Marine 
     </td>
     <td valign="middle">
       <h5>Promoting and strengthening outreach and stakeholder engagement</h5>
-             Everyone makes a difference</td>
+            Engaging and supporting stakeholders in a whole-of-nation approach</td>
   </tr>
 </table>
+
+Addressing marine litter requires national action. The National Action Strategy on Marine Litter seeks to galvanise and invigorate further efforts from all sectors of society. Through this whole of nation approach, we hope to ensure Singaporeans can continue to enjoy the coastal and marine environment that surrounds our island home for generations to come.
+
 
 <p></p>
 
 <div class="back">
       <div align="center">
         <a href="/images/nasml/nasml.pdf"><button class="button">Download National Action Strategy on Marine Litter Now</button></a>
+      </div>
+    </div>
+    <div class="back">
+      <div align="center">
+        <a href="https://www.nea.gov.sg/docs/default-source/default-document-library/yearly-flotsam-data.pdf"><button class="button">Data on Marine Litter</button></a>
       </div>
     </div>
