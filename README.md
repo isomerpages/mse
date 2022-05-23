@@ -4,4 +4,4 @@
 
 ## Looking to upload speeches? Please refer to the documentation / style-guide
 
-## If you have any queries, please email geokting@mse.sg
+## If you have any queries, please email abby_teo@mse.gov.sg
