@@ -1,6 +1,6 @@
 ---
 title: Marine Litter
-permalink: /nasml/
+permalink: 
 ---  
 
 <style>
