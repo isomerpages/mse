@@ -1,6 +1,6 @@
 ---
-title: SGBC-BCA Leadership in Sustainability Awards 2022 - Ms Grace Fu
-Premalink: /resource-room/category/2022-05-20-sgbc-gala-dinner/
+title: Singapore Green Building Council and Building and Construction Authority Leadership in Sustainability Awards 2022 - Ms Grace Fu
+Permalink: /resource-room/category/2022-05-20-sgbc-gala-dinner/
 image:
 file_url:
 description:
