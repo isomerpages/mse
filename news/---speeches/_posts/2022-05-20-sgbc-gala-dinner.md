@@ -1,11 +1,10 @@
 ---
 title: Singapore Green Building Council and Building and Construction Authority Leadership in Sustainability Awards 2022 - Ms Grace Fu
-Permalink: /resource-room/category/2022-05-20-sgbc-gala-dinner/
+permalink: /resource-room/category/2022-05-20-sgbc-gala-dinner/
 image:
 file_url:
 description:
 ---
-
 #### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE SINGAPORE GREEN BUILDING COUNCIL GALA DINNER 2022, HELD AT THE GRAND BALLROOM, ORCHARD HOTEL SINGAPORE ON 20 MAY 2022
 
 Ar. Tang Kok Thye, President, Singapore Green Building Council
