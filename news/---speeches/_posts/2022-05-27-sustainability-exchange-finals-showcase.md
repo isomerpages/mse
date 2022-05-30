@@ -9,8 +9,8 @@ description: null
 **CLOSING REMARKS BY MR DESMOND TAN, MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE SECOND SUSTAINABILITY EXCHANGE FINAL SHOWCASE ON 27 MAY 2022**
  
 Ladies and gentlemen
- 
-        Good afternoon. Thank you for inviting me back to the Sustainability Exchange. 
+
+Good afternoon. Thank you for inviting me back to the Sustainability Exchange. 
 
 **RAISING OUR CLIMATE AMBITION**
  
