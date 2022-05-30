@@ -1,5 +1,5 @@
 ---
-title: 'Keep Clean, Singapore!' 2022 Campaign Closing Event - Dr Amy Khor  
+title: Keep Clean, Singapore! 2022 Campaign Closing Event - Dr Amy Khor  
 permalink: /resource-room/category/22022-05-28-closing-remarks-by-sms-keep-cleansg-closing/  
 image:
 file_url:
