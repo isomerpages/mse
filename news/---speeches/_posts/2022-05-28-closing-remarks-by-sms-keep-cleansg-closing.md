@@ -45,4 +45,4 @@ This is an encouraging sign that the wider community views the cleanliness of th
 
 9 I would like to express my appreciation to everyone who have participated in the clean-up activities thus far. I encourage all of you to continue on this journey with the PHC to keep Singapore our home, truly clean.
 
-Thank you.
+10 Thank you.
