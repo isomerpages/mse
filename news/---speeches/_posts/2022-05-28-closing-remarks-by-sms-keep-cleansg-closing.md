@@ -1,11 +1,10 @@
----  
+---
 title: 'Keep Clean, Singapore!' 2022 Campaign Closing Event - Dr Amy Khor  
 permalink: /resource-room/category/22022-05-28-closing-remarks-by-sms-keep-cleansg-closing/  
-image:  
-file_url:  
-description:  
+image:
+file_url:
+description:
 ---  
-
 #### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the 'Keep Clean, Singapore!' 2022 Campaign Closing Event on 28 May 2022
 
 Ms Denise Phua,
