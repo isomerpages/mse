@@ -601,7 +601,7 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
   <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners<br></p>
  </div>
 </div>
--->
+
 
 
 
@@ -730,7 +730,7 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
         </a>
     </div>
 </div>
-
+-->
 	
 <!-- container end dic -->
 
