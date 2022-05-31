@@ -603,7 +603,8 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
 </div>
 -->
 
-<!--
+
+
 <h1>Our Journey</h1>
 
 <div class="container">
@@ -678,9 +679,11 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
       </div>
     </div>
   </div>
--->
 
-<!--
+
+
+
+
 <h1>Our People</h1>
 
 <i>Coming Soon: Video Series of MSE Officers</i>
@@ -727,7 +730,7 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
         </a>
     </div>
 </div>
--->
+
 	
 <!-- container end dic -->
 
