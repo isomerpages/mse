@@ -601,9 +601,10 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
   <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners<br></p>
  </div>
 </div>
--->
 
-<!--
+
+
+
 <h1>Our Journey</h1>
 
 <div class="container">
@@ -678,9 +679,11 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
       </div>
     </div>
   </div>
--->
 
-<!--
+
+
+
+
 <h1>Our People</h1>
 
 <i>Coming Soon: Video Series of MSE Officers</i>
