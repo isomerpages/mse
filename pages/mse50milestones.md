@@ -594,7 +594,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
         </div>
       </div>
 	    
-	 <div id="post-1" class="vesti-col timeline-post">
+	 <div id="post-2" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980005056-8073-3222-4844/img0114.jpg">
@@ -614,7 +614,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       </div>    
 	    
 	    
-      <div id="post-2" class="vesti-col timeline-post">
+      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="https://d33wubrfki0l68.cloudfront.net/6eb7e39110590bf5fb8204ecccec7b7014025679/a98b6/images/ch1_ulu_pandan_ip.jpg">
@@ -630,7 +630,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
         </div>
       </div>
-      <div id="post-3" class="vesti-col timeline-post">
+      <div id="post-4" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
@@ -646,7 +646,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
         </div>
       </div>
-      <div id="post-4" class="vesti-col timeline-post">
+      <div id="post-5" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19990007092-0004-3012-0348/img047.jpg">
