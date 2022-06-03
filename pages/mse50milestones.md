@@ -575,7 +575,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       <div id="post-1" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980005056-8073-3222-4844/img0114.jpg">
+            <img src="../images/mse50/m1.jpg">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1972</span>
