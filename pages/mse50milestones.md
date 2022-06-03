@@ -640,7 +640,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	          <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m5.jpg" alt="photo of pig farm">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1977</span>
@@ -656,16 +656,16 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
   <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m6.jpg" alt="photo of Ulu Pandan Incineration Plant">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1979</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Opening of Singapore's First Incineration Plant</h2>
+            <p>Faced with a shortage of land for landfilling, Singapore took a bold step to build the first waste-to-energy (WTE) plant in Southeast Asia. On 30 July 1979, Singapore’s first WTE plant - Ulu Pandan Incineration Plant - was completed at a cost of $130 million, a hefty investment at the time.</p>
           </div>
         </div>
       </div>
