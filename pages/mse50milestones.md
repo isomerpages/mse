@@ -672,7 +672,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	  <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg" alt="photo of mosquito">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1982</span>
@@ -688,16 +688,16 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m7.jpg">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1984</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Phasing out of pig farming</h2>
+            <p>Pig farming was gradually phased out from 1984, after it was concluded that pig farming caused massive pollution and required intensive use of land and water – scarce resources in Singapore. It was also expensive to treat pig wastes. The phasing out of pig farming was completed in 1989.</p>
           </div>
         </div>
       </div>
