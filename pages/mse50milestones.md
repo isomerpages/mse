@@ -1,5 +1,5 @@
 ---
-title: MSE50 — Our Milestones
+title: MSE50 Milestones
 permalink: /mse50milestones
 ---
 
@@ -567,8 +567,6 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 </style>
 
 
-
-
 <h1>Our Journey</h1>
 
 <div class="container">
@@ -586,35 +584,14 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
                 <h2>Formation of Ministry of Environment</h2>
-            <p>On 16 September 1972, the Ministry of the Environment (ENV) was set up to tackle issues such as pollution control, sewerage, drainage and environmental health. The ENV office was located at Princess House.</p>
+            <p>On 16 September 1972, the Ministry of the Environment (ENV), to tackle issues such as pollution control, sewerage, drainage and environmental health.</p>
                 <h2>Drafting of Singapore Water Master Plan</h2>
-            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet our future requirements.</p>
+            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
           </div>
           </div>
         </div>
       </div>
-	    
-	 <div id="post-2" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980005056-8073-3222-4844/img0114.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1974</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-                <h2>Completion of Singapore's Pilot Water Reclamation Plant</h2>
-            <p>In October 1974, Singapore’s first pilot water reclamation plant, a joint project by the Public Utilities Board (PUB) and the ENV, was commissioned at the Jurong Industrial Waterworks.</p>
-  
-          </div>
-          </div>
-        </div>
-      </div>    
-	    
-	    
-      <div id="post-3" class="vesti-col timeline-post">
+      <div id="post-2" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="https://d33wubrfki0l68.cloudfront.net/6eb7e39110590bf5fb8204ecccec7b7014025679/a98b6/images/ch1_ulu_pandan_ip.jpg">
@@ -630,7 +607,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
         </div>
       </div>
-      <div id="post-4" class="vesti-col timeline-post">
+      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
@@ -646,7 +623,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
         </div>
       </div>
-      <div id="post-5" class="vesti-col timeline-post">
+      <div id="post-4" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19990007092-0004-3012-0348/img047.jpg">
@@ -668,8 +645,10 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 
 
+
+
+
 	
 <!-- container end dic -->
-
 
 
