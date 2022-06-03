@@ -643,13 +643,14 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
             <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1977</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Commencement of resettlement of farmlands</h2>
+            <p>In the 1970s, rapid development brought about more employment opportunities and farmland was redirected to other uses. From 1977, pig farming was banned in water catchment areas such as Kranji, as well as Kallang and Singapore River basins. With intensive pig farming estates being developed at Punggol and Jalan Kayu, farmers who were more productive were given the option of relocation. The Primary Production Department (PPD), formed in 1959 to regulate and develop Singapore’s farming and fishing industry, helped these farmers embark on intensive and productive farming methods.
+</p>
           </div>
         </div>
       </div>
