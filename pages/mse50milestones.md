@@ -584,9 +584,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
                 <h2>Formation of Ministry of Environment</h2>
-            <p>On 16 September 1972, the Ministry of the Environment (ENV), to tackle issues such as pollution control, sewerage, drainage and environmental health.</p>
-                <h2>Drafting of Singapore Water Master Plan</h2>
-            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
+            <p>On 16 September 1972, the Ministry of the Environment (ENV) was set up to tackle issues such as pollution control, sewerage, drainage and environmental health. The ENV office was located at Princess House. </p>
           </div>
           </div>
         </div>
@@ -594,16 +592,16 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       <div id="post-2" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://d33wubrfki0l68.cloudfront.net/6eb7e39110590bf5fb8204ecccec7b7014025679/a98b6/images/ch1_ulu_pandan_ip.jpg">
+            <img src="../images/mse50/m2.jpg">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1979</span>
+                <span class="year">1972</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Opening of Singapore's First Incineration Plant</h2>
-            <p>On 30 July 1979, Singapore's and Southeast Asia's first incinerator plant, Ulu Pandan Incineration Plant, started operations.</p>
+              <h2>Drafting of Singapore Water Master Plan</h2>
+            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
           </div>
         </div>
       </div>
