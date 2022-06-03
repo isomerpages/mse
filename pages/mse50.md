@@ -581,7 +581,7 @@ Stay tuned for more details!</p>
 
 <div>
 <center>
-	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>
+	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>&nbsp;  <a class="button" href="/mse50milestones" target="_blank">Our milestones</a>
 </center>
 </div>
   
@@ -590,8 +590,7 @@ Stay tuned for more details!</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h1>#ThisDayInHistory</h1>
-  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMSEsingapore%2Fposts%2F379443177560066&show_text=true&width=500" width="500" height="767" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
   
   
 <!--
