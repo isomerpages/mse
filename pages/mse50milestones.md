@@ -608,16 +608,16 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m3.jpg">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1974</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Completion of Singapore's Pilot Water Reclamation Plant</h2>
+            <p>In October 1974, Singapore’s first pilot water reclamation plant, a joint project by the Public Utilities Board (PUB) and the ENV, was commissioned at the Jurong Industrial Waterworks.</p>
           </div>
         </div>
       </div>
