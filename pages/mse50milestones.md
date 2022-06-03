@@ -688,7 +688,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m7.jpg">
+            <img src="../images/mse50/m7.jpg" alt="photo of pig farm">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1984</span>
@@ -704,48 +704,49 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m8.jpg" alt="Eat Frozen Pork campaign poster">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1985</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Eat Frozen Pork’ Campaign</h2>
+            <p>In the lead-up to the complete phasing-out of pig farming in Singapore, the “Eat Frozen Pork Campaign” debuted in 1985 to dispel common misconceptions on frozen pork and raise public awareness of the production, handling, quality and nutritional value of frozen pork. Technical seminars were conducted to give traders and consumers a better understanding of the production, handling, quality and nutritional value of frozen pork. </p>
           </div>
         </div>
       </div>
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m9.jpg" alt="photo of old hawker street">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1986</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Completion of Street Hawker Resettlement</h2>
+            <p>From 1968 to 1986, the Government licensed and resettled street hawkers into purpose-built hawker centres and markets with proper sanitation and amenities. By February 1986, the resettlement work was completed and 18,000 street hawkers were resited into newly built hawker centres.</p>
           </div>
         </div>
       </div>
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m10.jpg" alt="photo of environment building">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1986</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Completion of 25-storey Environment Building</h2>
+            <p>The Environment building is the first government building designed and drafted by the Public Works Department with the aid of a computer.
+The $92.6 million building’s key was handed to ENV’s then Permanent Secretary, Mr Cheong Quee Wah, on 18 December 1986.</p>
           </div>
         </div>
       </div>
