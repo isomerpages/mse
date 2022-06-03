@@ -649,8 +649,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
               <h2>Commencement of resettlement of farmlands</h2>
-            <p>In the 1970s, rapid development brought about more employment opportunities and farmland was redirected to other uses. From 1977, pig farming was banned in water catchment areas such as Kranji, as well as Kallang and Singapore River basins. With intensive pig farming estates being developed at Punggol and Jalan Kayu, farmers who were more productive were given the option of relocation. The Primary Production Department (PPD), formed in 1959 to regulate and develop Singapore’s farming and fishing industry, helped these farmers embark on intensive and productive farming methods.
-</p>
+            <p>In the 1970s, rapid development brought about more employment opportunities and farmland was redirected to other uses. From 1977, pig farming was banned in water catchment areas such as Kranji, as well as Kallang and Singapore River basins. With intensive pig farming estates being developed at Punggol and Jalan Kayu, farmers who were more productive were given the option of relocation.</p>
           </div>
         </div>
       </div>
