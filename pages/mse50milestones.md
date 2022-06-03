@@ -575,7 +575,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       <div id="post-1" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m1.jpg">
+            <img src="../images/mse50/m1.jpg" alt="photo of ENV office at Princess House">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1972</span>
@@ -592,7 +592,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       <div id="post-2" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m2.jpg">
+            <img src="../images/mse50/m2.jpg" alt="photo of water treatment plant">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1972</span>
@@ -608,7 +608,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
       <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m3.jpg">
+            <img src="../images/mse50/m3.jpg" alt="photo of Jurong Industrial Waterworks">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1974</span>
@@ -624,7 +624,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m4.jpg">
+            <img src="../images/mse50/m4.jpg" alt="photo of singapore river">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1977</span>
