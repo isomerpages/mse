@@ -1,6 +1,6 @@
 ---
-title: MSE50 — Building a Green and Resilient Singapore
-permalink: /mse50
+title: MSE50 Milestones
+permalink: /mse50milestones
 ---
 
 <style>
@@ -566,53 +566,6 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
  
 </style>
 
-<img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo"><br>
-<p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b>
-<br><br>
-Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.
-<br><br>	
-Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.
-<br><br>
-The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore.
-<br><br>
-We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.
-<br><br>
-Stay tuned for more details!</p>
-
-<div>
-<center>
-	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>&nbsp;
-</center>
-</div>
-  
-  
-<h1>MSE50 Short Film - I Remember</h1>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-  
-  
-<!--
-The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
-<div class="row">
- <div class="column">
- <img src="images/mse50/milestones.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore<br></p>
- </div>
- <div class="column">
- <img src="images/mse50/people.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Pay tribute to people who have contributed to  these environmental milestones<br></p>
- </div>
- <div class="column">
- <img src="images/mse50/partners.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners<br></p>
- </div>
-</div>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 <h1>Our Journey</h1>
 
@@ -622,7 +575,7 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
       <div id="post-1" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980005056-8073-3222-4844/img0114.jpg">
+            <img src="../images/mse50/m1.jpg" alt="photo of ENV office at Princess House">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1972</span>
@@ -631,9 +584,7 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
           </div>
           <div class="vesti-desc">
                 <h2>Formation of Ministry of Environment</h2>
-            <p>On 16 September 1972, the Ministry of the Environment (ENV), to tackle issues such as pollution control, sewerage, drainage and environmental health.</p>
-                <h2>Drafting of Singapore Water Master Plan</h2>
-            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
+            <p>On 16 September 1972, the Ministry of the Environment (ENV) was set up to tackle issues such as pollution control, sewerage, drainage and environmental health. The ENV office was located at Princess House. </p>
           </div>
           </div>
         </div>
@@ -641,7 +592,71 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
       <div id="post-2" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://d33wubrfki0l68.cloudfront.net/6eb7e39110590bf5fb8204ecccec7b7014025679/a98b6/images/ch1_ulu_pandan_ip.jpg">
+            <img src="../images/mse50/m2.jpg" alt="photo of water treatment plant">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1972</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Drafting of Singapore Water Master Plan</h2>
+            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
+          </div>
+        </div>
+      </div>
+      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m3.jpg" alt="photo of Jurong Industrial Waterworks">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1974</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Completion of Singapore's Pilot Water Reclamation Plant</h2>
+            <p>In October 1974, Singapore’s first pilot water reclamation plant, a joint project by the Public Utilities Board (PUB) and the ENV, was commissioned at the Jurong Industrial Waterworks.</p>
+          </div>
+        </div>
+      </div>
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m4.jpg" alt="photo of singapore river">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1977</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of the Singapore River Clean-Up</h2>
+            <p>The clean-up of Singapore River and Kallang Basin commenced in 1977. Besides the physical cleaning of the heavily polluted rivers, the massive exercise also involved the removal of various sources of pollution, the provision of proper sewage infrastructure and new facilities for resettled residents and businesses, and the implementation of anti-pollution measures to minimise future pollution.</p>
+          </div>
+        </div>
+      </div>
+	          <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m5.jpg" alt="photo of pig farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1977</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Commencement of resettlement of farmlands</h2>
+            <p>In the 1970s, rapid development brought about more employment opportunities and farmland was redirected to other uses. From 1977, pig farming was banned in water catchment areas such as Kranji, as well as Kallang and Singapore River basins. With intensive pig farming estates being developed at Punggol and Jalan Kayu, farmers who were more productive were given the option of relocation.</p>
+          </div>
+        </div>
+      </div>
+  <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m6.jpg" alt="photo of Ulu Pandan Incineration Plant">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1979</span>
@@ -650,11 +665,124 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
           </div>
           <div class="vesti-desc">
               <h2>Opening of Singapore's First Incineration Plant</h2>
-            <p>On 30 July 1979, Singapore's and Southeast Asia's first incinerator plant, Ulu Pandan Incineration Plant, started operations.</p>
+            <p>Faced with a shortage of land for landfilling, Singapore took a bold step to build the first waste-to-energy (WTE) plant in Southeast Asia. On 30 July 1979, Singapore’s first WTE plant - Ulu Pandan Incineration Plant - was completed at a cost of $130 million, a hefty investment at the time.</p>
           </div>
         </div>
       </div>
-      <div id="post-3" class="vesti-col timeline-post">
+	  <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg" alt="photo of mosquito">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1982</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m7.jpg" alt="photo of pig farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1984</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Phasing out of pig farming</h2>
+            <p>Pig farming was gradually phased out from 1984, after it was concluded that pig farming caused massive pollution and required intensive use of land and water – scarce resources in Singapore. It was also expensive to treat pig wastes. The phasing out of pig farming was completed in 1989.</p>
+          </div>
+        </div>
+      </div>
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m8.jpg" alt="Eat Frozen Pork campaign poster">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1985</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Eat Frozen Pork’ Campaign</h2>
+            <p>In the lead-up to the complete phasing-out of pig farming in Singapore, the “Eat Frozen Pork Campaign” debuted in 1985 to dispel common misconceptions on frozen pork and raise public awareness of the production, handling, quality and nutritional value of frozen pork. Technical seminars were conducted to give traders and consumers a better understanding of the production, handling, quality and nutritional value of frozen pork. </p>
+          </div>
+        </div>
+      </div>
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m9.jpg" alt="photo of old hawker street">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1986</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Completion of Street Hawker Resettlement</h2>
+            <p>From 1968 to 1986, the Government licensed and resettled street hawkers into purpose-built hawker centres and markets with proper sanitation and amenities. By February 1986, the resettlement work was completed and 18,000 street hawkers were resited into newly built hawker centres.</p>
+          </div>
+        </div>
+      </div>
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m10.jpg" alt="photo of environment building">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1986</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Completion of 25-storey Environment Building</h2>
+            <p>The Environment building is the first government building designed and drafted by the Public Works Department with the aid of a computer.
+The $92.6 million building’s key was handed to ENV’s then Permanent Secretary, Mr Cheong Quee Wah, on 18 December 1986.</p>
+          </div>
+        </div>
+      </div>
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m11.jpg" alt="photo of singapore river">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1987</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Completion of the Singapore River Clean-Up</h2>
+            <p>The decade-long clean-up of Singapore River was completed on 2 September 1987.</p>
+          </div>
+        </div>
+      </div>
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m12.jpg" alt="photo of night soil bucket">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1987</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Phasing Out of the Nightsoil Bucket</h2>
+            <p>On 24 January 1987, Singapore bid goodbye to the century-old night soil bucket system. That day, the last night soil collection centre, located at Lorong Halus, ceased operation for good, as Singapore entered a new era served by a modern sanitation system.</p>
+          </div>
+        </div>
+      </div>	    
+	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
@@ -669,7 +797,24 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
             <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
           </div>
         </div>
-      </div>
+      </div>	    
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1982</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>	    
+	    
       <div id="post-4" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -693,53 +838,8 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
 
 
 
-<h1>Our People</h1>
 
-<i>Coming Soon: Video Series of MSE Officers</i>
 
-<h1>Additional Resources</h1>
-<br>
-<div id="resources-container">
-<h4>Learning Journeys</h4>
-<div class="cards">
-<div class="card">
-        <a href="https://www.roots.gov.sg/places/places-landing/trails/singapore-river-walk" target="_blank">  
-            <div class="card-content">
-            <h5>Singapore River Walk</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>
-<div class="card">
-        <a href="https://www.roots.gov.sg/places/places-landing/trails/Tampines-Heritage-Trail-Green-Spaces-Trail" target="_blank">  
-            <div class="card-content">
-            <h5>Green Spaces Trail</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>	
-</div>
-	
-<h4>Publications</h4>
-<div class="cards">
-  <div class="card">
-        <a href="#" target="_blank">  
-            <div class="card-content">
-            <h5>NEA Hawker Book</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>  
-	<div class="card">
-        <a href="#" target="_blank">  
-            <div class="card-content">
-            <h5>+65 Publication</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>
-</div>
--->
 	
 <!-- container end dic -->
 
