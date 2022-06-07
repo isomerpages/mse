@@ -33,7 +33,3 @@ Mr Goh graduated from Cambridge University and the Stanford Graduate School of B
 
 The Ministry of Sustainability and the Environment (MSE) would like to place on record our deep appreciation to Mr Ng for his leadership and valuable contributions to PUB and the MSE Family, and welcome Mr Goh. 
 
-
-**Ministry of Sustainability and the Environment
-8 June 2022**
-
