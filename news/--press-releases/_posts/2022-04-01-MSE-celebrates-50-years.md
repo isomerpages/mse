@@ -20,9 +20,9 @@ description: ""
 
 i. To celebrate our environmental milestones
 
-- A **commemorative stamp set**featuring the theme of environmental sustainability
+- A **commemorative stamp set** featuring the theme of environmental sustainability
 - A **short film** showcasing Singapore&#39;s transformation into a clean and sustainable Singapore
-- A **short** documentary and a social media series** highlighting Singapore&#39;s environmental milestones
+- A **short documentary and a social media series** highlighting Singapore&#39;s environmental milestones
 - A **campaign** on social media to gather user-generated stories and photographs of Singapore&#39;s sustainable development journey
 
 ii. To recognise those who have contributed to Singapore&#39;s sustainable development journey
