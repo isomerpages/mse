@@ -45,7 +45,7 @@ For latest information on general COVID-19 regulations including safe management
 - [MOH FAQs](https://www.moh.gov.sg/covid-19/faqs)
 - [MOM Guidelines and FAQs](https://www.mom.gov.sg/covid-19/frequently-asked-questions)
 - [NEA FAQs](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/safe-management-measures/frequently-asked-questions)
-- [Safe Management Measures at Hawker Centres and Markets](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/safe-management-measures/safe-distancing-at-hawker-centres-and-markets)
+- [Safe Management Measures at Hawker Centres and Markets](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/safe-management-measures)
 - [SFA FAQs](https://www.sfa.gov.sg/covid-19/SDM)
 - [Safe Management Measures at the Workplace](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures)
 - [Sector Specific Measures](https://www.gobusiness.gov.sg/safemanagement/sector/)
