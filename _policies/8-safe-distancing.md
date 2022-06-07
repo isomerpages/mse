@@ -7,13 +7,13 @@ permalink: /policies/safe-distancing
 
 The COVID-19 situation in Singapore has stablised and this gives us confidence to proceed with further easing of Safe Management Measures (SMMs) and Safe Distancing Measures (SDMs) for the community. 
 
-**Group sizes** There is no longer a group size limit. There is also no cap on the number of unique visitors per household per day.
+**Group sizes** - There is no longer a group size limit. There is also no cap on the number of unique visitors per household per day.
 
-**Mask-wearing** Mask-wearing is optional in outdoor settings, but is required in indoor settings. Examples of indoor places include office buildings, shopping malls, public transport, hawker centres and coffeeshops. 
+**Mask-wearing** - Mask-wearing is optional in outdoor settings, but is required in indoor settings. Examples of indoor places include office buildings, shopping malls, public transport, hawker centres and coffeeshops. 
 
-**Safe Distancing** Safe distancing is no longer required between individuals or between groups. 
+**Safe Distancing** -  Safe distancing is no longer required between individuals or between groups. 
 
-**Vaccination-Differentiated SMMs (VDS)** VDS is no longer required from all settings, except for events with more than 500 participants at any one time, nightlife establishments where dancing among patrons is one of the intended activities, and F&B establishments, including restaurants, coffeeshops and hawker centres. 
+**Vaccination-Differentiated SMMs (VDS)** - VDS is no longer required from all settings, except for events with more than 500 participants at any one time, nightlife establishments where dancing among patrons is one of the intended activities, and F&B establishments, including restaurants, coffeeshops and hawker centres. 
 
 As we continue to transition to a COVID-19 resilient nation and ease our SMMs, the number of Safe Distancing Ambassadors (SDA) deployed daily will consequently be scaled down gradually to allow more SDAs return to the workforce as the economy reopens. Agencies will continue to remain vigilant and ready to respond to egregious violations, as well as new developments (e.g. new variants of concern, new disease). 
 
@@ -45,7 +45,7 @@ For latest information on general COVID-19 regulations including safe management
 - [MOH FAQs](https://www.moh.gov.sg/covid-19/faqs)
 - [MOM Guidelines and FAQs](https://www.mom.gov.sg/covid-19/frequently-asked-questions)
 - [NEA FAQs](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/safe-management-measures/frequently-asked-questions)
-- [Safe Management Measures at Hawker Centres and Markets]([https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/safe-management-measures/safe-distancing-at-hawker-centres-and-markets)
+- [Safe Management Measures at Hawker Centres and Markets](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/safe-management-measures/safe-distancing-at-hawker-centres-and-markets)
 - [SFA FAQs](https://www.sfa.gov.sg/covid-19/SDM)
 - [Safe Management Measures at the Workplace](https://www.mom.gov.sg/covid-19/requirements-for-safe-management-measures)
 - [Sector Specific Measures](https://www.gobusiness.gov.sg/safemanagement/sector/)
