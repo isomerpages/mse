@@ -1,6 +1,6 @@
 ---  
 title: Appointment of New Chief Executive for PUB, Singapore’s National Water Agency 
-permalink: /resource-room/category/2022-06-08-appointment-of-new-PUB-Chief-Executive/
+permalink: /resource-room/category/2022-06-07-appointment-of-new-PUB-Chief-Executive/
 image:
 file_url:
 description:
