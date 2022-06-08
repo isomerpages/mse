@@ -34,4 +34,3 @@ description:
 
 10 The Ministry of Sustainability and the Environment (MSE) would like to place on record our deep appreciation to Mr Ng for his leadership and valuable contributions to PUB and the MSE Family, and welcome Mr Goh.
 
-- End -
