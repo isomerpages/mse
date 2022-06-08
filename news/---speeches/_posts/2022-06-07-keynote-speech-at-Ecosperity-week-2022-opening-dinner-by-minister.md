@@ -1,3 +1,11 @@
+---  
+title: Ecosperity Week 2022 Opening Dinner - Ms Grace Fu  
+permalink: /resource-room/category/2022-06-07-keynote-speech-at-Ecosperity-week-2022-opening-dinner-by-minister/  
+image:  
+file_url:  
+description:  
+---  
+
 #### Keynote Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Ecosperity Week 2022 Opening Dinner on 7 June 2022  
 
 Mr Lim Boon Heng, Chairman of Temasek Holdings
