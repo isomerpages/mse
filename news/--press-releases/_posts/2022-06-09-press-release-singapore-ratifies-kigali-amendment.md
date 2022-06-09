@@ -28,11 +28,12 @@ description:
 
 
 <sup>1</sup>Under the KA, Parties are obliged to progressively reduce HFC consumption according to a phase-down schedule:
-
-i. From 2024: Freeze at baseline
-ii. From 2029: 90% of baseline
-iii. From 2035: 70% of baseline
-iv. From 2040: 50% of baseline
-v. From 2045: 20% of baseline
+<ul>
+  <li>From 2024: Freeze at baseline</li>
+  <li>From 2029: 90% of baseline</li>
+  <li>From 2035: 70% of baseline</li>
+  <li>From 2040: 50% of baseline</li>
+  <li>From 2045: 20% of baseline</li>
+</ul>
 
 The baseline is defined as the average HFC consumption over 2020-2022 + 65% hydrochlorofluorocarbon (HCFC) baseline.
