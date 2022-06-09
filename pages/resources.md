@@ -104,7 +104,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <div class="card-content">
             <h5>National Action Strategy on Marine Litter</h5>
             </div>
-          <img src="/images/nasml/nasmlcover.jpg" alt="National Action Strategy on Marine Litter" style="width:300px;">
+          <img src="/images/nasml/nasmlcover.png" alt="National Action Strategy on Marine Litter" style="width:300px;">
         </a>
     </div>	
 	
