@@ -28,4 +28,4 @@ f.	International engagement and collaboration.
 
 4 The NASML is a first step to formalise our actions as a nation to address marine litter. MSE will continue to work with our 3P – People, Public, Private – partners to co-create sustainable solutions to our environmental challenges. As plastics comprise a major component of marine litter, our efforts to tackle marine litter will also contribute towards global efforts to address plastic pollution.    
 
-5 The full document can be accessed at [www.mse.gov.sg/nasml](www.mse.gov.sg/nasml).
+5 The full document can be accessed at [www.mse.gov.sg/nasml](http://www.mse.gov.sg/nasml).
