@@ -97,6 +97,16 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <div id="resources-container">
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
+
+	
+	<div class="card">
+        <a href="/nasml" target="_blank">  
+            <div class="card-content">
+            <h5>National Action Strategy on Marine Litter</h5>
+            </div>
+          <img src="/images/nasml/nasmlcover.png" alt="National Action Strategy on Marine Litter" style="width:300px;">
+        </a>
+    </div>	
 	
 	<div class="card">
         <a href="/files/resources/Sustainability-MSE-Publication.pdf" target="_blank">  
