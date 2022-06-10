@@ -160,10 +160,15 @@ permalink: /climate-action-week/
 <!-------------------------------------------- START OF HTML ------------------------------------------->
 
 
+<img src="/images/cawbanner2022.jpg" alt="national action strategy titlebar">
+
+<!--
 
 <div class="card-banner" style="background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(../images/cawbanner2022.jpg)">
   <h3>Climate Action Week 2021</h3> Climate Action Week rallies our people and communities to take collective climate action and secure a sustainable future for Singapore. In line with the Singapore Green Plan 2030, the theme this year is “City of Green Possibilities”.
 </div>
+
+-->
 
 <div class="grid">
 <!-- NEWS -->
