@@ -170,7 +170,7 @@ More information about this year's Climate Action Week will be released soon. Fi
   <h3>Climate Action Week 2021</h3> Climate Action Week rallies our people and communities to take collective climate action and secure a sustainable future for Singapore. In line with the Singapore Green Plan 2030, the theme this year is “City of Green Possibilities”.
 </div>
 
--->
+
 
 <div class="grid">
 <!-- NEWS -->
@@ -559,3 +559,4 @@ More information about this year's Climate Action Week will be released soon. Fi
 </div>
 
 
+-->
