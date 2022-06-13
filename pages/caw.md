@@ -160,7 +160,7 @@ permalink: /climate-action-week/
 <!-------------------------------------------- START OF HTML ------------------------------------------->
 
 
-<img src="/images/cawbanner2022.jpg" alt="national action strategy titlebar">
+<a href="/resources/CAW2022.pdf"><img src="/images/cawbanner2022.jpg" alt="climate action week"></a>
 
 More information about this year's Climate Action Week will be released soon. Find out what happened at last year's Climate Action Week [here](/climate-action-week-2021/).
 
