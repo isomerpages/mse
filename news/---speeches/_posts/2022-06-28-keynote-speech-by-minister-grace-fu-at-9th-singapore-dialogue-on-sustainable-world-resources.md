@@ -6,7 +6,7 @@ file_url:
 description:
 ---
 
-#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at 9th Singapore Dialogue on Sustainable World Resources on 28 June 2022
+#### Keynote Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at 9th Singapore Dialogue on Sustainable World Resources on 28 June 2022
 
 Professor Simon Tay, Chairman of the Singapore Institute of International Affairs (SIIA),
 
@@ -42,7 +42,7 @@ Distinguished Participants,
 
 12 Second, collaboration. By understanding the limitations facing us and others, we can help one another for mutually beneficial outcomes.
 
-13 Singapore has actively assisted others where we can. We launched the Climate Action Package in 2018 to support capacity-building efforts in areas such as climate science, mitigation and adaptation, disaster risk reduction and green climate finance. Because when each does better, the world goes further. That is why Singapore has been in the forefront of developing carbon markets and playing important roles in global carbon initiatives such as the World Bank&#39;s Climate Warehouse on carbon credit trade and the Clydebank Declaration for green shipping corridors.
+13 Singapore has actively assisted others where we can. We launched the Climate Action Package in 2018 to support capacity-building efforts in areas such as climate science, mitigation and adaptation, disaster risk reduction and green climate finance. Because when each does better, the world goes further. That is why Singapore has been in the forefront of developing carbon markets and playing important roles in global carbon initiatives such as the World Bank's Climate Warehouse on carbon credit trade and the Clydebank Declaration for green shipping corridors.
 
 14 While Singapore contributes 0.1 per cent to global emissions, we are impacted, 100 per cent, by the remaining 99.9 per cent. We are vulnerable to sea-level rise, extreme weather and supply chain shocks. We benefit when everyone does better, including ourselves.
 
@@ -60,7 +60,7 @@ Distinguished Participants,
 
 18 Please allow me to conclude. Even amidst our fight with COVID-19 where we took hard decisions, we found ourselves working with one another. Our circumstances required trade-offs and phased approaches. But the centrality of cooperation to save lives, preserve livelihoods and address long-term imperatives and opportunities brought out our better sides. As such, we re-emerged stronger. In simple terms, we have always faced adversity through unity, so we should stick to this winning formula.
 
-19 This year, my Ministry – the Ministry of Sustainability and the Environment – celebrates our golden jubilee, marking 50 years of Singapore&#39;s efforts to meet present needs and tackle emerging challenges in sustainability and the environment. When we were formed in 1972, we were one of the few governments in the world to have a Ministry dedicated to the environment. In this regard, Singapore was ahead of its time in tackling environmental challenges. Had more countries set up environment Ministries earlier, we would have been better able to address current challenges such as climate change.
+19 This year, my Ministry – the Ministry of Sustainability and the Environment – celebrates our golden jubilee, marking 50 years of Singapore's efforts to meet present needs and tackle emerging challenges in sustainability and the environment. When we were formed in 1972, we were one of the few governments in the world to have a Ministry dedicated to the environment. In this regard, Singapore was ahead of its time in tackling environmental challenges. Had more countries set up environment Ministries earlier, we would have been better able to address current challenges such as climate change.
 
 20 I wish the SIIA every success on its 60th anniversary and look forward to more contributions from SIIA for the next 60 years and beyond. I also thank Professor Tay and his team for convening the 2022 edition of SDSWR and persisting as a beacon of partnerships in an uncertain international environment.
 
