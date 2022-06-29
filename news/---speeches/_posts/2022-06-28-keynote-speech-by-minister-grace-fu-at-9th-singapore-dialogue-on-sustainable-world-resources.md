@@ -1,5 +1,5 @@
 ---
-title: 9th Singapore Dialogue on Sustainable World Resources - Grace Fu
+title: 9th Singapore Dialogue on Sustainable World Resources - Ms Grace Fu
 permalink: /resource-room/category/2022-06-28-keynote-speech-by-minister-grace-fu-at-9th-singapore-dialogue-on-sustainable-world-resources/
 image:
 file_url:
