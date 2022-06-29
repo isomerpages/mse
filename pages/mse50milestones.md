@@ -766,6 +766,8 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>
+	    
+	    
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -781,7 +783,9 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             <p>On 24 January 1987, Singapore bid goodbye to the century-old night soil bucket system. That day, the last night soil collection centre, located at Lorong Halus, ceased operation for good, as Singapore entered a new era served by a modern sanitation system.</p>
           </div>
         </div>
-      </div>	    
+      </div>	
+	    
+	    
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -797,7 +801,9 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             <p>Launched on 4 November 1990, the Clean and Green Week was a campaign to create awareness among Singaporeans that everyone is responsible for the environment. It became a yearlong campaign in 2007 and was consequently renamed Clean and Green Singapore.</p>
           </div>
         </div>
-      </div>	    
+      </div>	 
+	    
+	    
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -813,39 +819,9 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
           </div>
         </div>
-      </div>	    
-	      <div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1982</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>
-	      <div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1982</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>
+      </div>	
+	    
+	    
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -862,6 +838,8 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>
+	    
+	    
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -877,7 +855,44 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
           </div>
         </div>
-      </div>	    
+      </div>
+	    
+	    
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1982</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>
+	      
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1982</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>
+	    
+	    
       <div id="post-4" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
