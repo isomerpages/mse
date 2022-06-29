@@ -789,7 +789,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m13.jpg">
+            <img src="../images/mse50/m13.jpg" alt="photo of clean and green week poster">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1990</span>
@@ -807,16 +807,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m14.jpg" alt="photo of construction site">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1991</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Introduction of Policies on Pollution and Public Health</h2>
+            <p>In 1991, ENV introduced the (i) Pollutant Standards Index (PSI) (ii) emissions standards for diesel vehicles and implemented (iii) the Environment Public Health (Control of Noise from Construction Sites) Regulation that capped noise levels at construction sites.</p>
           </div>
         </div>
       </div>	
@@ -825,16 +825,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m15.jpg" alt="photo of bukit timah diversion canal">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1991</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Opening of the Bukit Timah Second Diversion Canal</h2>
+            <p>The Bukit Timah Second Diversion Canal was constructed in 1991 to divert stormwater from the Bukit Timah Canal to the Kallang River. Subsidiary canals were also built to allow stormwater to flow more efficiently.</p>
           </div>
         </div>
       </div>
@@ -843,16 +843,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m16.jpg" alt="photo of green plan book">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">1992</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Launch of Singapore's First Green Plan</h2>
+            <p>The Singapore Green Plan (SGP) is Singapore's first environmental blueprint. Released in May 1992 by ENV, its objective is to ensure that Singapore could develop an economic growth model that does not compromise its environment.</p>
           </div>
         </div>
       </div>
