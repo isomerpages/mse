@@ -1,6 +1,6 @@
 ---  
 title: Project Green Table - Dr Amy Khor  
-permalink: /resource-room/category/2022-28-06-opening-address-at-Project-Green-Table-by-SMS Dr Amy Khor/  
+permalink: /resource-room/category/2022-06-28-opening-address-at-Project-Green-Table-by-SMS-Dr-Amy-Khor/  
 image:  
 file_url:  
 description:  
