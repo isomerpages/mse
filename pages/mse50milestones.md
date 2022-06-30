@@ -946,7 +946,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m22.jpg">
+            <img src="../images/mse50/newater.jpg">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2002</span>
