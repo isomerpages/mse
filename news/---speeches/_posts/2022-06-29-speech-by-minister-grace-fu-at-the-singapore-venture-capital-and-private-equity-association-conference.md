@@ -81,4 +81,3 @@ Ladies and Gentlemen,
 24 I will ask you to decide what kind of planet we will leave for our children. I will ask you to decide if you are a value investor, or an investor with values beyond profits. Because you are not a passive bystander in this journey. As investors, you have the power to move the needle, and the opportunity to make an impact on the climate and the world.  
 
 25.	With that, I wish all of you fruitful discussions ahead. Thank you.
-
