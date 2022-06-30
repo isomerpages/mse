@@ -1,12 +1,12 @@
 ---
-title: Singapore Venture Capital & Private Equity Association (SCVA) - Ms Grace Fu
-permalink: /resource-room/category/2022-06-29-speech-by-minister-grace-fu-at-the-singapore-venture-capital-and-private-equity-association-conference/
+title: Singapore Venture & Private Capital Association (SCVA) - Ms Grace Fu
+permalink: /resource-room/category/2022-06-29-speech-by-minister-grace-fu-at-the-singapore-venture-and-private-capital-association-conference/
 image:
 file_url:
 description:
 ---
 
-#### Keynote Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Singapore Venture Capital & Private Equity Association (SCVA) 30th Anniversary Conference on 29 June 2022
+#### Keynote Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Singapore Venture & Private Capital Association (SCVA) 30th Anniversary Conference on 29 June 2022
 
 Mr Sanjay Gujral, Chairman of the SVCA,
 Distinguished Guests,
@@ -80,4 +80,4 @@ Ladies and Gentlemen,
 
 24 I will ask you to decide what kind of planet we will leave for our children. I will ask you to decide if you are a value investor, or an investor with values beyond profits. Because you are not a passive bystander in this journey. As investors, you have the power to move the needle, and the opportunity to make an impact on the climate and the world.  
 
-25.	With that, I wish all of you fruitful discussions ahead. Thank you.
+25 Thank you.  
