@@ -1,12 +1,12 @@
 ---
-title: Singapore Venture & Private Capital Association (SCVA) - Ms Grace Fu
+title: Singapore Venture & Private Capital Association (SVCA) - Ms Grace Fu
 permalink: /resource-room/category/2022-06-29-speech-by-minister-grace-fu-at-the-singapore-venture-and-private-capital-association-conference/
 image:
 file_url:
 description:
 ---
 
-#### Keynote Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Singapore Venture & Private Capital Association (SCVA) 30th Anniversary Conference on 29 June 2022
+#### Keynote Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Singapore Venture & Private Capital Association (SVCA) 30th Anniversary Conference on 29 June 2022
 
 Mr Sanjay Gujral, Chairman of the SVCA,
 Distinguished Guests,
