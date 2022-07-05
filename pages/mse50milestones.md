@@ -963,7 +963,92 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m22.jpg" alt="MEWR logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2004</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>ENV was renamed MEWR</h2>
+            <p>In September 2004, ENV was renamed the Ministry of the Environment and Water Resources (MEWR) to better reflect the Ministry’s significantly expanded role in managing Singapore’s water resources.</p>
+          </div>
+        </div>
+      </div>	    
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m23.jpg" alt="photo of SingSpring Desalination Plant">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2005</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Opening of Singapore's First Desalination Plant</h2>
+            <p>On 13 September 2005, the SingSpring Desalination Plant - Singapore's first desalination plant for water supply and the largest seawater reverse-osmosis plant in the world - opened in Tuas. The plant can produce 30 million gallons of potable water per day.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m24.jpg">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2006</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Singapore's PSTLES Initiative</h2>
+            <p>Introduced in 2006, the Public Sector Taking the Lead in Environmental Sustainability (PSTLES) initiative encouraged agencies to focus on sustainability outcomes and put in place organisational processes to drive resource efficiency.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m23.jpg" alt="xxxx">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1982</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m23.jpg" alt="xxxx">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1982</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m23.jpg" alt="xxxx">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1982</span>
@@ -980,7 +1065,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m23.jpg" alt="xxxx">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">1982</span>
@@ -992,42 +1077,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
           </div>
         </div>
-      </div>	
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1982</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>	
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1982</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>		    
-	    
+      </div>	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
