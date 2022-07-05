@@ -1014,16 +1014,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m23.jpg" alt="xxxx">
+            <img src="../images/mse50/m25.jpg" alt="President’s Award for the Environment">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2006</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Launch of President’s Award for the Environment</h2>
+            <p>The President’s Award for the Environment (PAE) was launched in 2006 as Singapore's highest environmental accolade for individuals, educational institutions and organisations that have made outstanding contributions towards environment and sustainability, as well as building a resilient future for Singapore.</p>
           </div>
         </div>
       </div>		    
@@ -1031,16 +1031,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m23.jpg" alt="xxxx">
+            <img src="../images/mse50/m26.jpg" alt="Singapore Packaging Agreement logo">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2007</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Launch of the Singapore Packaging Agreement</h2>
+            <p>The Singapore Packaging Agreement (SPA) was launched on 5 June 2007 as a joint initiative by government, industry, and non-governmental organisations to reduce packaging waste. The SPA was a voluntary initiative that offered signatories the flexibility to adopt cost-effective solutions to reduce packaging waste.</p>
           </div>
         </div>
       </div>
@@ -1048,16 +1048,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m23.jpg" alt="xxxx">
+            <img src="../images/mse50/m27.jpg" alt="photo of DTSS">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2008</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Completion of Deep Tunnel Sewerage System Phase 1</h2>
+            <p>Completed in 2008 at a cost of SGD$3.4 billion, Phase 1 of the DTSS comprises a 48 km-long deep sewer tunnel running from Kranji to Changi, a centralised water reclamation plant at Changi, two 5 km-long deep sea outfall pipes and 60km of link sewers.</p>
           </div>
         </div>
       </div>	    
@@ -1065,16 +1065,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m23.jpg" alt="xxxx">
+            <img src="../images/mse50/m28.jpg" alt="Kolam Ayer ABC Waterfront">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2008</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Launch of Singapore's First ABC Waters Project</h2>
+            <p>Kolam Ayer ABC Waterfront, the first project launched under the Active, Beautiful, Clean (ABC) Waters Programme, was officially opened to the public on 5 April 2008. The aim of the ABC Waters Programme was to transform waterways and reservoirs in Singapore beyond their basic drainage and water storage functions, to allow these spaces to be used for community bonding and recreation.</p>
           </div>
         </div>
       </div>	    
@@ -1082,16 +1082,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m29.jpg" alt="photo of MELS">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2008</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Introduction of the Mandatory Energy Labelling Scheme</h2>
+            <p>The Mandatory Energy Labelling Scheme (MELS) was introduced on 1 January 2008 for regulated goods to help consumers compare the energy efficiency and make more informed purchasing decisions. The objective of setting Minimum Energy Performance Standards (MEPS) is to raise the average energy efficiency of regulated goods in the market.</p>
           </div>
         </div>
       </div>	
@@ -1116,16 +1116,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m30.jpg">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2008</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Opening of Marina Barrage</h2>
+            <p>Officially opened on 31 October 2008, Marina Barrage (MB) was Singapore’s 15th reservoir, and the first in the heart of the city. With a catchment area of 10,000 hectares, Marina catchment is the island’s largest and most urbanised catchment. Together with two other reservoirs, Marina Reservoir has increased Singapore’s water catchment from half to two-thirds of the country’s land area.</p>
           </div>
         </div>
       </div>		    
@@ -1133,10 +1133,10 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m30.jpg" alt="">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2008</span>
               </div>
             </div>
           </div>
