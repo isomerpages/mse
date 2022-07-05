@@ -1099,109 +1099,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="photo of MELS">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2008</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>		    
-
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="photo of MELS">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2008</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>		    
-
-	    <div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="photo of MELS">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2008</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>	
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="photo of MELS">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2008</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>		    
-
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="photo of MELS">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2008</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>		    
-
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="photo of MELS">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2008</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>	
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m30.jpg">
+            <img src="../images/mse50/m30.jpg" alt="photo of marina barrage">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2008</span>
@@ -1211,6 +1109,143 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           <div class="vesti-desc">
               <h2>Opening of Marina Barrage</h2>
             <p>Officially opened on 31 October 2008, Marina Barrage (MB) was Singapore’s 15th reservoir, and the first in the heart of the city. With a catchment area of 10,000 hectares, Marina catchment is the island’s largest and most urbanised catchment. Together with two other reservoirs, Marina Reservoir has increased Singapore’s water catchment from half to two-thirds of the country’s land area.</p>
+          </div>
+        </div>
+      </div>		    
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m31.jpg" alt="photo of MELS">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2009</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Opening of the Changi Water Reclamation Plant</h2>
+            <p>Opened on 23 June 2009, the Changi Water Reclamation Plant (Changi WRP) treats used water by effectively removing the solids and nutrients that are present in the used water. After treatment, the treated used water is safe to be returned to the environment or channelled to NEWater factory to be further treated into highly purified NEWater. The project was conceived in the mid-1990s and took fifteen years to complete.</p>
+          </div>
+        </div>
+      </div>		    
+
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m32.jpeg" alt="photo of sustainable singapore blueprint book">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2009</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of the First Sustainable Singapore Blueprint</h2>
+            <p>First released in 2009, the Sustainable Singapore Blueprint (SSB) maps out strategies for Singapore’s sustainable development.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m33.jpg" alt="photo of Our Tampines Hub">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2011</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Re-commencement of building of new Hawker Centres</h2>
+            <p>The Government announced that it will restart the programme of building new hawker centres after a hiatus of 26 years. It was announced that 10 new hawker centres will be built over the next 10 years, focusing on HDB towns currently facing an under-provision of eating options, subject to land availability. </p>
+          </div>
+        </div>
+      </div>		    
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m34.jpg" alt="photo of Bishan-Ang Mo Kio Park">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2012</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Official opening of Bishan-AMK Park - flagship ABC Waters project</h2>
+            <p>On 17 March 2012, the Bishan-Ang Mo Kio Park was officially reopened following a major revamp project by PUB and NParks. One drastic change was the transformation of a concrete canal into a picturesque river teeming with life. Under the ABC Waters Programme, a combination of plants, natural materials such as rocks, and civil engineering techniques were introduced to soften the edges of the waterway, give it a natural appearance and prevent soil erosion. The project saw techniques known as soil bio-engineering being used for the first time in Singapore.</p>
+          </div>
+        </div>
+      </div>		    
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m35.jpg" alt="photo of hazy day">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2014</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Enactment of Transboundary Haze Pollution Act (THPA)</h2>
+            <p>To provide for strong legal action to be taken against conduct that causes or contributes to haze pollution in Singapore, given the experience with serious haze pollution episodes, including the one in Jun 2013, Singapore enacted the THPA.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m36.jpeg" alt="climate action plan">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2016</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Climate Action Plan</h2>
+            <p>Singapore launched our Climate Action Plan in July 2016 which details our strategies to adapt to the impact of climate change, such as implementing coastal and infrastructure protection measures.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m37.jpg" alt="Year of Climate Action">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2018</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Year of Climate Action </h2>
+            <p>Singapore designated 2018 as the Year of Climate Action, to raise public awareness on the need to take collective action to fight climate change. A Climate Action SG Pledge was launched in January 2018 for individuals and organisations to make a public commitment to take climate action. The Climate Action SG Alliance was also set up to develop new initiatives to rally the public to climate action.
+</p>
+          </div>
+        </div>
+      </div>	
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m38.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Climate Action Week</h2>
+            <p>Following the successful conclusion of the Year of Climate Action in 2018, Climate Action Week was initiated to rally stakeholders and citizens to take collective climate action and secure a sustainable future for Singapore.</p>
           </div>
         </div>
       </div>		    
@@ -1231,6 +1266,75 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m30.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m30.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m30.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m30.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Declared 'Malaria-Free'</h2>
+            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+          </div>
+        </div>
+      </div>	
+	    
 	    
       <div id="post-4" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
