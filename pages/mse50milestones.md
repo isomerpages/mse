@@ -1424,16 +1424,68 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/mxx.jpg" alt="">
+            <img src="../images/mse50/m48.jpg" alt="SG Green Plan">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">2019</span>
+                <span class="year">2021</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Climate Action Week</h2>
-            <p>Following the successful conclusion of the Year of Climate Action in 2018, Climate Action Week was initiated to rally stakeholders and citizens to take collective climate action and secure a sustainable future for Singapore.</p>
+              <h2>Launch of Singapore Green Plan 2030</h2>
+            <p>The Singapore Green Plan 2030 was unveiled on 10 February 2021. It is a whole-of-nation movement to advance Singapore's national agenda on sustainable development. The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore's commitments under the UN's 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net-zero emissions aspiration as soon as viable.</p>
+          </div>
+        </div>
+      </div>
+
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m49.jpg" alt="Green Gov SG">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of GreenGov.SG</h2>
+            <p>PSTLES was refreshed and renamed as GreenGov.SG in Jul 2021. Under GreenGov.SG, the public sector will continue to set more ambitious resource targets, including a carbon emissions goal, and embed environmental sustainability in our core business areas. We also aim to build a culture of sustainability among public officers. GreenGov.SG is a key enabler of the Singapore Green Plan 2030.</p>
+          </div>
+        </div>
+      </div>
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m50.jpg" alt="clean tables">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Commencement of Clean Tables Initiative </h2>
+            <p>To raise the cleanliness standards at public  dining places, NEA rolled out the Clean Tables Campaign in Feb 2021 and mandatory Clean Tables Regime in Sep 2021   to nudge diners to return their dirty crockery and trays and keep the tables clean. NEA took an advisory approach in hawker centres from 1 June to 31 August 2021, during which officers were deployed to remind diners to clear their dirty trays, crockery and litter, and visual cues such as posters and banners were progressively installed. Enforcement against table littering commenced on 1 September 2021 at hawker centres, and 1 January 2022 at coffeeshops and food courts.</p>
+          </div>
+        </div>
+      </div>	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m51.jpg" alt="e waste recycling bin">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Start of Nationwide E-Waste Management System</h2>
+            <p>Singapore’s first nationwide electrical and electronic waste (e-waste) management system started on 1 July 2021. The new system was introduced to make it more convenient for consumers to recycle their e-waste, while ensuring e-waste is managed effectively, efficiently and in an environmentally sustainable manner.</p>
           </div>
         </div>
       </div>
@@ -1441,16 +1493,34 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/mxx.jpg" alt="">
+            <img src="../images/mse50/m52.jpg" alt="cleaner">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">2019</span>
+                <span class="year">2021</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Climate Action Week</h2>
-            <p>Following the successful conclusion of the Year of Climate Action in 2018, Climate Action Week was initiated to rally stakeholders and citizens to take collective climate action and secure a sustainable future for Singapore.</p>
+              <h2>Commencement of Environmental Sanitation Regime</h2>
+            <p>On 30 Jul 2021, NEA launched the Environmental Sanitation (ES) Regime which specifies mandatory baseline ES standards for specified high-risk premises with vulnerable occupants and high footfall, and places greater accountability on premises managers to meet these baseline standards. Assisted by Environmental Control Coordinators (ECCs) or Environmental Control Officers (ECOs), premises managers must ensure that they have in place a sector-specific ES programme, which specifies cleaning and disinfection frequencies and protocols to address incidents involving bodily discharge.</p>
+          </div>
+        </div>
+      </div>	    
+	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m53.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2022</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>MSE50</h2>
+            <p>MSE commemorates its 50th anniversary this year with a series of meaningful activities to celebrate Singapore’s environmental milestones, and renew our commitment to build a green and resilient Singapore.</p>
           </div>
         </div>
       </div>	    
