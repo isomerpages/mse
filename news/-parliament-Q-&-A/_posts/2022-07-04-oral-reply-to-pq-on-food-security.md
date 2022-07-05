@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Public Hygiene Standards by Ms Grace Fu, Minister for Sustainability and the Environment  
-permalink: /resource-room/category/2022-07-04-oral-reply-to-pq-on-food-security.md/
+permalink: /resource-room/category/2022-07-04-oral-reply-to-pq-on-food-security/
 image:  
 file_url:  
 description:  
