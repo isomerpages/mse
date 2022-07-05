@@ -1231,8 +1231,94 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 </p>
           </div>
         </div>
+      </div>			    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m39.jpg" alt="photo of industrial estate">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2018</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Introduction of Carbon Pricing Act</h2>
+            <p>Singapore is the first country in Southeast Asia to introduce a carbon price. The carbon tax, at S$5 per tonne of greenhouse gas emissions, was introduced in 2019 through the Carbon Pricing Act (CPA). The carbon tax will incentivise emissions reductions across all sectors and support the transition to a low-carbon economy. There are no exemptions for covered facilities, to maintain a transparent, fair, and consistent price signal across the economy.</p>
+          </div>
+        </div>
       </div>	
-
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m40.jpg" alt="Stamford Detention Tank">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2018</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Completion of Stamford Diversion Canal and Stamford Detention Tank</h2>
+            <p>As part of Singapore’s climate adaptation efforts, the Stamford Diversion Canal and Stamford Detention Tank were completed in 2018 to strengthen existing flood protection and climate adaptation measures.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m41.jpg" alt="Sustainable Singapore Gallery">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2018</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Sustainable Singapore Gallery</h2>
+            <p>On 1 June 2018, the Sustainable Singapore Gallery was launched. The futuristic gallery features a plethora of digital displays and interactive elements, providing an overview of Singapore's commitment to sustainable development.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m42.jpg" alt="Zero Waste Masterplan">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Year Towards Zero Waste</h2>
+            <p>Singapore has designated 2019 as the Year Towards Zero Waste. On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched.
+On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m44.jpg" alt="closing the waste loop">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Resource Sustainability Act</h2>
+            <p>The Resource Sustainability Act is an integral part of Singapore’s strategy to build a sustainable, resource-efficient and climate-resilient nation. The Act gives legislative effect to regulatory measures targeting the three priority waste streams of e-waste, food waste and packaging waste, including plastics. </p>
+          </div>
+        </div>
+      </div>	
+	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1248,92 +1334,127 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             <p>Following the successful conclusion of the Year of Climate Action in 2018, Climate Action Week was initiated to rally stakeholders and citizens to take collective climate action and secure a sustainable future for Singapore.</p>
           </div>
         </div>
-      </div>		    
+      </div>
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="">
+            <img src="../images/mse50/mxx.jpg" alt="">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">2008</span>
+                <span class="year">2020</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>2020: Singapore Food Story campaign</h2>
+            <p>In February, MSE launched the 2020: Singapore Food Story campaign amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply.</p>
           </div>
         </div>
-      </div>	
+      </div>
+
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m43.jpg" alt="SG Clean">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of SG Clean</h2>
+            <p>Launched on 16 February 2020, the SG Clean campaign seeks to rally stakeholders and members of the public to do their part, by adopting good personal habits and social responsibility, to raise standards of cleanliness and public hygiene in Singapore and safeguard public health.</p>
+          </div>
+        </div>
+      </div>
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="">
+            <img src="../images/mse50/m45.jpg" alt="Ministry of Sustainability and the Environment logo">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">2008</span>
+                <span class="year">2020</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>MEWR was renamed MSE</h2>
+            <p>On 27 July 2020, MEWR was renamed Ministry of Sustainability and the Environment (MSE) to better reflect the Government’s emphasis on sustainability, and its plans to press on with major initiatives in carbon mitigation, coastal protection, zero waste and circular economy, as well as food and water security. MSE will also continue to work with international partners to collectively address global climate and sustainability challenges.</p>
           </div>
         </div>
-      </div>	
+      </div>
+
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m46.jpg" alt="SG Eco Fund">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>SG Eco Fund</h2>
+            <p>The $50 million SG Eco Fund was launched in November 2020 by MSE to support ground-up projects that involve the community and advance environmental sustainability in Singapore. Project topics included climate change mitigation, waste reduction, as well as the conservation of nature and biodiversity. </p>
+          </div>
+        </div>
+      </div>
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="">
+            <img src="../images/mse50/m47.jpg" alt="hawker centre">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">2008</span>
+                <span class="year">2020</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Singapore's Hawker Culture Attains UNESCO Status</h2>
+            <p>On 16 December 2020, Hawker Culture in Singapore was successfully inscribed as Singapore’s first element on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity, with the unanimous support of the Intergovernmental Committee for the safeguarding of intangible cultural heritage. The inscription reflected our Hawker Culture’s significance in Singaporeans’ multicultural identity as a people, and as a nation, and affirms our commitment to safeguard it for future generations. </p>
           </div>
         </div>
-      </div>	
+      </div>
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="">
+            <img src="../images/mse50/mxx.jpg" alt="">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">2008</span>
+                <span class="year">2019</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Climate Action Week</h2>
+            <p>Following the successful conclusion of the Year of Climate Action in 2018, Climate Action Week was initiated to rally stakeholders and citizens to take collective climate action and secure a sustainable future for Singapore.</p>
           </div>
         </div>
-      </div>	
+      </div>
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m30.jpg" alt="">
+            <img src="../images/mse50/mxx.jpg" alt="">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">2008</span>
+                <span class="year">2019</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Climate Action Week</h2>
+            <p>Following the successful conclusion of the Year of Climate Action in 2018, Climate Action Week was initiated to rally stakeholders and citizens to take collective climate action and secure a sustainable future for Singapore.</p>
           </div>
         </div>
-      </div>	
+      </div>	    
+	    
 	    
 	    
       <div id="post-4" class="vesti-col timeline-post">
