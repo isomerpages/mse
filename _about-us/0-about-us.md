@@ -8,7 +8,7 @@ permalink: /about-us/
 <!-- Our key priorities are to ensure a sustainable, resource-efficient and climate-resilient Singapore.  -->
 #### Our three strategic directions include economic resilience, resource resilience and climate resilience.
 
-#### **Climate Resiliences**: to address existential threats of climate change especially rising sea levels and cope with rising temperatures and changing rainfall patterns to sustain a liveable environment. 
+#### **Climate Resilience**: to address existential threats of climate change especially rising sea levels and cope with rising temperatures and changing rainfall patterns to sustain a liveable environment. 
 
 #### **Economic Resilience**: to ensure the future Singapore economy remains competitive by overcoming carbon & resource constraints, and to rally stakeholders towards sustainable economic growth.
 
