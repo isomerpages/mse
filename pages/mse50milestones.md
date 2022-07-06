@@ -963,16 +963,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m22.jpg" alt="MEWR logo">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2004</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>ENV was renamed MEWR</h2>
+            <p>In September 2004, ENV was renamed the Ministry of the Environment and Water Resources (MEWR) to better reflect the Ministry’s significantly expanded role in managing Singapore’s water resources.</p>
           </div>
         </div>
       </div>	    
@@ -980,16 +980,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m23.jpg" alt="photo of SingSpring Desalination Plant">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2005</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Opening of Singapore's First Desalination Plant</h2>
+            <p>On 13 September 2005, the SingSpring Desalination Plant - Singapore's first desalination plant for water supply and the largest seawater reverse-osmosis plant in the world - opened in Tuas. The plant can produce 30 million gallons of potable water per day.</p>
           </div>
         </div>
       </div>	
@@ -997,16 +997,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m24.jpg">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2006</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Launch of Singapore's PSTLES Initiative</h2>
+            <p>Introduced in 2006, the Public Sector Taking the Lead in Environmental Sustainability (PSTLES) initiative encouraged agencies to focus on sustainability outcomes and put in place organisational processes to drive resource efficiency.</p>
           </div>
         </div>
       </div>	
@@ -1014,51 +1014,16 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m25.jpg" alt="President’s Award for the Environment">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2006</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1982</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>	
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1982</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Launch of President’s Award for the Environment</h2>
+            <p>The President’s Award for the Environment (PAE) was launched in 2006 as Singapore's highest environmental accolade for individuals, educational institutions and organisations that have made outstanding contributions towards environment and sustainability, as well as building a resilient future for Singapore.</p>
           </div>
         </div>
       </div>		    
@@ -1066,16 +1031,186 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m26.jpg" alt="Singapore Packaging Agreement logo">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2007</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Launch of the Singapore Packaging Agreement</h2>
+            <p>The Singapore Packaging Agreement (SPA) was launched on 5 June 2007 as a joint initiative by government, industry, and non-governmental organisations to reduce packaging waste. The SPA was a voluntary initiative that offered signatories the flexibility to adopt cost-effective solutions to reduce packaging waste.</p>
+          </div>
+        </div>
+      </div>
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m27.jpg" alt="photo of DTSS">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Completion of Deep Tunnel Sewerage System Phase 1</h2>
+            <p>Completed in 2008 at a cost of SGD$3.4 billion, Phase 1 of the DTSS comprises a 48 km-long deep sewer tunnel running from Kranji to Changi, a centralised water reclamation plant at Changi, two 5 km-long deep sea outfall pipes and 60km of link sewers.</p>
+          </div>
+        </div>
+      </div>	    
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m28.jpg" alt="Kolam Ayer ABC Waterfront">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Singapore's First ABC Waters Project</h2>
+            <p>Kolam Ayer ABC Waterfront, the first project launched under the Active, Beautiful, Clean (ABC) Waters Programme, was officially opened to the public on 5 April 2008. The aim of the ABC Waters Programme was to transform waterways and reservoirs in Singapore beyond their basic drainage and water storage functions, to allow these spaces to be used for community bonding and recreation.</p>
+          </div>
+        </div>
+      </div>	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m29.jpg" alt="photo of MELS">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Introduction of the Mandatory Energy Labelling Scheme</h2>
+            <p>The Mandatory Energy Labelling Scheme (MELS) was introduced on 1 January 2008 for regulated goods to help consumers compare the energy efficiency and make more informed purchasing decisions. The objective of setting Minimum Energy Performance Standards (MEPS) is to raise the average energy efficiency of regulated goods in the market.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m30.jpg" alt="photo of marina barrage">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Opening of Marina Barrage</h2>
+            <p>Officially opened on 31 October 2008, Marina Barrage (MB) was Singapore’s 15th reservoir, and the first in the heart of the city. With a catchment area of 10,000 hectares, Marina catchment is the island’s largest and most urbanised catchment. Together with two other reservoirs, Marina Reservoir has increased Singapore’s water catchment from half to two-thirds of the country’s land area.</p>
+          </div>
+        </div>
+      </div>		    
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m31.jpg" alt="photo of MELS">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2009</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Opening of the Changi Water Reclamation Plant</h2>
+            <p>Opened on 23 June 2009, the Changi Water Reclamation Plant (Changi WRP) treats used water by effectively removing the solids and nutrients that are present in the used water. After treatment, the treated used water is safe to be returned to the environment or channelled to NEWater factory to be further treated into highly purified NEWater. The project was conceived in the mid-1990s and took fifteen years to complete.</p>
+          </div>
+        </div>
+      </div>		    
+
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m32.jpeg" alt="photo of sustainable singapore blueprint book">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2009</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of the First Sustainable Singapore Blueprint</h2>
+            <p>First released in 2009, the Sustainable Singapore Blueprint (SSB) maps out strategies for Singapore’s sustainable development.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m33.jpg" alt="photo of Our Tampines Hub">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2011</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Re-commencement of building of new Hawker Centres</h2>
+            <p>The Government announced that it will restart the programme of building new hawker centres after a hiatus of 26 years. It was announced that 10 new hawker centres will be built over the next 10 years, focusing on HDB towns currently facing an under-provision of eating options, subject to land availability. </p>
+          </div>
+        </div>
+      </div>		    
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m34.jpg" alt="photo of Bishan-Ang Mo Kio Park">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2012</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Official opening of Bishan-AMK Park - flagship ABC Waters project</h2>
+            <p>On 17 March 2012, the Bishan-Ang Mo Kio Park was officially reopened following a major revamp project by PUB and NParks. One drastic change was the transformation of a concrete canal into a picturesque river teeming with life. Under the ABC Waters Programme, a combination of plants, natural materials such as rocks, and civil engineering techniques were introduced to soften the edges of the waterway, give it a natural appearance and prevent soil erosion. The project saw techniques known as soil bio-engineering being used for the first time in Singapore.</p>
+          </div>
+        </div>
+      </div>		    
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m35.jpg" alt="photo of hazy day">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2014</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Enactment of Transboundary Haze Pollution Act (THPA)</h2>
+            <p>To provide for strong legal action to be taken against conduct that causes or contributes to haze pollution in Singapore, given the experience with serious haze pollution episodes, including the one in Jun 2013, Singapore enacted the THPA.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m36.jpeg" alt="climate action plan">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2016</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Climate Action Plan</h2>
+            <p>Singapore launched our Climate Action Plan in July 2016 which details our strategies to adapt to the impact of climate change, such as implementing coastal and infrastructure protection measures.</p>
           </div>
         </div>
       </div>		    
@@ -1083,19 +1218,314 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
+            <img src="../images/mse50/m37.jpg" alt="Year of Climate Action">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1982</span>
+                <span class="year">2018</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
+              <h2>Year of Climate Action </h2>
+            <p>Singapore designated 2018 as the Year of Climate Action, to raise public awareness on the need to take collective action to fight climate change. A Climate Action SG Pledge was launched in January 2018 for individuals and organisations to make a public commitment to take climate action. The Climate Action SG Alliance was also set up to develop new initiatives to rally the public to climate action.
+</p>
+          </div>
+        </div>
+      </div>			    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m39.jpg" alt="photo of industrial estate">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2018</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Introduction of Carbon Pricing Act</h2>
+            <p>Singapore is the first country in Southeast Asia to introduce a carbon price. The carbon tax, at S$5 per tonne of greenhouse gas emissions, was introduced in 2019 through the Carbon Pricing Act (CPA). The carbon tax will incentivise emissions reductions across all sectors and support the transition to a low-carbon economy. There are no exemptions for covered facilities, to maintain a transparent, fair, and consistent price signal across the economy.</p>
           </div>
         </div>
       </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m40.jpg" alt="Stamford Detention Tank">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2018</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Completion of Stamford Diversion Canal and Stamford Detention Tank</h2>
+            <p>As part of Singapore’s climate adaptation efforts, the Stamford Diversion Canal and Stamford Detention Tank were completed in 2018 to strengthen existing flood protection and climate adaptation measures.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m41.jpg" alt="Sustainable Singapore Gallery">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2018</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Sustainable Singapore Gallery</h2>
+            <p>On 1 June 2018, the Sustainable Singapore Gallery was launched. The futuristic gallery features a plethora of digital displays and interactive elements, providing an overview of Singapore's commitment to sustainable development.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m42.jpg" alt="Zero Waste Masterplan">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Year Towards Zero Waste</h2>
+            <p>Singapore has designated 2019 as the Year Towards Zero Waste. On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched.
+On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m44.jpg" alt="closing the waste loop">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Resource Sustainability Act</h2>
+            <p>The Resource Sustainability Act is an integral part of Singapore’s strategy to build a sustainable, resource-efficient and climate-resilient nation. The Act gives legislative effect to regulatory measures targeting the three priority waste streams of e-waste, food waste and packaging waste, including plastics. </p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m38.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Climate Action Week</h2>
+            <p>Following the successful conclusion of the Year of Climate Action in 2018, Climate Action Week was initiated to rally stakeholders and citizens to take collective climate action and secure a sustainable future for Singapore.</p>
+          </div>
+        </div>
+      </div>
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mxx.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>2020: Singapore Food Story campaign</h2>
+            <p>In February, MSE launched the 2020: Singapore Food Story campaign amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply.</p>
+          </div>
+        </div>
+      </div>
+
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m43.jpg" alt="SG Clean">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of SG Clean</h2>
+            <p>Launched on 16 February 2020, the SG Clean campaign seeks to rally stakeholders and members of the public to do their part, by adopting good personal habits and social responsibility, to raise standards of cleanliness and public hygiene in Singapore and safeguard public health.</p>
+          </div>
+        </div>
+      </div>
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m45.jpg" alt="Ministry of Sustainability and the Environment logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>MEWR was renamed MSE</h2>
+            <p>On 27 July 2020, MEWR was renamed Ministry of Sustainability and the Environment (MSE) to better reflect the Government’s emphasis on sustainability, and its plans to press on with major initiatives in carbon mitigation, coastal protection, zero waste and circular economy, as well as food and water security. MSE will also continue to work with international partners to collectively address global climate and sustainability challenges.</p>
+          </div>
+        </div>
+      </div>
+
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m46.jpg" alt="SG Eco Fund">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>SG Eco Fund</h2>
+            <p>The $50 million SG Eco Fund was launched in November 2020 by MSE to support ground-up projects that involve the community and advance environmental sustainability in Singapore. Project topics included climate change mitigation, waste reduction, as well as the conservation of nature and biodiversity. </p>
+          </div>
+        </div>
+      </div>
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m47.jpg" alt="hawker centre">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore's Hawker Culture Attains UNESCO Status</h2>
+            <p>On 16 December 2020, Hawker Culture in Singapore was successfully inscribed as Singapore’s first element on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity, with the unanimous support of the Intergovernmental Committee for the safeguarding of intangible cultural heritage. The inscription reflected our Hawker Culture’s significance in Singaporeans’ multicultural identity as a people, and as a nation, and affirms our commitment to safeguard it for future generations. </p>
+          </div>
+        </div>
+      </div>
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m48.jpg" alt="SG Green Plan">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Singapore Green Plan 2030</h2>
+            <p>The Singapore Green Plan 2030 was unveiled on 10 February 2021. It is a whole-of-nation movement to advance Singapore's national agenda on sustainable development. The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore's commitments under the UN's 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net-zero emissions aspiration as soon as viable.</p>
+          </div>
+        </div>
+      </div>
+
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m49.jpg" alt="Green Gov SG">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of GreenGov.SG</h2>
+            <p>PSTLES was refreshed and renamed as GreenGov.SG in Jul 2021. Under GreenGov.SG, the public sector will continue to set more ambitious resource targets, including a carbon emissions goal, and embed environmental sustainability in our core business areas. We also aim to build a culture of sustainability among public officers. GreenGov.SG is a key enabler of the Singapore Green Plan 2030.</p>
+          </div>
+        </div>
+      </div>
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m50.jpg" alt="clean tables">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Commencement of Clean Tables Initiative </h2>
+            <p>To raise the cleanliness standards at public  dining places, NEA rolled out the Clean Tables Campaign in Feb 2021 and mandatory Clean Tables Regime in Sep 2021   to nudge diners to return their dirty crockery and trays and keep the tables clean. NEA took an advisory approach in hawker centres from 1 June to 31 August 2021, during which officers were deployed to remind diners to clear their dirty trays, crockery and litter, and visual cues such as posters and banners were progressively installed. Enforcement against table littering commenced on 1 September 2021 at hawker centres, and 1 January 2022 at coffeeshops and food courts.</p>
+          </div>
+        </div>
+      </div>	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m51.jpg" alt="e waste recycling bin">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Start of Nationwide E-Waste Management System</h2>
+            <p>Singapore’s first nationwide electrical and electronic waste (e-waste) management system started on 1 July 2021. The new system was introduced to make it more convenient for consumers to recycle their e-waste, while ensuring e-waste is managed effectively, efficiently and in an environmentally sustainable manner.</p>
+          </div>
+        </div>
+      </div>
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m52.jpg" alt="cleaner">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Commencement of Environmental Sanitation Regime</h2>
+            <p>On 30 Jul 2021, NEA launched the Environmental Sanitation (ES) Regime which specifies mandatory baseline ES standards for specified high-risk premises with vulnerable occupants and high footfall, and places greater accountability on premises managers to meet these baseline standards. Assisted by Environmental Control Coordinators (ECCs) or Environmental Control Officers (ECOs), premises managers must ensure that they have in place a sector-specific ES programme, which specifies cleaning and disinfection frequencies and protocols to address incidents involving bodily discharge.</p>
+          </div>
+        </div>
+      </div>	    
+	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m53.jpg" alt="">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2022</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>MSE50</h2>
+            <p>MSE commemorates its 50th anniversary this year with a series of meaningful activities to celebrate Singapore’s environmental milestones, and renew our commitment to build a green and resilient Singapore.</p>
+          </div>
+        </div>
+      </div>	    
+	    
+	    
 	    
       <div id="post-4" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
