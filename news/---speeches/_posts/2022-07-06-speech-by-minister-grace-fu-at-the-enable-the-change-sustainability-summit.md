@@ -54,4 +54,4 @@ Distinguished guests
 
 16 The Textile and Fashion Federation launched its fashion sustainability programme in November last year, to advocate sustainable industry practices to help businesses embark on their sustainability journey, upskill their employees in circularity, and drive collaboration within the industry. I applaud the Federation for playing a crucial role in guiding the industry, I look forward to your sharing of the sector report and the roadmap to reduce carbon emissions later.  
 
-Thank you.  
+Thank you.    
