@@ -1,6 +1,6 @@
 ---
 title: Enable the Change Sustainability Summit - Ms Grace Fu
-permalink:/resource-room/category/2022-07-06-speech-by-minister-grace-fu-at-the-enable-the-change-sustainability-summit/
+permalink: /resource-room/category/2022-07-06-speech-by-minister-grace-fu-at-the-enable-the-change-sustainability-summit/
 image:
 file_url:
 description:
