@@ -1506,8 +1506,7 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
         </div>
       </div>	    
-	    
-	    
+ 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1524,6 +1523,357 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
         </div>
       </div>	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s1.jpg" alt="photo of egg farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1989</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Opening of Agrotechnology Parks in Lim Chu Kang and Loyang</h2>
+            <p>Agricultural land continued to decline in the 1980s due to urbanisation. To maintain a degree of self-sufficiency and to maximise land productivity, PPD consolidated farming in Agrotechnology Parks. Mechanised and automated farm systems were promoted, boosting productivity in a tightening labour market.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s2.jpg" alt="AVA logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2000</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Formation of Agri-Food & Veterinary Authority (AVA)</h2>
+            <p>PPD was restructured into a statutory board, the Agri-Food and Veterinary Authority (AVA) on 1 April 2000 to address the increasingly challenging task of maintaining Singapore’s high standards of food safety, as well as animal and plant health.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s3.jpg" alt="photo of lab">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2002</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Addition of Food Control Division</h2>
+            <p>Formerly part of the Ministry of the Environment, the Food Control Division was moved to AVA. This allowed AVA to regulate the safety of both fresh produce and processed food from production right up to just before retail.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s4.jpg" alt="photo of oscar the food safety mascot">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2002</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Food Safety Public Awareness programme on foodborne diseases</h2>
+            <p>The Food Safety Public Awareness programme was launched to educate consumers on how to better protect themselves against foodborne diseases. As part of the programme, a food safety mascot – Oscar the Food Safety Otter – was introduced.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s5.jpg" alt="photo of Marine Aquaculture Centre">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2003</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Marine Aquaculture Centre</h2>
+            <p>The Marine Aquaculture Centre was established on St. John’s Island with the aim to research on and develop technology in tropical marine food-fish aquaculture as well as play a role in increasing Singapore’s annual fresh fish consumption.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s6.jpg" alt="photo of sky greens">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2012</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>First vertical farm commercialised</h2>
+            <p>With technical assistance in horticulture and plant health management from AVA, Sky Greens, the world’s first vertical vegetable farm was opened in Oct 2012.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s7.jpg" alt="photo of farm in singapore">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Establishing the “30 by 30 goal” and launch of Singapore Food Story R&D Programme</h2>
+            <p>The ambitious 30 by 30 goal to produce 30 per cent of Singapore’s nutritional needs by 2030 was established this year. The Singapore Food Story (SFS) R&D Programme was also launched with A*STAR to develop the local agri-tech R&D ecosystem and sustainable urban food solutions to support Singapore’s 30 by 30 goal.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s8.jpg" alt="SFA logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Formation of SFA</h2>
+            <p>The Singapore Food Agency (SFA) was formed to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s9.jpg" alt="singapore food story">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of 2020: Singapore Food Story campaign</h2>
+            <p>The Singapore Food Story was launched amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply. To ensure a safe, diversified and secure food supply for Singapore, SFA launched the 30 by 30 Express grant call to support the growth of local agri-food enterprises and accelerate the ramp up in local food production.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s10.jpg" alt="photo of rooftop farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of tender for HDB MSCP rooftop farming sites</h2>
+            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB MSCP rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s11.jpg" alt="SG Fresh Produce Logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of SG Fresh Produce logo</h2>
+            <p>The SG Fresh Produce logo was introduced in June 2020 to help consumers easily identify local produce. Over 2,000 members of the public, local farmers, retailers and industry associations participated in the co-creation process of the logo, which was part of efforts to increase consumer awareness of local produce.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s12.jpg" alt="photo of citizens' workgroup on local produce">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>First Citizens’ Workgroup to increase consumer demand for local produce</h2>
+            <p>To increase consumer demand for local produce, and as part of the SG Together movement, MSE and SFA convened a Citizen’s Workgroup in July 2020 to co-create and co-deliver solutions to encourage greater support for local produce. Several recommendations are currently being piloted.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s13.jpg" alt="lim chu kang masterplan">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>The Lim Chu Kang Masterplan</h2>
+            <p>SFA announced plans to embark on an exercise to master plan the Lim Chu Kang area into a high-tech agri-food zone that can raise food production in a sustainable and resource-efficient manner. As part of the master planning exercise, a six-month series of engagements were conducted in 2021  for stakeholders to identify and discuss ideas to co-create the future of the Lim Chu Kang region and redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all. The ideas from these engagements will be folded into the planning phase of the master planning exercise.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s14.jpg" alt="photo of novel food">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>World’s first regulatory approval for cultured meat</h2>
+            <p>To ensure the safety of novel food, SFA developed a novel food regulatory framework, which requires novel food products to be put through a pre-market safety assessment before they are allowed for sale. In Dec 2020, SFA became the first food safety authority in the world to allow a novel food product to be sold, following scientific assessment and food safety laboratory tests.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s15.jpg" alt="photo of Future Ready Food Safety Hub (FRESH) launch">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of FRESH</h2>
+            <p>The Future Ready Food Safety Hub (FRESH), a collaboration between Nanyang Technological University, the Singapore Food Agency, and A*STAR, was launched to build Singapore’s capabilities in food safety science. FRESH aims to drive food safety research under the Sisngapore Food Story R&D Programme. It is also tasked with helping build local food safety science capabilities in support of Singapore’s growing food innovation ecosystem.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s16.jpg" alt="photo of farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of ACT Fund</h2>
+            <p>SFA launched a $60 million Agri-Food Cluster Transformation (ACT) Fund to support the transformation of the agri-food sector into one that is highly productive, climate resilient and resource efficient. The ACT Fund replaces the 2014 Agriculture Productivity Fund and comprises three co-funding components for local food-producing companies to build and expand their production capacities and capabilities: (a) Technology Upscaling; (b) Innovation and Test-bedding; and (c) Capability Upgrading.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s17.jpg" alt="photo of MOU signing">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>SFA and IFH MOU signing</h2>
+            <p>SFA and ISE Foods Holdings Pte Ltd (IFH) signed a Memorandum of Understanding (MOU) for IFH to develop an egg layer farm, a Day-Old-Chick hatchery, a parent stock pullet farm, and a parent stock layer farm in Singapore. This will be the 4th egg farm in Singapore and will strengthen the resilience of Singapore’s food supply and egg production capability.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s18.jpg" alt="photo of local produce badges">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2022</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of new series of local produce badges</h2>
+            <p>To help consumers better identify local produce and differentiate produce from farms with quality assurance or sustainable schemes, a new series of badges featuring Singapore Fresh Produce, Singapore Good Agricultural Practice Certification, and Clean and Green Certification were launched.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s19.jpg" alt="photo of fish farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2022</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Singapore Aquaculture Plan</h2>
+            <p>SFA announced plans to uplift the aquaculture industry through the Singapore Aquaculture Plan. These include unlocking new spaces through new sea space tenders and longer leases; supporting the aquaculture sector to transform into one that is highly productive, climate-resilient and resource-efficient through the use of technology and adopting appropriate farm management methods, including conducting environmental surveys and water and seabed quality surveys to better inform farm management and supporting research and innovation for sustainable tropical marine aquaculture through leveraging SFA’s Marine Aquaculture Centre</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s20.jpg" alt="photo of LoveSGMums meal">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2022</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Pilot launch of LoveSGMums meal</h2>
+            <p>A pilot project to increase awareness and demand for local produce to post-partum mothers through hospital in-patient meals was launched by Minister for Sustainability and the Environment (MSE) Grace Fu at Thomson Medical Centre (TMC). The pilot was a result of a collaboration between SFA, the LoveSGMums Meal (LSGM) team in the Citizens’ Workgroup (CWG) on Increasing Demand for Local Produce, celebrity chef and CWG participant Justin Foo, as well as TMC.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 	    
 	    
 	    
