@@ -600,8 +600,8 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Drafting of Singapore Water Master Plan</h2>
-            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
+              <h2>Drafting of Singapore's Water and Sewerage Master Plans</h2>
+            <p>The Sewerage Masterplan was first formulated in 1972, kicking off the development of Singapore's sewerage infrastructure. In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
           </div>
         </div>
       </div>
