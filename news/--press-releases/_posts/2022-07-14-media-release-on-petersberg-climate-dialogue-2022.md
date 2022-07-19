@@ -1,5 +1,5 @@
 ---  
-title: Minister for Sustainability and the Environment Grace Fu's Participation in the 2022 Petersburg Climate Dialogue, Berlin, Germany
+title: Minister for Sustainability and the Environment Grace Fu's Participation in the 2022 Petersberg Climate Dialogue, Berlin, Germany
 permalink: /resource-room/category/2022-07-14-media-release-on-petersberg-climate-dialogue-2022  
 image:  
 file_url:  
