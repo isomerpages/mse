@@ -909,6 +909,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>
 
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s2.jpg" alt="AVA logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2000</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Formation of Agri-Food & Veterinary Authority (AVA)</h2>
+            <p>PPD was restructured into a statutory board, the Agri-Food and Veterinary Authority (AVA) on 1 April 2000 to address the increasingly challenging task of maintaining Singapore’s high standards of food safety, as well as animal and plant health.</p>
+          </div>
+        </div>
+      </div>		    
+	    	    
+	    
 	    <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1046,6 +1064,23 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>	    
 
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm1.jpg" alt="photo of Water Wally">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2005</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Creation of Water Wally as PUB's mascot</h2>
+            <p>PUB's mascot, Water Wally, was unveiled on 4 Aug 2005. An expert on everything about water, Water Wally is a mascot on a mission – to stop any abuse of our precious water resources and share the message of water conservation.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1595,23 +1630,7 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
 	    
 
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s2.jpg" alt="AVA logo">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2000</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Formation of Agri-Food & Veterinary Authority (AVA)</h2>
-            <p>PPD was restructured into a statutory board, the Agri-Food and Veterinary Authority (AVA) on 1 April 2000 to address the increasingly challenging task of maintaining Singapore’s high standards of food safety, as well as animal and plant health.</p>
-          </div>
-        </div>
-      </div>		    
-	    
+
 	    
 	    
 	    
