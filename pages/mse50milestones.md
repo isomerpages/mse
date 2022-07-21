@@ -869,7 +869,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Launch of Singapore's First Green Plan</h2>
-            <p>The Singapore Green Plan (SGP) is Singapore's first environmental blueprint. Released in May 1992 by ENV, its objective is to ensure that Singapore could develop an economic growth model that does not compromise its environment.</p>
+            <p>The Singapore Green Plan is Singapore's first environmental blueprint. Released in May 1992 by ENV, its objective is to ensure that Singapore could develop an economic growth model that does not compromise its environment.</p>
           </div>
         </div>
       </div>
@@ -1256,7 +1256,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/mm3.jpg" alt="photo of Mandatory Water Efficiency Labelling Scheme">
+            <img src="../images/mse50/mm4.jpg" alt="photo of Mandatory Water Efficiency Labelling Scheme">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2009</span>
