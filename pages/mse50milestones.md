@@ -601,7 +601,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
               <h2>Drafting of Singapore's Water and Sewerage Master Plans</h2>
-            <p>The Sewerage Masterplan was first formulated in 1972, kicking off the development of Singapore's sewerage infrastructure. In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
+            <p>The Sewerage Masterplan was first formulated in 1972, kicking off the development of Singapore's sewerage infrastructure. In the same year, Singapore's first Water Master Plan was also drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
           </div>
         </div>
       </div>
@@ -713,7 +713,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
               <h2>Eat Frozen Pork’ Campaign</h2>
-            <p>In the lead-up to the complete phasing-out of pig farming in Singapore, the “Eat Frozen Pork Campaign” debuted in 1985 to dispel common misconceptions on frozen pork and raise public awareness of the production, handling, quality and nutritional value of frozen pork. Technical seminars were conducted to give traders and consumers a better understanding of the production, handling, quality and nutritional value of frozen pork. </p>
+            <p>In the lead-up to the complete phasing-out of pig farming in Singapore, the “Eat Frozen Pork Campaign” debuted in 1985 to dispel common misconceptions on frozen pork and raise public awareness of the production, handling, quality and nutritional value of frozen pork. </p>
           </div>
         </div>
       </div>
@@ -729,7 +729,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
               <h2>Completion of Street Hawker Resettlement</h2>
-            <p>From 1968 to 1986, the Government licensed and resettled street hawkers into purpose-built hawker centres and markets with proper sanitation and amenities. By February 1986, the resettlement work was completed and 18,000 street hawkers were resited into newly built hawker centres.</p>
+            <p>From 1968 to 1986, the Government licensed and resettled street hawkers into purpose-built hawker centres and markets with proper sanitation and amenities. By February 1986, the resettlement work was completed and 18,000 street hawkers were re-sited into newly built hawker centres.</p>
           </div>
         </div>
       </div>
@@ -781,6 +781,23 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           <div class="vesti-desc">
               <h2>Phasing Out of the Nightsoil Bucket</h2>
             <p>On 24 January 1987, Singapore bid goodbye to the century-old night soil bucket system. That day, the last night soil collection centre, located at Lorong Halus, ceased operation for good, as Singapore entered a new era served by a modern sanitation system.</p>
+          </div>
+        </div>
+      </div>	
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s1.jpg" alt="photo of egg farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1989</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Opening of Agrotechnology Parks in Lim Chu Kang and Loyang</h2>
+            <p>Agricultural land continued to decline in the 1980s due to urbanisation. To maintain a degree of self-sufficiency and to maximise land productivity, PPD consolidated farming in Agrotechnology Parks. Mechanised and automated farm systems were promoted, boosting productivity in a tightening labour market.</p>
           </div>
         </div>
       </div>	
@@ -1524,22 +1541,7 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
         </div>
       </div>	    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s1.jpg" alt="photo of egg farm">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1989</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Opening of Agrotechnology Parks in Lim Chu Kang and Loyang</h2>
-            <p>Agricultural land continued to decline in the 1980s due to urbanisation. To maintain a degree of self-sufficiency and to maximise land productivity, PPD consolidated farming in Agrotechnology Parks. Mechanised and automated farm systems were promoted, boosting productivity in a tightening labour market.</p>
-          </div>
-        </div>
-      </div>	
+
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
