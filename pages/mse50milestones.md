@@ -887,7 +887,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Singapore Fully Served by Modern Sanitation</h2>
-            <p>By 1992, all of Singapore had access to modern sanitation. In comparison, just three decades ago when Singapore became independent in 1965, only 45% of the population had access to proper sanitation.</p>
+            <p>By 1997, all of Singapore had access to modern sanitation. In comparison, just 32 years ago when Singapore became independent in 1965, only 45% of the population had access to proper sanitation.</p>
           </div>
         </div>
       </div>
