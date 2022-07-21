@@ -1256,7 +1256,25 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m31.jpg" alt="photo of MELS">
+            <img src="../images/mse50/mm3.jpg" alt="photo of Mandatory Water Efficiency Labelling Scheme">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2009</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Introduction of the Mandatory Water Efficiency Labelling Scheme</h2>
+            <p>Started in 2009, the Mandatory Water Efficiency Labelling Scheme (Mandatory WELS) is a grading system with 0/1/2/3 tick rating denoting the water efficiency level of a product. This is a follow-up scheme from the Voluntary Water Efficiency Labelling Scheme (Voluntary WELS) introduced in 2006. The WELS helps consumers choose their products such as taps, flushing cisterns, urinals, washing machines, dishwashers etc. wisely. The mandatory scheme helps expand the range of higher efficiency products in the market and makes them more affordable.</p>
+          </div>
+        </div>
+      </div>	    
+	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m31.jpg" alt="photo of Changi Water Reclamation Plant">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2009</span>
@@ -1321,6 +1339,23 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>		    
 
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s6.jpg" alt="photo of sky greens">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2012</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>First vertical farm commercialised</h2>
+            <p>With technical assistance in horticulture and plant health management from AVA, Sky Greens, the world’s first vertical vegetable farm was opened in Oct 2012.</p>
+          </div>
+        </div>
+      </div>	
+	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1475,6 +1510,41 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
         </div>
       </div>
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s7.jpg" alt="photo of farm in singapore">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Establishing the “30 by 30 goal” and launch of Singapore Food Story R&D Programme</h2>
+            <p>The ambitious 30 by 30 goal to produce 30 per cent of Singapore’s nutritional needs by 2030 was established this year. The Singapore Food Story (SFS) R&D Programme was also launched with A*STAR to develop the local agri-tech R&D ecosystem and sustainable urban food solutions to support Singapore’s 30 by 30 goal.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s8.jpg" alt="SFA logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Formation of SFA</h2>
+            <p>The Singapore Food Agency (SFA) was formed to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1671,56 +1741,9 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
 	    
 	    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s6.jpg" alt="photo of sky greens">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2012</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>First vertical farm commercialised</h2>
-            <p>With technical assistance in horticulture and plant health management from AVA, Sky Greens, the world’s first vertical vegetable farm was opened in Oct 2012.</p>
-          </div>
-        </div>
-      </div>		    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s7.jpg" alt="photo of farm in singapore">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2019</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Establishing the “30 by 30 goal” and launch of Singapore Food Story R&D Programme</h2>
-            <p>The ambitious 30 by 30 goal to produce 30 per cent of Singapore’s nutritional needs by 2030 was established this year. The Singapore Food Story (SFS) R&D Programme was also launched with A*STAR to develop the local agri-tech R&D ecosystem and sustainable urban food solutions to support Singapore’s 30 by 30 goal.</p>
-          </div>
-        </div>
-      </div>		    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s8.jpg" alt="SFA logo">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2019</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Formation of SFA</h2>
-            <p>The Singapore Food Agency (SFA) was formed to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety.</p>
-          </div>
-        </div>
-      </div>		    
+	    
 	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
