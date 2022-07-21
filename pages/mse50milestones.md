@@ -1533,7 +1533,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/sxx.jpg" alt="singapore food story">
+            <img src="../images/mse50/mxx.jpg" alt="singapore food story">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2020</span>
@@ -1825,6 +1825,26 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>
+	  
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm6.jpg" alt="solar panels">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Official Opening of Sembcorp Tengeh Floating Solar Farm</h2>
+            <p>PUB and Sembcorp Industries officially opened the Sembcorp Tengeh Floating Solar Farm at Tengeh Reservoir. With 122,000 solar panels spanning across 45 hecttres, the commencement of the 60 megawatt-peak (MWp) solar photovoltaic (PV) farm marks a significant step towards enduring energy sustainability in water treatment.</p>
+          </div>
+        </div>
+      </div>
+	    
+	    
+	    	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1842,30 +1862,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>	    
- 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m53.jpg" alt="">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2022</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>MSE50</h2>
-            <p>MSE commemorates its 50th anniversary this year with a series of meaningful activities to celebrate Singapore’s environmental milestones, and renew our commitment to build a green and resilient Singapore.</p>
-          </div>
-        </div>
-      </div>	    
-	    
-
-	    
-	    
-	    
-	    
-	    
+ 
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1915,12 +1912,12 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             <p>SFA announced plans to uplift the aquaculture industry through the Singapore Aquaculture Plan. These include unlocking new spaces through new sea space tenders and longer leases; supporting the aquaculture sector to transform into one that is highly productive, climate-resilient and resource-efficient through the use of technology and adopting appropriate farm management methods, including conducting environmental surveys and water and seabed quality surveys to better inform farm management and supporting research and innovation for sustainable tropical marine aquaculture through leveraging SFA’s Marine Aquaculture Centre</p>
           </div>
         </div>
-      </div>		    
+      </div>	
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/s20.jpg" alt="photo of LoveSGMums meal">
+            <img src="../images/mse50/m53.jpg" alt="">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2022</span>
@@ -1928,44 +1925,28 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Pilot launch of LoveSGMums meal</h2>
-            <p>A pilot project to increase awareness and demand for local produce to post-partum mothers through hospital in-patient meals was launched by Minister for Sustainability and the Environment (MSE) Grace Fu at Thomson Medical Centre (TMC). The pilot was a result of a collaboration between SFA, the LoveSGMums Meal (LSGM) team in the Citizens’ Workgroup (CWG) on Increasing Demand for Local Produce, celebrity chef and CWG participant Justin Foo, as well as TMC.</p>
+              <h2>MSE50</h2>
+            <p>MSE commemorates its 50th anniversary this year with a series of meaningful activities to celebrate Singapore’s environmental milestones, and renew our commitment to build a green and resilient Singapore.</p>
           </div>
         </div>
-      </div>		    
+      </div>	    
 	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-      <div id="post-4" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19990007092-0004-3012-0348/img047.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1987</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Completion of the Singapore River Clean-Up</h2>
-            <p>The clean-up was officially declared complete on 2 September 1987. As part of the Clean Rivers Commemoration Celebration, a five-day carnival was held at Marina Bay.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
-
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	   
 
 
 
