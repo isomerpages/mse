@@ -1493,25 +1493,6 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>	
-
-		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m44.jpg" alt="closing the waste loop">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2019</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Resource Sustainability Act</h2>
-            <p>The Resource Sustainability Act is an integral part of Singapore’s strategy to build a sustainable, resource-efficient and climate-resilient nation. The Act gives legislative effect to regulatory measures targeting the three priority waste streams of e-waste, food waste and packaging waste, including plastics. </p>
-          </div>
-        </div>
-      </div>	
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1530,13 +1511,10 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>
 
-	    
-
-	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/mxx.jpg" alt="">
+            <img src="../images/mse50/m43.jpg" alt="SG Clean">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2020</span>
@@ -1544,16 +1522,18 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>2020: Singapore Food Story campaign</h2>
-            <p>In February, MSE launched the 2020: Singapore Food Story campaign amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply.</p>
+              <h2>Launch of SG Clean</h2>
+            <p>Launched on 16 February 2020, the SG Clean campaign seeks to rally stakeholders and members of the public to do their part, by adopting good personal habits and social responsibility, to raise standards of cleanliness and public hygiene in Singapore and safeguard public health.</p>
           </div>
         </div>
-      </div>
+      </div>	    
+
+	   
 
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/s9.jpg" alt="singapore food story">
+            <img src="../images/mse50/sxx.jpg" alt="singapore food story">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2020</span>
@@ -1566,6 +1546,25 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>		    
+
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm5.jpg" alt="coastal protection">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>PUB appointed as Singapore’s national coastal protection agency</h2>
+            <p>PUB assumed an additional role as the nation’s coastal protection agency with the mandate of safeguarding Singapore’s coastline against the threat of rising sea levels.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1579,7 +1578,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Launch of tender for HDB MSCP rooftop farming sites</h2>
-            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB MSCP rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
+            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB's muli-storey car park (MSCP) rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
           </div>
         </div>
       </div>		    
@@ -1601,11 +1600,10 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>		    
 	    
-	    
-	    <div id="post-3" class="vesti-col timeline-post">
+<div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m43.jpg" alt="SG Clean">
+            <img src="../images/mse50/s12.jpg" alt="photo of citizens' workgroup on local produce">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2020</span>
@@ -1613,11 +1611,12 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Launch of SG Clean</h2>
-            <p>Launched on 16 February 2020, the SG Clean campaign seeks to rally stakeholders and members of the public to do their part, by adopting good personal habits and social responsibility, to raise standards of cleanliness and public hygiene in Singapore and safeguard public health.</p>
+              <h2>First Citizens’ Workgroup to increase consumer demand for local produce</h2>
+            <p>To increase consumer demand for local produce, and as part of the SG Together movement, MSE and SFA convened a Citizen’s Workgroup in July 2020 to co-create and co-deliver solutions to encourage greater support for local produce. Several recommendations are currently being piloted.</p>
           </div>
         </div>
-      </div>
+      </div>		    
+
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1636,27 +1635,10 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>
 
-	    <div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m46.jpg" alt="SG Eco Fund">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>SG Eco Fund</h2>
-            <p>The $50 million SG Eco Fund was launched in November 2020 by MSE to support ground-up projects that involve the community and advance environmental sustainability in Singapore. Project topics included climate change mitigation, waste reduction, as well as the conservation of nature and biodiversity. </p>
-          </div>
-        </div>
-      </div>
-
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/s12.jpg" alt="photo of citizens' workgroup on local produce">
+            <img src="../images/mse50/m44.jpg" alt="closing the waste loop">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2020</span>
@@ -1664,8 +1646,8 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>First Citizens’ Workgroup to increase consumer demand for local produce</h2>
-            <p>To increase consumer demand for local produce, and as part of the SG Together movement, MSE and SFA convened a Citizen’s Workgroup in July 2020 to co-create and co-deliver solutions to encourage greater support for local produce. Several recommendations are currently being piloted.</p>
+              <h2>Resource Sustainability Act</h2>
+            <p>The Resource Sustainability Act is an integral part of Singapore’s strategy to build a sustainable, resource-efficient and climate-resilient nation. The Act gives legislative effect to regulatory measures targeting the three priority waste streams of e-waste, food waste and packaging waste, including plastics. </p>
           </div>
         </div>
       </div>		    
@@ -1685,7 +1667,26 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             <p>SFA announced plans to embark on an exercise to master plan the Lim Chu Kang area into a high-tech agri-food zone that can raise food production in a sustainable and resource-efficient manner. As part of the master planning exercise, a six-month series of engagements were conducted in 2021  for stakeholders to identify and discuss ideas to co-create the future of the Lim Chu Kang region and redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all. The ideas from these engagements will be folded into the planning phase of the master planning exercise.</p>
           </div>
         </div>
-      </div>		    
+      </div>	
+	    
+	    
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m46.jpg" alt="SG Eco Fund">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>SG Eco Fund</h2>
+            <p>The $50 million SG Eco Fund was launched in November 2020 by MSE to support ground-up projects that involve the community and advance environmental sustainability in Singapore. Project topics included climate change mitigation, waste reduction, as well as the conservation of nature and biodiversity. </p>
+          </div>
+        </div>
+      </div>
+    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1740,6 +1741,39 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>
 
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s15.jpg" alt="photo of Future Ready Food Safety Hub (FRESH) launch">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of FRESH</h2>
+            <p>The Future Ready Food Safety Hub (FRESH), a collaboration between Nanyang Technological University, the Singapore Food Agency, and A*STAR, was launched to build Singapore’s capabilities in food safety science. FRESH aims to drive food safety research under the Sisngapore Food Story R&D Programme. It is also tasked with helping build local food safety science capabilities in support of Singapore’s growing food innovation ecosystem.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s16.jpg" alt="photo of farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of ACT Fund</h2>
+            <p>SFA launched a $60 million Agri-Food Cluster Transformation (ACT) Fund to support the transformation of the agri-food sector into one that is highly productive, climate resilient and resource efficient. The ACT Fund replaces the 2014 Agriculture Productivity Fund and comprises three co-funding components for local food-producing companies to build and expand their production capacities and capabilities: (a) Technology Upscaling; (b) Innovation and Test-bedding; and (c) Capability Upgrading.</p>
+          </div>
+        </div>
+      </div>	
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1830,39 +1864,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 	    
 	    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s15.jpg" alt="photo of Future Ready Food Safety Hub (FRESH) launch">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2021</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of FRESH</h2>
-            <p>The Future Ready Food Safety Hub (FRESH), a collaboration between Nanyang Technological University, the Singapore Food Agency, and A*STAR, was launched to build Singapore’s capabilities in food safety science. FRESH aims to drive food safety research under the Sisngapore Food Story R&D Programme. It is also tasked with helping build local food safety science capabilities in support of Singapore’s growing food innovation ecosystem.</p>
-          </div>
-        </div>
-      </div>		    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s16.jpg" alt="photo of farm">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2021</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of ACT Fund</h2>
-            <p>SFA launched a $60 million Agri-Food Cluster Transformation (ACT) Fund to support the transformation of the agri-food sector into one that is highly productive, climate resilient and resource efficient. The ACT Fund replaces the 2014 Agriculture Productivity Fund and comprises three co-funding components for local food-producing companies to build and expand their production capacities and capabilities: (a) Technology Upscaling; (b) Innovation and Test-bedding; and (c) Capability Upgrading.</p>
-          </div>
-        </div>
-      </div>		    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
