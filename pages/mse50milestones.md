@@ -942,6 +942,40 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s3.jpg" alt="photo of lab">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2002</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Addition of Food Control Division</h2>
+            <p>Formerly part of the Ministry of the Environment, the Food Control Division was moved to AVA. This allowed AVA to regulate the safety of both fresh produce and processed food from production right up to just before retail.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s4.jpg" alt="photo of oscar the food safety mascot">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2002</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Food Safety Public Awareness programme on foodborne diseases</h2>
+            <p>The Food Safety Public Awareness programme was launched to educate consumers on how to better protect themselves against foodborne diseases. As part of the programme, a food safety mascot – Oscar the Food Safety Otter – was introduced.</p>
+          </div>
+        </div>
+      </div>		    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -976,6 +1010,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s5.jpg" alt="photo of Marine Aquaculture Centre">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2003</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Marine Aquaculture Centre</h2>
+            <p>The Marine Aquaculture Centre was established on St. John’s Island with the aim to research on and develop technology in tropical marine food-fish aquaculture as well as play a role in increasing Singapore’s annual fresh fish consumption.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1560,56 +1612,9 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
         </div>
       </div>		    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s3.jpg" alt="photo of lab">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2002</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Addition of Food Control Division</h2>
-            <p>Formerly part of the Ministry of the Environment, the Food Control Division was moved to AVA. This allowed AVA to regulate the safety of both fresh produce and processed food from production right up to just before retail.</p>
-          </div>
-        </div>
-      </div>		    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s4.jpg" alt="photo of oscar the food safety mascot">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2002</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of Food Safety Public Awareness programme on foodborne diseases</h2>
-            <p>The Food Safety Public Awareness programme was launched to educate consumers on how to better protect themselves against foodborne diseases. As part of the programme, a food safety mascot – Oscar the Food Safety Otter – was introduced.</p>
-          </div>
-        </div>
-      </div>		    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s5.jpg" alt="photo of Marine Aquaculture Centre">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2003</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of Marine Aquaculture Centre</h2>
-            <p>The Marine Aquaculture Centre was established on St. John’s Island with the aim to research on and develop technology in tropical marine food-fish aquaculture as well as play a role in increasing Singapore’s annual fresh fish consumption.</p>
-          </div>
-        </div>
-      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
