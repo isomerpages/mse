@@ -1186,7 +1186,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/mm2.jpg" alt="Singapore International Water Week">
+            <img src="../images/mse50/mm2.png" alt="Singapore International Water Week">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2008</span>
@@ -1217,6 +1217,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>	
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm3.jpg" alt="Singapore World Water Day">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Commencement of Singapore World Water Day</h2>
+            <p>Singapore World Water Day (SWWD) started in 2008 and has grown to be. celebrated across the island throughout the month of March as a platform to encourage initiatives by the community for the community to celebrate water, appreciate water and raise awareness on water conservation</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
