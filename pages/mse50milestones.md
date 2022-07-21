@@ -1563,6 +1563,58 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
         </div>
       </div>
 
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s9.jpg" alt="singapore food story">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of 2020: Singapore Food Story campaign</h2>
+            <p>The Singapore Food Story was launched amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply. To ensure a safe, diversified and secure food supply for Singapore, SFA launched the 30 by 30 Express grant call to support the growth of local agri-food enterprises and accelerate the ramp up in local food production.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s10.jpg" alt="photo of rooftop farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of tender for HDB MSCP rooftop farming sites</h2>
+            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB MSCP rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s11.jpg" alt="SG Fresh Produce Logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of SG Fresh Produce logo</h2>
+            <p>The SG Fresh Produce logo was introduced in June 2020 to help consumers easily identify local produce. Over 2,000 members of the public, local farmers, retailers and industry associations participated in the co-creation process of the logo, which was part of efforts to increase consumer awareness of local produce.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+	    
 	    <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1746,56 +1798,7 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
 	    
 	    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s9.jpg" alt="singapore food story">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of 2020: Singapore Food Story campaign</h2>
-            <p>The Singapore Food Story was launched amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply. To ensure a safe, diversified and secure food supply for Singapore, SFA launched the 30 by 30 Express grant call to support the growth of local agri-food enterprises and accelerate the ramp up in local food production.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s10.jpg" alt="photo of rooftop farm">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of tender for HDB MSCP rooftop farming sites</h2>
-            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB MSCP rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s11.jpg" alt="SG Fresh Produce Logo">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of SG Fresh Produce logo</h2>
-            <p>The SG Fresh Produce logo was introduced in June 2020 to help consumers easily identify local produce. Over 2,000 members of the public, local farmers, retailers and industry associations participated in the co-creation process of the logo, which was part of efforts to increase consumer awareness of local produce.</p>
-          </div>
-        </div>
-      </div>	
+
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
