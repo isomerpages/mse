@@ -1177,11 +1177,29 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Launch of Singapore's First ABC Waters Project</h2>
+              <h2>Opening of Singapore's First ABC Waters Project</h2>
             <p>Kolam Ayer ABC Waterfront, the first project launched under the Active, Beautiful, Clean (ABC) Waters Programme, was officially opened to the public on 5 April 2008. The aim of the ABC Waters Programme was to transform waterways and reservoirs in Singapore beyond their basic drainage and water storage functions, to allow these spaces to be used for community bonding and recreation.</p>
           </div>
         </div>
       </div>	    
+	
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm2.jpg" alt="Singapore International Water Week">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Creation of Singapore International Water Week</h2>
+            <p>The Singapore International Water Week (SIWW) is a global premier platform to share and co-create innovative water solutions. The biennial event gathers stakeholders from the global water industry to share best practices, showcase the latest technologies and tap business opportunities. SIWW is part of the strategic programme of the Singapore Government to grow the water industry and develop water technologies.</p>
+          </div>
+        </div>
+      </div>	    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
