@@ -1458,6 +1458,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>	
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s8.jpg" alt="SFA logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Formation of SFA</h2>
+            <p>The Singapore Food Agency (SFA) was formed on 1 April 2019 to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety. The ambitious 30 by 30 goal to produce 30 per cent of Singapore’s nutritional needs by 2030 was also established this year. </p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1471,11 +1489,12 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Year Towards Zero Waste</h2>
-            <p>Singapore has designated 2019 as the Year Towards Zero Waste. On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched.
-On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched.</p>
+            <p>Singapore has designated 2019 as the Year Towards Zero Waste. On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched. </p>
           </div>
         </div>
       </div>	
+
+		    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1511,40 +1530,8 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
         </div>
       </div>
 
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s7.jpg" alt="photo of farm in singapore">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2019</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Establishing the “30 by 30 goal” and launch of Singapore Food Story R&D Programme</h2>
-            <p>The ambitious 30 by 30 goal to produce 30 per cent of Singapore’s nutritional needs by 2030 was established this year. The Singapore Food Story (SFS) R&D Programme was also launched with A*STAR to develop the local agri-tech R&D ecosystem and sustainable urban food solutions to support Singapore’s 30 by 30 goal.</p>
-          </div>
-        </div>
-      </div>		    
 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s8.jpg" alt="SFA logo">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2019</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Formation of SFA</h2>
-            <p>The Singapore Food Agency (SFA) was formed to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety.</p>
-          </div>
-        </div>
-      </div>		    
-	    
+
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1665,6 +1652,59 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
         </div>
       </div>
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s12.jpg" alt="photo of citizens' workgroup on local produce">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>First Citizens’ Workgroup to increase consumer demand for local produce</h2>
+            <p>To increase consumer demand for local produce, and as part of the SG Together movement, MSE and SFA convened a Citizen’s Workgroup in July 2020 to co-create and co-deliver solutions to encourage greater support for local produce. Several recommendations are currently being piloted.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s13.jpg" alt="lim chu kang masterplan">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>The Lim Chu Kang Masterplan</h2>
+            <p>SFA announced plans to embark on an exercise to master plan the Lim Chu Kang area into a high-tech agri-food zone that can raise food production in a sustainable and resource-efficient manner. As part of the master planning exercise, a six-month series of engagements were conducted in 2021  for stakeholders to identify and discuss ideas to co-create the future of the Lim Chu Kang region and redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all. The ideas from these engagements will be folded into the planning phase of the master planning exercise.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s14.jpg" alt="photo of novel food">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>World’s first regulatory approval for cultured meat</h2>
+            <p>To ensure the safety of novel food, SFA developed a novel food regulatory framework, which requires novel food products to be put through a pre-market safety assessment before they are allowed for sale. In Dec 2020, SFA became the first food safety authority in the world to allow a novel food product to be sold, following scientific assessment and food safety laboratory tests.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1788,68 +1828,7 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
 	    
 
 	    
-
 	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s12.jpg" alt="photo of citizens' workgroup on local produce">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>First Citizens’ Workgroup to increase consumer demand for local produce</h2>
-            <p>To increase consumer demand for local produce, and as part of the SG Together movement, MSE and SFA convened a Citizen’s Workgroup in July 2020 to co-create and co-deliver solutions to encourage greater support for local produce. Several recommendations are currently being piloted.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s13.jpg" alt="lim chu kang masterplan">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>The Lim Chu Kang Masterplan</h2>
-            <p>SFA announced plans to embark on an exercise to master plan the Lim Chu Kang area into a high-tech agri-food zone that can raise food production in a sustainable and resource-efficient manner. As part of the master planning exercise, a six-month series of engagements were conducted in 2021  for stakeholders to identify and discuss ideas to co-create the future of the Lim Chu Kang region and redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all. The ideas from these engagements will be folded into the planning phase of the master planning exercise.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s14.jpg" alt="photo of novel food">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>World’s first regulatory approval for cultured meat</h2>
-            <p>To ensure the safety of novel food, SFA developed a novel food regulatory framework, which requires novel food products to be put through a pre-market safety assessment before they are allowed for sale. In Dec 2020, SFA became the first food safety authority in the world to allow a novel food product to be sold, following scientific assessment and food safety laboratory tests.</p>
-          </div>
-        </div>
-      </div>		    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
