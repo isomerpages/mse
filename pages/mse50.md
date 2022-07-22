@@ -10,7 +10,7 @@ STYLING FOR INTRO
 --------------------------------------------------------------*/
  
 .img-icon {
- max-width: 60% !important;
+ max-width: 90% !important;
 margin-top: 10px !important;
 }
 
