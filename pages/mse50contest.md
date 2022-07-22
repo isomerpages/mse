@@ -45,3 +45,9 @@ There are 3 ways you can participate in this contest:
 </ul>
 
 <h1>Terms and Conditions</h1>
+
+
+
+
+
+<em>Photo Credits: National Archives of Singapore</em>
