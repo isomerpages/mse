@@ -626,7 +626,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 <p></p>
 
 <p><strong>#50YearsOfSustainability - Crowdsourcing for your environment stories</strong></p>
-<p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences with us and stand to win limited edition prizes! </p>
+<p>Got a story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences with us and stand to win limited edition prizes! </p>
 
 <a href="/mse50contest"><img src="images/mse50/UGCWebBanner.png" class="img-icon" alt="web banner"></a>
  
