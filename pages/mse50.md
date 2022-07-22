@@ -621,7 +621,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 <p><strong>I Remember - an MSE50 Short Film</strong></p>
 <p>Take a trip down memory lane in this short film as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
 
-<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" width="100%" height="30%" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><strong>#50YearsOfSustainability - Crowdsourcing for your environment stories</strong></p>
 <p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences with us and stand to win limited edition prizes! </p>
@@ -636,14 +636,10 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	
 <p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
 
-<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" width="100%" height="30%" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <hr> 
-
-  
-
-
 
 
 
