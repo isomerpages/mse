@@ -39,14 +39,18 @@ Limited Edition MSE50 Stamps or Good Morning meme T-shirt
 There are 3 ways you can participate in this contest:
 
 <ul>
-  <li>Submit your stories through this form </li>
-<li>Submit your stories on your personal Facebook, Instagram or Tiktok account using the hashtag <b>#50YearsOfSustainability</b> (make sure your profile is public so we can find you)</li>
-<li>Submit your stories on MSE’s Facebook or Instagram page by commenting under our contest post, for example: XXX </li>
+  <li>Submit your stories through <a href="#">contest form</a></li>
+<li>Submit your stories on your personal Facebook, Instagram or Tiktok account using the hashtag <b>#50YearsOfSustainability</b> (make sure your profile is made public so we can find you)</li>
+  <li>Submit your stories on MSE’s <a href="www.facebook.com/msesingapore">Facebook</a> or <a href="www.instagram.com/msesingapore">Instagram</a> page by commenting under our contest post, for example: XXX </li>
 </ul>
 
 <h1>Terms and Conditions</h1>
 
-
+<ul>
+  <ol>TBC</ol>
+  <ol>TBC</ol>
+  <ol>TBC</ol>
+</ul>
 
 
 
