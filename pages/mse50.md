@@ -567,7 +567,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 </style>
 
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo"><br>
-<p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b>
+<p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b></p>
 <br><br>
 Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.
 <br><br>	
@@ -590,17 +590,17 @@ We look forward to celebrating not only with past and present staff but also wit
 <h1>Videos</h1>
 
 <center>
-<strong>I Remember - MSE's 50th anniversary short film</strong>
+<p><strong>I Remember - MSE's 50th anniversary short film</strong><p>
 
-Take a trip down memory lane as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.
+<p>Take a trip down memory lane as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
 
-<iframe width="620" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="620" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<strong>MSE50 Officers Feature</strong>
+<p><strong>MSE50 Officers Feature</strong></p>
 	
-Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. 
+<p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
 
-<iframe width="620" height="315" src="https://www.youtube.com/watch?v=lb9QPUAdCBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="620" height="315" src="https://www.youtube.com/embed/lb9QPUAdCBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <hr> 
@@ -609,16 +609,15 @@ Our achievements over the last 50 years would not be possible without the many u
 
 <h1>Our milestones</h1>
 
-
-<p>The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
+<p>Take a look back in time as we trace our environmental milestones over the past five decades.</p>
 <div class="row">
  <div class="column">
- <img src="images/mse50/milestones.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore<br></p>
+ <img src="images/mse50/m4.jpg" class="img-icon" alt="MSE50"><br>
+  <p class="icon-desc">Singapore River Clean Up<br></p>
  </div>
  <div class="column">
- <img src="images/mse50/people.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Pay tribute to people who have contributed to  these environmental milestones<br></p>
+ <img src="images/mse50/m9.jpg" class="img-icon" alt="MSE50"><br>
+  <p class="icon-desc">Re-siting of Street Hawkers<br></p>
  </div>
  <div class="column">
  <img src="images/mse50/partners.png" class="img-icon" alt="MSE50"><br>
@@ -629,11 +628,15 @@ Our achievements over the last 50 years would not be possible without the many u
 
 <div>
 <center>
-	  <a class="button" href="/mse50milestones" target="_blank">More milestones here!</a>
+	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>&nbsp;
 </center>
 </div>
 
 
+<hr> 
+
+<h1>Our stories</h1>
+<p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences in the comments section below and stand to win a limited edition MSE50 stamp set and a Good Morning meme T-shirt! </p>
 
 
 
