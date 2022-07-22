@@ -1,5 +1,5 @@
 ---
-title: MSE50 — Building a Green and Resilient Singapore
+title: MSE 50th Anniversary
 permalink: /mse50
 ---
 
@@ -586,24 +586,6 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
   
   <hr> 
   
-<h1>Videos</h1>
-
-<p><strong>I Remember - MSE's 50th anniversary short film</strong><p>
-
-<p>Take a trip down memory lane as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
-
-<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p><strong>MSE50 Officers Feature</strong></p>
-	
-<p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
-
-<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<hr> 
-
-  
 
 <h1>Our milestones</h1>
 
@@ -628,15 +610,42 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 <center>
 	  <a class="button" href="/mse50milestones" target="_blank">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;
 </center>
-</div>
+</div>  
+  
+ 
+ <hr>
+
+
+<h1>Our stories</h1>
+
+<p><strong>I Remember - MSE's 50th anniversary short film</strong><p>
+
+<p>Take a trip down memory lane as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
+
+<p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences in the comments section below and stand to win a limited edition MSE50 stamp set and a Good Morning meme T-shirt! </p>
+  
+  
+  
+<h1>Our People</h1>
+
+<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><strong>MSE50 Officers Feature</strong></p>
+	
+<p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
+
+<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <hr> 
 
-<h1>Our stories</h1>
-<p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences in the comments section below and stand to win a limited edition MSE50 stamp set and a Good Morning meme T-shirt! </p>
+  
 
 
+
+
+
+<!--
 
 <h1>Our People</h1>
 
@@ -685,7 +694,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
     </div>
 </div>
 
-	
+-->	
 	
 <!-- container end dic -->
 
