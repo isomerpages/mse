@@ -162,6 +162,14 @@ permalink: /climate-action-week/
 
 <a href="/resources/CAW2022.pdf"><img src="/images/cawbanner2022.jpg" alt="climate action week"></a>
 
-More information about this year's Climate Action Week will be released soon. Find out what happened at last year's Climate Action Week [here](/climate-action-week-2021/).
 
+Climate Action Week is MSE's annual event to sustain the momentum for climate action in Singapore, by catalysing and profiling the organisation of climate-change themed events led by partners in the 3P sectors.
+
+This year, Climate Action Week will take place from 19 to 25 September 2022. 
+
+We invite you to join us in encouraging fellow Singaporeans and residents of Singapore to take action or be a changemaker in the community to collectively achieve our net zero aspirations. 
+
+If you would like to organise an activity during this week, please refer to the [Partners Package](/resources/CAW2022.pdf) for more information. 
+
+You can also find out what happened at last year's Climate Action Week [here](/climate-action-week-2021/).
 
