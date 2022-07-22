@@ -1909,10 +1909,28 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Singapore Aquaculture Plan</h2>
-            <p>SFA announced plans to uplift the aquaculture industry through the Singapore Aquaculture Plan. These include unlocking new spaces through new sea space tenders and longer leases; supporting the aquaculture sector to transform into one that is highly productive, climate-resilient and resource-efficient through the use of technology and adopting appropriate farm management methods, including conducting environmental surveys and water and seabed quality surveys to better inform farm management and supporting research and innovation for sustainable tropical marine aquaculture through leveraging SFA’s Marine Aquaculture Centre</p>
+            <p>SFA announced plans to uplift the aquaculture industry through the Singapore Aquaculture Plan. These include unlocking new spaces through new sea space tenders and longer leases; supporting the aquaculture sector to transform into one that is highly productive, climate-resilient and resource-efficient through the use of technology and adopting appropriate farm management methods, including conducting environmental surveys and water and seabed quality surveys to better inform farm management and supporting research and innovation for sustainable tropical marine aquaculture through leveraging SFA’s Marine Aquaculture Centre.</p>
           </div>
         </div>
       </div>	
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/nasml/titlebar.png" alt="nasml">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2022</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of National Action Strategy on Marine Litter</h2>
+            <p>On 5 June 2022, Singapore launched its first National Action Strategy on Marine Litter, which outlines Singapore’s commitment and measures to address both land-based and sea-based sources of marine litter.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1932,24 +1950,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
       </div>	    
 	    
 
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	   
-
-
-
+<p><em>Photo Credits: National Archives of Singapore, National Environment Agency, PUB, the national water agency and Singapore Food Agency</em></p>
 
 
 	
