@@ -597,7 +597,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
  </div>
  <div class="column">
  <img src="images/mse50/m9.jpg" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Re-siting of Street Hawkers<br></p>
+  <p class="icon-desc">Street Hawkers Resettlement<br></p>
  </div>
  <div class="column">
  <img src="images/mse50/m12.jpg" class="img-icon" alt="MSE50"><br>
@@ -608,7 +608,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 <div>
 <center>
-	  <a class="button" href="/mse50milestones" target="_blank">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;
+	  <a class="button" href="/mse50milestones">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;
 </center>
 </div>  
   
@@ -618,23 +618,19 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 <h1>Our stories</h1>
 
-<p><strong>I Remember - MSE's 50th anniversary short film</strong><p>
+<p>Take a trip down memory lane in this short film as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
 
-<p>Take a trip down memory lane as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
+<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" width="100%" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences in the comments section below and stand to win a limited edition MSE50 stamp set and a Good Morning meme T-shirt! </p>
   
   
   
 <h1>Our People</h1>
-
-<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p><strong>MSE50 Officers Feature</strong></p>
 	
 <p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
 
-<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" width="600" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <hr> 
