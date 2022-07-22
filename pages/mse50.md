@@ -624,7 +624,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 <iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" width="100%" height="30%" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><strong>#50YearsOfSustainability - Crowdsourcing for your environment stories</strong></p>
-<p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences in the comments section below and stand to win a limited edition MSE50 stamp set and a Good Morning meme T-shirt! </p>
+<p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences with us and stand to win limited edition prizes! </p>
   
  
 <div>
