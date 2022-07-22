@@ -568,15 +568,14 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo"><br>
 <p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b></p>
-<br><br>
-Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.
-<br><br>	
-Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.
-<br><br>
-The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore.
-<br><br>
-We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.
-<br><br>
+
+<p>Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.</p>
+
+<p>Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.</p>
+
+<p>The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones  and renew our commitment to build a green and resilient Singapore.</p>
+
+<p>We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.</p>
 
 	
 <div>
@@ -589,19 +588,18 @@ We look forward to celebrating not only with past and present staff but also wit
   
 <h1>Videos</h1>
 
-<center>
 <p><strong>I Remember - MSE's 50th anniversary short film</strong><p>
 
 <p>Take a trip down memory lane as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
 
-<iframe width="620" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><strong>MSE50 Officers Feature</strong></p>
 	
 <p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
 
-<iframe width="620" height="315" src="https://www.youtube.com/embed/lb9QPUAdCBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <hr> 
 
