@@ -1949,6 +1949,8 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>	    
 
+
+	</div></div></div>
 	    
 <div>
 <p><em>Photo Credits: National Archives of Singapore, National Environment Agency, PUB, the national water agency and Singapore Food Agency</em></p>
