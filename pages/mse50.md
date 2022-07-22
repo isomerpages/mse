@@ -618,15 +618,15 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
   <p class="icon-desc">Re-siting of Street Hawkers<br></p>
  </div>
  <div class="column">
- <img src="images/mse50/partners.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners<br></p>
+ <img src="images/mse50/m12.jpg" class="img-icon" alt="MSE50"><br>
+  <p class="icon-desc">Phasing out of night-soil bucket<br></p>
  </div>
 </div>
 
 
 <div>
 <center>
-	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>&nbsp;
+	  <a class="button" href="/mse50milestones" target="_blank">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;
 </center>
 </div>
 
