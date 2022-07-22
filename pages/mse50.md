@@ -577,8 +577,8 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
 <br><br>
 We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.
 <br><br>
-Stay tuned for more details!</p>
 
+	
 <div>
 <center>
 	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>&nbsp;
@@ -592,8 +592,8 @@ Stay tuned for more details!</p>
 
 
   
-  
-<!--
+
+
 The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
 <div class="row">
  <div class="column">
@@ -739,7 +739,8 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
         </a>
     </div>
 </div>
--->
+
+	
 	
 <!-- container end dic -->
 
