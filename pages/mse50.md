@@ -585,11 +585,26 @@ We look forward to celebrating not only with past and present staff but also wit
 </center>
 </div>
   
+  <hr> 
   
-<h1>MSE50 Short Film - I Remember</h1>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1>Videos</h1>
+
+<center>
+**I Remember - MSE's 50th anniversary short film**
+
+Take a trip down memory lane as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.
+
+<iframe width="620" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**MSE50 Officers Feature**
+	
+Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. 
+
+<iframe width="620" height="315" src="[https://www.youtube.com/embed/ksnmTNMwvhM](https://www.youtube.com/watch?v=lb9QPUAdCBo)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 
+  <hr> 
 
   
 
@@ -611,83 +626,7 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
 </div>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<h1>Our Journey</h1>
-
-<div class="container">
-    <div class="timeline clearfix">
-    <div class="vertical-line">
-      <div id="post-1" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980005056-8073-3222-4844/img0114.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1972</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-                <h2>Formation of Ministry of Environment</h2>
-            <p>On 16 September 1972, the Ministry of the Environment (ENV), to tackle issues such as pollution control, sewerage, drainage and environmental health.</p>
-                <h2>Drafting of Singapore Water Master Plan</h2>
-            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
-          </div>
-          </div>
-        </div>
-      </div>
-      <div id="post-2" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://d33wubrfki0l68.cloudfront.net/6eb7e39110590bf5fb8204ecccec7b7014025679/a98b6/images/ch1_ulu_pandan_ip.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1979</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Opening of Singapore's First Incineration Plant</h2>
-            <p>On 30 July 1979, Singapore's and Southeast Asia's first incinerator plant, Ulu Pandan Incineration Plant, started operations.</p>
-          </div>
-        </div>
-      </div>
-      <div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1982</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>
-      <div id="post-4" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19990007092-0004-3012-0348/img047.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1987</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Completion of the Singapore River Clean-Up</h2>
-            <p>The clean-up was officially declared complete on 2 September 1987. As part of the Clean Rivers Commemoration Celebration, a five-day carnival was held at Marina Bay.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
 
 
