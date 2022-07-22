@@ -590,26 +590,27 @@ We look forward to celebrating not only with past and present staff but also wit
 <h1>Videos</h1>
 
 <center>
-**I Remember - MSE's 50th anniversary short film**
+<strong>I Remember - MSE's 50th anniversary short film</strong>
 
 Take a trip down memory lane as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.
 
 <iframe width="620" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**MSE50 Officers Feature**
+<strong>MSE50 Officers Feature</strong>
 	
 Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. 
 
-<iframe width="620" height="315" src="[https://www.youtube.com/embed/ksnmTNMwvhM](https://www.youtube.com/watch?v=lb9QPUAdCBo)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="620" height="315" src="https://www.youtube.com/watch?v=lb9QPUAdCBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-
-  <hr> 
+<hr> 
 
   
 
+<h1>Our milestones</h1>
 
-The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
+
+<p>The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
 <div class="row">
  <div class="column">
  <img src="images/mse50/milestones.png" class="img-icon" alt="MSE50"><br>
@@ -626,7 +627,11 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
 </div>
 
 
-
+<div>
+<center>
+	  <a class="button" href="/mse50milestones" target="_blank">More milestones here!</a>
+</center>
+</div>
 
 
 
