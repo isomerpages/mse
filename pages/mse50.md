@@ -586,7 +586,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
   
   <hr> 
   
-
+<!--
 <h1>Our milestones</h1>
 
 <p>Take a look back in time as we trace our environmental milestones over the past five decades.</p>
@@ -616,6 +616,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
  <hr>
 
 
+
 <h1>Our stories</h1>
 
 <p><strong>I Remember - an MSE50 Short Film</strong></p>
@@ -635,6 +636,8 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	  <a class="button" href="/mse50contest">Join Now!</a>&nbsp; </center>
 </div>   
   
+-->
+
 <h1>Our People</h1>
 	
 <p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
