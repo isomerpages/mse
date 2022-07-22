@@ -623,6 +623,8 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 <iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p></p>
+
 <p><strong>#50YearsOfSustainability - Crowdsourcing for your environment stories</strong></p>
 <p>Got your own story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences with us and stand to win limited edition prizes! </p>
 
