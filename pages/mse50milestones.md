@@ -1578,7 +1578,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Launch of tender for HDB MSCP rooftop farming sites</h2>
-            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB's muli-storey car park (MSCP) rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
+            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB's multi-storey car park (MSCP) rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
           </div>
         </div>
       </div>		    
