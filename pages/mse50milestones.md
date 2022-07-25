@@ -601,7 +601,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
               <h2>Drafting of Singapore's Water and Sewerage Master Plans</h2>
-            <p>The Sewerage Masterplan was first formulated in 1972, kicking off the development of Singapore's sewerage infrastructure. In the same year, Singapore's first Water Master Plan was also drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
+            <p>Singapore's first Water Master Plan was drawn up in 1972. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements. In the same year, the Sewerage Master Plan was also formulated, kicking off the development of Singapore's sewerage infrastructure.</p>
           </div>
         </div>
       </div>
@@ -1230,7 +1230,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Commencement of Singapore World Water Day</h2>
-            <p>Singapore World Water Day (SWWD) started in 2008 and has grown to be. celebrated across the island throughout the month of March as a platform to encourage initiatives by the community for the community to celebrate water, appreciate water and raise awareness on water conservation</p>
+            <p>Singapore World Water Day (SWWD) started in 2008 and has grown to be celebrated across the island throughout the month of March as a platform to encourage initiatives by the community for the community to celebrate water, appreciate water and raise awareness on water conservation.</p>
           </div>
         </div>
       </div>		    
@@ -1248,7 +1248,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Opening of Marina Barrage</h2>
-            <p>Officially opened on 31 October 2008, Marina Barrage (MB) was Singapore’s 15th reservoir, and the first in the heart of the city. With a catchment area of 10,000 hectares, Marina catchment is the island’s largest and most urbanised catchment. Together with two other reservoirs, Marina Reservoir has increased Singapore’s water catchment from half to two-thirds of the country’s land area.</p>
+            <p>Officially opened on 31 October 2008, Marina Barrage was Singapore’s 15th reservoir, and the first in the heart of the city. With a catchment area of 10,000 hectares, Marina catchment is the island’s largest and most urbanised catchment. Together with two other reservoirs, Marina Reservoir has increased Singapore’s water catchment from half to two-thirds of the country’s land area.</p>
           </div>
         </div>
       </div>		    
