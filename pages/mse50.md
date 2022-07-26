@@ -586,7 +586,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
   
   <hr> 
   
-<!--
+
 <h1>Our milestones</h1>
 
 <p>Take a look back in time as we trace our environmental milestones over the past five decades.</p>
@@ -636,7 +636,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	  <a class="button" href="/mse50contest">Join Now!</a>&nbsp; </center>
 </div>   
   
--->
+
 
 <h1>Our People</h1>
 	
