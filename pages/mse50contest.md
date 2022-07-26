@@ -32,18 +32,18 @@ permalink: /mse50contest
 
  <h1>How to Participate</h1>
 
-Submit your stories/photos on MSE’s <a href="http://www.facebook.com/msesingapore">Facebook</a> or <a href="http://www.instagram.com/msesingapore">Instagram</a> page by commenting under any of our contest posts which are pinned to the top of the page. In your comment, please include the hashtag #50YearsOfSustainability and tag two friends. 
+Submit your stories/photos on MSE’s <a href="http://www.facebook.com/msesingapore">Facebook</a> or <a href="http://www.instagram.com/msesingapore">Instagram</a> page by commenting under any of our contest posts which are pinned to the top of the page. In your comment, please include the hashtag <strong>#50YearsOfSustainability</strong> and tag two friends. 
 
-For submisions via Tiktok, please include the hashtag #50YearsOfSustainability in your video.
+For submisions via Tiktok, please include the hashtag <strong>#50YearsOfSustainability</strong> in your video.
   
 <h1>Prizes</h1>
-30 participants who provide the most detailed and interesting stories will be selected as winners, and will receive a limited edition MSE50 stamp set and Good Morning meme shirt each. (12 winners will be choosen from Facebook and Instagram entries and 6 from Tiktok entries.)
+30 participants who provide the most detailed and interesting stories will be selected as winners, and will receive a limited edition MSE50 stamp set and Good Morning meme shirt each. (12 winners will each be choosen from Facebook and Instagram entries and 6 from Tiktok entries.)
 <img src="/images/mse50/c4.jpg" alt="prizes">
 
 
 <h1>Terms and Conditions</h1>
 
-<a href="/images/mse50/msetnc.pdf">Read the fine print here </a>
+<a href="/images/mse50/msetnc.pdf">Read the fine print here.</a>
 
 
 <p><em>Photo Credits: National Archives of Singapore</em></p>
