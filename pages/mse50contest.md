@@ -37,13 +37,13 @@ Submit your stories/photos on MSE’s <a href="www.facebook.com/msesingapore">Fa
 For submisions via Tiktok, please include the hashtag #50YearsOfSustainability in your video.
   
 <h1>Prizes</h1>
-30 participants who provide the most detailed and interesting stories will be selected as winners, and will receive a limited edition MSE50 stamp set and Good Morning meme shirt each. (12 winners will be choosen from Facebook and Instagram entries and 6 from Tiktok entries)
+30 participants who provide the most detailed and interesting stories will be selected as winners, and will receive a limited edition MSE50 stamp set and Good Morning meme shirt each. (12 winners will be choosen from Facebook and Instagram entries and 6 from Tiktok entries.)
 <img src="/images/mse50/c4.jpg" alt="prizes">
 
 
 <h1>Terms and Conditions</h1>
 
-[Download](/images/mse50/msetnc.pdf)
+<a href="/images/mse50/msetnc.pdf">Read the fine print here </a>
 
 
-<em>Photo Credits: National Archives of Singapore</em>
+<p><em>Photo Credits: National Archives of Singapore</em></p>
