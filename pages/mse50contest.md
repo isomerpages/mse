@@ -32,7 +32,7 @@ permalink: /mse50contest
 
  <h1>How to Participate</h1>
 
-Submit your stories/photos on MSE’s <a href="www.facebook.com/msesingapore">Facebook</a> or <a href="www.instagram.com/msesingapore">Instagram</a> page by commenting under any of our contest posts which are pinned to the top of the page. In your comment, please include the hashtag #50YearsOfSustainability and tag two friends. 
+Submit your stories/photos on MSE’s <a href="http://www.facebook.com/msesingapore">Facebook</a> or <a href="http://www.instagram.com/msesingapore">Instagram</a> page by commenting under any of our contest posts which are pinned to the top of the page. In your comment, please include the hashtag #50YearsOfSustainability and tag two friends. 
 
 For submisions via Tiktok, please include the hashtag #50YearsOfSustainability in your video.
   
