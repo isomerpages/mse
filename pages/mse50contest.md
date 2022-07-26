@@ -28,7 +28,7 @@ permalink: /mse50contest
 
 <p><strong>Do you have stories about what Singapore’s environment was like in the past, like the ones above? We want to hear all about it! </strong></p>
 
-<p><strong>Share your experiences of Singapore's environmental progress over the years and stand to win some limited edition goodies! It’s a bonus if you submit your personal photos too! </strong></p>
+<p><strong>Share your experiences of Singapore's environmental progress over the years and stand to win some limited edition goodies! You get an added chance of winning if you submit your old photos from the past too!
 
 <h1>Prizes</h1>
 Limited Edition MSE50 Stampset and Good Morning meme T-shirt 
@@ -36,13 +36,9 @@ Limited Edition MSE50 Stampset and Good Morning meme T-shirt
 
 <h1>How to Participate</h1>
 
-There are 3 ways you can participate in this contest:
+Submit your stories on MSE’s <a href="www.facebook.com/msesingapore">Facebook</a> or <a href="www.instagram.com/msesingapore">Instagram</a> page by commenting under any of our contest posts which are pinned to the top of the page. In your entry, please hashtag #50YearsOfSustainability and tag 2 friends. 
 
-<ul>
-
-<li>Submit your stories on MSE’s <a href="www.facebook.com/msesingapore">Facebook</a> or <a href="www.instagram.com/msesingapore">Instagram</a> page by commenting under our contest post, for example: XXX </li>
-<li>*For MSE Family only* Submit your stories through <a href="https://form.gov.sg/62ddefa891bac10012f9d04e">contest form</a></li>
-</ul>
+Twelve (12) participants who provide the most detailed and interesting stories will be selected as winners, and will receive a limited edition MSE50 stamp set and Good Morning meme shirt each.
 
 
 
