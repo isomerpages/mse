@@ -26,12 +26,12 @@ permalink: /mse50contest
 
 <hr>
 
-<p><strong>Do you have stories about Singapore’s environment in the past, like the ones above? We want to hear all about it! </strong></p>
+<p><strong>Do you have stories about what Singapore’s environment was like in the past, like the ones above? We want to hear all about it! </strong></p>
 
-<p><strong>Share your stories with us and stand to win some limited edition goodies! It’s a bonus if you have photos! </strong></p>
+<p><strong>Share your experiences of Singapore's environmental progress over the years and stand to win some limited edition goodies! It’s a bonus if you submit your personal photos too! </strong></p>
 
 <h1>Prizes</h1>
-Limited Edition MSE50 Stamps or Good Morning meme T-shirt 
+Limited Edition MSE50 Stampset and Good Morning meme T-shirt 
 <img src="/images/mse50/c4.jpg" alt="prizes" width="80%">
 
 <h1>How to Participate</h1>
@@ -39,19 +39,17 @@ Limited Edition MSE50 Stamps or Good Morning meme T-shirt
 There are 3 ways you can participate in this contest:
 
 <ul>
-  <li>Submit your stories through <a href="https://form.gov.sg/62ddefa891bac10012f9d04e">contest form</a></li>
+  <li>[For MSE Family only] Submit your stories through <a href="https://form.gov.sg/62ddefa891bac10012f9d04e">contest form</a></li>
 <li>Submit your stories on your personal Facebook, Instagram or Tiktok account using the hashtag <b>#50YearsOfSustainability</b> (make sure your profile is made public so we can find you)</li>
   <li>Submit your stories on MSE’s <a href="www.facebook.com/msesingapore">Facebook</a> or <a href="www.instagram.com/msesingapore">Instagram</a> page by commenting under our contest post, for example: XXX </li>
 </ul>
 
+
+
+
 <h1>Terms and Conditions</h1>
 
-<ul>
-  <ol>TBC</ol>
-  <ol>TBC</ol>
-  <ol>TBC</ol>
-</ul>
-
+[#](Download)
 
 
 <em>Photo Credits: National Archives of Singapore</em>
