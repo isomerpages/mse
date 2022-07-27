@@ -999,7 +999,7 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m21.jpg">
+            <img src="../images/mse50/m21.jpg" alt="nea logo">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2002</span>
@@ -1016,7 +1016,7 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/newater.jpg">
+            <img src="../images/mse50/newater.jpg" alt="newater">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2002</span>
@@ -1102,7 +1102,7 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m24.jpg">
+            <img src="../images/mse50/m24.jpg" alt="Public Sector Taking the Lead">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2006</span>
@@ -1551,7 +1551,7 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m38.jpg" alt="">
+            <img src="../images/mse50/m38.jpg" alt="Climate Action Week">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2019</span>
@@ -2029,19 +2029,3 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
 
 	
 <!-- container end dic -->
-
-
-
-
-
-	    
-	    
-
-	    
-	    
-
-	    
-	    
-
-
-
