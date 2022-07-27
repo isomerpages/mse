@@ -712,8 +712,8 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Eat Frozen Pork’ Campaign</h2>
-            <p>In the lead-up to the complete phasing-out of pig farming in Singapore, the “Eat Frozen Pork Campaign” debuted in 1985 to dispel common misconceptions on frozen pork and raise public awareness of the production, handling, quality and nutritional value of frozen pork. </p>
+              <h2>Eat 'Frozen Pork’ Campaign</h2>
+            <p>In the lead-up to the complete phasing-out of pig farming in Singapore, the “Eat Frozen Pork Campaign” debuted in 1985 to dispel common misconceptions of frozen pork and raise public awareness of the production, handling, quality and nutritional value of frozen pork. </p>
           </div>
         </div>
       </div>
@@ -797,7 +797,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Opening of Agrotechnology Parks in Lim Chu Kang and Loyang</h2>
-            <p>Agricultural land continued to decline in the 1980s due to urbanisation. To maintain a degree of self-sufficiency and to maximise land productivity, PPD consolidated farming in Agrotechnology Parks. Mechanised and automated farm systems were promoted, boosting productivity in a tightening labour market.</p>
+            <p>Agricultural land continued to decline in the 1980s due to urbanisation. To maintain a degree of self-sufficiency and to maximise land productivity, the Primary Production Department (PPD) consolidated farming in Agrotechnology Parks. Mechanised and automated farm systems were promoted, boosting productivity in a tightening labour market.</p>
           </div>
         </div>
       </div>	
@@ -1471,7 +1471,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Formation of SFA</h2>
-            <p>The Singapore Food Agency (SFA) was formed on 1 April 2019 to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety. The ambitious 30 by 30 goal to produce 30 per cent of Singapore’s nutritional needs by 2030 was also established this year. </p>
+            <p>The Singapore Food Agency (SFA) was formed on 1 April 2019 to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety. The ambitious 30 by 30 goal to locally produce 30 per cent of Singapore’s nutritional needs by 2030 was also established this year. </p>
           </div>
         </div>
       </div>		    
@@ -1753,7 +1753,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Launch of FRESH</h2>
-            <p>The Future Ready Food Safety Hub (FRESH), a collaboration between Nanyang Technological University, the Singapore Food Agency, and A*STAR, was launched to build Singapore’s capabilities in food safety science. FRESH aims to drive food safety research under the Sisngapore Food Story R&D Programme. It is also tasked with helping build local food safety science capabilities in support of Singapore’s growing food innovation ecosystem.</p>
+            <p>The Future Ready Food Safety Hub (FRESH), a collaboration between Nanyang Technological University, the Singapore Food Agency, and A*STAR, was launched to build Singapore’s capabilities in food safety science. FRESH aims to drive food safety research under the Singapore Food Story R&D Programme. It is also tasked with helping build local food safety science capabilities in support of Singapore’s growing food innovation ecosystem.</p>
           </div>
         </div>
       </div>		    
@@ -1909,7 +1909,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Singapore Aquaculture Plan</h2>
-            <p>SFA announced plans to uplift the aquaculture industry through the Singapore Aquaculture Plan. These include unlocking new spaces through new sea space tenders and longer leases; supporting the aquaculture sector to transform into one that is highly productive, climate-resilient and resource-efficient through the use of technology and adopting appropriate farm management methods, including conducting environmental surveys and water and seabed quality surveys to better inform farm management and supporting research and innovation for sustainable tropical marine aquaculture through leveraging SFA’s Marine Aquaculture Centre.</p>
+            <p>SFA announced plans to uplift the aquaculture industry through the Singapore Aquaculture Plan. These include unlocking new spaces through new sea space tenders and longer leases; supporting the aquaculture sector to transform into one that is highly productive, climate-resilient and resource-efficient through the use of technology and adopting appropriate farm management methods, including conducting environmental surveys and water and seabed quality surveys to better inform farm management; and supporting research and innovation for sustainable tropical marine aquaculture through leveraging SFA’s Marine Aquaculture Centre.</p>
           </div>
         </div>
       </div>	
