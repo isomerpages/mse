@@ -1,5 +1,5 @@
 ---
-title:foodpanda's Green Label initiative launch - Dr Amy Khor
+title:Foodpanda Green Label initiative launch - Dr Amy Khor
 permalink:/resource-room/category/2022-7-26-speech-at-foodpanda-green-label-initiative-launch/
 image:
 file_url:
