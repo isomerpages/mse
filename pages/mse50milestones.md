@@ -1356,6 +1356,24 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
           </div>
         </div>
       </div>	
+
+	       <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n1.jpg" alt="CleanEnviro Summit Singapore logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2012</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>CleanEnviro Summit Singapore</h2>
+            <p>The CleanEnviro Summit Singapore was launched in 2012 as a global platform for leaders, senior government officials and policymakers, regulators and industry captains to identify, develop and share practical solutions to address environmental challenges for tomorrow’s cities.</p>
+          </div>
+        </div>
+      </div>	
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1373,6 +1391,23 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
           </div>
         </div>
       </div>	
+
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n2.jpg" alt="Project Wolbachia">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2016</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Project Wolbachia</h2>
+            <p>NEA launched Project Wolbachia in 2016, where male Aedes-aegypti mosquitoes infected with the Wolbachia bacteria were released at selected sites. When female Aedes mosquitoes which are not infected with the bacteria mate with the males, they produce eggs which do not hatch, thus reducing the population of Aedes-aegypti mosquitoes - the main vector of dengue here.</p>
+          </div>
+        </div>
+      </div>		    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1390,6 +1425,24 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
           </div>
         </div>
       </div>		    
+
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n3.jpg" alt="Environmental Services Industry Transformation Map">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2017</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Environmental Services Industry Transformation Map</h2>
+            <p>The Environmental Services Industry Transformation Map was launched in Dec 2017, containing strategies and initiatives to ensure a vibrant, sustainable and professional industry that will provide services and solutions to help achieve our Zero Waste vision and a clean and liveable Singapore.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1688,6 +1741,23 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
         </div>
       </div>
     
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n4.jpg" alt="heat map">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch Of Climate Science Research Programme Office </h2>
+            <p>NEA launched the Climate Science Research Programme Office (CSRPO) in Nov 2020, as part of efforts to strengthen climate science capabilities in Singapore to tackle the potential impact of climate change. The CSRPO is set up under the Centre for Climate Research Singapore (CCRS), the research division of NEA’s Meteorological Service Singapore (MSS).</p>
+          </div>
+        </div>
+      </div>
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1959,5 +2029,19 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
 
 	
 <!-- container end dic -->
+
+
+
+
+
+	    
+	    
+
+	    
+	    
+
+	    
+	    
+
 
 
