@@ -601,7 +601,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
               <h2>Drafting of Singapore's Water and Sewerage Master Plans</h2>
-            <p>The Sewerage Masterplan was first formulated in 1972, kicking off the development of Singapore's sewerage infrastructure. In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
+            <p>Singapore's first Water Master Plan was drawn up in 1972. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements. In the same year, the Sewerage Master Plan was also formulated, kicking off the development of Singapore's sewerage infrastructure.</p>
           </div>
         </div>
       </div>
@@ -712,8 +712,8 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Eat Frozen Pork’ Campaign</h2>
-            <p>In the lead-up to the complete phasing-out of pig farming in Singapore, the “Eat Frozen Pork Campaign” debuted in 1985 to dispel common misconceptions on frozen pork and raise public awareness of the production, handling, quality and nutritional value of frozen pork. Technical seminars were conducted to give traders and consumers a better understanding of the production, handling, quality and nutritional value of frozen pork. </p>
+              <h2>Eat 'Frozen Pork’ Campaign</h2>
+            <p>In the lead-up to the complete phasing-out of pig farming in Singapore, the “Eat Frozen Pork Campaign” debuted in 1985 to dispel common misconceptions of frozen pork and raise public awareness of the production, handling, quality and nutritional value of frozen pork. </p>
           </div>
         </div>
       </div>
@@ -729,7 +729,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
           </div>
           <div class="vesti-desc">
               <h2>Completion of Street Hawker Resettlement</h2>
-            <p>From 1968 to 1986, the Government licensed and resettled street hawkers into purpose-built hawker centres and markets with proper sanitation and amenities. By February 1986, the resettlement work was completed and 18,000 street hawkers were resited into newly built hawker centres.</p>
+            <p>From 1968 to 1986, the Government licensed and resettled street hawkers into purpose-built hawker centres and markets with proper sanitation and amenities. By February 1986, the resettlement work was completed and 18,000 street hawkers were re-sited into newly built hawker centres.</p>
           </div>
         </div>
       </div>
@@ -785,6 +785,23 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>	
 	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s1.jpg" alt="photo of egg farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">1989</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Opening of Agrotechnology Parks in Lim Chu Kang and Loyang</h2>
+            <p>Agricultural land continued to decline in the 1980s due to urbanisation. To maintain a degree of self-sufficiency and to maximise land productivity, the Primary Production Department (PPD) consolidated farming in Agrotechnology Parks. Mechanised and automated farm systems were promoted, boosting productivity in a tightening labour market.</p>
+          </div>
+        </div>
+      </div>	
+	    
 	    
 	      <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -798,7 +815,8 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Singapore's First Annual Clean and Green Week</h2>
-            <p>Launched on 4 November 1990, the Clean and Green Week was a campaign to create awareness among Singaporeans that everyone is responsible for the environment. It became a yearlong campaign in 2007 and was consequently renamed Clean and Green Singapore.</p>
+            <p>Launched on 4 November 1990, the Clean and Green Week was a campaign to create awareness among Singaporeans that everyone is responsible for the environment. The Captain Green mascot was also introduced during the same week to advocate for an environmentally friendly lifestyle.
+The Clean and Green Week became a year long campaign in 2007 and was consequently renamed Clean and Green Singapore.</p>
           </div>
         </div>
       </div>	 
@@ -852,7 +870,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Launch of Singapore's First Green Plan</h2>
-            <p>The Singapore Green Plan (SGP) is Singapore's first environmental blueprint. Released in May 1992 by ENV, its objective is to ensure that Singapore could develop an economic growth model that does not compromise its environment.</p>
+            <p>The Singapore Green Plan is Singapore's first environmental blueprint. Released in May 1992 by ENV, its objective is to ensure that Singapore could develop an economic growth model that does not compromise its environment.</p>
           </div>
         </div>
       </div>
@@ -870,7 +888,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Singapore Fully Served by Modern Sanitation</h2>
-            <p>By 1992, all of Singapore had access to modern sanitation. In comparison, just three decades ago when Singapore became independent in 1965, only 45% of the population had access to proper sanitation.</p>
+            <p>By 1997, all of Singapore had access to modern sanitation. In comparison, just 32 years ago when Singapore became independent in 1965, only 45% of the population had access to proper sanitation.</p>
           </div>
         </div>
       </div>
@@ -892,6 +910,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
         </div>
       </div>
 
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s2.jpg" alt="AVA logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2000</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Formation of Agri-Food & Veterinary Authority (AVA)</h2>
+            <p>PPD was restructured into a statutory board, the Agri-Food and Veterinary Authority (AVA) on 1 April 2000 to address the increasingly challenging task of maintaining Singapore’s high standards of food safety, as well as animal and plant health.</p>
+          </div>
+        </div>
+      </div>		    
+	    	    
+	    
 	    <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -925,11 +961,45 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s3.jpg" alt="photo of lab">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2002</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Addition of Food Control Division</h2>
+            <p>Formerly part of the Ministry of the Environment, the Food Control Division was moved to AVA. This allowed AVA to regulate the safety of both fresh produce and processed food from production right up to just before retail.</p>
+          </div>
+        </div>
+      </div>		    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m21.jpg">
+            <img src="../images/mse50/s4.jpg" alt="photo of oscar the food safety mascot">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2002</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Food Safety Public Awareness programme on foodborne diseases</h2>
+            <p>The Food Safety Public Awareness programme was launched to educate consumers on how to better protect themselves against foodborne diseases. As part of the programme, a food safety mascot – Oscar the Food Safety Otter – was introduced.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m21.jpg" alt="nea logo">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2002</span>
@@ -946,7 +1016,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/newater.jpg">
+            <img src="../images/mse50/newater.jpg" alt="newater">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2002</span>
@@ -959,6 +1029,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s5.jpg" alt="photo of Marine Aquaculture Centre">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2003</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Marine Aquaculture Centre</h2>
+            <p>The Marine Aquaculture Centre was established on St. John’s Island with the aim to research on and develop technology in tropical marine food-fish aquaculture as well as play a role in increasing Singapore’s annual fresh fish consumption.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -980,6 +1068,23 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
+            <img src="../images/mse50/mm1.jpg" alt="photo of Water Wally">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2005</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Creation of Water Wally as PUB's mascot</h2>
+            <p>PUB's mascot, Water Wally, was unveiled on 4 Aug 2005. An expert on everything about water, Water Wally is a mascot on a mission – to stop any abuse of our precious water resources and share the message of water conservation.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
             <img src="../images/mse50/m23.jpg" alt="photo of SingSpring Desalination Plant">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
@@ -997,7 +1102,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m24.jpg">
+            <img src="../images/mse50/m24.jpg" alt="Public Sector Taking the Lead">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2006</span>
@@ -1073,11 +1178,29 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Launch of Singapore's First ABC Waters Project</h2>
+              <h2>Opening of Singapore's First ABC Waters Project</h2>
             <p>Kolam Ayer ABC Waterfront, the first project launched under the Active, Beautiful, Clean (ABC) Waters Programme, was officially opened to the public on 5 April 2008. The aim of the ABC Waters Programme was to transform waterways and reservoirs in Singapore beyond their basic drainage and water storage functions, to allow these spaces to be used for community bonding and recreation.</p>
           </div>
         </div>
       </div>	    
+	
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm2.png" alt="Singapore International Water Week">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Creation of Singapore International Water Week</h2>
+            <p>The Singapore International Water Week (SIWW) is a global premier platform to share and co-create innovative water solutions. The biennial event gathers stakeholders from the global water industry to share best practices, showcase the latest technologies and tap business opportunities. SIWW is part of the strategic programme of the Singapore Government to grow the water industry and develop water technologies.</p>
+          </div>
+        </div>
+      </div>	    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1095,6 +1218,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>	
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm3.jpg" alt="Singapore World Water Day">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2008</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Commencement of Singapore World Water Day</h2>
+            <p>Singapore World Water Day (SWWD) started in 2008 and has grown to be celebrated across the island throughout the month of March as a platform to encourage initiatives by the community for the community to celebrate water, appreciate water and raise awareness on water conservation.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1108,7 +1249,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Opening of Marina Barrage</h2>
-            <p>Officially opened on 31 October 2008, Marina Barrage (MB) was Singapore’s 15th reservoir, and the first in the heart of the city. With a catchment area of 10,000 hectares, Marina catchment is the island’s largest and most urbanised catchment. Together with two other reservoirs, Marina Reservoir has increased Singapore’s water catchment from half to two-thirds of the country’s land area.</p>
+            <p>Officially opened on 31 October 2008, Marina Barrage was Singapore’s 15th reservoir, and the first in the heart of the city. With a catchment area of 10,000 hectares, Marina catchment is the island’s largest and most urbanised catchment. Together with two other reservoirs, Marina Reservoir has increased Singapore’s water catchment from half to two-thirds of the country’s land area.</p>
           </div>
         </div>
       </div>		    
@@ -1116,7 +1257,25 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m31.jpg" alt="photo of MELS">
+            <img src="../images/mse50/mm4.jpg" alt="photo of Mandatory Water Efficiency Labelling Scheme">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2009</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Introduction of the Mandatory Water Efficiency Labelling Scheme</h2>
+            <p>Started in 2009, the Mandatory Water Efficiency Labelling Scheme (Mandatory WELS) is a grading system with 0/1/2/3 tick rating denoting the water efficiency level of a product. This is a follow-up scheme from the Voluntary Water Efficiency Labelling Scheme (Voluntary WELS) introduced in 2006. The WELS helps consumers choose their products such as taps, flushing cisterns, urinals, washing machines, dishwashers etc. wisely. The mandatory scheme helps expand the range of higher efficiency products in the market and makes them more affordable.</p>
+          </div>
+        </div>
+      </div>	    
+	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m31.jpg" alt="photo of Changi Water Reclamation Plant">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2009</span>
@@ -1184,6 +1343,41 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
+            <img src="../images/mse50/s6.jpg" alt="photo of sky greens">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2012</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>First vertical farm commercialised</h2>
+            <p>With technical assistance in horticulture and plant health management from AVA, Sky Greens, the world’s first vertical vegetable farm was opened in Oct 2012.</p>
+          </div>
+        </div>
+      </div>	
+
+	       <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n1.jpg" alt="CleanEnviro Summit Singapore logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2012</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>CleanEnviro Summit Singapore</h2>
+            <p>The CleanEnviro Summit Singapore was launched in 2012 as a global platform for leaders, senior government officials and policymakers, regulators and industry captains to identify, develop and share practical solutions to address environmental challenges for tomorrow’s cities.</p>
+          </div>
+        </div>
+      </div>	
+	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
             <img src="../images/mse50/m35.jpg" alt="photo of hazy day">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
@@ -1197,6 +1391,23 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>	
+
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n2.jpg" alt="Project Wolbachia">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2016</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Project Wolbachia</h2>
+            <p>NEA launched Project Wolbachia in 2016, where male Aedes-aegypti mosquitoes infected with the Wolbachia bacteria were released at selected sites. When female Aedes mosquitoes which are not infected with the bacteria mate with the males, they produce eggs which do not hatch, thus reducing the population of Aedes-aegypti mosquitoes - the main vector of dengue here.</p>
+          </div>
+        </div>
+      </div>		    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1214,6 +1425,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>		    
+
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n3.jpg" alt="Environmental Services Industry Transformation Map">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2017</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of Environmental Services Industry Transformation Map</h2>
+            <p>The Environmental Services Industry Transformation Map was launched in Dec 2017, containing strategies and initiatives to ensure a vibrant, sustainable and professional industry that will provide services and solutions to help achieve our Zero Waste vision and a clean and liveable Singapore.</p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1283,6 +1512,24 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
         </div>
       </div>	
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s8.jpg" alt="SFA logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2019</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Formation of SFA</h2>
+            <p>The Singapore Food Agency (SFA) was formed on 1 April 2019 to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety. The ambitious 30 by 30 goal to locally produce 30 per cent of Singapore’s nutritional needs by 2030 was also established this year. </p>
+          </div>
+        </div>
+      </div>		    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1296,8 +1543,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Year Towards Zero Waste</h2>
-            <p>Singapore has designated 2019 as the Year Towards Zero Waste. On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched.
-On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched.</p>
+            <p>Singapore has designated 2019 as the Year Towards Zero Waste. On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Singapore's key strategies to build a sustainable, resource-efficient and climate-resilient nation was launched. </p>
           </div>
         </div>
       </div>	
@@ -1305,24 +1551,7 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/m44.jpg" alt="closing the waste loop">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2019</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Resource Sustainability Act</h2>
-            <p>The Resource Sustainability Act is an integral part of Singapore’s strategy to build a sustainable, resource-efficient and climate-resilient nation. The Act gives legislative effect to regulatory measures targeting the three priority waste streams of e-waste, food waste and packaging waste, including plastics. </p>
-          </div>
-        </div>
-      </div>	
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m38.jpg" alt="">
+            <img src="../images/mse50/m38.jpg" alt="Climate Action Week">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2019</span>
@@ -1335,25 +1564,8 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
         </div>
       </div>
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/mxx.jpg" alt="">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>2020: Singapore Food Story campaign</h2>
-            <p>In February, MSE launched the 2020: Singapore Food Story campaign amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply.</p>
-          </div>
-        </div>
-      </div>
 
-	    <div id="post-3" class="vesti-col timeline-post">
+<div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
             <img src="../images/mse50/m43.jpg" alt="SG Clean">
@@ -1368,7 +1580,97 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
             <p>Launched on 16 February 2020, the SG Clean campaign seeks to rally stakeholders and members of the public to do their part, by adopting good personal habits and social responsibility, to raise standards of cleanliness and public hygiene in Singapore and safeguard public health.</p>
           </div>
         </div>
-      </div>
+      </div>	    
+
+	   
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mxx.jpg" alt="singapore food story">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of 2020: Singapore Food Story campaign</h2>
+            <p>The Singapore Food Story was launched amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply. To ensure a safe, diversified and secure food supply for Singapore, SFA launched the 30 by 30 Express grant call to support the growth of local agri-food enterprises and accelerate the ramp up in local food production.</p>
+          </div>
+        </div>
+      </div>		    
+
+
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm5.jpg" alt="coastal protection">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>PUB appointed as Singapore’s national coastal protection agency</h2>
+            <p>PUB assumed an additional role as the nation’s coastal protection agency with the mandate of safeguarding Singapore’s coastline against the threat of rising sea levels.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s10.jpg" alt="photo of rooftop farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of tender for HDB MSCP rooftop farming sites</h2>
+            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB's multi-storey car park (MSCP) rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s11.jpg" alt="SG Fresh Produce Logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of SG Fresh Produce logo</h2>
+            <p>The SG Fresh Produce logo was introduced in June 2020 to help consumers easily identify local produce. Over 2,000 members of the public, local farmers, retailers and industry associations participated in the co-creation process of the logo, which was part of efforts to increase consumer awareness of local produce.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s12.jpg" alt="photo of citizens' workgroup on local produce">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>First Citizens’ Workgroup to increase consumer demand for local produce</h2>
+            <p>To increase consumer demand for local produce, and as part of the SG Together movement, MSE and SFA convened a Citizen’s Workgroup in July 2020 to co-create and co-deliver solutions to encourage greater support for local produce. Several recommendations are currently being piloted.</p>
+          </div>
+        </div>
+      </div>		    
+
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1387,6 +1689,41 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
         </div>
       </div>
 
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/m44.jpg" alt="closing the waste loop">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Resource Sustainability Act</h2>
+            <p>The Resource Sustainability Act is an integral part of Singapore’s strategy to build a sustainable, resource-efficient and climate-resilient nation. The Act gives legislative effect to regulatory measures targeting the three priority waste streams of e-waste, food waste and packaging waste, including plastics. </p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s13.jpg" alt="lim chu kang masterplan">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>The Lim Chu Kang Masterplan</h2>
+            <p>SFA announced plans to embark on an exercise to master plan the Lim Chu Kang area into a high-tech agri-food zone that can raise food production in a sustainable and resource-efficient manner. As part of the master planning exercise, a six-month series of engagements were conducted in 2021  for stakeholders to identify and discuss ideas to co-create the future of the Lim Chu Kang region and redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all. The ideas from these engagements will be folded into the planning phase of the master planning exercise.</p>
+          </div>
+        </div>
+      </div>	
+	    
+	    
 	    <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1403,6 +1740,43 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
         </div>
       </div>
+    
+	      <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n4.jpg" alt="heat map">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch Of Climate Science Research Programme Office </h2>
+            <p>NEA launched the Climate Science Research Programme Office (CSRPO) in Nov 2020, as part of efforts to strengthen climate science capabilities in Singapore to tackle the potential impact of climate change. The CSRPO is set up under the Centre for Climate Research Singapore (CCRS), the research division of NEA’s Meteorological Service Singapore (MSS).</p>
+          </div>
+        </div>
+      </div>
+	    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s14.jpg" alt="photo of novel food">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2020</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>World’s first regulatory approval for cultured meat</h2>
+            <p>To ensure the safety of novel food, SFA developed a novel food regulatory framework, which requires novel food products to be put through a pre-market safety assessment before they are allowed for sale. In Dec 2020, SFA became the first food safety authority in the world to allow a novel food product to be sold, following scientific assessment and food safety laboratory tests.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1438,6 +1812,39 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
         </div>
       </div>
 
+	    <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s15.jpg" alt="photo of Future Ready Food Safety Hub (FRESH) launch">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of FRESH</h2>
+            <p>The Future Ready Food Safety Hub (FRESH), a collaboration between Nanyang Technological University, the Singapore Food Agency, and A*STAR, was launched to build Singapore’s capabilities in food safety science. FRESH aims to drive food safety research under the Singapore Food Story R&D Programme. It is also tasked with helping build local food safety science capabilities in support of Singapore’s growing food innovation ecosystem.</p>
+          </div>
+        </div>
+      </div>		    
+	    
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/s16.jpg" alt="photo of farm">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Launch of ACT Fund</h2>
+            <p>SFA launched a $60 million Agri-Food Cluster Transformation (ACT) Fund to support the transformation of the agri-food sector into one that is highly productive, climate resilient and resource efficient. The ACT Fund replaces the 2014 Agriculture Productivity Fund and comprises three co-funding components for local food-producing companies to build and expand their production capacities and capabilities: (a) Technology Upscaling; (b) Innovation and Test-bedding; and (c) Capability Upgrading.</p>
+          </div>
+        </div>
+      </div>	
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1489,6 +1896,26 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
         </div>
       </div>
+	  
+<div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/mm6.jpg" alt="solar panels">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2021</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Official Opening of Sembcorp Tengeh Floating Solar Farm</h2>
+            <p>PUB and Sembcorp Industries officially opened the Sembcorp Tengeh Floating Solar Farm at Tengeh Reservoir. With 122,000 solar panels spanning across 45 hecttres, the commencement of the 60 megawatt-peak (MWp) solar photovoltaic (PV) farm marks a significant step towards enduring energy sustainability in water treatment.</p>
+          </div>
+        </div>
+      </div>
+	    
+	    
+	    	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
@@ -1506,297 +1933,7 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
         </div>
       </div>	    
- 	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/m53.jpg" alt="">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2022</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>MSE50</h2>
-            <p>MSE commemorates its 50th anniversary this year with a series of meaningful activities to celebrate Singapore’s environmental milestones, and renew our commitment to build a green and resilient Singapore.</p>
-          </div>
-        </div>
-      </div>	    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s1.jpg" alt="photo of egg farm">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1989</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Opening of Agrotechnology Parks in Lim Chu Kang and Loyang</h2>
-            <p>Agricultural land continued to decline in the 1980s due to urbanisation. To maintain a degree of self-sufficiency and to maximise land productivity, PPD consolidated farming in Agrotechnology Parks. Mechanised and automated farm systems were promoted, boosting productivity in a tightening labour market.</p>
-          </div>
-        </div>
-      </div>	
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s2.jpg" alt="AVA logo">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2000</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Formation of Agri-Food & Veterinary Authority (AVA)</h2>
-            <p>PPD was restructured into a statutory board, the Agri-Food and Veterinary Authority (AVA) on 1 April 2000 to address the increasingly challenging task of maintaining Singapore’s high standards of food safety, as well as animal and plant health.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s3.jpg" alt="photo of lab">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2002</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Addition of Food Control Division</h2>
-            <p>Formerly part of the Ministry of the Environment, the Food Control Division was moved to AVA. This allowed AVA to regulate the safety of both fresh produce and processed food from production right up to just before retail.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s4.jpg" alt="photo of oscar the food safety mascot">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2002</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of Food Safety Public Awareness programme on foodborne diseases</h2>
-            <p>The Food Safety Public Awareness programme was launched to educate consumers on how to better protect themselves against foodborne diseases. As part of the programme, a food safety mascot – Oscar the Food Safety Otter – was introduced.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s5.jpg" alt="photo of Marine Aquaculture Centre">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2003</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of Marine Aquaculture Centre</h2>
-            <p>The Marine Aquaculture Centre was established on St. John’s Island with the aim to research on and develop technology in tropical marine food-fish aquaculture as well as play a role in increasing Singapore’s annual fresh fish consumption.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s6.jpg" alt="photo of sky greens">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2012</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>First vertical farm commercialised</h2>
-            <p>With technical assistance in horticulture and plant health management from AVA, Sky Greens, the world’s first vertical vegetable farm was opened in Oct 2012.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s7.jpg" alt="photo of farm in singapore">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2019</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Establishing the “30 by 30 goal” and launch of Singapore Food Story R&D Programme</h2>
-            <p>The ambitious 30 by 30 goal to produce 30 per cent of Singapore’s nutritional needs by 2030 was established this year. The Singapore Food Story (SFS) R&D Programme was also launched with A*STAR to develop the local agri-tech R&D ecosystem and sustainable urban food solutions to support Singapore’s 30 by 30 goal.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s8.jpg" alt="SFA logo">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2019</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Formation of SFA</h2>
-            <p>The Singapore Food Agency (SFA) was formed to strengthen food security and safety from farm to fork. SFA’s formation consolidates all the food-related expertise from the then-Agri-food and Veterinary Authority, National Environment Agency, and Health Sciences Authority into a single entity. Through consolidating resources, SFA would be able to enhance regulatory oversight along the entire food supply chain, and streamline processes for food safety.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s9.jpg" alt="singapore food story">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of 2020: Singapore Food Story campaign</h2>
-            <p>The Singapore Food Story was launched amidst concerns about global supply chain disruptions stemming from the COVID-19 pandemic, and the longer-term effects of climate change on the resilience of our food supply. To ensure a safe, diversified and secure food supply for Singapore, SFA launched the 30 by 30 Express grant call to support the growth of local agri-food enterprises and accelerate the ramp up in local food production.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s10.jpg" alt="photo of rooftop farm">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of tender for HDB MSCP rooftop farming sites</h2>
-            <p>Availing more spaces in land-constrained Singapore for commercial farming, including alternative spaces like HDB MSCP rooftops, is one of the strategies SFA has undertaken towards our 30-by-30 goal. As a start, SFA launched a tender for 9 HDB MSCP rooftop sites for urban farming.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s11.jpg" alt="SG Fresh Produce Logo">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of SG Fresh Produce logo</h2>
-            <p>The SG Fresh Produce logo was introduced in June 2020 to help consumers easily identify local produce. Over 2,000 members of the public, local farmers, retailers and industry associations participated in the co-creation process of the logo, which was part of efforts to increase consumer awareness of local produce.</p>
-          </div>
-        </div>
-      </div>	
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s12.jpg" alt="photo of citizens' workgroup on local produce">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>First Citizens’ Workgroup to increase consumer demand for local produce</h2>
-            <p>To increase consumer demand for local produce, and as part of the SG Together movement, MSE and SFA convened a Citizen’s Workgroup in July 2020 to co-create and co-deliver solutions to encourage greater support for local produce. Several recommendations are currently being piloted.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s13.jpg" alt="lim chu kang masterplan">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>The Lim Chu Kang Masterplan</h2>
-            <p>SFA announced plans to embark on an exercise to master plan the Lim Chu Kang area into a high-tech agri-food zone that can raise food production in a sustainable and resource-efficient manner. As part of the master planning exercise, a six-month series of engagements were conducted in 2021  for stakeholders to identify and discuss ideas to co-create the future of the Lim Chu Kang region and redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all. The ideas from these engagements will be folded into the planning phase of the master planning exercise.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s14.jpg" alt="photo of novel food">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2020</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>World’s first regulatory approval for cultured meat</h2>
-            <p>To ensure the safety of novel food, SFA developed a novel food regulatory framework, which requires novel food products to be put through a pre-market safety assessment before they are allowed for sale. In Dec 2020, SFA became the first food safety authority in the world to allow a novel food product to be sold, following scientific assessment and food safety laboratory tests.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s15.jpg" alt="photo of Future Ready Food Safety Hub (FRESH) launch">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2021</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of FRESH</h2>
-            <p>The Future Ready Food Safety Hub (FRESH), a collaboration between Nanyang Technological University, the Singapore Food Agency, and A*STAR, was launched to build Singapore’s capabilities in food safety science. FRESH aims to drive food safety research under the Sisngapore Food Story R&D Programme. It is also tasked with helping build local food safety science capabilities in support of Singapore’s growing food innovation ecosystem.</p>
-          </div>
-        </div>
-      </div>		    
-	    
-<div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="../images/mse50/s16.jpg" alt="photo of farm">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">2021</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Launch of ACT Fund</h2>
-            <p>SFA launched a $60 million Agri-Food Cluster Transformation (ACT) Fund to support the transformation of the agri-food sector into one that is highly productive, climate resilient and resource efficient. The ACT Fund replaces the 2014 Agriculture Productivity Fund and comprises three co-funding components for local food-producing companies to build and expand their production capacities and capabilities: (a) Technology Upscaling; (b) Innovation and Test-bedding; and (c) Capability Upgrading.</p>
-          </div>
-        </div>
-      </div>		    
-	    
+ 
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
@@ -1843,15 +1980,15 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
           </div>
           <div class="vesti-desc">
               <h2>Singapore Aquaculture Plan</h2>
-            <p>SFA announced plans to uplift the aquaculture industry through the Singapore Aquaculture Plan. These include unlocking new spaces through new sea space tenders and longer leases; supporting the aquaculture sector to transform into one that is highly productive, climate-resilient and resource-efficient through the use of technology and adopting appropriate farm management methods, including conducting environmental surveys and water and seabed quality surveys to better inform farm management and supporting research and innovation for sustainable tropical marine aquaculture through leveraging SFA’s Marine Aquaculture Centre</p>
+            <p>SFA announced plans to uplift the aquaculture industry through the Singapore Aquaculture Plan. These include unlocking new spaces through new sea space tenders and longer leases; supporting the aquaculture sector to transform into one that is highly productive, climate-resilient and resource-efficient through the use of technology and adopting appropriate farm management methods, including conducting environmental surveys and water and seabed quality surveys to better inform farm management; and supporting research and innovation for sustainable tropical marine aquaculture through leveraging SFA’s Marine Aquaculture Centre.</p>
           </div>
         </div>
-      </div>		    
-	    
+      </div>	
+
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="../images/mse50/s20.jpg" alt="photo of LoveSGMums meal">
+            <img src="../images/nasml/titlebar.png" alt="nasml">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
                 <span class="year">2022</span>
@@ -1859,50 +1996,36 @@ On 30 August 2019, Singapore's inaugural Zero Waste Masterplan which maps out Si
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Pilot launch of LoveSGMums meal</h2>
-            <p>A pilot project to increase awareness and demand for local produce to post-partum mothers through hospital in-patient meals was launched by Minister for Sustainability and the Environment (MSE) Grace Fu at Thomson Medical Centre (TMC). The pilot was a result of a collaboration between SFA, the LoveSGMums Meal (LSGM) team in the Citizens’ Workgroup (CWG) on Increasing Demand for Local Produce, celebrity chef and CWG participant Justin Foo, as well as TMC.</p>
+              <h2>Launch of National Action Strategy on Marine Litter</h2>
+            <p>On 5 June 2022, Singapore launched its first National Action Strategy on Marine Litter, which outlines Singapore’s commitment and measures to address both land-based and sea-based sources of marine litter.</p>
           </div>
         </div>
       </div>		    
 	    
 	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-      <div id="post-4" class="vesti-col timeline-post">
+<div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
           <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19990007092-0004-3012-0348/img047.jpg">
+            <img src="../images/mse50/m53.jpg" alt="">
             <div class="vesti-date-wrapper">
               <div class="vesti-date">
-                <span class="year">1987</span>
+                <span class="year">2022</span>
               </div>
             </div>
           </div>
           <div class="vesti-desc">
-              <h2>Completion of the Singapore River Clean-Up</h2>
-            <p>The clean-up was officially declared complete on 2 September 1987. As part of the Clean Rivers Commemoration Celebration, a five-day carnival was held at Marina Bay.</p>
+              <h2>MSE50</h2>
+            <p>MSE commemorates its 50th anniversary this year with a series of meaningful activities to celebrate Singapore’s environmental milestones, and renew our commitment to build a green and resilient Singapore.</p>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
+      </div>	    
 
 
-
-
-
-
+	</div></div>
+	    
+<div>
+<p><em>Photo Credits: National Archives of Singapore, National Environment Agency, PUB, the national water agency and Singapore Food Agency</em></p>
+</div>
 
 	
 <!-- container end dic -->
-
-

@@ -1,5 +1,5 @@
 ---
-title: MSE50 — Building a Green and Resilient Singapore
+title: MSE 50th Anniversary
 permalink: /mse50
 ---
 
@@ -10,7 +10,7 @@ STYLING FOR INTRO
 --------------------------------------------------------------*/
  
 .img-icon {
- max-width: 60% !important;
+ max-width: 90% !important;
 margin-top: 10px !important;
 }
 
@@ -567,131 +567,89 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 </style>
 
 <img src="images/mse50/MSE50_Hori_Dark_RGB.png" alt="MSE50" class="mse50-logo"><br>
-<p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b>
-<br><br>
-Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.
-<br><br>	
-Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.
-<br><br>
-The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore.
-<br><br>
-We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.
-<br><br>
-Stay tuned for more details!</p>
+<p><b>2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50).</b></p>
 
+<p>Singapore has come a long way since the inception of the ministry in 1972. We were one of the first countries in the world to form a ministry of the environment to tackle issues such as pollution control, sewerage, drainage and environmental health.</p>
+
+<p>Even before sustainable development became a global concern, Singapore sought to balance environmental protection with economic growth and social inclusion.</p>
+
+<p>The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones  and renew our commitment to build a green and resilient Singapore.</p>
+
+<p>We look forward to celebrating not only with past and present staff but also with our partners from the people, private and public sectors, and the generations of Singaporeans who have been part of our sustainable development journey over the last five decades.</p>
+
+	
 <div>
 <center>
 	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>&nbsp;
 </center>
 </div>
   
+  <hr> 
   
-<h1>MSE50 Short Film - I Remember</h1>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<h1>Our milestones</h1>
 
-
-  
-  
-<!--
-The Ministry of Sustainability and the Environment will be commemorating this Golden Jubilee with a series of meaningful activities to:</p>
+<p>Take a look back in time as we trace our environmental milestones over the past five decades.</p>
 <div class="row">
  <div class="column">
- <img src="images/mse50/milestones.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Celebrate Singapore’s environmental milestones  and renew our commitment to build a green and  resilient Singapore<br></p>
+ <img src="images/mse50/m4.jpg" class="img-icon" alt="MSE50"><br>
+  <p class="icon-desc">Singapore River Clean Up<br></p>
  </div>
  <div class="column">
- <img src="images/mse50/people.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Pay tribute to people who have contributed to  these environmental milestones<br></p>
+ <img src="images/mse50/m9.jpg" class="img-icon" alt="MSE50"><br>
+  <p class="icon-desc">Street Hawkers Resettlement<br></p>
  </div>
  <div class="column">
- <img src="images/mse50/partners.png" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Celebrate the strong collaborations forged  with Singaporeans and 3P (people, private and  public) partners<br></p>
+ <img src="images/mse50/m12.jpg" class="img-icon" alt="MSE50"><br>
+  <p class="icon-desc">Phasing out of night-soil bucket<br></p>
  </div>
 </div>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ksnmTNMwvhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<h1>Our Journey</h1>
-
-<div class="container">
-    <div class="timeline clearfix">
-    <div class="vertical-line">
-      <div id="post-1" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980005056-8073-3222-4844/img0114.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1972</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-                <h2>Formation of Ministry of Environment</h2>
-            <p>On 16 September 1972, the Ministry of the Environment (ENV), to tackle issues such as pollution control, sewerage, drainage and environmental health.</p>
-                <h2>Drafting of Singapore Water Master Plan</h2>
-            <p>In the same year, Singapore's first Water Master Plan was drawn up. The plan outlined strategies for water resources to ensure a diversified and adequate supply that could meet future requirements.</p>
-          </div>
-          </div>
-        </div>
-      </div>
-      <div id="post-2" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://d33wubrfki0l68.cloudfront.net/6eb7e39110590bf5fb8204ecccec7b7014025679/a98b6/images/ch1_ulu_pandan_ip.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1979</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Opening of Singapore's First Incineration Plant</h2>
-            <p>On 30 July 1979, Singapore's and Southeast Asia's first incinerator plant, Ulu Pandan Incineration Plant, started operations.</p>
-          </div>
-        </div>
-      </div>
-      <div id="post-3" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.news-medical.net/image.axd?picture=2021%2F10%2Fshutterstock_1483138139-1.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1982</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Singapore Declared 'Malaria-Free'</h2>
-            <p>Singapore was declared malaria-free by the World Health Organization (WHO) on 22 November 1982.</p>
-          </div>
-        </div>
-      </div>
-      <div id="post-4" class="vesti-col timeline-post">
-        <div class="vesti-content-wrapper">
-          <div class="photo">
-            <img src="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19990007092-0004-3012-0348/img047.jpg">
-            <div class="vesti-date-wrapper">
-              <div class="vesti-date">
-                <span class="year">1987</span>
-              </div>
-            </div>
-          </div>
-          <div class="vesti-desc">
-              <h2>Completion of the Singapore River Clean-Up</h2>
-            <p>The clean-up was officially declared complete on 2 September 1987. As part of the Clean Rivers Commemoration Celebration, a five-day carnival was held at Marina Bay.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div>
+<center>
+	  <a class="button" href="/mse50milestones">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;
+</center>
+</div>  
+  
+ 
+ <hr>
 
 
 
+<h1>Our stories</h1>
 
+<p><strong>I Remember - an MSE50 Short Film</strong></p>
+<p>Take a trip down memory lane in this short film as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
+
+<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p>
+
+<p><strong>#50YearsOfSustainability - Crowdsourcing for your environment stories</strong></p>
+<p>Got a story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences with us and stand to win limited edition prizes! </p>
+
+<a href="/mse50contest"><img src="images/mse50/UGCWebBanner.png" class="img-icon" alt="web banner"></a>
+ 
+<div>
+<center>
+	  <a class="button" href="/mse50contest">Join Now!</a>&nbsp; </center>
+</div>   
+  
+
+
+<h1>Our People</h1>
+	
+<p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
+
+<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<hr> 
+
+
+
+<!--
 
 <h1>Our People</h1>
 
@@ -739,7 +697,8 @@ The Ministry of Sustainability and the Environment will be commemorating this Go
         </a>
     </div>
 </div>
--->
+
+-->	
 	
 <!-- container end dic -->
 
