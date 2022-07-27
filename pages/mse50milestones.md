@@ -815,7 +815,7 @@ The $92.6 million building’s key was handed to ENV’s then Permanent Secretar
           </div>
           <div class="vesti-desc">
               <h2>Singapore's First Annual Clean and Green Week</h2>
-            <p>Launched on 4 November 1990, the Clean and Green Week was a campaign to create awareness among Singaporeans that everyone is responsible for the environment. It became a yearlong campaign in 2007 and was consequently renamed Clean and Green Singapore.</p>
+            <p>Launched on 4 November 1990, the Clean and Green Week was a campaign to create awareness among Singaporeans that everyone is responsible for the environment. It became a year long campaign in 2007 and was consequently renamed Clean and Green Singapore.</p>
           </div>
         </div>
       </div>	 
