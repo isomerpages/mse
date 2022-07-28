@@ -1374,6 +1374,26 @@ The Clean and Green Week became a year long campaign in 2007 and was consequentl
         </div>
       </div>	
 	    
+	       <div id="post-3" class="vesti-col timeline-post">
+        <div class="vesti-content-wrapper">
+          <div class="photo">
+            <img src="../images/mse50/n5.jpg" alt="CCRS logo">
+            <div class="vesti-date-wrapper">
+              <div class="vesti-date">
+                <span class="year">2013</span>
+              </div>
+            </div>
+          </div>
+          <div class="vesti-desc">
+              <h2>Opening of Centre for Climate Research</h2>
+            <p>The Centre for Climate Research Singapore, the first research centre in the world dedicated to tropical climate and weather of Singapore and the wider Southeast Asia region, was officially opened on 27 Mar 2013. The Centre aims to advance scientific understanding and prediction of the weather and climate of Singapore. 
+</p>
+          </div>
+        </div>
+      </div>	
+	    
+	    
+	    
 	    
 <div id="post-3" class="vesti-col timeline-post">
         <div class="vesti-content-wrapper">
