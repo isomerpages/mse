@@ -34,10 +34,9 @@ permalink: /mse50contest
 
 Submit your stories/photos on MSE’s <a href="http://www.facebook.com/msesingapore">Facebook</a> or <a href="http://www.instagram.com/msesingapore">Instagram</a> page by commenting under any of our contest posts which are pinned to the top of the page. In your comment, please include the hashtag <strong>#50YearsOfSustainability</strong> and tag two friends. 
 
-For submisions via Tiktok, please include the hashtag <strong>#50YearsOfSustainability</strong> in your video.
   
 <h1>Prizes</h1>
-30 participants who provide the most detailed and interesting stories will be selected as winners, and will receive a limited edition MSE50 stamp set and Good Morning meme shirt each. (12 winners will each be choosen from Facebook and Instagram entries and 6 from Tiktok entries.)
+24 participants who provide the most detailed and interesting stories will be selected as winners, and will receive a limited edition MSE50 stamp set and Good Morning meme shirt each. (12 winners each will be choosen from Facebook and Instagram entries.)
 <img src="/images/mse50/c4.jpg" alt="prizes">
 
 
