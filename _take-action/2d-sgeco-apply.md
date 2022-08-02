@@ -86,7 +86,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
         <h2><b>Main</b></h2>
         <h4>Your requested funding is <b>more than $10,000</b>:</h4>
         <div>
-            <p>1) Check out some tips and tricks for writing a good application here .</a></p>
+            <p>1) Check out some tips and tricks for writing a good application here.</p>
             <a href="/resources/SG Eco Fund GC3 briefing deck 2022.pdf">Be Informed</a>
             <p>You will also be required to submit the following supporting documents:</p>
             <ul>
