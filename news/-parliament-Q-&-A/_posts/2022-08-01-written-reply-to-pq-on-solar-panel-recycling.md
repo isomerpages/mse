@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Written Reply to Parliamentary Questions on Efforts and Plans to Tackle Solar Panel Waste and Solar Panel Recycling by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on Efforts and Plans to Tackle Solar Panel Waste and Solar Panel Recycling by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Question:**
 
