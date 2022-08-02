@@ -12,6 +12,13 @@ Access our collection of [resources](/resources/){:target="_blank"} that cover k
 
 Need help getting your ground-up initiative off the ground? Find curated resources and support through <a href="https://www.groundupcentral.sg" target="_blank">GroundUp Central</a> managed by the National Volunteer and Philanthropy Centre (NVPC).
 
+Check out some tips and tricks for writing a good application <a href="/resources/SG Eco Fund GC3 briefing deck 2022.pdf">here.</a>
+
+You can view a recording of our workshop webinar here 
+
+Hear first-hand from SG Eco Fund Grant Recipients on their lessons learnt and factors that contributed to a successful application 
+ 
+
 <!--View the [slides](/resources/SG-Eco-Fund-workshop-slides.pdf){:target="_blank"} presented at our workshop.
 
 View the [list of projects](/resources/awarded-projects.pdf){:target="_blank"} that were awarded in the first grant call back in May 2021.
