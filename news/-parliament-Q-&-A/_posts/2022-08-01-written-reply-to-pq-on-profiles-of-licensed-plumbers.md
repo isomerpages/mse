@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Written Reply to Parliamentary Questions on Profiles of Licensed Pumbers as of June 2022 by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on Profiles of Licensed Pumbers as of June 2022 by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Question:**
 
