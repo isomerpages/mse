@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Written Reply to Parliamentary Questions on Hawker Stalls Left Empty in Last Three Years by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on Hawker Stalls Left Empty in Last Three Years by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Question:**
 
