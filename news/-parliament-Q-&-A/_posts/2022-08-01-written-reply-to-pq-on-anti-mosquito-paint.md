@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Written Reply to Parliamentary Questions on Anti-Mosquito Paint by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on Anti-Mosquito Paint by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Question:**
 
