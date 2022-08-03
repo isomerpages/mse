@@ -10,7 +10,7 @@ description:
 
 **Question:**
 
-**Mr Pritam Singh:** To ask the Minister for Sustainability and the Environment (a) as of June 2022, how many licensed plumbers are (i) Singaporeans (ii) permanent residents and (iii) foreigners respectively; (b) of those with such a licence who are non-Singaporeans, what are (i) the top ten nationalities and (ii) the type of work pass that they hold respectively; and (c) what are the age profiles of all workers with such a licence.
+**Mr Pritam Singh**: To ask the Minister for Sustainability and the Environment (a) as of June 2022, how many licensed plumbers are (i) Singaporeans (ii) permanent residents and (iii) foreigners respectively; (b) of those with such a licence who are non-Singaporeans, what are (i) the top ten nationalities and (ii) the type of work pass that they hold respectively; and (c) what are the age profiles of all workers with such a licence.
 
 **Answer:**
 
