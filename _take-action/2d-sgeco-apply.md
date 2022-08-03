@@ -89,7 +89,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
           
           
          <p> 1) Complete the <a href="https://form.gov.sg/#!/62618415b91a650012d1dfdd" target="_blank">application form.</a></p>
-          <a href="/resources/#">View sample form</a>
+          <a href="/resources/SG-Eco-Fund-Sample-(Main).pdf">View sample form</a>
           
           
             <p>You will also be required to submit the following supporting documents:</p>
@@ -103,7 +103,6 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
             <p>2) The outcome of your application will be conveyed to you via email.</p>
           
           
-          <p>Be Informed</p>
-          Check out some <a href="/resources/SG Eco Fund GC3 briefing deck 2022.pdf">tips and tricks for writing a good application</a>.
+
           
     </div>
