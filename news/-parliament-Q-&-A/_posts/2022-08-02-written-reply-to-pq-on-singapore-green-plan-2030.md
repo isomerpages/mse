@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Singapore Green Plan 2030 by Ms Grace Fu, Minister for Sustainability and the Environment  
-permalink: /resource-room/category/2022-08-01-written-reply-to-pq-on-singapore-green-plan-2030/
+permalink: /resource-room/category/2022-08-02-written-reply-to-pq-on-singapore-green-plan-2030/
 image:  
 file_url:  
 description:  
