@@ -53,7 +53,7 @@ Refer to the table below for the SG Eco Fund application timelines for each cate
 
 All application forms must be successfully submitted via FormSG (see below) by 23:59 of the respective deadline.
 
-Attend one of our briefing webinars to learn more about the application process and expectations on what makes a good application. <a href="https://form.gov.sg/#!/62555a215ea4620012ddc074" target="_blank">Sign up for a webinar now!</a>
+Check out the <a href="/sgecofund/community" target="_blank">recordings of our recent workshops</a> to learn more about what makes a good application.
 
 **Application Process**
 
@@ -86,8 +86,12 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
         <h2><b>Main</b></h2>
         <h4>Your requested funding is <b>more than $10,000</b>:</h4>
         <div>
-            <p>1) Complete the <a href="https://form.gov.sg/62618415b91a650012d1dfdd" target="_blank">application form.</a></p>
-            <a href="/resources/SG-Eco-Fund-Sample-(Main).pdf">View sample form</a>
+          
+          
+         <p> 1) Complete the <a href="https://form.gov.sg/#!/62618415b91a650012d1dfdd" target="_blank">application form.</a></p>
+          <a href="/resources/SG-Eco-Fund-Sample-(Main).pdf">View sample form</a>
+          
+          
             <p>You will also be required to submit the following supporting documents:</p>
             <ul>
             <li>Budget <a href="/files/sgecofund/SG-Eco-Fund-Budget-Template-2022.xlsx" target="_blank">(budget template)</a></li>
@@ -97,4 +101,8 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
             </ul>
             <p><i>*If you are exempt from audited financial reports, please submit your unaudited financial reports instead.</i><br></p>
             <p>2) The outcome of your application will be conveyed to you via email.</p>
+          
+          
+
+          
     </div>

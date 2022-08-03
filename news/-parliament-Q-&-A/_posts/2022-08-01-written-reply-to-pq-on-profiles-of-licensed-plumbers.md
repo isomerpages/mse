@@ -1,16 +1,16 @@
 ---  
-title: Written Reply to Parliamentary Question on Profiles of Licensed Pumbers as of June 2022 by Ms Grace Fu, Minister for Sustainability and the Environment  
+title: Written Reply to Parliamentary Question on Profiles of Licensed Plumbers as of June 2022 by Ms Grace Fu, Minister for Sustainability and the Environment  
 permalink: /resource-room/category/2022-08-01-written-reply-to-pq-on-profiles-of-licensed-plumbers/
 image:  
 file_url:  
 description:  
 ---  
 
-#### Written Reply to Parliamentary Question on Profiles of Licensed Pumbers as of June 2022 by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on Profiles of Licensed Plumbers as of June 2022 by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Question:**
 
-**Mr Pritam Singh:** To ask the Minister for Sustainability and the Environment (a) as of June 2022, how many licensed plumbers are (i) Singaporeans (ii) permanent residents and (iii) foreigners respectively; (b) of those with such a licence who are non-Singaporeans, what are (i) the top ten nationalities and (ii) the type of work pass that they hold respectively; and (c) what are the age profiles of all workers with such a licence.
+**Mr Pritam Singh**: To ask the Minister for Sustainability and the Environment (a) as of June 2022, how many licensed plumbers are (i) Singaporeans (ii) permanent residents and (iii) foreigners respectively; (b) of those with such a licence who are non-Singaporeans, what are (i) the top ten nationalities and (ii) the type of work pass that they hold respectively; and (c) what are the age profiles of all workers with such a licence.
 
 **Answer:**
 
