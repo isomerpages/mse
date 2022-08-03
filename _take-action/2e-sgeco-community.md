@@ -6,17 +6,17 @@ third_nav_title: SG Eco Fund
 
  <center><h2>Eco is <b><u>IN</u></b></h2></center>
 
-<b>Be <u>In</u>formed</b>
+<p><b>Be <u>In</u>formed</b></p>
+
+Check out some <a href="/resources/SG Eco Fund GC3 briefing deck 2022.pdf">tips and tricks for writing a good application</a>.
+
+You can <a href="">view a recording of our workshop webinar</a>. 
+
+<a href="https://youtu.be/Vd5HCvYFPAg">Hear first-hand from SG Eco Fund Grant Recipients</a> on their lessons learnt and factors that contributed to a successful application <link to SG Eco Fund sharing session video>
 
 Access our collection of [resources](/resources/){:target="_blank"} that cover key environmental issues in Singapore (useful for those looking for an issue to get involved in or looking for more stats and evidence for their own proposals)
 
 Need help getting your ground-up initiative off the ground? Find curated resources and support through <a href="https://www.groundupcentral.sg" target="_blank">GroundUp Central</a> managed by the National Volunteer and Philanthropy Centre (NVPC).
-
-Check out some tips and tricks for writing a good application <a href="/resources/SG Eco Fund GC3 briefing deck 2022.pdf">here.</a>
-
-You can view a recording of our workshop webinar here 
-
-Hear first-hand from SG Eco Fund Grant Recipients on their lessons learnt and factors that contributed to a successful application 
  
 
 <!--View the [slides](/resources/SG-Eco-Fund-workshop-slides.pdf){:target="_blank"} presented at our workshop.
@@ -43,24 +43,3 @@ Check out the [complete list of SG Eco Fund recipients](/files/sgecofund/SGEF-GC
  
 Looking for collaborators or other eco-warriors in your neighbourhood? Check out GroundUp Central’s [list of community and groundup initiatives](https://www.groundupcentral.sg/collaborate){:target="_blank"}.
  
-<!--
-
-Stories of grantees to inspire potential applicants
-
-People – stories of people behind the projects
-
-Project – stories about the progress made by grantees
-
-Potential grantee features as of now:
-
-Engineering Good
-
-Farmily
-
-Rachel Lee
-
-**Be Involved**
-
-A platform where interested parties can indicate their interest and be matched with other potential applicants or existing grantees in our network
-
-Want to become an Eco-Warrior and join the ranks of growing community of do-gooders? Join our mailing list by filling up this form to get updates on events and find opportunities to collaborate with other like-minded individuals: \&lt;FORM LINK\&gt; -->
