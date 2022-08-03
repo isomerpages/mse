@@ -53,7 +53,7 @@ Refer to the table below for the SG Eco Fund application timelines for each cate
 
 All application forms must be successfully submitted via FormSG (see below) by 23:59 of the respective deadline.
 
-Check out the recordings <a href="https://www.mse.gov.sg/sgecofund/community" target="_blank">of our recent workshops to learn more about what makes a good application </a>
+Check out the <a href="https://www.mse.gov.sg/sgecofund/community" target="_blank">recordings of our recent workshops</a> to learn more about what makes a good application.
 
 **Application Process**
 
@@ -86,8 +86,12 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
         <h2><b>Main</b></h2>
         <h4>Your requested funding is <b>more than $10,000</b>:</h4>
         <div>
-            <p>1) Check out some tips and tricks for writing a good application here.</p>
-            <a href="/resources/SG Eco Fund GC3 briefing deck 2022.pdf">Be Informed</a>
+          
+          
+         <p> 1) Complete the <a href="https://form.gov.sg/#!/62618415b91a650012d1dfdd" target="_blank">application form.</a></p>
+          <a href="/resources/#">View sample form</a>
+          
+          
             <p>You will also be required to submit the following supporting documents:</p>
             <ul>
             <li>Budget <a href="/files/sgecofund/SG-Eco-Fund-Budget-Template-2022.xlsx" target="_blank">(budget template)</a></li>
@@ -97,4 +101,9 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
             </ul>
             <p><i>*If you are exempt from audited financial reports, please submit your unaudited financial reports instead.</i><br></p>
             <p>2) The outcome of your application will be conveyed to you via email.</p>
+          
+          
+          <p>Be Informed</p>
+          Check out some <a href="/resources/SG Eco Fund GC3 briefing deck 2022.pdf">tips and tricks for writing a good application</a>.
+          
     </div>
