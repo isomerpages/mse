@@ -55,15 +55,36 @@ input:checked + label + .accordion-content {
 	  <th style="border:0px">Topics:</th>
 	  </tr>
 	  <tr>
+      <td><a href="#climate">Climate Change</a></td>		  
       <td><a href="#sgp">SG Green Plan</a></td>
       <td><a href="#participate">Participate</a></td>
       <td><a href="#pollution-control">Pollution Control</a></td>
       <td><a href="#public-health">Public Health</a></td>
-      <td><a href="#climate-weather">Climate and Weather</a></td>
+      <td><a href="#safe-mgmt">Safe Management Measures</a></td>
     </tr>
   </tbody>
 </table>
+
 	
+
+<a name="climate"></a>
+<h1><b>Climate Change</b></h1>
+
+<h2 id="carbon-emissions">Carbon Emissions</h2>
+<div>
+  	<input type="checkbox" id="title7"  /><label for="title7">What is a Fixed-Price Credit-based (FPCB) carbon tax system?</label>
+	<div class="accordion-content">
+		<p>Singapore has implemented a Fixed-Price Credit-based (FPCB) tax mechanism where companies will pay the carbon tax by purchasing and surrendering non-tradeable carbon credits representing the equivalent amount of verified emissions generated. These carbon credits can be purchased from the Government at a fixed price.<br>
+    <br>
+    We recognise that there may be benefits in expanding the mode of carbon tax payment to include international carbon credits and linking our carbon tax framework to other carbon pricing jurisdictions in the longer term. We are studying the feasibility of doing so and how we can leverage robust international market mechanisms to complement our domestic mitigation efforts. The FPCB system provides the flexibility to accommodate international carbon credits and link up with external partners, should we decide to do so in future.  
+</p>
+	</div>
+  	<input type="checkbox" id="title8"  /><label for="title8">Are companies allowed to use international carbon credits to meet part of their carbon tax liability?</label>
+	<div class="accordion-content">
+		<p>For now, companies may only use fixed-price credits issued by the National Environment Agency (NEA) to meet their carbon tax liability. Nonetheless, the Government is exploring the feasibility of enabling companies to partially offset their carbon tax liability with international carbon credits. We are studying the key design features, potential legislative changes and implementation options, and we will announce our decision in due course.</p>
+	</div>
+	
+xxxxxxx	
 	
 <a name="sgp"></a>
 <h1><b>SG Green Plan</b></h1>
@@ -240,10 +261,8 @@ Living close to one another necessitates good neighbourly behaviour so that we c
 	</div>
 </div>
 
-<a name="climate-weather"></a>
-<h1><b>Climate & Weather</b></h1>
-
-<h2 id="carbon-emissions">Carbon Emissions</h2>
+<a name="safe-mgmt"></a>
+<h1><b>Safe Management Measures</b></h1>
 <div>
   	<input type="checkbox" id="title7"  /><label for="title7">What is a Fixed-Price Credit-based (FPCB) carbon tax system?</label>
 	<div class="accordion-content">
