@@ -79,6 +79,22 @@ input:checked + label + .accordion-content {
 			PUB also has a <a href="https://www.pub.gov.sg/getinvolved/volunteers" target="_blank">volunteer programme</a> where you can do your part for water at the Singapore World Water Day events and public outreach activities.
 		</p>
 	</div>
+	<input type="checkbox" id="title1"  /><label for="title1">What are the MSE awards that recognise water and environmental sustainability efforts?</label>
+	<div class="accordion-content">
+		<p>The Ministry of Sustainability and the Environment (MSE) organises the biennial <a href="https://www.pae.gov.sg/">President's Award for the Environment</a> (PAE), Singapore's highest environmental accolade. It recognises and honours sustained contributions by environmental champions from the People, Private and Public (3P) sectors, and aims to inspire more community partners to come forward to address our environmental challenge. <br />&nbsp;<br />
+The National Environment Agency (NEA) organises the <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/ecofriend-awards">EcoFriend Awards</a> to recognise environmentally proactive individuals in Singapore who have contributed significantly to environmental sustainability.
+		</p>
+	</div>	
+	
+	<input type="checkbox" id="title1"  /><label for="title1">Where can I seek funding and grants to support my environmental campaigns and events?</label>
+	<div class="accordion-content">
+		<p>MSE has launched a $50 million <a href="http://www.mse.gov.sg/sgecofund/">SG Eco Fund</a> in 2020 to support the co-creation of solutions that advance environmental sustainability and involve the community. Through the SG Eco Fund, we hope to empower everyone across the People, Public and Private sectors to take ownership of the environment and enable our community to build a sustainable Singapore.<br />&nbsp;<br />
+
+The SG Eco Fund has two categories. The 'Sprout' category, which offers funding support of up to $10,000 is open for application throughout the year. Projects that require funding support of more than $10,000 may submit their applications through the 'Main' category grant call from May to August every year. If you have a query about the SG Eco Fund, please reach out to <a href="mailto:sg_eco_fund@mse.gov.sg">sg_eco_fund@mse.gov.sg</a>.<br />&nbsp;<br />
+
+For more information on other grants and programmes, you may visit the NEA's website <a href="https://www.nea.gov.sg/programmes-grants">here</a>, PUB's website <a href="https://www.pub.gov.sg/getinvolved">here</a>, and SFA's website <a href="http://www.sfa.gov.sg/food-farming/funding-schemes">here</a>.
+		</p>
+	</div>	
 </div>
 
 <a name="pollution-control"></a>
