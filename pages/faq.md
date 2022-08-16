@@ -55,6 +55,7 @@ input:checked + label + .accordion-content {
 	  <th style="border:0px">Topics:</th>
 	  </tr>
 	  <tr>
+      <td><a href="#sgp">SG Green Plan</a></td>
       <td><a href="#participate">Participate</a></td>
       <td><a href="#pollution-control">Pollution Control</a></td>
       <td><a href="#public-health">Public Health</a></td>
@@ -62,6 +63,49 @@ input:checked + label + .accordion-content {
     </tr>
   </tbody>
 </table>
+	
+	
+<a name="sgp"></a>
+<h1><b>SG Green Plan</b></h1>
+
+<h2 id="community-volunteer">Community Volunteer</h2>
+<div>
+	<input type="checkbox" id="sgptitle1"  /><label for="sgptitle1">What is the Singapore Green Plan 2030?</label>
+	<div class="accordion-content">
+		<p>The Singapore Green Plan 2030, or the Green Plan, is a whole-of-nation movement to catalyse bold, balanced and collective actions to tackle climate change. The Green Plan charts a common vision for a sustainable future and roadmap for all segments of society to contribute their part for climate change.<br />&nbsp;<br />
+			The Green Plan identifies a green citizenry and a Green Government as key enablers. Government ministries and agencies will take the lead in adopting sustainability actions. We encourage citizens and businesses to adopt sustainable practices.<br />&nbsp;<br />
+			The Green Plan is a long-term living plan that will evolve as we update our targets and strategies when new technologies and practicable solutions become available, and as the government works with Singaporeans and partners to co-create solutions for sustainability.<br />&nbsp;<br />
+			Find out more on the Green Plan <a href="http://www.greenplan.gov.sg">here</a>.<br />&nbsp;
+		</p>
+	</div>
+	<input type="checkbox" id="sgptitle2"  /><label for="sgptitle2">What are the goals and focal areas under the Singapore Green Plan?</label>
+	<div class="accordion-content">
+		<p>There are five pillars under the Green Plan &ndash; City in Nature, Sustainable Living, Energy Reset, Green Economy and Resilient Future. The pillars represent the priority areas in Singapore&rsquo;s sustainable development until 2030.<br />&nbsp;<br />
+  
+<ul>
+<li><strong>City in Nature</strong> seeks to create a green, liveable, and sustainable home for Singaporeans.</li>
+<li><strong>Sustainable Living</strong> will make conserving resources our way of life &ndash; consume less, recycle more, and take public transport.</li>
+<li><strong>Energy Reset</strong> will green our energy mix and power systems with an aim to lower carbon footprint.</li>
+<li>As we pivot towards a <strong>Green Economy</strong>, sustainability will be a new engine of jobs and growth.</li>
+<li>Building a <strong>Resilient Future</strong>, we must adapt to climate change to ensure Singapore&rsquo;s long-term survival.</li>
+</ul>
+
+<br />&nbsp;<br />
+
+Read more about the five pillars and our concrete targets <a href="http://www.greenplan.gov.sg/key-focus-areas/key-targets">here</a>.
+		</p>
+	</div>	
+	
+	<input type="checkbox" id="sgptitle3"  /><label for="sgptitle3">What are our sustainability plans beyond 2030?</label>
+	<div class="accordion-content">
+		<p>Sustainable development has been integral to the Singapore Story. As a low-lying island state with real constraints, Singapore has embedded sustainability in our DNA. Sustainability is about engineering a whole ecosystem and cultivating a new way of life. We will build upon what we have already done for a better, greener future. <br />&nbsp;<br />
+
+We are on track to achieve our 2030 goals. Later this year, we will update our Long-term Low Emissions Development Strategy (LEDS) with our revised plans to achieve Singapore’s net zero goals by or around mid-century. Sustainable development is all about futureproofing. Having transformed from mudflats to a metropolis, we will transform Singapore into a global city of sustainability. 
+		</p>
+	</div>	
+</div>	
+	
+xxxxxxxxxx	
 	
 <a name="participate"></a>
 <h1><b>Participate</b></h1>
