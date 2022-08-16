@@ -70,14 +70,14 @@ input:checked + label + .accordion-content {
 <a name="climate"></a>
 <h1><b>Climate Change</b></h1>
 
-<h2 id="carbon-emissions">Carbon Change</h2>
+<h2 id="carbon-emissions">Climate Change</h2>
 <div>
   	<input type="checkbox" id="cctitle1"  /><label for="cctitle1">What are Singapore’s climate pledge and aspiration? How does Singapore plan to achieve them?</label>
 	<div class="accordion-content">
 		<p>In 2020, Singapore submitted our enhanced 2030 Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the United Nations Framework Convention on Climate Change (UNFCCC). Our 2030 enhanced NDC target is to peak emissions at 65MtCO2e around 2030 and our LEDS aspiration is to halve emissions from its peak to 33MtCO2e by 2050, with a view to achieving net-zero emissions as soon as viable. More details on our climate pledge can be found <a href="https://www.nccs.gov.sg/media/press-release/singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy">here</a>.</p>
 <p>There are three thrusts under <a href="https://www.nccs.gov.sg/media/publications/singapores-long-term-low-emissions-development-strategy">Singapore LEDS</a>:<br />(a) Transformations in industry, economy and society, e.g. more renewable energy, greater energy efficiency, reducing energy consumption; <br />(b) Adoption of advanced low-carbon technologies, e.g. carbon capture, utilisation and storage (CCUS), low-carbon fuels; and <br />(c) Effective international collaboration, e.g. international climate action, regional power grids, market-based mechanisms.</p>
 <p>In the 30-year time frame to 2050, there will be uncertainties and unanticipated developments. In developing Singapore's LEDS aspiration, a positive outlook is taken on global advances in technology and the potential for international co-operation. An overview of our plans to achieve our climate ambition can be found <a href="https://www.nccs.gov.sg/files/docs/default-source/publications/leds-infographic-final.pdf">here</a>.</p>
-<p><br />At the Budget 2022, Singapore announced that we will raise our ambition to achieve net zero emissions by or around mid-century. A consultation with industry and citizen stakeholder groups will be carried out to firm up and finalise our plans before making a formal revision of our LEDS later in 2022.</p>
+<p>At the Budget 2022, Singapore announced that we will raise our ambition to achieve net zero emissions by or around mid-century. A consultation with industry and citizen stakeholder groups will be carried out to firm up and finalise our plans before making a formal revision of our LEDS later in 2022.</p>
 <p>We will continue to rally every segment of society to do their part to address climate change through the Singapore Green Plan 2030, which is our whole-of-nation roadmap that outlines concrete and ambitious sectoral targets to achieve sustainable development and net-zero emissions.&nbsp;</p>
 		
 	</div>
@@ -90,13 +90,50 @@ input:checked + label + .accordion-content {
 <li>There are new business and job opportunities across the economy that will benefit Singapore and Singaporeans.</li>
 </ol>
 <p>The Government will continue to engage members of the public to rally and drive collective actions for sustainability through campaigns, consultations, and co-creation opportunities. MSE initiatives with opportunities for individuals and organisations to play a part include the ongoing <a href="http://www.greenplan.gov.sg">Singapore Green Plan</a>, the annual <a href="http://www.mse.gov.sg/climate-action-week/">Climate Action Week</a>, and <a href="http://www.mse.gov.sg/partnering-community">Citizens&rsquo; Workgroups </a>. MSE also launched the <a href="http://www.sgeco.gov.sg/">SG Eco Fund</a> in 2020 to support individuals and organisations in starting ground-up initiatives.</p>
-<p>&nbsp;</p>
 <p>We invite <a href="http://www.greenplan.gov.sg/take-action/as-individual">individuals</a> and <a href="http://www.greenplan.gov.sg/take-action/as-an-organisation">organisations</a> to join us in playing your part to take environmentally-friendly actions.</p>
 <p>You can keep a lookout and participate in opportunities to co-create and co-deliver sustainability solutions by following us @msesingapore on our social media channels (LinkedIn, Twitter, Instagram, TikTok and Facebook).</p>
 	</div>
 	
 <h2 id="carbon-emissions">Carbon Emissions</h2>
 <div>
+  	<input type="checkbox" id="cetitle1"  /><label for="cetitle1">What is the Government doing to engage and reduce emissions from companies with significant carbon footprint?</label>
+	<div class="accordion-content">
+	<p>We encourage companies to reduce their carbon footprint by improving their carbon and energy efficiency, developing and deploying low carbon technologies, and developing the relevant capabilities.</p>
+<p>The Government provides targeted support through initiatives such as:</p>
+<ul>
+<li>The Energy Efficiency Fund (E2F) - supports efforts by businesses with industrial facilities to improve energy efficiency</li>
+<li>The Resource Efficiency Grant for Energy - offered to manufacturing facilities and data centres</li>
+<li>The Enterprise Sustainability Programme by Enterprise Singapore - supports SMEs in developing capabilities for sustainability.</li>
+</ul>
+<p>The carbon tax is also part of a comprehensive suite of measures to nudge companies into early adoption of technologies for decarbonisation. The carbon tax covers 80% of our total greenhouse gas emissions from about 50 facilities. In 2022, the Government announced that the carbon tax will be progressively raised from the current $5 per tonne to:</p>
+<ul>
+<li>$25 per tonne in 2024 and 2025;</li>
+<li>$45 per tonne in 2026 and 2027, and</li>
+<li>with a view of reaching $50 - $80 per tonne by 2030.</li>
+</ul>
+<p>A transition framework will be introduced to give existing emissions-intensive trade-exposed (EITE) companies transitory allowances for part of their emissions and time to adjust to a low-carbon economy.</p>
+<p>For more information, please refer to <a href="http://www.ncccs.gov.sg">nccs.gov.sg</a>.</p>
+	</div>		
+
+  	<input type="checkbox" id="cetitle2"  /><label for="cetitle2">What is the role of the carbon tax in Singapore? How does our carbon tax compare to those in other jurisdictions?</label>
+	<div class="accordion-content">
+<p>The carbon tax forms part of Singapore&rsquo;s comprehensive suite of climate change mitigation measures. It provides a broad-based price signal across the economy to encourage companies to reduce their emissions yet gives them flexibility to act where it makes the most economic sense. This will accelerate the economic transformation to a future-ready green economy by enhancing the business case to implement energy efficiency improvements and other emissions reduction solutions. This also ensures the long-term viability of business investments and activities in a carbon-constrained world.</p>
+<p>To achieve Singapore's net zero goals by or around mid-century, we have to move decisively and strengthen the impetus for businesses and individuals to reduce our carbon footprint. One of our strategies is to introduce the carbon tax in 2019 at an initial rate of $5 per tonne of emissions from 2019 to 2023, to provide a transitional period for businesses to adjust. The Government will raise the carbon tax to:</p>
+<ul>
+<li>$25 per tonne in 2024 and 2025;</li>
+<li>$45 per tonne in 2026 and 2027;and</li>
+<li>with a view of reaching $50 to $80 per tonne by 2030.</li>
+</ul>
+<p>As of June 2022, 46 national and 36 sub-national jurisdictions have implemented carbon pricing. These jurisdictions account for roughly 23% of global greenhouse gas emissions. Jurisdictions such as Finland, Norway and Sweden have implemented carbon pricing as early as the 1990s. Other jurisdictions within the region that have announced plans to price carbon and introduce new carbon regulations include Brunei and Indonesia.</p>
+	</div>		
+
+  	<input type="checkbox" id="cetitle3"  /><label for="cetitle3">What will the carbon tax revenue be used for?</label>
+	<div class="accordion-content">
+	<p>The Government does not ring-fence sources of fiscal revenue for specific purposes. This ensures that there is flexibility in allocating resources to priority areas with the most important spending needs.</p>
+<p>The Government does not expect to derive additional revenue from the carbon tax increase in this decade. The carbon tax collected will fund decarbonisation measures and cushion the impact on businesses, such as the Resource Efficiency Grant for Energy and the Energy Efficiency Fund, to support industries in improving energy and carbon efficiency. Funds have also been earmarked under the Research, Innovation and Enterprise 2025 plan for the research, development and demonstration of sustainable urban solutions, as well as emerging low-carbon technologies that can drive deeper decarbonisation.</p>
+<p>Other than funding enhanced support for companies to improve energy efficiency, carbon tax revenue will also be used for household assistance and other measures to reduce emissions, such as increasing the deployment of solar photovoltaic systems and improving energy efficiency for buildings.</p>
+	</div>		
+		
   	<input type="checkbox" id="cetitle4"  /><label for="cetitle4">What is a Fixed-Price Credit-based (FPCB) carbon tax system?</label>
 	<div class="accordion-content">
 		<p>Singapore has implemented a Fixed-Price Credit-based (FPCB) tax mechanism where companies will pay the carbon tax by purchasing and surrendering non-tradeable carbon credits representing the equivalent amount of verified emissions generated. These carbon credits can be purchased from the Government at a fixed price.<br>
@@ -289,19 +326,31 @@ Living close to one another necessitates good neighbourly behaviour so that we c
 <a name="safe-mgmt"></a>
 <h1><b>Safe Management Measures</b></h1>
 <div>
-  	<input type="checkbox" id="title7"  /><label for="title7">What is a Fixed-Price Credit-based (FPCB) carbon tax system?</label>
+  	<input type="checkbox" id="smtitle1"  /><label for="smtitle1">What is a Fixed-Price Credit-based (FPCB) carbon tax system?</label>
 	<div class="accordion-content">
 		<p>Singapore has implemented a Fixed-Price Credit-based (FPCB) tax mechanism where companies will pay the carbon tax by purchasing and surrendering non-tradeable carbon credits representing the equivalent amount of verified emissions generated. These carbon credits can be purchased from the Government at a fixed price.<br>
     <br>
     We recognise that there may be benefits in expanding the mode of carbon tax payment to include international carbon credits and linking our carbon tax framework to other carbon pricing jurisdictions in the longer term. We are studying the feasibility of doing so and how we can leverage robust international market mechanisms to complement our domestic mitigation efforts. The FPCB system provides the flexibility to accommodate international carbon credits and link up with external partners, should we decide to do so in future.  
 </p>
 	</div>
-  	<input type="checkbox" id="title8"  /><label for="title8">Are companies allowed to use international carbon credits to meet part of their carbon tax liability?</label>
+  	<input type="checkbox" id="smtitle2"  /><label for="smtitle2">Are companies allowed to use international carbon credits to meet part of their carbon tax liability?</label>
 	<div class="accordion-content">
 		<p>For now, companies may only use fixed-price credits issued by the National Environment Agency (NEA) to meet their carbon tax liability. Nonetheless, the Government is exploring the feasibility of enabling companies to partially offset their carbon tax liability with international carbon credits. We are studying the key design features, potential legislative changes and implementation options, and we will announce our decision in due course.</p>
 	</div>
-
-<p><i>Information accurate as of 31 December 2021.</i></p>
+  	<input type="checkbox" id="smtitle3"  /><label for="smtitle3">Are companies allowed to use international carbon credits to meet part of their carbon tax liability?</label>
+	<div class="accordion-content">
+		<p>For now, companies may only use fixed-price credits issued by the National Environment Agency (NEA) to meet their carbon tax liability. Nonetheless, the Government is exploring the feasibility of enabling companies to partially offset their carbon tax liability with international carbon credits. We are studying the key design features, potential legislative changes and implementation options, and we will announce our decision in due course.</p>
+	</div>
+  	<input type="checkbox" id="smtitle4"  /><label for="smtitle4">Are companies allowed to use international carbon credits to meet part of their carbon tax liability?</label>
+	<div class="accordion-content">
+		<p>For now, companies may only use fixed-price credits issued by the National Environment Agency (NEA) to meet their carbon tax liability. Nonetheless, the Government is exploring the feasibility of enabling companies to partially offset their carbon tax liability with international carbon credits. We are studying the key design features, potential legislative changes and implementation options, and we will announce our decision in due course.</p>
+	</div>	
+  	<input type="checkbox" id="smtitle5"  /><label for="smtitle5">Are companies allowed to use international carbon credits to meet part of their carbon tax liability?</label>
+	<div class="accordion-content">
+		<p>For now, companies may only use fixed-price credits issued by the National Environment Agency (NEA) to meet their carbon tax liability. Nonetheless, the Government is exploring the feasibility of enabling companies to partially offset their carbon tax liability with international carbon credits. We are studying the key design features, potential legislative changes and implementation options, and we will announce our decision in due course.</p>
+	</div>	
+	
+<p><i>Information accurate as of 16 August 2022.</i></p>
 	
 </div>
 </div>
