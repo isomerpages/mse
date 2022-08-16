@@ -79,14 +79,14 @@ input:checked + label + .accordion-content {
 			PUB also has a <a href="https://www.pub.gov.sg/getinvolved/volunteers" target="_blank">volunteer programme</a> where you can do your part for water at the Singapore World Water Day events and public outreach activities.
 		</p>
 	</div>
-	<input type="checkbox" id="title1"  /><label for="title1">What are the MSE awards that recognise water and environmental sustainability efforts?</label>
+	<input type="checkbox" id="ptitle1"  /><label for="ptitle1">What are the MSE awards that recognise water and environmental sustainability efforts?</label>
 	<div class="accordion-content">
 		<p>The Ministry of Sustainability and the Environment (MSE) organises the biennial <a href="https://www.pae.gov.sg/">President's Award for the Environment</a> (PAE), Singapore's highest environmental accolade. It recognises and honours sustained contributions by environmental champions from the People, Private and Public (3P) sectors, and aims to inspire more community partners to come forward to address our environmental challenge. <br />&nbsp;<br />
 The National Environment Agency (NEA) organises the <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/ecofriend-awards">EcoFriend Awards</a> to recognise environmentally proactive individuals in Singapore who have contributed significantly to environmental sustainability.
 		</p>
 	</div>	
 	
-	<input type="checkbox" id="title1"  /><label for="title1">Where can I seek funding and grants to support my environmental campaigns and events?</label>
+	<input type="checkbox" id="ptitle3"  /><label for="ptitle3">Where can I seek funding and grants to support my environmental campaigns and events?</label>
 	<div class="accordion-content">
 		<p>MSE has launched a $50 million <a href="http://www.mse.gov.sg/sgecofund/">SG Eco Fund</a> in 2020 to support the co-creation of solutions that advance environmental sustainability and involve the community. Through the SG Eco Fund, we hope to empower everyone across the People, Public and Private sectors to take ownership of the environment and enable our community to build a sustainable Singapore.<br />&nbsp;<br />
 
