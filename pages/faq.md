@@ -79,7 +79,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="sgptitle2"  /><label for="sgptitle2">What are the goals and focal areas under the Singapore Green Plan?</label>
 	<div class="accordion-content">
-		<p>There are five pillars under the Green Plan &ndash; City in Nature, Sustainable Living, Energy Reset, Green Economy and Resilient Future. The pillars represent the priority areas in Singapore&rsquo;s sustainable development until 2030.<br />&nbsp;<br />
+		<p>There are five pillars under the Green Plan &ndash; City in Nature, Sustainable Living, Energy Reset, Green Economy and Resilient Future. The pillars represent the priority areas in Singapore&rsquo;s sustainable development until 2030.<br />
   
 <ul>
 <li><strong>City in Nature</strong> seeks to create a green, liveable, and sustainable home for Singaporeans.</li>
@@ -89,9 +89,7 @@ input:checked + label + .accordion-content {
 <li>Building a <strong>Resilient Future</strong>, we must adapt to climate change to ensure Singapore&rsquo;s long-term survival.</li>
 </ul>
 
-<br />&nbsp;<br />
-
-Read more about the five pillars and our concrete targets <a href="http://www.greenplan.gov.sg/key-focus-areas/key-targets">here</a>.
+<p>Read more about the five pillars and our concrete targets <a href="http://www.greenplan.gov.sg/key-focus-areas/key-targets">here</a>.</p>
 		</p>
 	</div>	
 	
