@@ -109,20 +109,19 @@ We are on track to achieve our 2030 goals. Later this year, we will update our L
 The public sector has a responsibility to set the pace in sustainability, drive innovation and create demand. The GreenGov.sg initiative, launched in 2021 as part of the Singapore Green Plan, outlines the public sector's commitment to be a key enabler of the national sustainability agenda. Under GreenGov.SG, the public sector will strive to attain ambitious sustainability targets in carbon abatement and resource efficiency and be a positive influence and enabler of green efforts. Every public officer will be encouraged and supported to embrace sustainability practices.
  <br />&nbsp;<br />
   
-GreenGov.SG strives to raise the bar on sustainability through three pillars, or three 'E's:<br />&nbsp;<br />
+GreenGov.SG strives to raise the bar on sustainability through three pillars, or three 'E's:<br />&nbsp;
 <ul>
 <li>Excel &ndash; Setting new and ambitious goals and greening operations.</li>
 <li>Enable &ndash; Achieve a green economy and green citizenry by embedding sustainability in our core business.</li>
 <li>Excite &ndash; Building a culture of active contribution to sustainability in the public service.</li>
 </ul>
-<br />&nbsp;<br />
-The public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships. For an overview of the detailed targets and measures, please find the GreenGov.SG infographic <a href="http://www.greenplan.gov.sg/resources/infographics">here</a>. You may also wish to find out more on GreenGov.SG <a href="http://www.greenplan.gov.sg/key-focus-areas/green-government">here</a>.<br />&nbsp;<br />
+
+<p>The public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships. For an overview of the detailed targets and measures, please find the GreenGov.SG infographic <a href="http://www.greenplan.gov.sg/resources/infographics">here</a>. You may also wish to find out more on GreenGov.SG <a href="http://www.greenplan.gov.sg/key-focus-areas/green-government">here</a>.</p>
 		</p>
 	</div>	
 
 </div>	
-	
-xxxxxxxxxx	
+
 	
 <a name="participate"></a>
 <h1><b>Participate</b></h1>
