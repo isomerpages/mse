@@ -112,7 +112,7 @@ input:checked + label + .accordion-content {
 <li>with a view of reaching $50 - $80 per tonne by 2030.</li>
 </ul>
 <p>A transition framework will be introduced to give existing emissions-intensive trade-exposed (EITE) companies transitory allowances for part of their emissions and time to adjust to a low-carbon economy.</p>
-<p>For more information, please refer to <a href="http://www.ncccs.gov.sg">nccs.gov.sg</a>.</p>
+<p>For more information, please refer to <a href="http://www.nccs.gov.sg">nccs.gov.sg</a>.</p>
 	</div>		
 
   	<input type="checkbox" id="cetitle2"  /><label for="cetitle2">What is the role of the carbon tax in Singapore? How does our carbon tax compare to those in other jurisdictions?</label>
@@ -329,7 +329,7 @@ Living close to one another necessitates good neighbourly behaviour so that we c
   	<input type="checkbox" id="smtitle1"  /><label for="smtitle1">How do I report breaches of Safe Management Measures or poor practices at the workplace?</label>
 	<div class="accordion-content">
 	<p>You may wish to refer to the Requirements for Safe Management Measures at Workplace Advisory from the Ministry of Manpower (MOM), regarding compliance of vendors in their workplace.</p>
-<p>Please report any breaches to <a href="mailto:mom_oshd@mom.gov.sg">mom_oshd@mom.gov.sg</a> via email or visit the MOM website for public reporting of workplace safety and health issues <a href="http://www.service2.mom.gov.sg/efeedback/Forms/eFeedbackWithReferrer.aspx?option=3">here</a>.</p>
+<p>Please report any breaches to <a href="mailto:mom_oshd@mom.gov.sg">mom_oshd@mom.gov.sg</a> via email or visit the MOM website for public reporting of workplace safety and health issues <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting">here</a>.</p>
 	</div>
   	<input type="checkbox" id="smtitle2"  /><label for="smtitle2">Where can I find the latest information on the COVID-19 advisories?</label>
 	<div class="accordion-content">
