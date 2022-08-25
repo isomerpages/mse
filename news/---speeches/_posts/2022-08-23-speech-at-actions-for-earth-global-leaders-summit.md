@@ -6,7 +6,7 @@ file_url:
 description:
 ---
  
-#### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Actions For Earth Global Leaders' Summit
+#### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Actions For Earth Global Leaders' Summit on 23 August 2022
 
 Ms Ann Phua, President and Founder of Hemispheres Foundation,
 
