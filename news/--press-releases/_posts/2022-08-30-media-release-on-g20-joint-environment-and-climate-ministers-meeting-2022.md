@@ -1,6 +1,6 @@
 ---  
 title: Minister for Sustainability and the Environment Grace Fu to Participate in the G20 Joint Environment and Climate Ministers' Meeting 2022
-permalink: /resource-room/category/2022-08-30-media-release-on-g20-joint-environment-and-climate-ministers-meeting-2022  
+permalink: /resource-room/category/2022-08-30-media-release-on-g20-joint-environment-and-climate-ministers-meeting-2022
 image:  
 file_url:  
 description:  
