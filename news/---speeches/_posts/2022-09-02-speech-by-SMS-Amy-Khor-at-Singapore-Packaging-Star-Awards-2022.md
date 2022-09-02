@@ -1,6 +1,6 @@
 ---  
 title: Singapore Packaging Star Awards 2022 - Dr Amy Khor  
-permalink: /resource-room/category/2022-09-02-speech-by-Senior-Minister-of-State-Amy-Khor-at-Singapore-Packaging-Star-Awards-2022/
+permalink: /resource-room/category/2022-09-02-speech-by-SMS-Amy-Khor-at-Singapore-Packaging-Star-Awards-2022/
 image:  
 file_url:  
 description:  
