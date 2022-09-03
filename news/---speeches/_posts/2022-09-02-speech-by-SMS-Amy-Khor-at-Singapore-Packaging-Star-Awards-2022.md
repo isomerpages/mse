@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-####Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Singapore Packaging Star Awards Ceremony 2022, on 2 September 2022####
+#### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Singapore Packaging Star Awards Ceremony 2022, on 2 September 2022
 
 Mr Lennon Tan, President of Singapore Manufacturing Federation
 
