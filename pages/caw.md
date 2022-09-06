@@ -205,7 +205,7 @@ permalink: /climate-action-week/
     <h4><strong><center>HIGHLIGHTS</center></strong></h4>
         <div class="card-news">
             <div class="card-event-infos" style="display: flex; justify-content:center; flex-direction: column; text-align: center; margin-bottom: 0px;">
-                <strong>70 partners are organising over 120 activities during Climate Action Week this year!</strong>
+                <strong>More than 70 partners are organising over 120 activities during Climate Action Week this year!</strong>
               <a class="button_caw" href="../images/caw2022/CAW_Events_2022.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
@@ -499,7 +499,7 @@ permalink: /climate-action-week/
                <div class="card-event">
             <img src="../images/caw2022/foodpanda.png" alt="logo" />
             <div class="card-event-infos">
-              <h2><a href="https://www.foodpanda.sg/contents/green-label" class="external-link" target="_blank">foodpanda - Deals from Green Label merchants</a></h2>
+              <h2><a href="https://www.foodpanda.sg/campaigns?url_key=Green-Label-Food-2022" class="external-link" target="_blank">foodpanda - Deals from Green Label merchants</a></h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>               
