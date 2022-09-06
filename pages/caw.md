@@ -499,7 +499,7 @@ permalink: /climate-action-week/
                <div class="card-event">
             <img src="../images/caw2022/foodpanda.png" alt="logo" />
             <div class="card-event-infos">
-              <h2><a href="https://www.foodpanda.sg/contents/green-label" class="external-link" target="_blank">foodpanda - Deals from Green Label merchants</a></h2>
+              <h2><a href="https://www.foodpanda.sg/campaigns?url_key=Green-Label-Food-2022" class="external-link" target="_blank">foodpanda - Deals from Green Label merchants</a></h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>               
