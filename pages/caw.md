@@ -269,7 +269,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://bethechange.fashion/wp-content/uploads/2022/06/taff-logo-@2x.png" alt="logo" />
           <div class="card-event-infos">
-            <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Textile and Fashion Federation (Singapore) - Circular & Sustainable Fashion Virtual Seminar</a></h2>
+            <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Singapore Fashion Council - Circular & Sustainable Fashion Virtual Seminar</a></h2>
               <p>21 Sep</p>
           </div>
         </div>
@@ -375,7 +375,7 @@ permalink: /climate-action-week/
         <div class="card-event">
           <img src="https://bethechange.fashion/wp-content/uploads/2022/06/taff-logo-@2x.png" alt="logo" />
           <div class="card-event-infos">
-            <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Textile and Fashion Federation (Singapore) - Upcycling Workshop</a></h2>
+            <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Singapore Fashion Council - Upcycling Workshop</a></h2>
               <p>24 Sep</p>
           </div>
         </div>
@@ -513,7 +513,7 @@ permalink: /climate-action-week/
            <div class="card-event">
             <img src="https://www.susgain.com/wp-content/uploads/2021/05/susGain-Logo_200x200.png" alt="logo" />
             <div class="card-event-infos">
-              <h2><a href="http://www.susGain.com/trees" class="external-link" target="_blank">susGain - 'Take Climate Action' App Challenge</a></h2>
+              <h2><a href="https://www.instagram.com/p/Ch9HihiMCYv/" class="external-link" target="_blank">susGain - 'Take Climate Action' App Challenge</a></h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>                
