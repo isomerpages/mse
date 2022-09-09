@@ -205,7 +205,7 @@ permalink: /climate-action-week/
     <h4><strong><center>HIGHLIGHTS</center></strong></h4>
         <div class="card-news">
             <div class="card-event-infos" style="display: flex; justify-content:center; flex-direction: column; text-align: center; margin-bottom: 0px;">
-                <strong>More than 70 partners are organising over 120 activities during Climate Action Week this year!</strong>
+                <strong>More than 80 partners are organising over 130 activities during Climate Action Week this year!</strong>
               <a class="button_caw" href="../images/caw2022/CAW_Events_2022.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
@@ -527,7 +527,7 @@ permalink: /climate-action-week/
             <div class="card-event">
             <img src="https://www.unabiz.com/wp-content/uploads/2019/11/UnaBiz_Black-retina-opt.png" alt="logo" />
             <div class="card-event-infos">
-              <h2><a href="http://www.unabiz.com" class="external-link" target="_blank">UnaBiz - Special discounts for selected Indoor Air Quality sensors</a></h2>
+              <h2><a href="http://www.unabiz.com" class="external-link" target="_blank">UnaBiz - Discounts for Green Building Solutions</a></h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>              
@@ -591,7 +591,7 @@ permalink: /climate-action-week/
            <div class="card-event">
             <img src="https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_logos/frasers-logo.png" alt="logo" />
             <div class="card-event-infos">
-              <h2>Frasers Property - Green Façade lighting at NorthPoint City</h2>
+              <h2>Frasers Property - Green Façade lighting at Century Square</h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>   
