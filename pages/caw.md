@@ -210,7 +210,25 @@ permalink: /climate-action-week/
             </div>
         </div>
       <div class="overflow-container">  
-        <div class="card-event">
+         <div class="card-event">
+          <img src="https://assets.grab.com/wp-content/uploads/sites/4/2021/04/15151634/Grab_Logo_2021.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2>Grabcar Pte Ltd - Launch of eco-friendly rides toggle and Green Programme for Grab Food</h2>
+              <p>9 Sep</p>
+          </div>
+        </div>    
+          
+          <div class="card-event">
+          <img src="../images/caw2022/eos.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.youtube.com/earthobservatoryofsingapore" class="external-link" target="_blank">Earth Observatory of Singapore  - Launch of Climate Chats Video: Climate Actions Towards a Net Zero Future</a></h2>
+              <p>19 Sep</p>
+          </div>
+        </div>    
+          
+     
+          
+          <div class="card-event">
           <img src="https://enterprise.nus.edu.sg/wp-content/uploads/2021/07/2021-NUS-Enterprise-logo.png" alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://nus-etp.my.canva.site/nus-isi-caw-2022" class="external-link" target="_blank">NUS Enterprise - Panel: Climate Change is a Social Crisis - How social entrepreneurs can shape the climate response</a></h2>
@@ -433,6 +451,14 @@ permalink: /climate-action-week/
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
           <div class="overflow-container">
+        <div class="card-event">
+            <img src="..images/caw2022/capitaland.jpg" alt="logo" />
+            <div class="card-event-infos">
+              <h2><a href="https://www.capitaland.com/sg/malls/rafflescity/en/ProjectGreen.html" class="external-link" target="_blank">CapitaLand - Project Green</a></h2>
+                <p>8 Jul - 25 Sep</p>
+            </div>
+          </div>    
+              
           <div class="card-event">
             <img src="https://www.tptc.org.sg/wp-content/uploads/2021/10/Asset-1.png" alt="logo" />
             <div class="card-event-infos">
@@ -460,7 +486,15 @@ permalink: /climate-action-week/
               <h2><a href="https://www.facebook.com/ourtanjongpagar" class="external-link" target="_blank">Tanjong Pagar Town Council - Food donation drive with Food From The Heart</a></h2>
                 <p>10 - 25 Sep</p>
             </div>
-          </div>               
+          </div>    
+                       <div class="card-event">
+          <img src="https://assets.grab.com/wp-content/uploads/sites/4/2021/04/15151634/Grab_Logo_2021.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2>Grabcar Pte Ltd - Green Challenge</h2>
+              <p>19 Sep - 16 Oct</p>
+          </div>
+        </div>   
+              
             <div class="card-event">
             <img src="https://justdabao.com/_next/image?url=%2Fjlogo.png&w=384&q=75" alt="logo" />
             <div class="card-event-infos">
@@ -602,18 +636,25 @@ permalink: /climate-action-week/
                 <p>19 - 25 Sep</p>
             </div>
           </div>                
-                       <div class="card-event">
+         <div class="card-event">
           <img src="../images/caw2022/cloop.png"  alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://www.instagram.com/cloop.sg/?hl=en" class="external-link" target="_blank">Cloop - Textile Recycling Bins</a></h2>
-              <p>19-25 Sep</p>
+              <p>19 - 25 Sep</p>
           </div>
-        </div>          
+        </div>    
+                   <div class="card-event">
+          <img src="../images/caw2022/indigo.jpg"  alt="logo" />
+          <div class="card-event-infos">
+            <h2>Hotel Indigo - Social media campaign, herb seeds giveaway and merchandise discount</h2>
+              <p>19 - 25 Sep</p>
+          </div>
+        </div>        
          <div class="card-event">
           <img src="https://www.smu.edu.sg/themes/smubase_4g/svg/logo-d-smu.svg" alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://www.smusa.sg/sustainability" class="external-link" target="_blank">Singapore Management University - Book Donation Drive — Old Books, New Stories</a></h2>
-              <p>21-23 Sep</p>
+              <p>21 - 23 Sep</p>
           </div>
         </div>                 
            <div class="card-event">
