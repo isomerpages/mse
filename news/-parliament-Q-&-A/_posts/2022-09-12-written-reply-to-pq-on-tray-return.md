@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on Enforcement Action Against Table Littering at Public Dining Spaces by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Mr Desmond Choo:** To ask the Minister for Sustainability and the Environment since the implementation of enforcement action against table littering at public dining spaces (a) what is the number of warnings, fines and court fines that have been issued to diners who do not return their trays; and (b) what is the breakdown of these errant diners by age group.
