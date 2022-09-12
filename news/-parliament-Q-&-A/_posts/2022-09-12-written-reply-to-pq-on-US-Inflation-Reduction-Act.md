@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on the Inflation Reduction Act Enacted by the United States (US) by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Mr Yip Hon Weng:** To ask the Minister for Sustainability and the Environment with regard to the Inflation Reduction Act that was enacted by the United States (US) in August 2022 (a) how will this Act and its projected impact on carbon emissions affect our Singapore Green Plan 2030 and its targets; and (b) how will this Act contribute towards the US-Singapore Climate Partnership to grow our efforts on sustainability and low-carbon solutions.
