@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on Transboundary Haze by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Ng Ling Ling:** To ask the Minister for Sustainability and the Environment given the Singapore Institute of International Affairs' Haze Outlook report dated 15 June 2022, assessing that there is a medium risk of severe transboundary haze this year (a) what will the Ministry do to mitigate the risk of severe transboundary haze; and (b) how does it intend to continue working with its regional counterparts to realise the vision of a haze-free ASEAN.
