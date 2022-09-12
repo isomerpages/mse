@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on Drinking Water Quality by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Prof Koh Lian Pin:** To ask the Minister for Sustainability and the Environment whether the Ministry can provide an update on PUB's and NEA's (i) collection (ii) filtration (iii) testing and (iv) delivery procedures that ensure drinking water remain safe for consumption, in view of the recent study by scientists from Stockholm University and ETH Zurich which showed that a well-known class of pollutants, the per- and polyfluoroalkyl substances (PFAS) in rainwater from several locations globally have exceeded the safe guideline levels of the US Environmental Protection Agency and European standards.
