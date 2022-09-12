@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on the Effectiveness of Singapore's Current Single-stream Recycling Approach by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Assoc Prof Jamus Jerome Lim:** To ask the Minister for Sustainability and the Environment (a) whether there have been studies of the effectiveness of Singapore's current single-stream recycling approach, relative to a multi-stream consumer-sorted one; (b) if so, whether the results of such studies may be shared; and (c) if not, why no such studies have been considered.
