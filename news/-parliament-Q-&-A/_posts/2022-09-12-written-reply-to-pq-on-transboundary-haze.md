@@ -1,5 +1,5 @@
 ---  
-title: Written Reply to Parliamentary Question on Causes for Rise in Dengue Cases by Ms Grace Fu, Minister for Sustainability and the Environment  
+title: Written Reply to Parliamentary Question on Transboundary Haze by Ms Grace Fu, Minister for Sustainability and the Environment  
 permalink: /resource-room/category/2022-09-12-written-reply-to-pq-on-transboundary-haze/
 image:  
 file_url:  
