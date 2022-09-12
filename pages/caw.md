@@ -512,7 +512,7 @@ permalink: /climate-action-week/
            <div class="card-event">
             <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/129250748_2081515081984833_7696712044430333319_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tMIJ6PgV-iQAX_bAPQp&tn=fqcv9lY5zgDS78e6&_nc_ht=scontent.fsin10-1.fna&oh=00_AT8Bae1kJx8kcY747TnY6GRRLLn7kd6HK_YQCRgMgpFMww&oe=6337222B" alt="logo" />
             <div class="card-event-infos">
-              <h2>Parkroyal Collection Marina Bay, Singapore - Sustainable Building Tour</h2>
+              <h2><a href="https://forms.gle/aqSE2kUDmJXVKZYs9" class="external-link" target="_blank">Parkroyal Collection Marina Bay, Singapore - Sustainable Building Tour</a></h2>
                 <p>19 - 23 Sep</p>
             </div>
           </div>               
