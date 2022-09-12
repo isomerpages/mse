@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on Drought in Singapore by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Dr Lim Wee Kiak:** To ask the Minister for Sustainability and the Environment (a) what is the Ministry's definition of a drought in Singapore; (b) whether the Ministry expects Singapore to experience a drought in the near future; and (c) what are the Ministry's plans to cope with a drought.
