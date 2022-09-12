@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on the National Action Strategy on Marine Litter by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Ms Nadia Ahmad Samdin:** To ask the Minister for Sustainability and the Environment (a) whether the National Action Strategy on Marine Litter considers discarded fishing gear including abandoned gill nets, lead fishing weights and hooks as marine litter; (b) whether the impact of such items on the oceans and marine life are monitored; and (c) whether stronger regulation towards the use and disposal of these items will be considered.
