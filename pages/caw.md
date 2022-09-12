@@ -452,7 +452,7 @@ permalink: /climate-action-week/
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
           <div class="overflow-container">
         <div class="card-event">
-            <img src="..images/caw2022/capitaland.jpg" alt="logo" />
+            <img src="../images/caw2022/capitaland.jpg" alt="logo" />
             <div class="card-event-infos">
               <h2><a href="https://www.capitaland.com/sg/malls/rafflescity/en/ProjectGreen.html" class="external-link" target="_blank">CapitaLand - Project Green</a></h2>
                 <p>8 Jul - 25 Sep</p>
