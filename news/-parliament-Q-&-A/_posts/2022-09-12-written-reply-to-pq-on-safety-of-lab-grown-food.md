@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on Safety of Lab-Grown Food by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Dr Lim Wee Kiak** : To ask the Minister for Sustainability and the Environment (a) whether laboratory-grown food options will eventually constitute a significant component of food security in Singapore; (b) what are the plans to make such food options more affordable for the masses; (c) how is the safety of these food options assessed; and (d) what is the Government's stand on concerns that such food products are made of artificial ingredients and safety for long-term consumption has not been established.
