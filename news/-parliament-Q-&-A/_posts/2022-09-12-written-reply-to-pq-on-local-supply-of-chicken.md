@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-
 #### Written Reply to Parliamentary Question on the Local Supply of Live and Chilled Chicken by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Mr Ang Wei Neng:** To ask the Minister for Sustainability and the Environment whether an update can be provided on the local supply of live and chilled chicken.
