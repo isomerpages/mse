@@ -1,6 +1,6 @@
 ---
 title: Global Women's Trade Summit - Dr Amy Khor
-permalink: /resource-room/category/2022-09-13-speech-by-sms-Khor-at-GWTS.md
+permalink: /resource-room/category/2022-09-13-speech-by-sms-Khor-at-GWTS/
 image: 
 file_url: 
 description: 
