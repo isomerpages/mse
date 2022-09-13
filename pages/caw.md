@@ -285,7 +285,7 @@ permalink: /climate-action-week/
           </div>
         </div>
         <div class="card-event">
-          <img src="https://bethechange.fashion/wp-content/uploads/2022/06/taff-logo-@2x.png" alt="logo" />
+          <img src="../images/caw2022/sfc.jpg" alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Singapore Fashion Council - Circular & Sustainable Fashion Virtual Seminar</a></h2>
               <p>21 Sep</p>
@@ -319,6 +319,13 @@ permalink: /climate-action-week/
               <p>22 Sep</p>
           </div>
         </div>
+        <div class="card-event">
+          <img src="../images/caw2022/nstc.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2>Nee Soon Town Council Green Day – Launch of Pilot Community Library</h2>
+              <p>22 Sep</p>
+          </div>
+        </div>          
         <div class="card-event">
           <img src="https://www.nea.gov.sg/images/default-source/about-us/nea-logo.png" alt="logo" />
           <div class="card-event-infos">
@@ -391,7 +398,7 @@ permalink: /climate-action-week/
           </div>
         </div>
         <div class="card-event">
-          <img src="https://bethechange.fashion/wp-content/uploads/2022/06/taff-logo-@2x.png" alt="logo" />
+          <img src="../images/caw2022/sfc.jpg" alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Singapore Fashion Council - Upcycling Workshop</a></h2>
               <p>24 Sep</p>
