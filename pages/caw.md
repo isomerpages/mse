@@ -169,16 +169,17 @@ permalink: /climate-action-week/
       <div class="card-news">
         <div class="card-event-infos">
           <h5>Climate Action Week is happening from 19 – 25 September 2022.</h5>
-           
         </div>
       </div>
-      <!--
-      <div class="card-news">
+            <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="#" class="external-link">Press Release on Climate Action Week </a></h5>
+          <h5><a href="https://greenplan.medium.com/exciting-ways-to-get-in-on-the-climate-action-this-climate-action-week-fe5a00899c89" class="external-link">Exciting Ways to Get In On The Climate Action This Climate Action Week</a></h5>
             <p>19 Sep</p>
         </div>
       </div>
+      
+      <!--
+
       <div class="card-news">
         <div class="card-event-infos">
           <h5><a href="#" class="external-link">Speech by Ms Grace Fu at the Partners for the Environment Forum </a></h5>
