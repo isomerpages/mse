@@ -12,7 +12,7 @@ description:
 
 3 Each tree planted contributed towards NParks' OneMillionTrees movement, which is part of efforts to transform Singapore into a City in Nature, a key pillar under the Singapore Green Plan 2030.
 
-4 The trees planted at the event included native critically endangered species Asam Gelugor (_Garcinia atroviridis_) and Pianggu (_Horsfieldia irya_) as well as native vulnerable species Penarahan Tandok (_Knema curtisii_). Concerted efforts to plant critically endangered and vulnerable species are aimed at conserving Singapore's habitats and ecosystems for long-term sustainability, so that Singaporeans can benefit from their multiple functions. Trees serve as natural air filters, and planting one million more trees will capture 78,000 tonnes of CO2. Denser tree canopies also reflect radiant heat and cool our surface ambient temperatures, mitigating the Urban Heat Island effect and enhancing our resilience against climate change. Please refer to **Annex A** for more information on the trees.
+4 The trees planted at the event included native critically endangered species Asam Gelugor (_Garcinia atroviridis_) and Pianggu (_Horsfieldia irya_) as well as native vulnerable species Penarahan Tandok (_Knema curtisii_). Concerted efforts to plant critically endangered and vulnerable species are aimed at conserving Singapore's habitats and ecosystems for long-term sustainability, so that Singaporeans can benefit from their multiple functions. Trees serve as natural air filters, and planting one million more trees will capture 78,000 tonnes of CO2. Denser tree canopies also reflect radiant heat and cool our surface ambient temperatures, mitigating the Urban Heat Island effect and enhancing our resilience against climate change.
 
 5 Punggol Waterway Park was selected for the tree-planting ceremony as it is located within Singapore's first eco-town, Punggol. The town has undergone a major transformation from its early days as a fishing village to the vibrant 'Waterfront Town' as it is known today. Punggol incorporates sustainable living initiatives such as effective energy, water and waste management technologies which enable eco-friendly high-rise living. The town's transformation mirrors MSE's sustainable development journey over the past 50 years to help Singapore grow to become one of the cleanest and greenest cities in the world today, providing a high quality of life and liveability for our people.
 
@@ -53,7 +53,7 @@ For more MSE50 milestones, please visit [https://mse.gov.sg/mse50milestones](htt
 
 10 Besides the planting of 50 trees, the Ministry is also celebrating its environmental milestones with:
 
-- A commemorative stamp set themed "Building a Green and Resilient Singapore". Each stamp is illustrated to depict a key aspect of MSE's work: water and food security, climate mitigation and adaptation, public health resilience, as well as zero waste and building a circular economy. Please refer to **Annex B** for more information on the stamps.
+- A commemorative stamp set themed "Building a Green and Resilient Singapore". Each stamp is illustrated to depict a key aspect of MSE's work: water and food security, climate mitigation and adaptation, public health resilience, as well as zero waste and building a circular economy.
 
 - A short film showcasing Singapore's transformation into a clean and sustainable Singapore.
 
