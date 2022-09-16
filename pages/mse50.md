@@ -580,9 +580,11 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	
 <div>
 <center>
-	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>&nbsp;
+	  <a class="button" href="/resource-room/category/2022-09-15-media-release-on-tree-planting-ceremony" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-09-15-speech-by-minister-grace-fu-at-mse50-tree-planting/" target="_blank">MSE 50th Anniversary Tree Planting Event</a>&nbsp;
 </center>
 </div>
+   <img src="images/mse50/treeplanting.jpg" class="img-icon" alt="MSE50">
+  <center> Check out photos of the <a href="https://www.facebook.com/MSEsingapore/posts/pfbid015pc4aFT5mrxaXvhBNwJpRoyXhBQby7hNpPy5krHYK4JaUAMufDfWX2GQ8xDdSAml">MSE50 Tree Planting Event</a>!</center>
   
   <hr> 
   
@@ -608,7 +610,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 <div>
 <center>
-	  <a class="button" href="/mse50milestones">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;
+	  <a class="button" href="/mse50milestones">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;  <a class="button" href="https://www.straitstimes.com/singapore/environment/mse-from-newater-to-vertical-farming-key-milestones-singapore-50-year-journey-towards-sustainability" target="_blank">Digital Advertorial</a>&nbsp;
 </center>
 </div>  
   

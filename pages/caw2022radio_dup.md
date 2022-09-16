@@ -169,16 +169,17 @@ permalink: /climateactionweek/
       <div class="card-news">
         <div class="card-event-infos">
           <h5>Climate Action Week is happening from 19 – 25 September 2022.</h5>
-           
         </div>
       </div>
-      <!--
-      <div class="card-news">
+            <div class="card-news">
         <div class="card-event-infos">
-          <h5><a href="#" class="external-link">Press Release on Climate Action Week </a></h5>
+          <h5><a href="https://greenplan.medium.com/exciting-ways-to-get-in-on-the-climate-action-this-climate-action-week-fe5a00899c89" class="external-link">Exciting Ways to Get In On The Climate Action This Climate Action Week</a></h5>
             <p>19 Sep</p>
         </div>
       </div>
+      
+      <!--
+
       <div class="card-news">
         <div class="card-event-infos">
           <h5><a href="#" class="external-link">Speech by Ms Grace Fu at the Partners for the Environment Forum </a></h5>
@@ -217,18 +218,7 @@ permalink: /climateactionweek/
               <p>9 Sep</p>
           </div>
         </div>    
-          
-          <div class="card-event">
-          <img src="../images/caw2022/eos.jpg" alt="logo" />
-          <div class="card-event-infos">
-            <h2><a href="https://www.youtube.com/earthobservatoryofsingapore" class="external-link" target="_blank">Earth Observatory of Singapore  - Launch of Climate Chats Video: Climate Actions Towards a Net Zero Future</a></h2>
-              <p>19 Sep</p>
-          </div>
-        </div>    
-          
-     
-          
-          <div class="card-event">
+   <div class="card-event">
           <img src="https://enterprise.nus.edu.sg/wp-content/uploads/2021/07/2021-NUS-Enterprise-logo.png" alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://nus-etp.my.canva.site/nus-isi-caw-2022" class="external-link" target="_blank">NUS Enterprise - Panel: Climate Change is a Social Crisis - How social entrepreneurs can shape the climate response</a></h2>
@@ -276,7 +266,14 @@ permalink: /climateactionweek/
             <h2><a href="https://nus-etp.my.canva.site/nus-isi-caw-2022" class="external-link" target="_blank">NUS Enterprise - Why so SUS? A Sustainability Meet Up</a></h2>
               <p>20 Sep</p>
           </div>
-        </div>                    
+        </div>   
+        <div class="card-event">
+          <img src="../images/caw2022/nlb.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.eventbrite.sg/e/seniors-build-your-own-plastic-bottle-art-registration-415872143777" class="external-link" target="_blank">National Library Board - Seniors Build-Your-Own: Plastic Bottle Art</a></h2>
+              <p>20 Sep</p>
+          </div>
+        </div>           
         <div class="card-event">
           <img src="https://global-uploads.webflow.com/5cb6a396e13945f2ca46a56f/5d1c2b355ed8a978c6ca57b6_EB%20Logo-trans-p-500.png" alt="logo" />
           <div class="card-event-infos">
@@ -312,6 +309,13 @@ permalink: /climateactionweek/
               <p>21 Sep</p>
           </div>
         </div>
+           <div class="card-event">
+          <img src="../images/caw2022/eos.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.youtube.com/earthobservatoryofsingapore" class="external-link" target="_blank">Earth Observatory of Singapore  - Launch of Climate Chats Video: Climate Actions Towards a Net Zero Future</a></h2>
+              <p>21 Sep</p>
+          </div>
+        </div>         
         <div class="card-event">
           <img src="https://carb0nfi.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7ed21bec-4283-4b29-ac56-b057ddb28edd%2FHorizontal_Logo_Carb0n.fi.jpg?table=block&id=f5c20ce3-81c8-4a48-b240-e72952a190ed&spaceId=2f3da455-5cf6-4124-be31-6d0ba08b3d36&width=1340&userId=&cache=v2" alt="logo" />
           <div class="card-event-infos">
@@ -486,7 +490,15 @@ permalink: /climateactionweek/
               <h2><a href="https://summit.unglobalcompact.sg/smeseries/" class="external-link" target="_blank">Global Compact Network Singapore - GCNS Sustainable SME Series 2022</a></h2>
                 <p>7 - 21 Sep</p>
             </div>
-          </div>   
+          </div> 
+                    <div class="card-event">
+            <img src="https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_logos/frasers-logo.png" alt="logo" />
+            <div class="card-event-infos">
+              <h2><a href="https://www.frasersexperience.com/promotion_detail.php?c=584&desc=Promotions&p=81143&t=fight-food-waste-after-8pm&From=%2Fhappenings.php%3FCategoryID%3D584" class="external-link" target="_blank">Frasers Property - Fight Food Waste After 8 pm</a></h2>
+                <p>9 Sep to 31 Oct</p>
+            </div>
+          </div>    
+              
             <div class="card-event">
             <img src="https://www.tptc.org.sg/wp-content/uploads/2021/10/Asset-1.png" alt="logo" />
             <div class="card-event-infos">
