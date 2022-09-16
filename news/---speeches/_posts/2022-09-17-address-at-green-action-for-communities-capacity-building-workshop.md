@@ -3,7 +3,7 @@ title: South West District's Green Action for Communities Capacity Building Work
 permalink: /resource-room/category/2022-09-17-address-at-Green-Action-For-Communities-Capacity-Building-Workshop/
 image:  
 file_url:  
-description:  
+description:
 ---  
 
 #### Address by Ms Grace Fu, Minister for Sustainability and the Environment, at the South West District's Green Action for Communities Capacity Building Workshop on 17 September 2022 
