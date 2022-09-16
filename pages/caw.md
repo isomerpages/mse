@@ -487,7 +487,15 @@ permalink: /climate-action-week/
               <h2><a href="https://summit.unglobalcompact.sg/smeseries/" class="external-link" target="_blank">Global Compact Network Singapore - GCNS Sustainable SME Series 2022</a></h2>
                 <p>7 - 21 Sep</p>
             </div>
-          </div>   
+          </div> 
+                    <div class="card-event">
+            <img src="https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_logos/frasers-logo.png" alt="logo" />
+            <div class="card-event-infos">
+              <h2><a href="https://www.frasersexperience.com/promotion_detail.php?c=584&desc=Promotions&p=81143&t=fight-food-waste-after-8pm&From=%2Fhappenings.php%3FCategoryID%3D584" class="external-link" target="_blank">Frasers Property - Fight Food Waste After 8 pm</a></h2>
+                <p>9 Sep to 31 Oct</p>
+            </div>
+          </div>    
+              
             <div class="card-event">
             <img src="https://www.tptc.org.sg/wp-content/uploads/2021/10/Asset-1.png" alt="logo" />
             <div class="card-event-infos">
