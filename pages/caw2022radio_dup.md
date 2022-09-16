@@ -1,6 +1,6 @@
 ---
 title: Climate Action Week 2022
-permalink: /climate-action-week-2022/
+permalink: /climateactionweek/
 ---
 
 <style>
@@ -205,12 +205,30 @@ permalink: /climate-action-week-2022/
     <h4><strong><center>HIGHLIGHTS</center></strong></h4>
         <div class="card-news">
             <div class="card-event-infos" style="display: flex; justify-content:center; flex-direction: column; text-align: center; margin-bottom: 0px;">
-                <strong>70 partners are organising over 120 activities during Climate Action Week this year!</strong>
+                <strong>More than 80 partners are organising over 130 activities during Climate Action Week this year!</strong>
               <a class="button_caw" href="../images/caw2022/CAW_Events_2022.pdf" target="_blank">See Full Programme</a>
             </div>
         </div>
       <div class="overflow-container">  
-        <div class="card-event">
+         <div class="card-event">
+          <img src="https://assets.grab.com/wp-content/uploads/sites/4/2021/04/15151634/Grab_Logo_2021.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2>Grabcar Pte Ltd - Launch of eco-friendly rides toggle and Green Programme for Grab Food</h2>
+              <p>9 Sep</p>
+          </div>
+        </div>    
+          
+          <div class="card-event">
+          <img src="../images/caw2022/eos.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.youtube.com/earthobservatoryofsingapore" class="external-link" target="_blank">Earth Observatory of Singapore  - Launch of Climate Chats Video: Climate Actions Towards a Net Zero Future</a></h2>
+              <p>19 Sep</p>
+          </div>
+        </div>    
+          
+     
+          
+          <div class="card-event">
           <img src="https://enterprise.nus.edu.sg/wp-content/uploads/2021/07/2021-NUS-Enterprise-logo.png" alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://nus-etp.my.canva.site/nus-isi-caw-2022" class="external-link" target="_blank">NUS Enterprise - Panel: Climate Change is a Social Crisis - How social entrepreneurs can shape the climate response</a></h2>
@@ -267,9 +285,9 @@ permalink: /climate-action-week-2022/
           </div>
         </div>
         <div class="card-event">
-          <img src="https://bethechange.fashion/wp-content/uploads/2022/06/taff-logo-@2x.png" alt="logo" />
+          <img src="../images/caw2022/sfc.jpg" alt="logo" />
           <div class="card-event-infos">
-            <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Textile and Fashion Federation (Singapore) - Circular & Sustainable Fashion Virtual Seminar</a></h2>
+            <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Singapore Fashion Council - Circular & Sustainable Fashion Virtual Seminar</a></h2>
               <p>21 Sep</p>
           </div>
         </div>
@@ -301,6 +319,13 @@ permalink: /climate-action-week-2022/
               <p>22 Sep</p>
           </div>
         </div>
+        <div class="card-event">
+          <img src="../images/caw2022/nstc.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2>Nee Soon Town Council Green Day – Launch of Pilot Community Library</h2>
+              <p>22 Sep</p>
+          </div>
+        </div>          
         <div class="card-event">
           <img src="https://www.nea.gov.sg/images/default-source/about-us/nea-logo.png" alt="logo" />
           <div class="card-event-infos">
@@ -373,9 +398,9 @@ permalink: /climate-action-week-2022/
           </div>
         </div>
         <div class="card-event">
-          <img src="https://bethechange.fashion/wp-content/uploads/2022/06/taff-logo-@2x.png" alt="logo" />
+          <img src="../images/caw2022/sfc.jpg" alt="logo" />
           <div class="card-event-infos">
-            <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Textile and Fashion Federation (Singapore) - Upcycling Workshop</a></h2>
+            <h2><a href="https://bethechange.fashion/" class="external-link" target="_blank">Singapore Fashion Council - Upcycling Workshop</a></h2>
               <p>24 Sep</p>
           </div>
         </div>
@@ -433,6 +458,14 @@ permalink: /climate-action-week-2022/
         <!-- SECOND OVERFLOW FOR WEEK-LONG EVENTS -->
         <h4><strong><center>WEEK-LONG EVENTS</center></strong></h4>
           <div class="overflow-container">
+        <div class="card-event">
+            <img src="../images/caw2022/capitaland.jpg" alt="logo" />
+            <div class="card-event-infos">
+              <h2><a href="https://www.capitaland.com/sg/malls/rafflescity/en/ProjectGreen.html" class="external-link" target="_blank">CapitaLand - Project Green</a></h2>
+                <p>8 Jul - 25 Sep</p>
+            </div>
+          </div>    
+              
           <div class="card-event">
             <img src="https://www.tptc.org.sg/wp-content/uploads/2021/10/Asset-1.png" alt="logo" />
             <div class="card-event-infos">
@@ -460,7 +493,15 @@ permalink: /climate-action-week-2022/
               <h2><a href="https://www.facebook.com/ourtanjongpagar" class="external-link" target="_blank">Tanjong Pagar Town Council - Food donation drive with Food From The Heart</a></h2>
                 <p>10 - 25 Sep</p>
             </div>
-          </div>               
+          </div>    
+                       <div class="card-event">
+          <img src="https://assets.grab.com/wp-content/uploads/sites/4/2021/04/15151634/Grab_Logo_2021.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2>Grabcar Pte Ltd - Green Challenge</h2>
+              <p>19 Sep - 16 Oct</p>
+          </div>
+        </div>   
+              
             <div class="card-event">
             <img src="https://justdabao.com/_next/image?url=%2Fjlogo.png&w=384&q=75" alt="logo" />
             <div class="card-event-infos">
@@ -478,7 +519,7 @@ permalink: /climate-action-week-2022/
            <div class="card-event">
             <img src="https://scontent.fsin10-1.fna.fbcdn.net/v/t1.6435-9/129250748_2081515081984833_7696712044430333319_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tMIJ6PgV-iQAX_bAPQp&tn=fqcv9lY5zgDS78e6&_nc_ht=scontent.fsin10-1.fna&oh=00_AT8Bae1kJx8kcY747TnY6GRRLLn7kd6HK_YQCRgMgpFMww&oe=6337222B" alt="logo" />
             <div class="card-event-infos">
-              <h2>Parkroyal Collection Marina Bay, Singapore - Sustainable Building Tour</h2>
+              <h2><a href="https://forms.gle/aqSE2kUDmJXVKZYs9" class="external-link" target="_blank">Parkroyal Collection Marina Bay, Singapore - Sustainable Building Tour</a></h2>
                 <p>19 - 23 Sep</p>
             </div>
           </div>               
@@ -499,7 +540,7 @@ permalink: /climate-action-week-2022/
                <div class="card-event">
             <img src="../images/caw2022/foodpanda.png" alt="logo" />
             <div class="card-event-infos">
-              <h2><a href="https://www.foodpanda.sg/contents/green-label" class="external-link" target="_blank">foodpanda - Deals from Green Label merchants</a></h2>
+              <h2><a href="https://www.foodpanda.sg/campaigns?url_key=Green-Label-Food-2022" class="external-link" target="_blank">foodpanda - Deals from Green Label merchants</a></h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>               
@@ -513,7 +554,7 @@ permalink: /climate-action-week-2022/
            <div class="card-event">
             <img src="https://www.susgain.com/wp-content/uploads/2021/05/susGain-Logo_200x200.png" alt="logo" />
             <div class="card-event-infos">
-              <h2><a href="http://www.susGain.com/trees" class="external-link" target="_blank">susGain - 'Take Climate Action' App Challenge</a></h2>
+              <h2><a href="https://www.instagram.com/p/Ch9HihiMCYv/" class="external-link" target="_blank">susGain - 'Take Climate Action' App Challenge</a></h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>                
@@ -527,7 +568,7 @@ permalink: /climate-action-week-2022/
             <div class="card-event">
             <img src="https://www.unabiz.com/wp-content/uploads/2019/11/UnaBiz_Black-retina-opt.png" alt="logo" />
             <div class="card-event-infos">
-              <h2><a href="http://www.unabiz.com" class="external-link" target="_blank">UnaBiz - Special discounts for selected Indoor Air Quality sensors</a></h2>
+              <h2><a href="http://www.unabiz.com" class="external-link" target="_blank">UnaBiz - Discounts for Green Building Solutions</a></h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>              
@@ -591,7 +632,7 @@ permalink: /climate-action-week-2022/
            <div class="card-event">
             <img src="https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_logos/frasers-logo.png" alt="logo" />
             <div class="card-event-infos">
-              <h2>Frasers Property - Green Façade lighting at NorthPoint City</h2>
+              <h2>Frasers Property - Green Façade lighting at Century Square</h2>
                 <p>19 - 25 Sep</p>
             </div>
           </div>   
@@ -602,18 +643,25 @@ permalink: /climate-action-week-2022/
                 <p>19 - 25 Sep</p>
             </div>
           </div>                
-                       <div class="card-event">
+         <div class="card-event">
           <img src="../images/caw2022/cloop.png"  alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://www.instagram.com/cloop.sg/?hl=en" class="external-link" target="_blank">Cloop - Textile Recycling Bins</a></h2>
-              <p>19-25 Sep</p>
+              <p>19 - 25 Sep</p>
           </div>
-        </div>          
+        </div>    
+                   <div class="card-event">
+          <img src="../images/caw2022/indigo.jpg"  alt="logo" />
+          <div class="card-event-infos">
+            <h2>Hotel Indigo - Social media campaign, herb seeds giveaway and merchandise discount</h2>
+              <p>19 - 25 Sep</p>
+          </div>
+        </div>        
          <div class="card-event">
           <img src="https://www.smu.edu.sg/themes/smubase_4g/svg/logo-d-smu.svg" alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://www.smusa.sg/sustainability" class="external-link" target="_blank">Singapore Management University - Book Donation Drive — Old Books, New Stories</a></h2>
-              <p>21-23 Sep</p>
+              <p>21 - 23 Sep</p>
           </div>
         </div>                 
            <div class="card-event">
@@ -681,6 +729,11 @@ permalink: /climate-action-week-2022/
       <div class="card-news">
         <div class="card-event-infos">
           <center><h5><a href="https://www.mse.gov.sg/resources/" class="external-link">View More Resources </a></h5></center>
+        </div>
+      </div>
+             <div class="card-news">
+        <div class="card-event-infos">
+          <center><h5><a href="https://www.mse.gov.sg/climate-action-week-2021/" class="external-link">Last Year's Climate Action Week</a></h5></center>
         </div>
       </div>
   </section>
