@@ -218,18 +218,7 @@ permalink: /climate-action-week/
               <p>9 Sep</p>
           </div>
         </div>    
-          
-          <div class="card-event">
-          <img src="../images/caw2022/eos.jpg" alt="logo" />
-          <div class="card-event-infos">
-            <h2><a href="https://www.youtube.com/earthobservatoryofsingapore" class="external-link" target="_blank">Earth Observatory of Singapore  - Launch of Climate Chats Video: Climate Actions Towards a Net Zero Future</a></h2>
-              <p>19 Sep</p>
-          </div>
-        </div>    
-          
-     
-          
-          <div class="card-event">
+   <div class="card-event">
           <img src="https://enterprise.nus.edu.sg/wp-content/uploads/2021/07/2021-NUS-Enterprise-logo.png" alt="logo" />
           <div class="card-event-infos">
             <h2><a href="https://nus-etp.my.canva.site/nus-isi-caw-2022" class="external-link" target="_blank">NUS Enterprise - Panel: Climate Change is a Social Crisis - How social entrepreneurs can shape the climate response</a></h2>
@@ -320,6 +309,13 @@ permalink: /climate-action-week/
               <p>21 Sep</p>
           </div>
         </div>
+           <div class="card-event">
+          <img src="../images/caw2022/eos.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.youtube.com/earthobservatoryofsingapore" class="external-link" target="_blank">Earth Observatory of Singapore  - Launch of Climate Chats Video: Climate Actions Towards a Net Zero Future</a></h2>
+              <p>21 Sep</p>
+          </div>
+        </div>         
         <div class="card-event">
           <img src="https://carb0nfi.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7ed21bec-4283-4b29-ac56-b057ddb28edd%2FHorizontal_Logo_Carb0n.fi.jpg?table=block&id=f5c20ce3-81c8-4a48-b240-e72952a190ed&spaceId=2f3da455-5cf6-4124-be31-6d0ba08b3d36&width=1340&userId=&cache=v2" alt="logo" />
           <div class="card-event-infos">
