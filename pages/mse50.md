@@ -584,7 +584,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 </center>
 </div>
    <img src="images/mse50/treeplanting.jpg" class="img-icon" alt="MSE50">
-   Check out photos of the <a href="https://www.facebook.com/MSEsingapore/posts/pfbid015pc4aFT5mrxaXvhBNwJpRoyXhBQby7hNpPy5krHYK4JaUAMufDfWX2GQ8xDdSAml">MSE50 Tree Planting Event</a>!
+  <center> Check out photos of the <a href="https://www.facebook.com/MSEsingapore/posts/pfbid015pc4aFT5mrxaXvhBNwJpRoyXhBQby7hNpPy5krHYK4JaUAMufDfWX2GQ8xDdSAml">MSE50 Tree Planting Event</a>!</center>
   
   <hr> 
   
