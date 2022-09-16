@@ -580,7 +580,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 	
 <div>
 <center>
-	  <a class="button" href="/resource-room/category/2022-04-01-mse-celebrates-50-years" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-04-01-opening-address-by-minister-at-mse-excellence-day" target="_blank">Launch of MSE50 at MSE Excellence Day</a>&nbsp;
+	  <a class="button" href="/resource-room/category/2022-09-15-media-release-on-tree-planting-ceremony" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-09-15-speech-by-minister-grace-fu-at-mse50-tree-planting/" target="_blank">MSE 50th Anniversary Tree Planting Event</a>&nbsp;
 </center>
 </div>
   
