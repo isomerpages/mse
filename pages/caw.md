@@ -277,7 +277,14 @@ permalink: /climate-action-week/
             <h2><a href="https://nus-etp.my.canva.site/nus-isi-caw-2022" class="external-link" target="_blank">NUS Enterprise - Why so SUS? A Sustainability Meet Up</a></h2>
               <p>20 Sep</p>
           </div>
-        </div>                    
+        </div>   
+        <div class="card-event">
+          <img src="../images/caw2022/nlb.jpg" alt="logo" />
+          <div class="card-event-infos">
+            <h2><a href="https://www.eventbrite.sg/e/seniors-build-your-own-plastic-bottle-art-registration-415872143777" class="external-link" target="_blank">National Library Board - Seniors Build-Your-Own: Plastic Bottle Art</a></h2>
+              <p>20 Sep</p>
+          </div>
+        </div>           
         <div class="card-event">
           <img src="https://global-uploads.webflow.com/5cb6a396e13945f2ca46a56f/5d1c2b355ed8a978c6ca57b6_EB%20Logo-trans-p-500.png" alt="logo" />
           <div class="card-event-infos">
