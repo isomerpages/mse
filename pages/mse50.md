@@ -610,7 +610,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 <div>
 <center>
-	  <a class="button" href="/mse50milestones">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;
+	  <a class="button" href="/mse50milestones">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;  <a class="button" href="https://www.straitstimes.com/singapore/environment/mse-from-newater-to-vertical-farming-key-milestones-singapore-50-year-journey-towards-sustainability" target="_blank">Digital Advertorial</a>&nbsp;
 </center>
 </div>  
   
