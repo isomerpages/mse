@@ -1,5 +1,5 @@
 ---  
-title: Forward Singapore: Ministry of Sustainability and the Environment Calls for All Sectors to Work Together for a Green, Liveable and Climate-Resilient Singapore
+title: Forward Singapore - Ministry of Sustainability and the Environment Calls for All Sectors to Work Together for a Green, Liveable and Climate-Resilient Singapore
 permalink: /resource-room/category/2022-09-19-media-release-on-partners-for-the-environment-forum-2022
 image:  
 file_url:  
@@ -12,7 +12,7 @@ description:
 
 2 As part of the Forward Singapore exercise, the Government will seek to engage all segments of society to discuss the challenges, constraints as well as opportunities that Singapore faces as we tackle climate change, the trade-offs that Singapore has to balance, our priorities moving forward, and how we can all contribute to realise our vision for the future.
 
-3 The Ministry of Sustainability and the Environment (MSE) is inviting members of the public to share their views on how we can foster a more sustainable way of life that stewards our environmental resources responsibly for future generations. Members of public may submit their views at go.gov.sg/stewardenv.The Ministry is also calling for individuals, educational institutions and organisations to make pledges to contribute to a green, liveable and climate-resilient Singapore.
+3 The Ministry of Sustainability and the Environment (MSE) is inviting members of the public to share their views on how we can foster a more sustainable way of life that stewards our environmental resources responsibly for future generations. Members of public may submit their views at go.gov.sg/stewardenv. The Ministry is also calling for individuals, educational institutions and organisations to make pledges to contribute to a green, liveable and climate-resilient Singapore.
 
 **140 Activities at Climate Action Week 2022 to Rally All Sectors to Take Action**
 
