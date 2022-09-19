@@ -92,7 +92,7 @@ Ladies and Gentlemen
 
 31 Our individual choices and actions matter because they determine the collective outcome. As part of the Forward Singapore exercise, we will be starting a series of conversations on environmental and fiscal sustainability. To kick this off, we invite members of the public to share with us their views on environmental sustainability issues, and come forward with a pledge – to be a contributor, an advocate, or a champion for environmental sustainability – via the Forward SG website. I look forward to hearing your views and suggestions. I look forward even more to your participation, to co-lead and co-create.
 
-**PARTNERSHIP FOR A BETTER SINGAPORE, FOR FUTURE GENERATIONS
+**PARTNERSHIP FOR A BETTER SINGAPORE, FOR FUTURE GENERATIONS**
 
 32 As stewards, we recognise that we are investing in a Singapore that will endure beyond our generation, and our children's generation — that we are caretakers and guardians of a country that will and must outlast us.
 
