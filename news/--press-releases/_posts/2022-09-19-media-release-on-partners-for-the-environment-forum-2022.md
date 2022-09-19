@@ -1,5 +1,5 @@
 ---  
-title: Forward Singapore: Ministry of Sustainability and the Environment Calls for All Sectors to Work Together for a Green, Liveable and Climate-Resilient Singapore
+title: Forward Singapore - Ministry of Sustainability and the Environment Calls for All Sectors to Work Together for a Green, Liveable and Climate-Resilient Singapore
 permalink: /resource-room/category/2022-09-19-media-release-on-partners-for-the-environment-forum-2022
 image:  
 file_url:  
