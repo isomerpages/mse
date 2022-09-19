@@ -34,7 +34,7 @@ sections:
     - infopic:
          title: <h2 style="font-family:'Cabin'">Forward Singapore's Steward Pillar</h2>
         # subtitle: ForwardSG
-         description: We are seeking to engage all segments of society to discuss the challenges, constraints as well as opportunities that Singapore faces as we tackle climate change, the trade-offs that Singapore has to balance, our priorities moving forward and how we can all contribute to realise our vision for the future
+         description: We are seeking to engage all segments of society to discuss the challenges, constraints as well as opportunities that Singapore faces as we tackle climate change, the trade-offs that Singapore has to balance, our priorities moving forward and how we can all contribute to realise our vision for the future.
          button: Forward Singapore
          url: /forwardsg
          image: /images/ForwardSG.png
