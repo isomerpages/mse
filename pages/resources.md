@@ -97,7 +97,14 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <div id="resources-container">
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
-
+    <div class="card">
+        <a href="/resources/environmentally-friendly-events-guidelines.pdf" target="_blank">  
+            <div class="card-content">
+                <h5>Guide for Environmentally-Friendly Events</h5>
+            </div>
+        <img src="/images/events-resources.png" alt="Guide for Environmentally-Friendly Events" style="width:300px;">
+        </a>
+    </div>
 	
 	<div class="card">
         <a href="/nasml" target="_blank">  
@@ -190,14 +197,6 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
                 <h5>Towards Zero Waste (Infographics, Videos)</h5>
             </div>
         <img src="/images/towards-zero-waste.png" alt="Towards Zero Waste" style="width:300px;">
-        </a>
-    </div>
-    <div class="card">
-        <a href="/resources/environmentally-friendly-events-guidelines.pdf" target="_blank">  
-            <div class="card-content">
-                <h5>Guide for Environmentally-Friendly Events</h5>
-            </div>
-        <img src="/images/events-resources.png" alt="Guide for Environmentally-Friendly Events" style="width:300px;">
         </a>
     </div>
     <div class="card">
