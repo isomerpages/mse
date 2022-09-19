@@ -13,9 +13,9 @@ Through this exercise, we will examine what we want to see for Singapore’s fut
 
 As part of the Forward Singapore exercise, we seek to engage all segments of society to discuss the challenges, constraints as well as opportunities that Singapore faces as we tackle climate change, the trade-offs that Singapore has to balance, our priorities moving forward, and how we can all contribute to realise our vision for the future.
 
-The Ministry of Sustainability and the Environment (MSE) is inviting members of the public to [share their views](http://go.gov.sg/stewardenv) on how we can foster a more sustainable way of life that stewards our environmental resources responsibly for future generations. 
+From now to 31 Oct 2022, we would like to invite members of the public to [share their views](http://go.gov.sg/stewardenv) on how we can foster a more sustainable way of life that stewards our environmental resources responsibly for future generations. 
 
-The Ministry is also calling for individuals, educational institutions and organisations to [make pledges](https://form.gov.sg/#!/63220530214e7000112adcac) to contribute to a green, liveable and climate-resilient Singapore. 
+We are also calling for individuals, educational institutions and organisations to [make pledges](https://form.gov.sg/#!/63220530214e7000112adcac) to contribute to a green, liveable and climate-resilient Singapore. 
 
 
 
