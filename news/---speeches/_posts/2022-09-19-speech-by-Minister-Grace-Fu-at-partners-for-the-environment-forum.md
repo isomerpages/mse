@@ -48,7 +48,7 @@ Ladies and Gentlemen
 
 **Social compact across generations**
 
-12 First, thesocial compact across generations. We have inherited Singapore in a good state due to the foresight and prudence of past generations. Now, with the baton squarely in our hands, we need to ask ourselves what our generation should do to minimise the cost of climate change to future generations.
+12 First, the social compact across generations. We have inherited Singapore in a good state due to the foresight and prudence of past generations. Now, with the baton squarely in our hands, we need to ask ourselves what our generation should do to minimise the cost of climate change to future generations.
 
 13 Climate change poses a serious threat to our survival. Rising urban heat threatens our health and well-being. Prolonged drought or intense floods can affect energy sources and food production, and impact Singapore's access to these essential supplies. The rising sea threatens to engulf large swathes of our island nation.The green transition is no longer an option, but a strategic shift we need to make to survive and thrive in a carbon and resource constrained future.
 
