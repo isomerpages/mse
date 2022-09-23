@@ -1,5 +1,5 @@
 ---  
-title: Partners for the Environment Forum and Launch of Forward Singapore Steward Pillar - Ms Grace Fu  
+title: Partners for the Environment Forum - Ms Grace Fu  
 permalink: /resource-room/category/2022-09-19-speech-by-Minister-Grace-Fu-at-partners-for-the-environment-forum/
 image:  
 file_url:  
