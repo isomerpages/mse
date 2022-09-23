@@ -1,4 +1,12 @@
-**OPENING REMARKS BY MR BAEY YAM KENG, SENIOR PARLIAMENTARY SECRETARY FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE SATA COMMHEALTH SOLAR ROOFTOP OPENING CEREMONY ON 23 SEPTEMBER 2022**
+---  
+title: SATA CommHealth Solar Rooftop Opening Ceremony - Mr Baey Yam Keng  
+permalink: /resource-room/category/2022-09-23-opening-remarks-by-sps-mr-baey-yam-keng-at-the-satacommhealth-solar-rooftop-opening-ceremony
+image:  
+file_url:  
+description:  
+---  
+
+#### Opening Remarks by Mr Baey Yam Keng, Senior Parliamentary Secretary for Sustainability and the Environment, at the SATA CommHealth Solar Rooftop Opening Ceremony, on 22 September 2022
 
 Mr Alvin Wee, Head of Transport, Grab Singapore
 
