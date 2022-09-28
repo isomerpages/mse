@@ -25,3 +25,6 @@ Youths are invited to participate in a dialogue to explore the challenges and op
 
 #### Our Coastal Conversation (City-East Coast)
 Members of public are invited to participate in PUB’s community dialogue sessions to hear from experts on coastal and flood protection strategies and approaches, and share their views and ideas on how we can transform Singapore’s coastlines along City-East Coast to protect ourselves from the impacts of climate change in the next few decades. [Register](http://www.sg/opportunities/our-coastal-conversation-city-east-coast)
+
+#### Public consultation on proposed Beverage Container Return Scheme
+The National Environment Agency is implementing a beverage container return scheme as part of efforts to reduce waste, and make Singapore a Zero Waste Nation. Members of public are invited to provide views on the proposed scheme, particularly on the type of beverage containers to be covered, deposit amount, and return point locations. [Share your views](https://www.reach.gov.sg/Participate/Public-Consultation/National-Environment-Agency/public-consultation-on-proposed-beverage-container-return-scheme)
