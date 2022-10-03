@@ -1,6 +1,6 @@
 ---  
 title: Minister for Sustainability and the Environment Grace Fu to participate in the preparatory meeting of the 27th Conference of the Parties to the United Nations Framework on Climate Change in Kinshasa, the Democratic Republic of the Congo
-permalink: /resource-room/category/2022-10-02-media-release-on-minister-participating-in-precop-27-kinshasa
+permalink: /resource-room/category/2022-10-02-media-release-minister-to-participate-in-precop-27
 image:  
 file_url:  
 description:  
