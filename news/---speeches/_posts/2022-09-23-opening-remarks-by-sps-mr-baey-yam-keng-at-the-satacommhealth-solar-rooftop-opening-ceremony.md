@@ -18,7 +18,7 @@ Ms Valerie Lee, Head of Corporate Affairs (Singapore and Southeast Asia), Sembco
 
 Ladies and gentlemen,
 
-Thank you for inviting me to join you today. I am delighted to be here at SATA CommHealth Headquarters for the unveiling of the solar panels.
+1 Thank you for inviting me to join you today. I am delighted to be here at SATA CommHealth Headquarters for the unveiling of the solar panels.
 
 **Climate Change and Challenges for Singapore**
 

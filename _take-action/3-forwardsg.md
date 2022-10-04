@@ -15,7 +15,7 @@ As part of the Forward Singapore exercise, we seek to engage all segments of soc
 
 From now to 31 Oct 2022, we would like to invite you to [share your views](http://go.gov.sg/stewardenv) on how we can foster a more sustainable way of life that stewards our environmental resources responsibly for future generations. 
 
-We are also calling for individuals, educational institutions and organisations to [make pledges](https://form.gov.sg/#!/63220530214e7000112adcac) to contribute to a green, liveable and climate-resilient Singapore. For each pledge category, there are three tiers: Contributor, Advocate or Champion. Respondents can also choose to pledge as individuals or on behalf of their school / organisation. You are also encouraged to share your pledge by uploading it on your social media accounts with the hashtag #GreenNationPledgeSG.
+We are also calling for individuals, educational institutions and organisations to [make pledges](http://go.gov.sg/greennationpledge) to contribute to a green, liveable and climate-resilient Singapore. For each pledge category, there are three tiers: Contributor, Advocate or Champion. Respondents can also choose to pledge as individuals or on behalf of their school / organisation. You are also encouraged to share your pledge by uploading it on your social media accounts with the hashtag #GreenNationPledgeSG.
 
 
 ## Key Upcoming Public Engagements under the Steward Pillar
