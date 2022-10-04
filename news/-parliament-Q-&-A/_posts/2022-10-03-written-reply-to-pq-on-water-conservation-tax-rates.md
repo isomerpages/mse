@@ -1,11 +1,11 @@
 ---  
-title: Written Reply to Parliamentary Question on Water Conservation Tax Rates by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment
+title: Written Reply to Parliamentary Question on Water Conservation Tax Rates by Ms Grace Fu, Minister for Sustainability and the Environment
 permalink: /resource-room/category/2022-10-03-written-reply-to-pq-on-water-conservation-tax-rates/
 image:  
 file_url:  
 description:  
 ---  
-#### Written Reply to Parliamentary Question on Water Conservation Tax Rates by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on Water Conservation Tax Rates by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Mr Leon Perera:** To ask the Minister for Sustainability and the Environment (a) what is the rationale for there being only two water conservation tax rates for potable water usage; (b) why is 40 cubic metres set as the threshold between the two tax rates; and (c) whether the Ministry will consider conducting trials on introducing a more progressive, multi-tiered volumetric water conservation tax.
 
