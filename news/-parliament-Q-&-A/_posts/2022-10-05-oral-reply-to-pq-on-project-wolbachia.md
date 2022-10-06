@@ -5,7 +5,7 @@ image:
 file_url:  
 description:  
 ---  
-#### Written Reply to Parliamentary Question on Project Wolbachia by Mr Baey Yam Keng, Senior Parliamentary Secretary for Sustainability and the Environment
+#### Oral Reply to Parliamentary Question on Project Wolbachia by Mr Baey Yam Keng, Senior Parliamentary Secretary for Sustainability and the Environment
 
 **Ms Yeo Wan Ling:** To ask the Minister for Sustainability and the Environment (a) whether there has been an increasing number of feedback received on insect or mosquito bites in areas where Project Wolbachia was introduced despite that these male Wolbachia-Aedes mosquitoes do not bite; and (b) whether the Ministry will provide resources to residents or neighbourhoods experiencing such a situation to address these feedback.
 
