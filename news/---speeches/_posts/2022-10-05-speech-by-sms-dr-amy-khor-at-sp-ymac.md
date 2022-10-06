@@ -1,5 +1,5 @@
 ---  
-title: Unlocking Capital For Sustainability 2022 - Ms Grace Fu  
+title: Singapore Polytechnic 11th Youth Model ASEAN Conference
 permalink: /resource-room/category/2022-10-05-speech-by-sms-dr-amy-khor-at-sp-ymac
 image:  
 file_url:  
