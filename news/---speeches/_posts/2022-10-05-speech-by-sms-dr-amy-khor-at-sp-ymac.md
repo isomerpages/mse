@@ -10,7 +10,7 @@ description:
 
 Ladies and Gentlemen
 
-	Good afternoon. Thank you for having me this afternoon. I hope you had a meaningful fortnight before this, learning and understanding the challenges we face as a region in combating climate change, and developing solutions to address them.   
+Good afternoon. Thank you for having me this afternoon. I hope you had a meaningful fortnight before this, learning and understanding the challenges we face as a region in combating climate change, and developing solutions to address them.   
 
 **SOUTHEAST ASIA AND CLIMATE CHANGE**
 
