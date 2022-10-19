@@ -3,7 +3,7 @@ title: Green Nation Pledge
 permalink: /greennationpledge
 
 ---
-<img src="/images/GNPWebBanner.png" alt="Green Nation Pledge">
+<a href="http://go.gov.sg/greennationpledge"><img src="/images/GNPWebBanner.png" alt="Green Nation Pledge"></a>
 
 
 ### Take Action Now 
