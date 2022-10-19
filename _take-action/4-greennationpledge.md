@@ -5,9 +5,6 @@ permalink: /greennationpledge
 ---
 <img src="/images/GNPWebBanner.png" alt="Green Nation Pledge">
 
-### MSE's Green Nation Pledge
-
-MSE pledges to.....
 
 ### Take Action Now 
 
