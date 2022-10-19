@@ -1,6 +1,7 @@
 ---
 title: Forward Singapore
 permalink: /forwardsg
+image: /images/mse-home-banner.jpg
 ---
 
 # Forward Singapore's Steward Pillar
