@@ -15,4 +15,4 @@ Please make a pledge at [http://go.gov.sg/greennationpledge](go.gov.sg/greennati
 
 We look forward to seeing your commitment to help Singapore become a Green Nation.
 
-Share your pledge on social media with the hashtag #GreenNationPledgeSG and you might just inspire someone else to start their green journey today. 
+Share your pledge on social media with the hashtag [#GreenNationPledgeSG] and you might just inspire someone else to start their green journey today. 
