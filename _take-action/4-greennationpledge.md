@@ -13,7 +13,7 @@ MSE pledges to.....
 
 The time to take action is now. Make a pledge and tell us how you will help make Singapore a green, liveable and climate-resilient home! A contributor, an advocate, or a champion, which one are you? Remember, every little effort counts, so do what you can and be a part of the driving force towards a sustainable future.
 
-Please make a pledge at go.gov.sg/greennationpledge. You can choose to pledge as an individual or on behalf of your school / organisation. 
+Please make a pledge at [http://go.gov.sg/greennationpledge](go.gov.sg/greennationpledge). You can choose to pledge as an individual or on behalf of your school / organisation. 
 
 We look forward to seeing your commitment to help Singapore become a Green Nation.
 
