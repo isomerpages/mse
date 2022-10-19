@@ -1,5 +1,6 @@
 ---
 title: Green Nation Pledge
+description: Make a pledge and tell us how you will help make Singapore a green, liveable and climate-resilient home!
 permalink: /greennationpledge
 
 ---
