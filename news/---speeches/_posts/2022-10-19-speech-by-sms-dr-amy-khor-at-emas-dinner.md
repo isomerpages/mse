@@ -1,5 +1,5 @@
 ---  
-title: 9th EMAS’ Golf and Dinner 2022
+title: 9th EMAS’ Golf and Dinner 2022 - Dr Amy Khor
 permalink: /resource-room/category/2022-10-19-speech-by-sms-dr-amy-khor-at-emas-dinner
 image:  
 file_url:  
