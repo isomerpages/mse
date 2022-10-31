@@ -32,4 +32,4 @@ Ladies and Gentlemen
 
 8 I invite you to join us in making a Green Nation pledge at go.sg/greennationpledge and commit to championing a green, liveable and climate-resilient Singapore. Do encourage your friends and families to do so too.
 
-9 Let’s work together to help Singapore become a Zero Waste Nation
+9 Let’s work together to help Singapore become a Zero Waste Nation.
