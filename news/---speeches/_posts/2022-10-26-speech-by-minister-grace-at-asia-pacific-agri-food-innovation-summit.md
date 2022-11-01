@@ -1,5 +1,5 @@
 ---  
-title: Epson Southeast Asia HQ 40th Anniversary Gala Dinner - Dr Amy Khor 
+title: Asia-Pacific Agri-Food Innovation Summit - Grace Fu 
 permalink: /resource-room/category/2022-10-26-speech-by-minister-grace-at-asia-pacific-agri-food-innovation-summit
 image:  
 file_url:  
