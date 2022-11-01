@@ -1,5 +1,5 @@
 ---  
-title: The Resource Sustainablility Act  
+title: The Resource Sustainability Act  
 permalink: /resource-room/category/2020-07-30-resource-sustainability-act/  
 image:  
 file_url:  
