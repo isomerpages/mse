@@ -5,7 +5,7 @@ image:
 file_url:  
 description:  
 ---  
-#### Written Reply to Parliamentary Question on the Rest Practice Guide for organising Environmentally-Friendly Events by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on the Best Practice Guide for organising Environmentally-Friendly Events by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Ms He Ting Ru:** To ask the Minister for Sustainability and the Environment following the recent release of the best practice guide for organising Environmentally-Friendly Events (a) whether all Government-organised or linked Meetings, Incentives, Conferences and Exhibitions (MICE) events will be expected to adhere to the guide; (b) what other concrete steps will be taken to de-carbonise such events; and (c) how will their efforts be measured for success.
 
