@@ -1,6 +1,6 @@
 ---  
 title: Carbon Pricing (Amendment) Bill 2nd Reading Closing Speech - Grace Fu 
-permalink: /resource-room/category/2022-11-08-closing-speech-by-minister-grace-fu-carbon-pricing-amendment-2nd-reading
+permalink: /resource-room/category/2022-11-08-the-closing-speech-by-minister-grace-fu-carbon-pricing-amendment-2nd-reading
 image:  
 file_url:  
 description:  
