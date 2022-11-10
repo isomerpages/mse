@@ -1,6 +1,6 @@
 ---  
 title: Carbon Pricing (Amendment) Bill 2nd Reading Closing Speech - Grace Fu 
-permalink: /resource-room/category/2022-11-08-closing-speech-by-minister-grace-fu-carbon-pricing-amendment-2nd-reading
+permalink: /resource-room/category/2022-11-08-the-closing-speech-by-minister-grace-fu-carbon-pricing-amendment-2nd-reading
 image:  
 file_url:  
 description:  
@@ -16,7 +16,7 @@ description:
 
 4 Let me address these issues in turn.
 
-**Upholding the Environmental Integrity of Carbon Credits**t
+**Upholding the Environmental Integrity of Carbon Credits**
 
 5 **First, on the environment. As Ms Janet Ang has highlighted, we must ensure that the carbon credits surrendered or “off set” are of high environmental integrity. Ms He Ting Ru brought up the same point.**
 
