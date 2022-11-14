@@ -68,7 +68,7 @@ description:
 
 **Conclusion**
 
-22	Mr Speaker, to conclude, the Carbon Pricing (Amendment) Bill will ensure that our carbon pricing regime: **Remains fit for the future; strengthens the impetus for businesses and individuals to reduce their carbon footprint; and supports the growth of the green economy, in particular, contributing to the establishment of high-integrity, internationally credible carbon markets.**  
+22	Mr Speaker, to conclude, the Carbon Pricing (Amendment) Bill will ensure that our carbon pricing regime: **remains fit for the future, strengthens the impetus for businesses and individuals to reduce their carbon footprint, and supports the growth of the green economy, in particular by contributing to the establishment of high-integrity, internationally credible carbon markets.**  
 
 23 **It is informed by our principled, balanced approach to carbon pricing, and reflects Singapore’s unwavering commitment to decisive climate action.**
 
