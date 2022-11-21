@@ -1,12 +1,12 @@
 ---  
-title: Net Zero World Launch Event - Ms Grace Fu
+title: Net Zero World Launch Event at the COP27 U.S. Pavilion - Ms Grace Fu
 permalink: /resource-room/category/2022-11-15-intervention-by-minister-grace-net-zero-world-launch-event
 image:  
 file_url:  
 description:  
 ---  
 
-**Intervention by Ms Grace Fu, Minister for Sustainability and the Environment, at Net Zero World Launch Event**
+**Intervention by Ms Grace Fu, Minister for Sustainability and the Environment, at the Net Zero World Launch Event at the COP27 U.S. Pavilion**
 
 **Opening remarks**
 
