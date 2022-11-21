@@ -1,12 +1,12 @@
 ---  
-title: PaSTI - Japan-ASEAN Integration Fund (JAIF) side event at the Singapore Pavilion - Ms Grace Fu
+title: PaSTI - Japan-ASEAN Integration Fund (JAIF) side event at the COP27 Singapore Pavilion - Ms Grace Fu
 permalink: /resource-room/category/2022-11-17-speech-by-minister-grace-fu-pasti-jaif-side-event
 image:  
 file_url:  
 description:  
 ---  
 
-**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Partnership to Strengthen Transparency for co-Innovation (PaSTI) - Japan-ASEAN Integration Fund (JAIF) side event**
+**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Partnership to Strengthen Transparency for co-Innovation (PaSTI) - Japan-ASEAN Integration Fund (JAIF) side event at the COP27 Singapore Pavilion**
 
 Minister Nishimura,  
 Distinguished Guests,  
