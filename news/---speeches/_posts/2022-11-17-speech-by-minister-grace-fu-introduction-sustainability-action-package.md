@@ -1,12 +1,12 @@
 ---  
-title: Introduction of the Sustainability Action Package at the Singapore Pavilion - Ms Grace Fu
+title: Introduction of the Sustainability Action Package at the COP27 Singapore Pavilion - Ms Grace Fu
 permalink: /resource-room/category/2022-11-17-speech-by-minister-grace-fu-introduction-sustainability-action-package
 image:  
 file_url:  
 description:  
 ---  
 
-**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Introduction of the Sustainability Action Package at the Singapore Pavilion**
+**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Introduction of the Sustainability Action Package at the COP27 Singapore Pavilion**
 
 Ladies and Gentlemen, 
 
