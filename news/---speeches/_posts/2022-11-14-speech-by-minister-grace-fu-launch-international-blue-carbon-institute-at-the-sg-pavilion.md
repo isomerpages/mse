@@ -1,12 +1,12 @@
 ---  
-title: Launch of the International Blue Carbon Institute at the Singapore Pavilion - Ms Grace Fu
-permalink: /resource-room/category/2022-11-14-launch-international-blue-carbon-institute-at-the-sg-pavilion
+title: Launch of the International Blue Carbon Institute at the COP27 Singapore Pavilion - Ms Grace Fu
+permalink: /resource-room/category/2022-11-14-speech-by-minister-grace-fu-launch-international-blue-carbon-institute
 image:  
 file_url:  
 description:  
 ---  
 
-**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Launch of the International Blue Carbon Institute at the Singapore Pavilion**
+**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Launch of the International Blue Carbon Institute at the COP27 Singapore Pavilion**
 
 Distinguished colleagues,
 

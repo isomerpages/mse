@@ -1,12 +1,12 @@
 ---  
-title: MOU Signing Ceremony with Papua New Guinea at the Singapore Pavilion - Ms Grace Fu
+title: MOU Signing Ceremony with Papua New Guinea at the COP27 Singapore Pavilion - Ms Grace Fu
 permalink: /resource-room/category/2022-11-14-speech-by-minister-grace-fu-mou-signing-ceremony-papua-new-guinea
 image:  
 file_url:  
 description:  
 ---  
 
-**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the MOU Signing Ceremony with Papua New Guinea at the Singapore Pavilion**
+**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the MOU Signing Ceremony with Papua New Guinea at the COP27 Singapore Pavilion**
 
 **Opening**
 

@@ -1,12 +1,12 @@
 ---  
-title: NUS-CNCS Research Showcase at the Singapore Pavilion - Ms Grace Fu
+title: NUS-CNCS Research Showcase at the COP27 Singapore Pavilion - Ms Grace Fu
 permalink: /resource-room/category/2022-11-16-speech-by-minister-grace-fu-nus-cncs-research-showcase
 image:  
 file_url:  
 description:  
 ---  
 
-**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the NUS-CNCS Research Showcase at the Singapore Pavilion**
+**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the NUS-CNCS Research Showcase at the COP27 Singapore Pavilion**
 
 Good afternoon everyone,
 
