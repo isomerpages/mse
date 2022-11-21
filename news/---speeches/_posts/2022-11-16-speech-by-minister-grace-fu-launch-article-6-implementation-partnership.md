@@ -1,11 +1,11 @@
 ---  
-title: Launch Event of the Article 6 Implementation Partnership - Ms Grace Fu
+title: Launch Event of the Article 6 Implementation Partnership at the COP27 Japan Pavilion - Ms Grace Fu
 permalink: /resource-room/category/2022-11-16-speech-by-minister-grace-fu-launch-article-6-implementation-partnership
 file_url:  
 description:  
 ---  
 
-**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at Launch Event of the Article 6 Implementation Partnership**
+**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Launch Event of the Article 6 Implementation Partnership at the COP27 Japan Pavilion**
 
 Your Excellencies,
 Distinguished colleagues,
