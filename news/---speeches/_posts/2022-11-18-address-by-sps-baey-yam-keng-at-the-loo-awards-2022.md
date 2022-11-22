@@ -54,7 +54,7 @@ Award Recipients
 
 14  As role models, teachers also play a crucial role in nurturing our younger generation with good restroom etiquette. Preschool teachers Ms Clarice Chan from Cherie Hearts @ Charlton, and Madam Anizah Bte Ahmad from PCF Sparkletots Preschool @ Choa Chu Kang Blk 10, educated preschoolers on the importance of showing kindness and gratitude to our cleaning attendants. Both teachers guided their preschoolers to create thank-you cards and gifts for the cleaning attendants.
 
-**Conclusion*
+**Conclusion**
 
 15  Congratulations to all award recipients for their commendable contributions. Your efforts and actions are crucial in promoting good public restroom hygiene and cleanliness.
 
