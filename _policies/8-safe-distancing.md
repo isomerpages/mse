@@ -9,7 +9,7 @@ The COVID-19 situation in Singapore has stablised and this gives us confidence t
 
 **Group sizes** - There is no longer a group size limit. There is also no cap on the number of unique visitors per household per day.
 
-**Mask-wearing** - Mask-wearing is optional in outdoor settings, but is required in indoor settings. Examples of indoor places include office buildings, shopping malls, public transport, hawker centres and coffeeshops. 
+**Mask-wearing** - From 29 August 2022, mask-wearing is no longer required in indoor settings except for settings where essential services are carried out in enclosed and crowded areas, and which are frequently used by vulnerable persons. Mask-wearing remains optional in outdoor settings.
 
 **Safe Distancing** -  Safe distancing is no longer required between individuals or between groups. 
 
