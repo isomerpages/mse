@@ -71,23 +71,3 @@ FOR SG ECO FUND’S THIRD GRANT CALL**
 | 36 | Wermtech.Asia | Repurposing the Community’s Food Waste: Community Outreach - Conduct vermicomposting workshops and insect farm tours for residents, and provide vermicomposting kits to encourage them to recycle their food waste at home. |
 | 37 | Westview Primary School	| The Einstein Garden - Set up a solar powered vertical farming system in the school to teach students sustainability concepts including Food, Energy & Water and Composting. Engage the surrounding schools and community through farmers’ markets and garden tours organised by the students. |
 | 38 | Woodlands Glen Zone 10 Residents’ Network	| Collaborative (Re) Generation - Educate residents about sustainable farming and teach children the importance of the germination (seedling) stage. Set up an automated germination process and involve the community in hands-on activities to transplant seedlings onto the hydroponics system. | 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
