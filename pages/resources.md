@@ -97,6 +97,17 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <div id="resources-container">
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
+
+		<div class="card">
+        <a href="/files/resources/Key-Environmental-Statistics-2022.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>Key Environmental Statistics 2022</h5>
+            </div>
+          <img src="/images/Key-Environmental-Statistics-2022-Cover.jpg" alt="Key Environmental Statistics 2022" style="width:300px;">
+        </a>
+    </div>  
+	
+	
     <div class="card">
         <a href="/resources/environmentally-friendly-events-guidelines.pdf" target="_blank">  
             <div class="card-content">
