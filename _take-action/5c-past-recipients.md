@@ -17,7 +17,7 @@ third_nav_title: President's Award for the Environment
 <a name="josephkoh"></a>
 #### Mr Joseph K H Koh
 
-![Mr Joseph K H Koh](/images/award-recipients/2021-Joseph-Koh.jpg)
+![Mr Joseph K H Koh](/images/pae/2021-Joseph-Koh.jpeg)
 
 Mr Joseph K H Koh is an influential and well-respected leader within local and regional environmental conservation circles.
  
@@ -36,7 +36,7 @@ In the many roles he has held over the years, Mr Koh has helped to groom many pa
 <a name="nygh"></a>
 #### Nanyang Girls’ High School
 
-![Nanyang Girls’ High School](/images/award-recipients/2021-Nanyang-Girls-High-School.jpg)
+![Nanyang Girls’ High School](/images/pae/2021-Nanyang-Girls-High-School.jpeg)
 
 Nanyang Girl’s High School’s (NYGH) activities are wide-ranging and sustained, ensuring that each student at every level has the opportunity to be a green ambassador for the environment. The school has an environmental education council and the teachers in the council work together to incorporate environmental education in the curriculum and other areas where possible.
  
@@ -54,7 +54,7 @@ NYGH’s care and ownership for the environment is demonstrated by its numerous 
 <a name="dbs"></a>
 #### DBS Bank Ltd
 
-![DBS Bank Ltd](/images/award-recipients/2021-DBS.jpg)
+![DBS Bank Ltd](/images/pae/2021-DBS.jpeg)
 
 DBS Bank Ltd drives its sustainability agenda at the C-suite level, with a Group Sustainability Council that develops its sustainability framework and oversees evaluation of key performance indicators. Local Sustainability Councils in key markets execute initiatives that are in line with the Group’s overall sustainability agenda.
 
@@ -74,7 +74,7 @@ Internally, DBS has committed to energy conservation efforts, attaining the Gree
 <a name="egc"></a>
 #### Edible Garden City
 
-![Edible Garden City](/images/award-recipients/2021-Edible-Garden-City.jpg)
+![Edible Garden City](/images/pae/2021-Edible-Garden-City.jpeg)
 
 Edible Garden City is one of Singapore’s pioneers in urban farming, an advocate for local produce and greening of under-utilised spaces.
  
@@ -96,7 +96,7 @@ At the Dubai World Expo 2020, Edible Garden City has been selected to showcase i
 <a name="psa"></a>
 #### PSA Corporation Limited
 
-<img src="/images/award-recipients/2021-PSA-Corporation.jpg" alt="PSA Corporation" style="max-width: 40vh">
+<img src="/images/pae/2021-PSA-Corporation.jpeg" alt="PSA Corporation" style="max-width: 40vh">
 
 PSA Corporation Limited has contributed significantly to the Energy Reset pillar under the Green Plan, with efforts to reduce carbon emissions in their operations, improve energy management and contribute to the industry’s decarbonisation efforts.
 
