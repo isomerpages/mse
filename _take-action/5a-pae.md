@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About the Award
 permalink: /pae/
 third_nav_title: President's Award for the Environment
 ---
