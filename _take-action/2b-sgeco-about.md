@@ -110,10 +110,10 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 </div>
 
 <div>
-	<input type="checkbox" id="office"  /><label for="office">SG Eco Office</label>
+	<input type="checkbox" id="office"  /><label for="office">Sustainability Partnerships Office</label>
 	<div class="accordion-content">
-		<p>The SG Eco Office, under the Ministry of Sustainability and the Environment, aims to realise sustainability initiatives with 3P partners, leveraging whole-of-government networks and resources.<br><br>
-		Besides administering the SG Eco Fund, the SG Eco Office is also involved in empowering communities to take ownership and co-create sustainability initiatives. </p>
+		<p>The Sustainability Partnerships Office, under the Ministry of Sustainability and the Environment, aims to realise sustainability initiatives with 3P partners, leveraging whole-of-government networks and resources.<br><br>
+		Besides administering the SG Eco Fund, the Sustainability Partnerships Office is also involved in empowering communities to take ownership and co-create sustainability initiatives. </p>
 	</div>
 </div>
 
