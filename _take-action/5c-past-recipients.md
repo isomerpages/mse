@@ -1,5 +1,5 @@
 ---
-title: Nominate
+title: Past Recipients
 permalink: /pae/past-recipients
 third_nav_title: President's Award for the Environment
 ---
