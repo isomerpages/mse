@@ -1,6 +1,6 @@
 ---
-title: Nominate
-permalink: /pae/nominate
+title: Eligibility
+permalink: /pae/eligibility
 third_nav_title: President's Award for the Environment
 ---
 
