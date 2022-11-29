@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on SG Clean in Petrol Station Toilets by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2022-11-28-written-reply-to-sg-clean-petrol-station-toilets
+permalink: /resource-room/category/2022-11-28-written-reply-to-pq-on-sg-clean-petrol-station-toilets
 image:  
 file_url:  
 description:  
