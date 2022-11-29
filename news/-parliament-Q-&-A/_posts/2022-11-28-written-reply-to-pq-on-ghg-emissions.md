@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on GHG Emissions by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2022-11-28-written-reply-to-ghg-emissions
+permalink: /resource-room/category/2022-11-28-written-reply-to-pq-on-ghg-emissions
 image:  
 file_url:  
 description:  
