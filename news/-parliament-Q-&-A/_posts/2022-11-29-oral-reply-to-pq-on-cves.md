@@ -1,5 +1,5 @@
 ---  
-title: Oral Reply to Parliamentary Question on CVES by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment
+title: Oral Reply to Parliamentary Question on CVES by Mr Baey Yam Keng, Senior Parliamentary Secretary for Sustainability and the Environment
 permalink: /resource-room/category/2022-11-29-oral-reply-to-pq-on-cves
 image:  
 file_url:  
