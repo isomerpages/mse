@@ -20,7 +20,7 @@ Distinguished Guests,
 
 Ladies and Gentlemen,
 
-	A very good morning to all. It is my pleasure to welcome everyone to the World Aquaculture Singapore 2022. This is the first time that Singapore is hosting this major international aquaculture conference. A big welcome to all our international delegates. I hope that you will enjoy your time in Singapore.
+A very good morning to all. It is my pleasure to welcome everyone to the World Aquaculture Singapore 2022. This is the first time that Singapore is hosting this major international aquaculture conference. A big welcome to all our international delegates. I hope that you will enjoy your time in Singapore.
 
 **Innovation and Technology as Enablers to Transform Aquaculture** 
 
@@ -51,9 +51,13 @@ Ladies and Gentlemen,
 12  For good aquacultural practices, we have developed guidelines and best practices that promote environmental and resource sustainability in farm management. I am pleased to launch the Singapore Standard: Specification for Clean and Green Urban Farms for Aquaculture today. This Standard was jointly developed by SFA and Enterprise Singapore, together with the industry, retailers, and Institutes of Higher Learning under the purview of Singapore Standard Council. The aim is to guide local aquaculture farms to produce food in a clean, safe, and resource efficient manner, through:
 
 a the adoption of smart farming techniques, 
+
 b reducing farm waste, 
+
 c conserving resources, 
+
 d incorporating circularity, and 
+
 e raising operational efficiency 
 
 Good farming practices will reduce operational costs and provide assurance of sustainable production to consumers. 
