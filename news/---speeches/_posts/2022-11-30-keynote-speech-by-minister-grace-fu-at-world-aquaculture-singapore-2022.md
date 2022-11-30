@@ -48,19 +48,7 @@ A very good morning to all. It is my pleasure to welcome everyone to the World A
 
 11  At the macro level, we will consider the potential impact of aquaculture on the environment when planning for the sea space. As we look to expand fish farming in the Southern Waters, we have conducted an Environmental Impact Assessment for that area. The assessment includes sizing the biomass that can be sustainably produced and recommending mitigation measures to minimize impacts on our precious resource. We are working closely with the industry, nature groups and the marine biodiversity academics as we unlock new spaces for sustainable aquaculture.
 
-12  For good aquacultural practices, we have developed guidelines and best practices that promote environmental and resource sustainability in farm management. I am pleased to launch the Singapore Standard: Specification for Clean and Green Urban Farms for Aquaculture today. This Standard was jointly developed by SFA and Enterprise Singapore, together with the industry, retailers, and Institutes of Higher Learning under the purview of Singapore Standard Council. The aim is to guide local aquaculture farms to produce food in a clean, safe, and resource efficient manner, through:
-
-a the adoption of smart farming techniques, 
-
-b reducing farm waste, 
-
-c conserving resources, 
-
-d incorporating circularity, and 
-
-e raising operational efficiency 
-
-Good farming practices will reduce operational costs and provide assurance of sustainable production to consumers. 
+12  For good aquacultural practices, we have developed guidelines and best practices that promote environmental and resource sustainability in farm management. I am pleased to launch the Singapore Standard: Specification for Clean and Green Urban Farms for Aquaculture today. This Standard was jointly developed by SFA and Enterprise Singapore, together with the industry, retailers, and Institutes of Higher Learning under the purview of Singapore Standard Council. The aim is to guide local aquaculture farms to produce food in a clean, safe, and resource efficient manner, through the adoption of smart farming techniques, reducing farm waste, conserving resources, incorporating circularity, and raising operational efficiency. Good farming practices will reduce operational costs and provide assurance of sustainable production to consumers. 
 
 13  In the long run, businesses that place environmental and resource sustainability at the core of their business decisions will see a positive impact on productivity and business resilience. This will mean economic sustainability for the businesses. Our aquaculture industry needs to be far-sighted, future-ready to stay relevant and sustainable. Farms need to develop the market for local produce to increase revenue, drive down operation costs, and develop new lines of business such as value-added products, innovative farming products and services, and quality inputs like fingerlings and feed.
 
