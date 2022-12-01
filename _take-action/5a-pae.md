@@ -5,7 +5,7 @@ third_nav_title: President's Award for the Environment
 ---
 
 
-<img src="images/pae/PAE_Logo.png" alt="PAE Logo" width="30%")
+<img src="images/pae/PAE_Logo.png" alt="PAE Logo" width="30%">
 
 ![About the Award](/images/pae/pae-2017-04.jpeg)
 
