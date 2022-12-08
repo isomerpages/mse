@@ -84,7 +84,7 @@ b. We also worked with IETA and the World Bank on the Climate Action Data Trust,
 
 a. This helps unlock the potential in Southeast Asia, which hosts one-third of the world’s mangroves, and nearly 15 per cent of the tropical forests, whose biodiversity holds an annual economic value of more than US$2 trillion.
 
-b. Research institutes can play a role here. For example, the National University of Singapore’s Centre for Nature-based Climate Solutions has launched the Carbon Integrity SG research programme, which develops methodologies tailored to Southeast Asia’s habitats, while its Carbon Prospecting Dashboard, a free-to-use platform, identifies forests and mangroves that require greater protection.
+b. Research institutes can play a role here. For example, the National University of Singapore’s Centre for Nature-based Climate Solutions has launched the Carbon Integrity SG research programme, which develops methodologies tailored to Southeast Asia’s habitats, while its Carbon Prospecting Dashboard, a free-to-use platform, identifies carbon rich forests and mangroves that require greater protection.
 
 c. Methodologies developed for novel project types, such as jatropha plants, also enable more high-quality carbon credits to be generated. For example, Singapore-based JOil became the world’s first corporate to secure Gold Standard certification for its jatropha plantation on marginal land in Ghana. This certification enables JOil to generate high-quality carbon credits from high yielding, climate resilient strain of jatropha fruits, which are a low-carbon source material for biofuel.
 
