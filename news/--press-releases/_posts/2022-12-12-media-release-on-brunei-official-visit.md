@@ -12,6 +12,6 @@ description:
 
 2 Minister Fu will hold bilateral meetings with Brunei’s Minister of Development Dato Seri Setia Awang Haji Mohd Juanda bin Haji Abdul Rashid and Minister of Primary Resources and Tourism Dato Seri Setia Dr Haji Abdul Manaf bin Haji Metussin to discuss how to strengthen bilateral cooperation in agri-food development, environmental protection, water resource management, and climate change. She will also meet with officials from Brunei Darussalam’s Ministry of Culture, Youth and Sports and alumni of the Singapore-Brunei Youth Leadership Exchange Programme.
 
-3 Minister Fu will visit the agri-food industry in Brunei, including Golden Chick Livestock Farm Sdn Bhd which produces hen shell eggs and Barramundi Asia (B) Sdn Bhd, parta wholly owned subsidiary of the Barramundi Asia Group Limited ofin Singapore which produces fish.
+3 Minister Fu will visit the agri-food industry in Brunei, including Golden Chick Livestock Farm Sdn Bhd which produces hen shell eggs and Barramundi Asia (B) Sdn Bhd, a wholly owned subsidiary of the Barramundi Asia Group Limited in Singapore which produces fish.
 
 4 Minister Fu will be accompanied by officials from the Ministry of Sustainability and the Environment and Singapore Food Agency.
