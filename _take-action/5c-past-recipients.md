@@ -4,6 +4,9 @@ permalink: /pae/past-recipients
 third_nav_title: President's Award for the Environment
 ---
 
+
+Since 2006, 45 outstanding environmental champions have been conferred the President's Award for the Environment.
+
 ### 2021 Recipients
 
 * Mr Joseph K H Koh
