@@ -4,8 +4,10 @@ permalink: /pae/
 third_nav_title: President's Award for the Environment
 ---
 
+<div>
+    <img src="/images/pae/PAE_Logo.png" alt="SG Eco Fund" style="max-width:40vh;">
+</div>
 
-<img src="images/pae/PAE_Logo.png" alt="PAE Logo" width="30%">
 
 ![About the Award](/images/pae/pae-2017-04.jpeg)
 
