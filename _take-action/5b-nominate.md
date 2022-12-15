@@ -17,7 +17,7 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 
 ### How to nominate?
 
-Nominations for the PAE are currently closed. 
+Nominations for the PAE are currently closed. For enquries, please contact [mse_pae@mse.gov.sg](mailto:mse_pae@mse.gov.sg).
 
 <script>
 /**
