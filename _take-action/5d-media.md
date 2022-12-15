@@ -52,50 +52,50 @@ Nominations Open for the President's Award for the Environment (PAE) 2021 with R
 [Champions for Environmental and Water Sustainability honoured for Outstanding Achievements](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20120928001.pdf)
 *28 SEP 2012*
 
-Nominations Open for President's Award for the Environment (PAE) 2012
+[Nominations Open for President's Award for the Environment (PAE) 2012](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20120205001.pdf)
 *05 FEB 2012*
 
 ### 2011
 
-Environment Champions honoured with President's Award for the Environment
+[Environment Champions honoured with President's Award for the Environment](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20110602001.pdf)
 *02 JUN 2011*
 
 ### 2010
 
-Nominations Open for President's Award for the Environment (PAE) 2011
+[Nominations Open for President's Award for the Environment (PAE) 2011](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20101108001.pdf)
 *08 NOV 2010*
 
-President’s Award for the Environment honours Leaders in Environmental Partnerships
+[President’s Award for the Environment honours Leaders in Environmental Partnerships](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20101008001.pdf)
 *08 OCT 2010*
 
-Nominations Now Open for President's Award for the Environment (PAE) 2010
+[Nominations Now Open for President's Award for the Environment (PAE) 2010](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20100421001.pdf)
 *21 APR 2010*
 
 ### 2009
 
-Pacesetters in Sustainable Development Selected For President's Award for the Environment
+[Pacesetters in Sustainable Development Selected For President's Award for the Environment](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20091012001.pdf)
 *12 OCT 2009*
 
-Wanted! Nominations Of Environmental Champions for the President’s Award
+[Wanted! Nominations Of Environmental Champions for the President’s Award](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20090601001.pdf)
 *01 JUN 2009*
 
 ### 2008
 
-Three Environmental Champions to receive the Prestigious President's Award for the Environment
+[Three Environmental Champions to receive the Prestigious President's Award for the Environment](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20081021002.pdf)
 *21 OCT 2008*
 
 ### 2007
 
-Three Environmental Champions to receive the Prestigious President's Award for the Environment
+[Three Environmental Champions to receive the Prestigious President's Award for the Environment](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20071207001.pdf)
 *07 DEC 2007*
 
-Nominations Now Open for President's Award for the Environment (PAE) 2007
+[Nominations Now Open for President's Award for the Environment (PAE) 2007](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20070605001.pdf)
 *05 JUN 2007*
 
 ### 2006
 
-Inaugural President's Award for the Environment presented to three worthy recipients
+[Inaugural President's Award for the Environment presented to three worthy recipients](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20060530002.pdf)
 *10 NOV 2006*
 
-New President's Award for the Environment
+[New President's Award for the Environment](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20060530002.pdf)
 *30 MAY 2006*
