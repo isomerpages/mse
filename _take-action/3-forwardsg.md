@@ -19,6 +19,7 @@ We are calling for individuals, educational institutions and organisations to [m
 
 ## Public Engagements under the Steward Pillar
 
+<img src="images/forwardsg_collage.png" alt="forward sg engagements">
 
 #### Dialogue on environmental sustainability
 More than 200 members of public participated in a dialogue at Toa Payoh HDB Hub to discuss what net zero means, why it is important for Singapore, and what individual actions everyone can take to protect our environment. Members of public shared their personal recycling tips in a lively session.
