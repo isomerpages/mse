@@ -19,6 +19,13 @@ We are calling for individuals, educational institutions and organisations to [m
 
 ## Public Engagements under the Steward Pillar
 
+
+#### Dialogue on environmental sustainability
+More than 200 members of public participated in a dialogue at Toa Payoh HDB Hub to discuss what net zero means, why it is important for Singapore, and what individual actions everyone can take to protect our environment. Members of public shared their personal recycling tips in a lively session.
+
+#### Forward SG Conversations at Yuhua Clean and Green
+Around 100 Yuhua residents gathered in small group discussions on various topics pertaining to environmental sustainability, such as net zero, zero waste, food security, coastal protection and public hygiene. Residents shared their priorities and discussed the trade-offs they are willing to make in pursuit of out sustainability goals.
+
 #### National Youth Dialogue on Moving Towards a Net Zero Future
 Youths were invited to participate in a dialogue to explore the challenges and opportunities in store for Singapore as we move towards net zero, and the role of youths, businesses and civil society/academia in catalysing change in norms and attitudes. 
 
