@@ -8,7 +8,7 @@ third_nav_title: President's Award for the Environment
 
 [Environmental Champions Receive President’s Award for Contributions to Environment Sustainability](/files/media-release-on-the-pae-2021.pdf) *29 SEP 2021*
 
-Nominations Open for the President's Award for the Environment (PAE) 2021 with Refreshed Judging Criteria
+[Nominations Open for the President's Award for the Environment (PAE) 2021 with Refreshed Judging Criteria](/images/pae/PAE2021_Nominations_Open.pdf)
 *10 MAR 2021*
 
 ### 2019
