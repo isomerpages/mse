@@ -35,3 +35,6 @@ C3PD supports the implementation of environmental, food and water policies and p
 
 RFPD co-ordinates strategic planning for MSE and drives the planning for MSE family's transformation, as well as science and technology and research co-ordination.
 
+### Science and Technology Planning Division (STPD)
+
+STPD works to integrate Science & Technology (S&T) strategy and plans across the MSE Family, strengthen Research & Development (R&D) outcomes, and support the development of capabilities and enterprises in key industry sectors under MSE’s purview (Environmental Services, Water, Agri-Food)
