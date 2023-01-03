@@ -37,4 +37,4 @@ RFPD co-ordinates strategic planning for MSE and drives the planning for MSE fam
 
 ### Science and Technology Planning Division (STPD)
 
-STPD works to integrate Science & Technology (S&T) strategy and plans across the MSE Family, strengthen Research & Development (R&D) outcomes, and support the development of capabilities and enterprises in key industry sectors under MSE’s purview (Environmental Services, Water, Agri-Food)
+STPD works to integrate Science & Technology (S&T) strategy and plans across the MSE Family, strengthen Research & Development (R&D) outcomes, and support the development of capabilities and enterprises in key industry sectors under MSE’s purview (Environmental Services, Water, Agri-Food).
