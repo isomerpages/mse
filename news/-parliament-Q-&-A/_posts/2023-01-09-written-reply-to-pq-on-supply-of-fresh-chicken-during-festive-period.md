@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Supply of Fresh Chicken during the Festive Period by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-01-09-written-reply-to-supply-of-fresh-chicken
+permalink: /resource-room/category/2023-01-09-written-reply-to-pq-on-supply-of-fresh-chicken-during-festive-period
 image:  
 file_url:  
 description:  
