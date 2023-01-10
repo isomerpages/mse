@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Enforcement Measures at Funeral Parlours by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-01-09-written-reply-funeral-parlours-enforcement-measures
+permalink: /resource-room/category/2023-01-09-written-reply-to-pq-on-funeral-parlours-enforcement-measures
 image:  
 file_url:  
 description:  
