@@ -45,4 +45,3 @@ Good morning everyone!
 
 13 Thank you to all the teams for the effort you have put in, and to the judges for your participation today. Have a great weekend!
 
-Page **2** of **2**
