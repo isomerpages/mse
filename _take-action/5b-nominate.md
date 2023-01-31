@@ -1,5 +1,5 @@
 ---
-title: Eligibility
+title: Nominate
 permalink: /pae/nominate
 third_nav_title: President's Award for the Environment
 ---
