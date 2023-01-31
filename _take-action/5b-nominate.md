@@ -17,7 +17,7 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 
 ### How to nominate?
 
-Nominations for the PAE are now open. For enquiries, please contact [mse_pae@mse.gov.sg](mailto:mse_pae@mse.gov.sg).
+Nominations for the PAE are now open. 
 
 [PAE 2023 Nomination form - Annex A - Individual](/files/pae-2023-annex-a.docx)
 
