@@ -11,7 +11,7 @@ Nominations for the 2023 President's Award for the Environment (PAE) are now ope
 
 Nominees of the President's Award for the Environment (PAE) must be exemplary stewards of our environment and have demonstrated long-term commitment towards protecting and conserving our natural and living environment. They are exceptional individuals, educational institutions and organisations that have made an impact towards a sustainable Singapore.
 
-In addition to assessing environmental practices and partnerships, significant attention will be paid to the nominees' efforts to engage the wider community to collectively build a sustainable Singapore, in line with the pillars of the [Singapore Green Plan 2030](http://www.greenplan.gov.sg): City in Nature, Energy Reset, Sustainable Living, Green Economy, and Resilient Future. For more information on the five pillars, please visit [www.greenplan.gov.sg](http://www.greenplan.gov.sg). 
+In addition to assessing environmental practices and partnerships, significant attention will be paid to the nominees' efforts to engage the wider community to collectively build a sustainable Singapore, in line with the pillars of the [Singapore Green Plan 2030](http://www.greenplan.gov.sg): City in Nature, Energy Reset, Sustainable Living, Green Economy, and Resilient Future. 
 
 #### Categories
 
