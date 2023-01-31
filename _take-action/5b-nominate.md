@@ -13,7 +13,7 @@ Nominees of the President's Award for the Environment (PAE) must be exemplary st
 
 * **Educational institutions** include Primary, Secondary Schools, Junior Colleges, Institutes of Higher Learning, International Schools and other private educational institutions registered in Singapore.
 
-* **Organisations** include grassroots organisations, private companies, NGOs and volunteer groups registered in Singapore.
+* **Organisations** include grassroots organisations, private companies, NGOs, trade associations and chambers, and volunteer groups registered in Singapore.
 
 In addition to assessing environmental practices and partnerships, significant attention will be paid to the nominees' efforts to engage the wider community to collectively build a sustainable Singapore, in line with the pillars of the Singapore Green Plan 2030: City in Nature, Energy Reset, Sustainable Living, Green Economy, and Resilient Future. For more information on the five pillars, please visit www.greenplan.gov.sg. 
 
