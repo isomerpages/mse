@@ -31,4 +31,4 @@ Nominations for the PAE are now open.
 
 Please email your completed nomination form to the PAE Secretariat at <mse_pae@mse.gov.sg>. You can also contact us if you have further queries. 
 
-PAE 2023 recipients will be announced in the third quarter of 2023. They will receive a trophy and a certificate from the President of the Republic of Singapore.
+PAE 2023 recipients will be announced in the third quarter of 2023. They will receive a trophy and a certificate from the President.
