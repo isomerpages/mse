@@ -21,11 +21,11 @@ In addition to assessing environmental practices and partnerships, significant a
 
 Nominations for the PAE are now open. 
 
-[PAE 2023 Nomination form - Annex A - Individual](/files/pae-2023-annex-a.docx)
+[PAE 2023 Nomination form - Annex A - Individual](/resources/pae-2023-annex-a.docx)
 
-[PAE 2023 Nomination form - Annex B - Educational institution](/files/pae-2023-annex-b.docx)
+[PAE 2023 Nomination form - Annex B - Educational institution](/resources/pae-2023-annex-b.docx)
 
-[PAE 2023 Nomination form - Annex C - Organisation](/files/pae-2023-annex-c.docx)
+[PAE 2023 Nomination form - Annex C - Organisation](/resources/pae-2023-annex-c.docx)
 
 Please email your completed nomination form to the PAE Secretariat at <mse_pae@mse.gov.sg>. You can also contact us if you have further queries. 
 
