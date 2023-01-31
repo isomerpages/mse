@@ -13,4 +13,4 @@ The President’s Award for the Environment (PAE) is the highest environmental a
 
 Previous winners include Dr Tommy Koh, City Developments Limited and the Institute of Technical Education – all of whom have initiated meaningful programmes for a sustainable future, including educating the youth and the community in showing responsibility towards the environment.
 
-Find out more about the [eligibility and nomination process](/pae/eligibility/) of the PAE.
+Find out more about the [eligibility and nomination process](/pae/nominate/) of the PAE.
