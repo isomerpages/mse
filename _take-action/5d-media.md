@@ -4,6 +4,11 @@ permalink: /pae/media
 third_nav_title: President's Award for the Environment
 ---
 
+
+### 2023
+
+[Call for the President's Award for the Environment 2023 Nominations]([/files/media-release-on-the-pae-2021.pdf](https://www.mse.gov.sg/resource-room/category/2023-01-31-press-release-on-call-for-the-presidents-award-for-the-environment-2023-nominations)) *31 JAN 2023* 
+
 ### 2021
 
 [Environmental Champions Receive President’s Award for Contributions to Environment Sustainability](/files/media-release-on-the-pae-2021.pdf) *29 SEP 2021*
