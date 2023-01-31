@@ -5,7 +5,7 @@ third_nav_title: President's Award for the Environment
 ---
 
 <div>
-    <img src="/images/pae/PAE_Logo.png" alt="SG Eco Fund" style="max-width:40vh;">
+    <img src="/images/pae/PAE_Logo.png" alt="President's Award for the Environment" style="max-width:40vh;">
 </div>
 
 
