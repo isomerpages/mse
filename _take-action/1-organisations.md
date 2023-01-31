@@ -86,7 +86,7 @@ permalink: /take-action/organisations/
                 <li><a href="https://www.nea.gov.sg/programmes-grants/learning-journeys/clean-singapore-learning-trail">Clean Singapore Learning Trail</a>: Give back to the community by cleaning up the beach, and protecting its ecosystem.</li>
                 <li><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-management-infrastructure/semakau-landfill">Visits to Semakau Landfill and Incineration Plants</a>: Learn first-hand about Singapore’s efficient waste disposal system.</li>
                 <li><a href="https://www.nea.gov.sg/programmes-grants/volunteering">Dengue Prevention Volunteer</a>: Help educate and spread the awareness on dengue prevention to fellow residents through activities and house-to-house visits. </li>
-                <li><a href="/../resources/cap-courses.docx">Climate Action Package</a>: Look up courses under the Singapore Cooperation Programme and Climate Action Package. </li>
+               
                 </ul>
         </div>
     </div>
