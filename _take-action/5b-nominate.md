@@ -32,11 +32,15 @@ The nomination forms for the respective categories can be downloaded below.
 
 * [PAE 2023 Nomination form - Annex C - Organisation](/resources/pae-2023-annex-c.docx)
 
-Please email your completed nomination form to the PAE Secretariat at <mse_pae@mse.gov.sg>. You can also contact us if you have further queries. 
+The completed nomination form and supporting documentation should be submitted to <mse_pae@mse.gov.sg>. 
 
 #### Closing Date
 
 The closing date for the nominations is **31 March 2023**. 
 
 PAE 2023 recipients will be announced in the third quarter of 2023. They will receive a trophy and a certificate from the President.
+
+#### Contact 
+
+For enquiries, please contact <mse_pae@mse.gov.sg>.
 
