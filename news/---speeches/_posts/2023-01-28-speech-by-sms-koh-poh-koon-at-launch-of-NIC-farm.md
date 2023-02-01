@@ -10,9 +10,9 @@ description:
 
 1 Good afternoon, everyone. 新年快乐 (happy lunar new year)! As today is 人日 (everybody’s birthday), let me begin by wishing everyone a happy birthday, and today we also want to congratulate Farmer Nick and NIC on the opening of their farm.   
 
-**Urban farming and multi-story carpark farms**
+**Urban farming and multi-storey carpark farms**
 
-2 We are at level 5 of a multi-story carpark at 723A Tampines Street 72. This is probably not what first comes to mind when we envision a farm. High-rise and urban farms, like NIC, are a win-win innovation that allows us to optimise the use of underutilised spaces and bring food production closer to our community. Urban farms can reach sufficient scale to be commercially viable while contributing to our food supply resilience. Located in the heartlands, urban farms also encourage the kampung spirit by fostering community cohesiveness and bonding. At NIC, visitors can join outdoor farm tours and children can participate in a programme to experience life as an urban farmer, learn about organic practices and even harvest a bag of produce.  
+2 We are at level 5 of a multi-storey carpark at 723A Tampines Street 72. This is probably not what first comes to mind when we envision a farm. High-rise and urban farms, like NIC, are a win-win innovation that allows us to optimise the use of underutilised spaces and bring food production closer to our community. Urban farms can reach sufficient scale to be commercially viable while contributing to our food supply resilience. Located in the heartlands, urban farms also encourage the kampung spirit by fostering community cohesiveness and bonding. At NIC, visitors can join outdoor farm tours and children can participate in a programme to experience life as an urban farmer, learn about organic practices and even harvest a bag of produce.  
 
 **“30 by 30” Goal** 
 
@@ -22,7 +22,7 @@ description:
 
 5 At just 2,500 sqm, NIC is also able to grow 20 types of leafy and fruited vegetables, as well as herbs like caixin, long beans, and mint. This is achieved through the use of vermicomposting, where farm waste such as trimmed vegetable parts, used cocopeat media, and fruited vegetables provide additional supplements and improve the soil condition for their 600 growing towers.  
 
-6 Apart from contributing to our food resilience, one of NIC’s goals is to educate and raise awareness of farming within the community. NIC is working with People’s Association and grassroot leaders to conduct workshops on sustainable urban farming for the public and schools, as well as host community events. This is important because the commercial viability of our farms depends on strong local support and demand. I encourage all of you to also support produce grown by local farms such as NIC. In doing so, you help to keep our farms commercially viable, so that they can continue to contribute to Singapore’s food resilience.   
+6 Apart from contributing to our food resilience, one of NIC’s goals is to educate and raise awareness of farming within the community. NIC conducts workshops on sustainable urban farming for the public and schools, and is working with the People's Association and grassroots leaders to host community events. This is important because the commercial viability of our farms depends on strong local support and demand. I encourage all of you to also support produce grown by local farms such as NIC. In doing so, you help to keep our farms commercially viable, so that they can continue to contribute to Singapore’s food resilience.   
 
 **Working closely with residents**
 
