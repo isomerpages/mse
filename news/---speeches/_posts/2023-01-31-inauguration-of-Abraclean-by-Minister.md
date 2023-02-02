@@ -1,6 +1,6 @@
 ---
-title: Inauguration of Abraclean's Glass Recycling Facility - Grace Fu
-permalink: /resource-room/category/2023-01-31-inauguration-of-Abraclean-by-Minister.md
+title: Inauguration of Abraclean's Glass Recycling Facility - Ms Grace Fu
+permalink: /resource-room/category/2023-01-31-inauguration-of-Abraclean-by-Minister/
 image:
 file_url:
 description:
@@ -31,7 +31,7 @@ Ladies and Gentlemen
 7	To achieve these goals, we introduced the Resource Sustainability Act in 2019 to regulate our three priority waste streams of food, electronic waste and packaging waste. We are also optimising waste management infrastructure and transforming the waste management sector. 
 
 8	Earlier this month, we launched the Environmental Services Industry Transformation Map 2025, which lays out plans to transform the industry into one that is professional, technology-enabled, and productive. Key initiatives include the NEA-Industry Scholarship programme for ITE and Polytechnic graduates, and the Progressive Wage Model for the waste management sector that will take effect on the first of July later this year. 
- 
+
 9	We are also leveraging science and technology to achieve our goals. Under the Closing the Waste Loop Funding Initiative, we have committed $37 million to fund 15 research and development projects on treatment and resource recovery of priority waste streams. These projects will minimise waste going to Semakau Landfill while extracting maximum value out of them. 
 
 **Role of businesses in addressing waste**
