@@ -1,6 +1,6 @@
 ---
 title: Inauguration of Abraclean's Glass Recycling Facility - Ms Grace Fu
-permalink: /resource-room/category/2023-01-31-inauguration-of-Abraclean-by-Minister.md
+permalink: /resource-room/category/2023-01-31-inauguration-of-Abraclean-by-Minister/
 image:
 file_url:
 description:
