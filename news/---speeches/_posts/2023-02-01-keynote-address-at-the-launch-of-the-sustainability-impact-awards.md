@@ -1,12 +1,12 @@
 ---
-title: LAUNCH OF The Sustainability Impact Award - Dr Amy Khor
+title: Launch of the Sustainability Impact Award - Dr Amy Khor
 permalink: /resource-room/category/2023-02-01-keynote-address-at-the-launch-of-the-sustainability-impact-awards
 image:
 file_url:
 description:
 ---
 
-####KEYNOTE SPEECH BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE LAUNCH OF THE SUSTAINABILITY IMPACT AWARDS ON 1 FEBRUARY 2023
+#### KEYNOTE SPEECH BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE LAUNCH OF THE SUSTAINABILITY IMPACT AWARDS ON 1 FEBRUARY 2023
 
 **Building an Impactful Sustainable Business**  
 
