@@ -1,5 +1,5 @@
 ---
-title: LAUNCH OF The Sustainability Impact Award - Dr Amy Khor
+title: Launch of the Sustainability Impact Award - Dr Amy Khor
 permalink: /resource-room/category/2023-02-01-keynote-address-at-the-launch-of-the-sustainability-impact-awards
 image:
 file_url:
