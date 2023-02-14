@@ -1,6 +1,6 @@
 ---
 title: Bring Your Own Bag Campaign Launch - Dr Amy Khor
-permalink: /resource-room/category/2022-02-11-speech-by-sms-khor-at-byob-launch/
+permalink: /resource-room/category/2023-02-11-speech-by-sms-khor-at-byob-launch/
 image:
 file_url:
 description:
@@ -30,6 +30,7 @@ Good morning everyone. Congratulations to Zero Waste SG for the launch of the Br
 
 5	The excessive use of disposables not only puts a strain on resources, but also creates waste and contributes to our carbon emissions. We need to consume more sustainably by reducing what we use and reusing what we have. 
  
+
 **BYOB Campaign Complements Government’s Efforts to Promote Sustainable Consumption**
 
 6	Zero Waste SG’s BYOB campaign complements the Government’s efforts to encourage reusables and reduce disposables. 
