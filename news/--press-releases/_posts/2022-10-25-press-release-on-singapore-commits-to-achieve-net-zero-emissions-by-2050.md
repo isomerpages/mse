@@ -24,10 +24,10 @@ description: Singapore Commits to Achieve Net Zero Emissions by 2050 and to a Re
 
 ![Annex A - Infographic on Charting Singapore’s Net Zero Future](news/news-images/press-release-2022-10-25-image-1.jpg) 
 
-![Annex B - Factsheet on GreenGov.SG](https://www.nccs.gov.sg/files/ANNEX%20B%20-%20Factsheet%20on%20GreenGovSG.pdf)
+[Annex B - Factsheet on GreenGov.SG](https://www.nccs.gov.sg/files/ANNEX%20B%20-%20Factsheet%20on%20GreenGovSG.pdf)
 
-![Annex C - Factsheet on Jurong Lake District](https://www.nccs.gov.sg/files/ANNEX%20C%20-%20Factsheet%20on%20Jurong%20Lake%20District.pdf)
+[Annex C - Factsheet on Jurong Lake District](https://www.nccs.gov.sg/files/ANNEX%20C%20-%20Factsheet%20on%20Jurong%20Lake%20District.pdf)
 
-![Annex D1 - Summary of Feedback from Public Consultations on Singapore’s Raised Climate Ambition](https://www.nccs.gov.sg/files/ANNEX%20D1%20-%20SUMMARY%20OF%20FEEDBACK%20FROM%20PUBLIC%20CONSULTATIONS%20ON%20SINGAPORE%E2%80%99S%20RAISED%20CLIMATE%20AMBITIONS.pdf)
+[Annex D1 - Summary of Feedback from Public Consultations on Singapore’s Raised Climate Ambition](https://www.nccs.gov.sg/files/ANNEX%20D1%20-%20SUMMARY%20OF%20FEEDBACK%20FROM%20PUBLIC%20CONSULTATIONS%20ON%20SINGAPORE%E2%80%99S%20RAISED%20CLIMATE%20AMBITIONS.pdf)
 
 [Annex D2 - Feedback Received from REACH Public Consultation on Singapore’s Raised Climate Ambition](https://www.nccs.gov.sg/public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/)
