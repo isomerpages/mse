@@ -62,6 +62,7 @@ input:checked + label + .accordion-content {
 		<p>It comprises three broad R&D tracks: <br>(1) Resource Recovery - treatment and recovery of resources from key waste streams, <br>(2) Residues as Resources - treatment of residue streams and the safe applications of these treated materials, <br>(3) Rethinking energy from waste - development of novel solutions to maximise energy and resource recovery while minimising carbon emissions. </p>
 		<p>For more information and enquiries, please visit: https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/closing-the-resource-loop-funding-initiative
 	</div>
+</div>
 	<input type="checkbox" id="title2"  /><label for="title2">Industry Support Schemes</label>
 	<div class="accordion-content">
 		<p>Environmental Services companies can tap on the <a href="https://www.nea.gov.sg/industry-transformation-map/funding-support">funding support under the Environmental Services Industry Transformation Map (ES ITM)</a> or adoption of tools, equipment and technology to enhance productivity and service delivery. These funding support include the Productivity Solutions Grant (PSG) administered by NEA and financial assistance from Enterprise Singapore (ESG).</p>
