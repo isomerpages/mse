@@ -60,7 +60,7 @@ input:checked + label + .accordion-content {
 		<p>The <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/closing-the-resource-loop-funding-initiative">Closing the Resource Loop Initiative</a> (CTRL) Funding Initiative is a $80 million research and development (R&D) programme under the Singapore’s Research, Innovation and Enterprise (RIE) Plan for sustainable resource recovery solutions. It funds R&D to tackle key waste streams like e-waste, plastics and food, and to invent useful and safe applications for treated waste residues. CTRL contributes to our efforts towards meeting the <a href"https:www.greenplan.gov.sg">Singapore Green Plan</a> targets and to pursue a circle economy under the <a href="https://www.towardszerowaste.gov.sg/zero-waste-masterplan">Zero Waste Masterplan</a>. </p>
 		<p>CTRL seeks to increase resource recovery, prolong the lifespan of the Semakau Landfill, promote environmental sustainability, raise digitalisation and automation in Singapore’s waste management sector, and mitigate carbon emissions arising from waste treatment and disposal. </p>
 		<p>It comprises three broad R&D tracks: <br>(1) Resource Recovery - treatment and recovery of resources from key waste streams, <br>(2) Residues as Resources - treatment of residue streams and the safe applications of these treated materials, <br>(3) Rethinking energy from waste - development of novel solutions to maximise energy and resource recovery while minimising carbon emissions. </p>
-		<p>For more information and enquiries, please visit: https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/closing-the-resource-loop-funding-initiative </p>
+		<p>For more information and enquiries, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/closing-the-resource-loop-funding-initiative"> here.</a></p>
 	</div>
 	<input type="checkbox" id="title2"  /><label for="title2">Industry Support Schemes</label>
 	<div class="accordion-content">
@@ -72,7 +72,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title3"  /><label for="title3">Test-bedding and Demonstration Facilities</label>
 	<div class="accordion-content">
 		<p>The NEA and the Nanyang Technological University (NTU) co-funded a <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/wte-testbed-demo-initiative">WTE Research Facility (WTERF)</a> that uses high-temperature to convert solid waste into gases and harmless slag. By using the municipal solid waste from NTU as feedstock, this research facility allows researchers to 'plug-and-play' component technologies to test their performance in a realistic operational environment. </p>
-		<p>For more information and enquiries, please visit: https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/wte-testbed-demo-initiative </p>
+		<p>For more information and enquiries, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/wte-testbed-demo-initiative"> here.</a> </p>
 	</div>
 </div>
 
@@ -119,7 +119,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title10"  /><label for="title10">R&D Programmes</label>
 	<div class="accordion-content">
 		<p>The <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/environmental-robotics-programme">Environmental Robotics Programme</a> aims to develop robotic solutions for the environmental services industry, in the work areas of Public Cleaning, Waste Management and Inspection, Monitoring and Sampling for Pest and Pollution control. The programme seeks to enable productivity gains, maintain a sustainable workforce and enhance current capabilities while also enabling new ones. It comes under the broader umbrella of Singapore’s National Robotics Programme.</p>
-		<p>Besides grant calls under the various R&D programmes, NEA will also launch <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/nea-innovation-calls">innovation calls </a>for R&D. For more information, please visit: https://www.nea.gov.sg/programmes-grants/grants-and-awards/nea-innovation-calls.</p>
+		<p>Besides grant calls under the various R&D programmes, NEA will also launch <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/nea-innovation-calls">innovation calls </a>for R&D. For more information, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/nea-innovation-calls"> here.</a></p>
 	</div>
 	<input type="checkbox" id="title11"  /><label for="title11">Industry Support Schemes</label>
 	<div class="accordion-content">
