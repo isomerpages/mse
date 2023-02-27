@@ -211,15 +211,24 @@ input:checked + label + .accordion-content {
 <p>We invite <a href="http://www.greenplan.gov.sg/take-action/as-individual">individuals</a> and <a href="http://www.greenplan.gov.sg/take-action/as-an-organisation">organisations</a> to join us in playing your part to take environmentally-friendly actions.</p>
 <p>You can keep a lookout and participate in opportunities to co-create and co-deliver sustainability solutions by following us @msesingapore on our social media channels (LinkedIn, Twitter, Instagram, TikTok and Facebook).</p>
 	</div>
-	
+</div>	
 	
 
-<h1>Our stories</h1>
+<h1>Factsheets?</h1>
 
+* ABC
+* ABC
+* ABC
+
+
+
+<hr>
+
+<h1>COS Videos</h1>
 <p><strong>I Remember - an MSE50 Short Film</strong></p>
 <p>Take a trip down memory lane in this short film as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
 
-<iframe src="https://www.youtube.com/embed/ksnmTNMwvhM" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=STUnLrfK0as" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p></p>
 
@@ -228,10 +237,7 @@ input:checked + label + .accordion-content {
 
 <a href="/mse50contest"><img src="images/mse50/UGCWebBanner.png" class="img-icon" alt="web banner"></a>
  
-<div>
-<center>
-	  <a class="button" href="/mse50contest">Join Now!</a>&nbsp; </center>
-</div>   
+
   
 
 
