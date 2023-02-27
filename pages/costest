@@ -138,8 +138,6 @@ input:checked + label + .accordion-content {
 	display: block;
 }
 </style>
-
-<h3>Building Our Green Singapore: Fostering a Liveable, More Sustainble Nation</h3>
 <img src="/images/cos2023/COS2023-Thumbnail.png" class="mse50-logo"><br>
 
 <p>Insert first two paras of media factsheet</p>
@@ -216,7 +214,7 @@ input:checked + label + .accordion-content {
 <iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 
 <p><strong>#50YearsOfSustainability - Crowdsourcing for your environment stories</strong></p>
