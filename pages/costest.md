@@ -137,7 +137,6 @@ input:checked + label + .accordion-content {
 input:checked + label + .accordion-content {
 	display: block;
 }
-	
 </style>
 
 <h3>Building Our Green Singapore: Fostering a Liveable, More Sustainble Nation</h3>
@@ -214,7 +213,7 @@ input:checked + label + .accordion-content {
 <p><strong>I Remember - an MSE50 Short Film</strong></p>
 <p>Take a trip down memory lane in this short film as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
 
-<iframe src="https://www.youtube.com/embed/STUnLrfK0as" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p></p>
 
