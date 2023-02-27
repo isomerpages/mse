@@ -235,67 +235,8 @@ input:checked + label + .accordion-content {
   
 
 
-<h1>Our People</h1>
-	
-<p>Our achievements over the last 50 years would not be possible without the many unsung heroes working behind the scenes in the MSE family. This brand new series celebrate the officers in the MSE family as the Ministry commemorates its 50th anniversary this year. </p>
-
-<iframe src="https://www.youtube.com/embed/lb9QPUAdCBo" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<hr> 
-
-
-
-<!--
-
-<h1>Our People</h1>
-
-<i>Coming Soon: Video Series of MSE Officers</i>
-
-<h1>Additional Resources</h1>
-<br>
-<div id="resources-container">
-<h4>Learning Journeys</h4>
-<div class="cards">
-<div class="card">
-        <a href="https://www.roots.gov.sg/places/places-landing/trails/singapore-river-walk" target="_blank">  
-            <div class="card-content">
-            <h5>Singapore River Walk</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>
-<div class="card">
-        <a href="https://www.roots.gov.sg/places/places-landing/trails/Tampines-Heritage-Trail-Green-Spaces-Trail" target="_blank">  
-            <div class="card-content">
-            <h5>Green Spaces Trail</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>	
-</div>
-	
-<h4>Publications</h4>
-<div class="cards">
-  <div class="card">
-        <a href="#" target="_blank">  
-            <div class="card-content">
-            <h5>NEA Hawker Book</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>  
-	<div class="card">
-        <a href="#" target="_blank">  
-            <div class="card-content">
-            <h5>+65 Publication</h5>
-            </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
-        </a>
-    </div>
-</div>
-
--->	
 	
 <!-- container end dic -->
 
