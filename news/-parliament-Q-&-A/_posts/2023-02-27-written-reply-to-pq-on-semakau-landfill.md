@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Semakau Landfill by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-02-23-written-reply-to-pq-on-semakau-landfill
+permalink: /resource-room/category/2023-02-27-written-reply-to-pq-on-semakau-landfill
 image:  
 file_url:  
 description:  
