@@ -2,7 +2,7 @@
 title: COS Testing Page
 description: add a description here
 permalink: /costest
-image: /images/cos/COS2023-Thumbnail.png
+image: /images/cos2023/COS2023-Thumbnail.png
 ---
 
 <style>
@@ -569,10 +569,10 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 </style>
 
 
-<img src="/images/cos/COS2023-Thumbnail.png" class="mse50-logo"><br>
+<img src="/images/cos2023/COS2023-Thumbnail.png" class="mse50-logo"><br>
 
 <p><strong>Building Our Green Singapore: Fostering a Liveable, More Sustainble Nation</strong></p>
-<p>Some preamble about COS</p>
+<p>Insert first two paras of media factsheet</p>
 
 	
 <div>
