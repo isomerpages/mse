@@ -194,7 +194,62 @@ input:checked + label + .accordion-content {
 	</div>
 	
 </div>	
+		<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Safeguarding Our Hawker Culture</label>
+	<div class="accordion-content">
+		<p>The road to a sustainable future is a whole-of-nation effort. We hope to spark a national conversation and energise Singaporeans to act through the Singapore Green Plan. Every Singaporean must be involved in this transformation because:</p>
+<ol>
+<li>Sustainability entails opportunity costs and cannot be incurred without a national consensus. In the near term, we may have to pay more for greener goods and services, adjust to slight inconveniences in our daily lives, or reskill for green jobs in new industries.</li>
+<li>It is our individual actions that determine collective outcomes. Our consumption patterns drive industry. If we avoid disposables, buy locally produced food, and choose energy-efficient appliances, greener and more sustainable businesses will emerge.</li>
+<li>There are new business and job opportunities across the economy that will benefit Singapore and Singaporeans.</li>
+</ol>
+<p>The Government will continue to engage members of the public to rally and drive collective actions for sustainability through campaigns, consultations, and co-creation opportunities. MSE initiatives with opportunities for individuals and organisations to play a part include the ongoing <a href="http://www.greenplan.gov.sg">Singapore Green Plan</a>, the annual <a href="http://www.mse.gov.sg/climate-action-week/">Climate Action Week</a>, and <a href="http://www.mse.gov.sg/partnering-community">Citizens&rsquo; Workgroups </a>. MSE also launched the <a href="http://www.sgeco.gov.sg/">SG Eco Fund</a> in 2020 to support individuals and organisations in starting ground-up initiatives.</p>
+<p>We invite <a href="http://www.greenplan.gov.sg/take-action/as-individual">individuals</a> and <a href="http://www.greenplan.gov.sg/take-action/as-an-organisation">organisations</a> to join us in playing your part to take environmentally-friendly actions.</p>
+<p>You can keep a lookout and participate in opportunities to co-create and co-deliver sustainability solutions by following us @msesingapore on our social media channels (LinkedIn, Twitter, Instagram, TikTok and Facebook).</p>
+	</div>
 	
+</div>	
+	<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Enhancing Coastal & Flood Resilience</label>
+	<div class="accordion-content">
+		<p>The road to a sustainable future is a whole-of-nation effort. We hope to spark a national conversation and energise Singaporeans to act through the Singapore Green Plan. Every Singaporean must be involved in this transformation because:</p>
+<ol>
+<li>Sustainability entails opportunity costs and cannot be incurred without a national consensus. In the near term, we may have to pay more for greener goods and services, adjust to slight inconveniences in our daily lives, or reskill for green jobs in new industries.</li>
+<li>It is our individual actions that determine collective outcomes. Our consumption patterns drive industry. If we avoid disposables, buy locally produced food, and choose energy-efficient appliances, greener and more sustainable businesses will emerge.</li>
+<li>There are new business and job opportunities across the economy that will benefit Singapore and Singaporeans.</li>
+</ol>
+<p>The Government will continue to engage members of the public to rally and drive collective actions for sustainability through campaigns, consultations, and co-creation opportunities. MSE initiatives with opportunities for individuals and organisations to play a part include the ongoing <a href="http://www.greenplan.gov.sg">Singapore Green Plan</a>, the annual <a href="http://www.mse.gov.sg/climate-action-week/">Climate Action Week</a>, and <a href="http://www.mse.gov.sg/partnering-community">Citizens&rsquo; Workgroups </a>. MSE also launched the <a href="http://www.sgeco.gov.sg/">SG Eco Fund</a> in 2020 to support individuals and organisations in starting ground-up initiatives.</p>
+<p>We invite <a href="http://www.greenplan.gov.sg/take-action/as-individual">individuals</a> and <a href="http://www.greenplan.gov.sg/take-action/as-an-organisation">organisations</a> to join us in playing your part to take environmentally-friendly actions.</p>
+<p>You can keep a lookout and participate in opportunities to co-create and co-deliver sustainability solutions by following us @msesingapore on our social media channels (LinkedIn, Twitter, Instagram, TikTok and Facebook).</p>
+	</div>
+	
+</div>	
+	<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Securing a Safe Supply of Food</label>
+	<div class="accordion-content">
+		<p>The road to a sustainable future is a whole-of-nation effort. We hope to spark a national conversation and energise Singaporeans to act through the Singapore Green Plan. Every Singaporean must be involved in this transformation because:</p>
+<ol>
+<li>Sustainability entails opportunity costs and cannot be incurred without a national consensus. In the near term, we may have to pay more for greener goods and services, adjust to slight inconveniences in our daily lives, or reskill for green jobs in new industries.</li>
+<li>It is our individual actions that determine collective outcomes. Our consumption patterns drive industry. If we avoid disposables, buy locally produced food, and choose energy-efficient appliances, greener and more sustainable businesses will emerge.</li>
+<li>There are new business and job opportunities across the economy that will benefit Singapore and Singaporeans.</li>
+</ol>
+<p>The Government will continue to engage members of the public to rally and drive collective actions for sustainability through campaigns, consultations, and co-creation opportunities. MSE initiatives with opportunities for individuals and organisations to play a part include the ongoing <a href="http://www.greenplan.gov.sg">Singapore Green Plan</a>, the annual <a href="http://www.mse.gov.sg/climate-action-week/">Climate Action Week</a>, and <a href="http://www.mse.gov.sg/partnering-community">Citizens&rsquo; Workgroups </a>. MSE also launched the <a href="http://www.sgeco.gov.sg/">SG Eco Fund</a> in 2020 to support individuals and organisations in starting ground-up initiatives.</p>
+<p>We invite <a href="http://www.greenplan.gov.sg/take-action/as-individual">individuals</a> and <a href="http://www.greenplan.gov.sg/take-action/as-an-organisation">organisations</a> to join us in playing your part to take environmentally-friendly actions.</p>
+<p>You can keep a lookout and participate in opportunities to co-create and co-deliver sustainability solutions by following us @msesingapore on our social media channels (LinkedIn, Twitter, Instagram, TikTok and Facebook).</p>
+	</div>
+	
+</div>	
+	<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Partnering the Community</label>
+	<div class="accordion-content">
+		<p>The road to a sustainable future is a whole-of-nation effort. We hope to spark a national conversation and energise Singaporeans to act through the Singapore Green Plan. Every Singaporean must be involved in this transformation because:</p>
+<ol>
+<li>Sustainability entails opportunity costs and cannot be incurred without a national consensus. In the near term, we may have to pay more for greener goods and services, adjust to slight inconveniences in our daily lives, or reskill for green jobs in new industries.</li>
+<li>It is our individual actions that determine collective outcomes. Our consumption patterns drive industry. If we avoid disposables, buy locally produced food, and choose energy-efficient appliances, greener and more sustainable businesses will emerge.</li>
+<li>There are new business and job opportunities across the economy that will benefit Singapore and Singaporeans.</li>
+</ol>
+<p>The Government will continue to engage members of the public to rally and drive collective actions for sustainability through campaigns, consultations, and co-creation opportunities. MSE initiatives with opportunities for individuals and organisations to play a part include the ongoing <a href="http://www.greenplan.gov.sg">Singapore Green Plan</a>, the annual <a href="http://www.mse.gov.sg/climate-action-week/">Climate Action Week</a>, and <a href="http://www.mse.gov.sg/partnering-community">Citizens&rsquo; Workgroups </a>. MSE also launched the <a href="http://www.sgeco.gov.sg/">SG Eco Fund</a> in 2020 to support individuals and organisations in starting ground-up initiatives.</p>
+<p>We invite <a href="http://www.greenplan.gov.sg/take-action/as-individual">individuals</a> and <a href="http://www.greenplan.gov.sg/take-action/as-an-organisation">organisations</a> to join us in playing your part to take environmentally-friendly actions.</p>
+<p>You can keep a lookout and participate in opportunities to co-create and co-deliver sustainability solutions by following us @msesingapore on our social media channels (LinkedIn, Twitter, Instagram, TikTok and Facebook).</p>
+	</div>
+	
+</div>	
 <hr>
 
 <h1>Header</h1>
