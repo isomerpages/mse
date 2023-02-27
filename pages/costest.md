@@ -569,7 +569,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 </style>
 
 
-<img src="images/cos/COS2023-Thumbnail.png" class="mse50-logo"><br>
+<img src="/images/cos/COS2023-Thumbnail.png" class="mse50-logo"><br>
 
 <p><strong>Building Our Green Singapore: Fostering a Liveable, More Sustainble Nation</strong></p>
 <p>Some preamble about COS</p>
