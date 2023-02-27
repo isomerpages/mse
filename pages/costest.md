@@ -4,9 +4,7 @@ description: add a description here
 permalink: /costest
 image: /images/cos2023/COS2023-Thumbnail.png
 ---
-
 <style>
-
 /*--------------------------------------------------------------
 STYLING FOR INTRO
 --------------------------------------------------------------*/
@@ -142,7 +140,6 @@ input:checked + label + .accordion-content {
 	
 </style>
 
-
 <h3>Building Our Green Singapore: Fostering a Liveable, More Sustainble Nation</h3>
 <img src="/images/cos2023/COS2023-Thumbnail.png" class="mse50-logo"><br>
 
@@ -158,9 +155,8 @@ input:checked + label + .accordion-content {
 </div>
 
 <hr> 
-  
 
-<h3 id="carbon-emissions">Towards Net Zero</h3>
+<h3 id="carbon-emissions">2023 Announcements</h3>
 <div>
   	<input type="checkbox" id="cctitle1"  /><label for="cctitle1">Towards Net Zero</label>
 	<div class="accordion-content">
@@ -204,7 +200,7 @@ input:checked + label + .accordion-content {
 	
 <hr>
 
-<h1>Factsheets?</h1>
+<h1>Header</h1>
 
 * ABC
 * ABC
@@ -217,8 +213,6 @@ input:checked + label + .accordion-content {
 <h1>COS Videos</h1>
 <p><strong>I Remember - an MSE50 Short Film</strong></p>
 <p>Take a trip down memory lane in this short film as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
-
-
 
 <iframe src="https://www.youtube.com/embed/STUnLrfK0as" width="620" height="380" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
