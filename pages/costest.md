@@ -97,8 +97,49 @@ STYLING FOR BUTTONS
   top: 10px;
 }
 	
+/*--------------------------------------------------------------
+STYLING FOR ACCORDIAN
+--------------------------------------------------------------*/
+ input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
 
- 
+label:hover {
+	background: #4a96b0;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+	
 </style>
 
 
@@ -147,7 +188,31 @@ STYLING FOR BUTTONS
  
  <hr>
 
-
+<h2 id="carbon-emissions">Climate Change</h2>
+<div>
+  	<input type="checkbox" id="cctitle1"  /><label for="cctitle1">What are Singapore’s climate pledge and aspiration? How does Singapore plan to achieve them?</label>
+	<div class="accordion-content">
+		<p>In 2020, Singapore submitted our enhanced 2030 Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the United Nations Framework Convention on Climate Change (UNFCCC). Our 2030 enhanced NDC target is to peak emissions at 65MtCO2e around 2030 and our LEDS aspiration is to halve emissions from its peak to 33MtCO2e by 2050, with a view to achieving net-zero emissions as soon as viable. More details on our climate pledge can be found <a href="https://www.nccs.gov.sg/media/press-release/singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy">here</a>.</p>
+<p>There are three thrusts under <a href="https://www.nccs.gov.sg/media/publications/singapores-long-term-low-emissions-development-strategy">Singapore LEDS</a>:<br />(a) Transformations in industry, economy and society, e.g. more renewable energy, greater energy efficiency, reducing energy consumption; <br />(b) Adoption of advanced low-carbon technologies, e.g. carbon capture, utilisation and storage (CCUS), low-carbon fuels; and <br />(c) Effective international collaboration, e.g. international climate action, regional power grids, market-based mechanisms.</p>
+<p>In the 30-year time frame to 2050, there will be uncertainties and unanticipated developments. In developing Singapore's LEDS aspiration, a positive outlook is taken on global advances in technology and the potential for international co-operation. An overview of our plans to achieve our climate ambition can be found <a href="https://www.nccs.gov.sg/files/docs/default-source/publications/leds-infographic-final.pdf">here</a>.</p>
+<p>At the Budget 2022, Singapore announced that we will raise our ambition to achieve net zero emissions by or around mid-century. A consultation with industry and citizen stakeholder groups will be carried out to firm up and finalise our plans before making a formal revision of our LEDS later in 2022.</p>
+<p>We will continue to rally every segment of society to do their part to address climate change through the Singapore Green Plan 2030, which is our whole-of-nation roadmap that outlines concrete and ambitious sectoral targets to achieve sustainable development and net-zero emissions.&nbsp;</p>
+		
+	</div>
+  	<input type="checkbox" id="cctitle2"  /><label for="cctitle2">How can we tackle climate change as a nation? Do individuals and organisations have a part to play?</label>
+	<div class="accordion-content">
+		<p>The road to a sustainable future is a whole-of-nation effort. We hope to spark a national conversation and energise Singaporeans to act through the Singapore Green Plan. Every Singaporean must be involved in this transformation because:</p>
+<ol>
+<li>Sustainability entails opportunity costs and cannot be incurred without a national consensus. In the near term, we may have to pay more for greener goods and services, adjust to slight inconveniences in our daily lives, or reskill for green jobs in new industries.</li>
+<li>It is our individual actions that determine collective outcomes. Our consumption patterns drive industry. If we avoid disposables, buy locally produced food, and choose energy-efficient appliances, greener and more sustainable businesses will emerge.</li>
+<li>There are new business and job opportunities across the economy that will benefit Singapore and Singaporeans.</li>
+</ol>
+<p>The Government will continue to engage members of the public to rally and drive collective actions for sustainability through campaigns, consultations, and co-creation opportunities. MSE initiatives with opportunities for individuals and organisations to play a part include the ongoing <a href="http://www.greenplan.gov.sg">Singapore Green Plan</a>, the annual <a href="http://www.mse.gov.sg/climate-action-week/">Climate Action Week</a>, and <a href="http://www.mse.gov.sg/partnering-community">Citizens&rsquo; Workgroups </a>. MSE also launched the <a href="http://www.sgeco.gov.sg/">SG Eco Fund</a> in 2020 to support individuals and organisations in starting ground-up initiatives.</p>
+<p>We invite <a href="http://www.greenplan.gov.sg/take-action/as-individual">individuals</a> and <a href="http://www.greenplan.gov.sg/take-action/as-an-organisation">organisations</a> to join us in playing your part to take environmentally-friendly actions.</p>
+<p>You can keep a lookout and participate in opportunities to co-create and co-deliver sustainability solutions by following us @msesingapore on our social media channels (LinkedIn, Twitter, Instagram, TikTok and Facebook).</p>
+	</div>
+	
+	
 
 <h1>Our stories</h1>
 
