@@ -110,13 +110,13 @@ STYLING FOR BUTTONS
 	
 <div>
 <center>
-	  <a class="button" href="/resource-room/category/2022-09-15-media-release-on-tree-planting-ceremony" target="_blank">Press Release</a>&nbsp; <a class="button" href="/resource-room/category/2022-09-15-speech-by-minister-grace-fu-at-mse50-tree-planting/" target="_blank">MSE 50th Anniversary Tree Planting Event</a>&nbsp;
+	  <a class="button" href="xxx" target="_blank">Press Release</a>&nbsp; 
+	  <a class="button" href="/news/committee-of-supply/" target="_blank">Speeches</a>&nbsp;
+	  <a class="button" href="xxxx/" target="_blank">Infographics</a>&nbsp;
 </center>
 </div>
-   <img src="images/mse50/treeplanting.jpg" class="img-icon" alt="MSE50">
-  <center> Check out photos of the <a href="https://www.facebook.com/MSEsingapore/posts/pfbid015pc4aFT5mrxaXvhBNwJpRoyXhBQby7hNpPy5krHYK4JaUAMufDfWX2GQ8xDdSAml">MSE50 Tree Planting Event</a>!</center>
-  
-  <hr> 
+
+<hr> 
   
 
 <h1>Our milestones</h1>
