@@ -186,18 +186,17 @@ input:checked + label + .accordion-content {
 	
   	<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Towards a Zero Waste Nation</label>
 	<div class="accordion-content">
-      <p><b>Reducing packaging waste, increasing recycling & building zero waste habits</b></p>
-<li>Larger supermarket operators to charge at least 5 cents per disposable carrier bag to encourage consumers to bring their own bags (from 3 July 2023)</li>
-      <li>New beverage container return scheme to boost recycling of used plastic bottles and metal cans</li>
-      <li>Bloobox distribution to encourage households to recycle right</li>
+      	<p><b>Reducing packaging waste, increasing recycling & building zero waste habits</b></p>
+		<ul>
+		<li>Larger supermarket operators to charge at least 5 cents per disposable carrier bag to encourage consumers to bring their own bags (from 3 July 2023)</li>
+      		<li>New beverage container return scheme to boost recycling of used plastic bottles and metal cans</li>
+      		<li>Bloobox distribution to encourage households to recycle right</li>
+		</ul>
 	</div>
 		
-</div>	
-		<input type="checkbox" id="cctitle4"  /><label for="cctitle4">Safeguarding Our Hawker Culture</label>
+	<input type="checkbox" id="cctitle4"  /><label for="cctitle4">Safeguarding Our Hawker Culture</label>
 	<div class="accordion-content">
-		<p>
-          <b>New & upgraded hawker centres</b>
-      </p>
+		<p><b>New & upgraded hawker centres</b></p>
       <li>Two new hawker centres (Buangkok and Woodleigh Village), and a refreshed hawker centre (Jurong West) will be operational in 2023</li></p>
       <p>
         <b>Sustaining the hawker trade</b> 
@@ -208,7 +207,7 @@ input:checked + label + .accordion-content {
           <li>Enhancement of Productive Hawker Centres Programme to cover co-funding for Cleaning Process Automation solutions (extended to FY2028)</li>
 	</div>
 	
-</div>	
+
 	<input type="checkbox" id="cctitle5"  /><label for="cctitle5">Enhancing Coastal & Flood Resilience</label>
 	<div class="accordion-content">
 		<li>New Coastal Protection and Flood Management Research Programme to support development of innovative coastal protection and flood management solutions</li>
@@ -217,7 +216,7 @@ input:checked + label + .accordion-content {
           
 	</div>
 	
-</div>	
+
 	<input type="checkbox" id="cctitle6"  /><label for="cctitle6">Securing a Safe Supply of Food</label>
 	<div class="accordion-content">
       <p><b>Diversifying our food import sources</b>
@@ -246,7 +245,7 @@ input:checked + label + .accordion-content {
       </p>
 	</div>
 	
-</div>	
+
 	<input type="checkbox" id="cctitle7"  /><label for="cctitle7">Partnering the Community</label>
 	<div class="accordion-content">
 		<p>
