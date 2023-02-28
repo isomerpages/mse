@@ -197,67 +197,84 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="cctitle4"  /><label for="cctitle4">Safeguarding Our Hawker Culture</label>
 	<div class="accordion-content">
 		<p><b>New & upgraded hawker centres</b></p>
-      <li>Two new hawker centres (Buangkok and Woodleigh Village), and a refreshed hawker centre (Jurong West) will be operational in 2023</li></p>
-      <p>
-        <b>Sustaining the hawker trade</b> 
-        <li>Ongoing programmes such as Hawkers' Development Programme will be enhanced</li></p>
-        <p>
-          <b>Raising hawkers' productivity</b></p>
+		<ul>
+      			<li>Two new hawker centres (Buangkok and Woodleigh Village), and a refreshed hawker centre (Jurong West) will be operational in 2023</li>
+		</ul>	
+	
+		<p><b>Sustaining the hawker trade</b></p>
+		<ul>
+        	<li>Ongoing programmes such as Hawkers' Development Programme will be enhanced</li>
+		</ul>
+        
+		<p><b>Raising hawkers' productivity</b></p>
+		<ul>
           <li>Expansion of hawkers' Productivity Grant from $5,000 to $7,000 to cover stall-level digital solutions (extended to FY2025)</li>
           <li>Enhancement of Productive Hawker Centres Programme to cover co-funding for Cleaning Process Automation solutions (extended to FY2028)</li>
+		</ul>
 	</div>
 	
 
 	<input type="checkbox" id="cctitle5"  /><label for="cctitle5">Enhancing Coastal & Flood Resilience</label>
 	<div class="accordion-content">
+		<ul>
 		<li>New Coastal Protection and Flood Management Research Programme to support development of innovative coastal protection and flood management solutions</li>
       <li>Ongoing site-specific studies will cover half of Singapore's coastline when new study at North-west coast (Lim Chu Kang) and Sungei Kadut area) commences in second half of 2023</li>
       <li>Ongoing drainage improvement works at 25 locations to enhance flood resilience</li>
-          
+		</ul>
 	</div>
 	
 
 	<input type="checkbox" id="cctitle6"  /><label for="cctitle6">Securing a Safe Supply of Food</label>
 	<div class="accordion-content">
-      <p><b>Diversifying our food import sources</b>
-      <li>Increased our food supply sources from 172 countries and regions in 2019 to 183 in 2022</li></p>
-      <p>
-        <b>Growing local</b>
-      
-      <li>Launch first land tender for wider range of food types (e.g. fruited vegetables and mushrooms) in 2H2023</li>
-      <li>Continue efforts to transform the Lim Chu Kang region through masterplanning</li></p>
-      <p>
-        <b>Developing a skilled agri-food workforce</b>
+		<p><b>Diversifying our food import sources</b></p>
+		<ul>
+      		<li>Increased our food supply sources from 172 countries and regions in 2019 to 183 in 2022</li>
+		</ul>
+		
+		<p><b>Growing local</b></p>
+      		<ul>
+      			<li>Launch first land tender for wider range of food types (e.g. fruited vegetables and mushrooms) in 2H2023</li>
+      			<li>Continue efforts to transform the Lim Chu Kang region through masterplanning</li>
+		</ul>
+		
+		<p><b>Developing a skilled agri-food workforce</b></p>
+    		 <ul>
+      			<li>New ITE Work-Study Diploma in Agriculture and Aquaculture Technology (from April 2023) </li> 
+		</ul>
+		
+		<p><b>New Alliance for Action (AfA)</b></p>
+		<ul>
+       			 <li>Explore solutions to raise demand for local produce</li>
+		</ul>
      
-      <li>New ITE Work-Study Diploma in Agriculture and Aquaculture Technology (from April 2023) </li> </p>
-      <p>
-        <b>New Alliance for Action (AfA)</b>
-        <li>Explore solutions to raise demand for local produce</li>
-      </p>
-      <p>
-        <b>A more productive & sustainable aquaculture sector</b>
-        <li>SFA's Marine Aquaculture Centre as key research campus of Aquapolis for aquaculture research and innovation</li>
-        <li>Pre-planning study on integrating future research facilities with aquaculture infrastructure</li>
-      </p>
-      <p><b>Leveraging Science, Data & Technology to enhance food safety</b>
-        <li>Development of Whole Genome Sequencing analytics to better identify causes of foodborne diseases</li>
-        <li>$23 million set aside under the Singapore Food Story R&D Programme 2.0 to build new food safety capabilities</li>
-      </p>
+		<p><b>A more productive & sustainable aquaculture sector</b></p>
+		<ul>
+        		<li>SFA's Marine Aquaculture Centre as key research campus of Aquapolis for aquaculture research and innovation</li>
+        		<li>Pre-planning study on integrating future research facilities with aquaculture infrastructure</li>
+      		</ul>
+		
+		<p><b>Leveraging Science, Data & Technology to enhance food safety</b></p>
+		<ul>
+        		<li>Development of Whole Genome Sequencing analytics to better identify causes of foodborne diseases</li>
+        		<li>$23 million set aside under the Singapore Food Story R&D Programme 2.0 to build new food safety capabilities</li>
+      		</ul>
 	</div>
 	
 
 	<input type="checkbox" id="cctitle7"  /><label for="cctitle7">Partnering the Community</label>
 	<div class="accordion-content">
-		<p>
-          <b>Green Action for Communities (GAC)</b>
-          <li>Galvanise community participation to develop action plans for sustainability initiatives</li>
-          <li>700 GAC group members engaged through workshops and deep dives</li>
-          <li>More deep dives to be rolled out over the next few months</li>
-      </p>
-      <p><b>SG Eco Fund</b>
-        <li>Supported over 180 ground-up community projects on sustainability</li>
-        <li>Individuals and groups are invited to apply for funding to implement projects with the community</li>
-      </p>
+		<p><b>Green Action for Communities (GAC)</b></p>
+		<ul>
+         		 <li>Galvanise community participation to develop action plans for sustainability initiatives</li>
+          		<li>700 GAC group members engaged through workshops and deep dives</li>
+          		<li>More deep dives to be rolled out over the next few months</li>
+      		</ul>
+
+		<p><b>SG Eco Fund</b></p>
+		<ul>
+        		<li>Supported over 180 ground-up community projects on sustainability</li>
+        		<li>Individuals and groups are invited to apply for funding to implement projects with the community</li>
+      		</ul>
 	</div>
 	
 </div>	
