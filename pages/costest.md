@@ -166,19 +166,24 @@ input:checked + label + .accordion-content {
 </ul>
 
 	<p><b>Supporting our Households & Companies to be more energy efficient</b></p>
-  <p><li>Helping households make more informed decisions</li>
-    - Energy labels will be introduced for more appliances<br>
-    - Energy standards for appliances will be raised over the next two years</p>
-  <li>Extension and expansion of the Climate Friendly Households Programme. More details will be released later this year.</li>
-  <li>Enhancement of Energy Efficiency Fund (E2F) to provide manufacturing SMEs more certainty when investing in energy efficient technologies and simpler grant application process</li></p>
+  	<ul>
+	 <li>Helping households make more informed decisions</li>
+         <li>Energy labels will be introduced for more appliances</li>
+         <li>Energy standards for appliances will be raised over the next two years</li>
+         <li>Extension and expansion of the Climate Friendly Households Programme. More details will be released later this year.</li>
+         <li>Enhancement of Energy Efficiency Fund (E2F) to provide manufacturing SMEs more certainty when investing in energy efficient technologies and simpler grant application process</li>
+	</ul>
 	</div>
 	
   	<input type="checkbox" id="cctitle2"  /><label for="cctitle2">Ensuring Water Sustainability</label>
 	<div class="accordion-content">
+	<ul>
 		<li>Tunneling works for Deep Tunnel Sewerage System (DTSS) Phase 2 Project expected to be completed (by 2H2023)</li>
       <li>Redevelopment of Kranji Water Reclamation Plant and Kranji NEWater Factory to increase treatment capacities and NEWater production</li>
       <li>Introduction of mandatory water recycling requirements on new projects in wafer fabrication, electronics and biomedical industries (from 1 January 2024)</li>
+		</ul>
 	</div>
+	
   	<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Towards a Zero Waste Nation</label>
 	<div class="accordion-content">
       <p><b>Reducing packaging waste, increasing recycling & building zero waste habits</b></p>
