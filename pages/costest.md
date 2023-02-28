@@ -1,6 +1,6 @@
 ---
 title: MSE Committee of Supply 2023
-description: Building a Green Singapore - Fostering a liveable, more sustainable Singapore
+description: Building a Green Singapore. Fostering a Liveable, More Sustainable Singapore.
 permalink: /costest
 image: /images/cos2023/COS2023-thumbnail.png
 ---
@@ -140,14 +140,15 @@ input:checked + label + .accordion-content {
 </style>
 <img src="/images/cos2023/COS2023-thumbnail.png" class="mse50-logo"><br>
 
-<p>Insert first two paras of media factsheet</p>
-<p>Insert first two paras of media factsheet</p>
+<p>During the Ministry of Sustainability and the Environment (MSE)’s Committee of Supply debates on 1 and 2 March 2023, Minister Grace Fu, Senior Ministers of State Dr Amy Khor and Dr Koh Poh Koon, and Senior Parliamentary Secretary Baey Yam Keng shared the Ministry’s key initiatives as the Government continues building Singapore into a green, liveable, and climate-resilient home for all.</p>
+
+<p>Two years ago, the [Singapore Green Plan 2030](http://www.greenplan.gov.sg) was launched, charting bold and concrete policies and actions for Singapore to achieve our net zero emissions goal. This year, we are pressing ahead in our implementation efforts for Singapore’s green transition.</p>
 
 <div>
 <center>
-	  <a class="button" href="xxx" target="_blank">Press Release</a>&nbsp; 
+	  <a class="button" href="/images/cos2023/press-release.pdf" target="_blank">Press Release</a>&nbsp; 
 	  <a class="button" href="/news/committee-of-supply/" target="_blank">Speeches</a>&nbsp;
-	  <a class="button" href="xxxx/" target="_blank">Infographics</a>&nbsp;
+	  <a class="button" href="/images/cos2023/infographic.pdf" target="_blank">Infographics</a>&nbsp;
 </center>
 </div>
 
