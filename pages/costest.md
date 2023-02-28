@@ -138,7 +138,7 @@ input:checked + label + .accordion-content {
 	display: block;
 }
 </style>
-<img src="/images/cos2023/COS2023-Thumbnail.png" class="mse50-logo"><br>
+<img src="/images/cos2023/COS2023-thumbnail.png" class="mse50-logo"><br>
 
 <p>Insert first two paras of media factsheet</p>
 <p>Insert first two paras of media factsheet</p>
