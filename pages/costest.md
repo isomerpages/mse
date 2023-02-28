@@ -1,6 +1,6 @@
 ---
-title: COS Testing Page
-description: add a description here
+title: MSE Committee of Supply 2023
+description: Building a Green Singapore: Fostering a liveable, more sustainable Singapore
 permalink: /costest
 image: /images/cos2023/COS2023-thumbnail.png
 ---
