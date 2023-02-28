@@ -157,12 +157,15 @@ input:checked + label + .accordion-content {
 <div>
   	<input type="checkbox" id="cctitle1"  /><label for="cctitle1">A Green & Climate-Friendly Singapore</label>
 	<div class="accordion-content">
-      <p><b>Public Sector leading the way in environmental sustainability</p></b>
-      <p><li>Annual GreenGov.SG report on Government's efforts, progress and plans (from 2023)</li>
-  <li> Statutory Boards to publish annual environmental sustainability disclosures on their efforts, progress and plans (from 2024)</li>
-  <li>Up to 5% of evaluation points to be set aside for environmental sustainability for large Government construction and ICT tenders (starting in 2024)</li>
-  <li>PUB has committed to achieving net zero emissions around 2045 through 3Rs strategy - Replace, Reduce, Remove</li></p>
-		<p><b>Supporting our Households & Companies to be more energy efficient</b></p>
+      <p><b>Public Sector leading the way in environmental sustainability</b></p>
+      <ul>
+	 <li>Annual GreenGov.SG report on Government's efforts, progress and plans (from 2023)</li>
+         <li> Statutory Boards to publish annual environmental sustainability disclosures on their efforts, progress and plans (from 2024)</li>
+         <li>Up to 5% of evaluation points to be set aside for environmental sustainability for large Government construction and ICT tenders (starting in 2024)</li>
+        <li>PUB has committed to achieving net zero emissions around 2045 through 3Rs strategy - Replace, Reduce, Remove</li>
+</ul>
+
+	<p><b>Supporting our Households & Companies to be more energy efficient</b></p>
   <p><li>Helping households make more informed decisions</li>
     - Energy labels will be introduced for more appliances<br>
     - Energy standards for appliances will be raised over the next two years</p>
