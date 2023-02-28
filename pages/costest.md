@@ -278,67 +278,6 @@ input:checked + label + .accordion-content {
 	</div>
 	
 </div>	
-<hr>
-
-<h1>Header</h1>
-
-* ABC
-* ABC
-* ABC
-
-
-
-<hr>
-
-<h1>COS Videos</h1>
-<p><strong>I Remember - an MSE50 Short Film</strong></p>
-<p>Take a trip down memory lane in this short film as we re-live the days of street hawkers in 1970s, where a chance encounter between a young lady and a strange boy triggers off reflections about our sustainable habits and how they have carried on till today.</p>
-
-<iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://www.youtube.com/embed/STUnLrfK0as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p></p>
-
-<p><strong>#50YearsOfSustainability - Crowdsourcing for your environment stories</strong></p>
-<p>Got a story or memory of what Singapore’s environment used to be like when you were growing up? Share your stories and experiences with us and stand to win limited edition prizes! </p>
-
-<a href="/mse50contest"><img src="images/mse50/UGCWebBanner.png" class="img-icon" alt="web banner"></a>
- 
-
-  
-<hr>
-<h1>Our milestones</h1>
-
-<p>Take a look back in time as we trace our environmental milestones over the past five decades.</p>
-<div class="row">
- <div class="column">
- <img src="images/mse50/m4.jpg" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Singapore River Clean Up<br></p>
- </div>
- <div class="column">
- <img src="images/mse50/m9.jpg" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Street Hawkers Resettlement<br></p>
- </div>
- <div class="column">
- <img src="images/mse50/m12.jpg" class="img-icon" alt="MSE50"><br>
-  <p class="icon-desc">Phasing out of night-soil bucket<br></p>
- </div>
-</div>
-
-
-<div>
-<center>
-	  <a class="button" href="/mse50milestones">Full list of milestones</a>&nbsp; <a class="button" href="https://www.facebook.com/hashtag/mse50" target="_blank">Social Media Highlights</a>&nbsp;  <a class="button" href="https://www.straitstimes.com/singapore/environment/mse-from-newater-to-vertical-farming-key-milestones-singapore-50-year-journey-towards-sustainability" target="_blank">Digital Advertorial</a>&nbsp;
-</center>
-</div>  
-  
- 
- <hr>
-
-
-
-	
 <!-- container end dic -->
 
 
