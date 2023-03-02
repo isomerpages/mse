@@ -579,10 +579,6 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 <p>Find out what happened during last year’s event <a href="https://www.mse.gov.sg/climate-action-week/">here!</a></p>
 
-<p>Key activities of Go Green SG will be taking place in July 2023. Stay tuned for more information soon!</p>
-
-<p>In the meantime, click <a href="XXX"> here</a> to find out how you can join the community movement to rally more Singaporeans towards a sustainable lifestyle.</p>
-
 
 	
 <!-- container end dic -->
