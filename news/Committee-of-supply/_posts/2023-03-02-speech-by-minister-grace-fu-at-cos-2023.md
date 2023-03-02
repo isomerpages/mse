@@ -96,7 +96,7 @@ In a bid to turn more of these ideas into action, we have launched the Green Nat
 
 _Securing the Transition_
 
-22. My Ministry is laying the foundation for Singapore to be a climate-ready nation. I will elaborate on how we will bolster our water security; SMS Koh Poh Koon will share how we are shoring up our coastal defences, inland flood protection and food resilience.
+22  My Ministry is laying the foundation for Singapore to be a climate-ready nation. I will elaborate on how we will bolster our water security; SMS Koh Poh Koon will share how we are shoring up our coastal defences, inland flood protection and food resilience.
 
 23  Singapore has four national taps – water from local catchments, imported water, NEWater, and desalinated water. NEWater and desalinated water are weather-resilient sources. In addressing the threats of climate change, we will invest further in these weather-resilient taps. 
 
