@@ -1,5 +1,5 @@
 ---  
-title: Speech by Minister Grace Fu - Building a Green Singapore: Fostering a liveable, more sustainable nation
+title: Speech by Minister Grace Fu - Building a Green Singapore - Fostering a liveable, more sustainable nation
 permalink: /resource-room/category/2023-03-02-speech-by-minister-grace-fu-at-cos-2023
 image:  
 file_url:  
