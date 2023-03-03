@@ -12,7 +12,7 @@ description:
 
 1 Mr Chairman, as a low-lying tropical island state that imports most of our food, food security, sea level rise, and inland flooding are critical concerns. We are making strong efforts to strengthen our resilience on these fronts.
 
-**Food Resilience: Securing a Supply of Safe Food
+**Food Resilience: Securing a Supply of Safe Food**
 
 2 Food security is an existential concern for Singapore. We import more than 90% of the food we consume, making it impossible for us to insulate ourselves entirely from global food supply and price shocks. 
 
@@ -78,11 +78,12 @@ _Deepening our food safety capabilities_
 20  Ms Nadia Samdin asked how SFA will innovate to bolster its food safety capabilities. SFA is developing Whole Genome Sequencing analytics to better identify the causes of foodborne diseases, and to help prevent outbreaks. We will strengthen SFA’s use of data analytics to identify food establishments with higher risks of food safety lapses, enabling officers to conduct more targeted inspections and educate poorer performing food establishments to tighten their food safety practices.
  
 21  We will also invest in deep technology to ensure that our food safety regime keeps pace with industry innovation. Dr Lim Wee Kiak asked about progress in novel foods. Since SFA approved the sale of cultured meat in 2020, a global first, we have seen a steady increase in applications for the sale of novel foods. Most recently, SFA gave regulatory approval to GOOD Meat for the use of serum-free media in the production of cultivated meat.  We will set aside $23 million, under the Singapore Food Story R&D Programme 2.0, the national R&D programme for food, to build new food safety capabilities to cater to developments in the novel foods space. SFA will support research projects to develop new methodologies which aim to provide more timely assessments, including toxicity and allergenicity assessments for novel and alternative proteins.
-Inculcating a shared responsibility towards food safety
+
+_Inculcating a shared responsibility towards food safety_
 
 22  I thank Ms Nadia Samdin for her suggestions to enhance our food safety framework to encourage industry to maintain good food safety standards, including our home-based businesses and food sold through online platforms. Home-based food businesses are not licenced by SFA as they pose relatively low food safety risks due to their small scale. They are still subjected though to prevailing food safety regulations, and should comply with SFA’s regulations and guidelines on proper food handling practices. In January, a new Singapore Standard was launched to guide food e-commerce players on their roles and responsibilities related to food safety. The guidelines were co-developed with a wide range of stakeholders, from food e-commerce platforms to food delivery platforms as well as supermarket retailers. Food safety is a joint responsibility. I am heartened to see strong industry support in committing towards best practices in providing food safety information to consumers and improving traceability and recall along the food e-commerce chain. 
 
-Climate Resilience: Enhancing Coastal and Flood Protection
+**Climate Resilience: Enhancing Coastal and Flood Protection**
 
 _Protecting our coastlines_
 
