@@ -1,6 +1,6 @@
 ---
 title: MSE Committee of Supply 2023
-description: Building a Green Singapore. Fostering a Liveable, More Sustainable Singapore.
+description: Go Green Singapore. Fostering a Liveable, More Sustainable Singapore.
 permalink: /cos
 image: /images/20230302-COS2023-banner.png
 ---
