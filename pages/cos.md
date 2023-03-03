@@ -147,7 +147,7 @@ input:checked + label + .accordion-content {
 <div>
 <center>	  
 	  <a class="button" href="/news/committee-of-supply/" target="_blank">Speeches</a>&nbsp;
-	  <a class="button" href="/files/20230302 COS-infogfx.pdf" target="_blank">Infographics</a>&nbsp;
+	  <a class="button" href="/files/20230302-COS-infogfx.pdf" target="_blank">Infographics</a>&nbsp;
 </center>
 </div>
 
