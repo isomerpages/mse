@@ -575,7 +575,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 
 <p><b>This year, Climate Action Week will be rebranded as Go Green SG</b> to better reflect the wide range of sustainability initiatives and programmes it encompasses. </p>
 
-<p>We invite you to join in this community movement and organise sustainability-related activities in the month of July to rally even more Singaporeans towards a sustainable lifestyle. Download our [partner’s package](/mse/files/GGSG-partners-package.pdf/) to find out how to be part of the Go Green SG movement this year!</p>
+<p>We invite you to join in this community movement and organise sustainability-related activities in the month of July to rally even more Singaporeans towards a sustainable lifestyle. Download our [partner's package](/mse/files/GGSG-partners-package.pdf) to find out how to be part of the Go Green SG movement this year!</p>
 
 <p>Find out what happened during last year’s event <a href="https://www.mse.gov.sg/climate-action-week/">here!</a></p>
 
