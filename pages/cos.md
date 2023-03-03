@@ -140,7 +140,7 @@ input:checked + label + .accordion-content {
 </style>
 <img src="/images/cos2023/20230302-COS2023-banner.png" class="mse50-logo"><br>
 
-<p>During the Ministry of Sustainability and the Environment (MSE)'s Committee of Supply debates on 1 and 2 March 2023, Minister Grace Fu, Senior Ministers of State Dr Amy Khor and Dr Koh Poh Koon, and Senior Parliamentary Secretary Baey Yam Keng shared the Ministry's key initiatives as the Government continues building Singapore into a green, liveable, and climate-resilient home for all.</p>
+<p>During the Ministry of Sustainability and the Environment (MSE)'s Committee of Supply debates on 2 March 2023, Minister Grace Fu, Senior Ministers of State Dr Amy Khor and Dr Koh Poh Koon, and Senior Parliamentary Secretary Baey Yam Keng shared the Ministry's key initiatives as the Government continues building Singapore into a green, liveable, and climate-resilient home for all.</p>
 
 <p>Two years ago, the <a href="http://www.greenplan.gov.sg" target="_blank">Singapore Green Plan 2030</a> was launched, charting bold and concrete policies and actions for Singapore to achieve our net zero emissions goal. This year, we are pressing ahead in our implementation efforts for Singapore's green transition.</p>
 
