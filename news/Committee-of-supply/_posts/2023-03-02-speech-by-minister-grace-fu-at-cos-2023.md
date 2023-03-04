@@ -6,7 +6,7 @@ file_url:
 description:  
 --- 
 
-#### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT'S COMMITTEE OF SUPPLY (COS) DEBATE 2023, 2 MARCH 2023
+#### Speech By Ms Grace Fu, Minister For Sustainability and the Environment, at Ministry of Sustainability and the Environment's Committtee of Supply (COS) Debate 2023, 2 March 2023
 
 **Introduction**
 
