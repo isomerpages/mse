@@ -128,18 +128,19 @@ input:checked + label + .accordion-content {
 		<p>Under the <a href="https://www.nea.gov.sg/industry-transformation-map/incubate">Innovating and Curating Better Automation and Technologies for Environmental Services (INCUBATE) Programme</a>, NEA partners technology and service providers as well as premises owners to address challenges in environmental services by conducting trials of technologies and innovatons, and sharing the results and learning of such trials.</p>
 	</div>
 </div>
+	
 <h2 id="environmental-pollution-control">Environmental Pollution Control</h2>
-	<div>
+<div>
 	<input type="checkbox" id="title12"  /><label for="title12">R&D Programme</label>
 	<div class="accordion-content">
-		<ul>
+		<p>
 		<li>Good air quality is important. While Singapore enjoys better air quality than many cities in Asia, we aspire to make our air better and the city more liveable.</li>
 			<li>The <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">Air Quality Monitoring and Control (AQMC)</a> Funding Initiative (FI) supports basic and applied research in urban air quality.</li>
 			<li>AQMC improves our understanding of Singapore's ambient air pollutants and funds efforts to develop technological solutions to better monitor them. </li>
 			<li>Its outcome supports air quality policy and regulatory formulation as well as NEA's monitoring and management capabilities, with the goal of meeting the World Health Organisation Air Quality Guidelines (WHO AQGs) for all air pollutants in the long term. It seeks to improve our liveability by reducing the number of unpleasant odour incidents.</li>
 			<li>For more information and enquiries, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">here.</a>
-		</ul>
-				</div>
+		</p>
+	</div>
 </div>
 <h2 id="key-partners">Key Partners</h2>
 	<div>
