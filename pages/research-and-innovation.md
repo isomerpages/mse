@@ -137,7 +137,8 @@ input:checked + label + .accordion-content {
 			<li>The <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">Air Quality Monitoring and Control (AQMC)</a> Funding Initiative (FI) supports basic and applied research in urban air quality.</li>
 			<li>AQMC improves our understanding of Singapore's ambient air pollutants and funds efforts to develop technological solutions to better monitor them. </li>
 			<li>Its outcome supports air quality policy and regulatory formulation as well as NEA's monitoring and management capabilities, with the goal of meeting the World Health Organisation Air Quality Guidelines (WHO AQGs) for all air pollutants in the long term. It seeks to improve our liveability by reducing the number of unpleasant odour incidents.</li>
-			<li>For more information and enquiries, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">here.</a></ul>
+			<li>For more information and enquiries, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">here.</a></li>
+		</ul>
 	</div>
 </div>
 	
