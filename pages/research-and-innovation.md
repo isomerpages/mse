@@ -125,7 +125,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>The National Innovation Challenges (NICs) are periodic open innovation calls for academia and industry to work with public agencies to develop practical and impactful solutions to large and complex problems facing Singapore. By bringing industry partners, public agencies, and innovators to work on the identified challenges, these calls seek to harness Singapore’s vast research and innovation capabilities to develop new technologies to sustain our long-term growth and resilience. NEA and Enterprise Singapore (ESG) have jointly launched <a href="https://www.nea.gov.sg/industry-transformation-map/innovation-calls-and-request-for-proposals">innovation calls and request for proposals</a> for industry solutions as part of the NIC.</p>
 		<p>NEA has established a <a href="https://www.nea.gov.sg/industry-transformation-map/regulatory-sandbox">regulatory sandbox</a> under the <a href="https://www.nea.gov.sg/industry-transformation-map">Environmental Services Industry Transformation Map</a> (ES ITM) to create an environment for experimentation, to promote innovation in Singapore’s environmental services industry. It allows the regulator to assess the impact of the new technologies and solutions before determining the appropriate regulatory adjustments. Interested parties can apply to experiment with innovative environmental services-related technologies and solutions in a controlled environment within a fixed duration, without compromising environmental, public health and safety aspects.</p>
-		<p>Under the <a href="https://www.nea.gov.sg/industry-transformation-map/incubate">Innovating and Curating Better Automation and Technologies for Environmental Services (INCUBATE) Programme</a>, NEA partners technology and service providers as well as premises owners to address challenges in environmental services by conducting trials of technologies and innovatons, and sharing the results and learning of such trials.</p>
+		<p>Under the <a href="https://www.nea.gov.sg/industry-transformation-map/incubate">Innovating and Curating Better Automation and Technologies for Environmental Services (INCUBATE) Programme</a>, NEA partners technology and service providers as well as premises owners to address challenges in environmental services by conducting trials of technologies and innovations, and sharing the results and learning of such trials.</p>
 	</div>
 </div>
 	
@@ -133,13 +133,11 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title12"  /><label for="title12">R&D Programme</label>
 	<div class="accordion-content">
-		<p>
-		<li>Good air quality is important. While Singapore enjoys better air quality than many cities in Asia, we aspire to make our air better and the city more liveable.</li>
+		<ul><li>Good air quality is important. While Singapore enjoys better air quality than many cities in Asia, we aspire to make our air better and the city more liveable.</li>
 			<li>The <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">Air Quality Monitoring and Control (AQMC)</a> Funding Initiative (FI) supports basic and applied research in urban air quality.</li>
 			<li>AQMC improves our understanding of Singapore's ambient air pollutants and funds efforts to develop technological solutions to better monitor them. </li>
 			<li>Its outcome supports air quality policy and regulatory formulation as well as NEA's monitoring and management capabilities, with the goal of meeting the World Health Organisation Air Quality Guidelines (WHO AQGs) for all air pollutants in the long term. It seeks to improve our liveability by reducing the number of unpleasant odour incidents.</li>
-			<li>For more information and enquiries, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">here.</a>
-		</p>
+			<li>For more information and enquiries, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">here.</a></ul>
 	</div>
 </div>
 	
@@ -147,23 +145,21 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title13"  /><label for="title13">IPI Singapore</label>
 	<div class="accordion-content">
-		<p>
-			<li>IPI is an innovation catalyst that creates opportunities for enterprises to grow beyond boundaries. A subsidiary of Enterprise Singapore, IPI accelerates the innovation process of enterprises through access to its global innovation ecosystem and advisory services. Its multidisciplinary team facilitates enterprises' innovation processes, including commercialisation and go-to-market strategies. </li>
+		<ul><li>IPI is an innovation catalyst that creates opportunities for enterprises to grow beyond boundaries. A subsidiary of Enterprise Singapore, IPI accelerates the innovation process of enterprises through access to its global innovation ecosystem and advisory services. Its multidisciplinary team facilitates enterprises' innovation processes, including commercialisation and go-to-market strategies. </li>
 			<li>For more information, please visit: </li>
 			<ul>
 				<li><a href="https://www.ipi-singapore.org/about-us">IPI About Us</a></li>
 				<li><a href="https://www.ipi-singapore.org/innovation-advisors-programme">Innovation Advisors Programme</a></li>
 				<li><a href="https://www.ipi-singapore.org/marketplace">Innovation Marketplace</a></li>
 			</ul>
+		</ul>
 	</div>
 </div>
 
 <div>
 	<input type="checkbox" id="title14"  /><label for="title14">USS I&E Office</label>
 	<div class="accordion-content">
-		<ul>
-			<li>The USS I&E Office is a national platform jointly set up by MSE, MND, NRF and A*STAR to bring impactful technologies from laboratories to the market for the <a href="https://www.nrf.gov.sg/rie2025-plan/urban-solutions-and-sustainability">Urban Solutions and Sustainability</a> domain. It facilitates and coordinates the technology translation processes in partnership with Industries and Trade Associations & Chambers, Government Agencies, and various research performers (such as Institutes of Higher Learning and A*STAR Research Institutes). It also seeks to provide a technology and innovation edge to companies and technology owners.</li>
-			<li> For more information, please contact: Cedric Yon, Head USS I&E, cedric_yon@hq.a-star.edu.sg</li>
-		</ul>
+		<ul><li>The USS I&E Office is a national platform jointly set up by MSE, MND, NRF and A*STAR to bring impactful technologies from laboratories to the market for the <a href="https://www.nrf.gov.sg/rie2025-plan/urban-solutions-and-sustainability">Urban Solutions and Sustainability</a> domain. It facilitates and coordinates the technology translation processes in partnership with Industries and Trade Associations & Chambers, Government Agencies, and various research performers (such as Institutes of Higher Learning and A*STAR Research Institutes). It also seeks to provide a technology and innovation edge to companies and technology owners.</li>
+			<li> For more information, please contact: Cedric Yon, Head USS I&E, cedric_yon@hq.a-star.edu.sg</li></ul>
 	</div>
 </div>
