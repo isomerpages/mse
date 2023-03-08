@@ -142,11 +142,12 @@ input:checked + label + .accordion-content {
 		</p>
 	</div>
 </div>
+	
 <h2 id="key-partners">Key Partners</h2>
-	<div>
+<div>
 	<input type="checkbox" id="title13"  /><label for="title13">IPI Singapore</label>
 	<div class="accordion-content">
-		<ul>
+		<p>
 			<li>IPI is an innovation catalyst that creates opportunities for enterprises to grow beyond boundaries. A subsidiary of Enterprise Singapore, IPI accelerates the innovation process of enterprises through access to its global innovation ecosystem and advisory services. Its multidisciplinary team facilitates enterprises' innovation processes, including commercialisation and go-to-market strategies. </li>
 			<li>For more information, please visit: </li>
 			<ul>
@@ -154,14 +155,15 @@ input:checked + label + .accordion-content {
 				<li><a href="https://www.ipi-singapore.org/innovation-advisors-programme">Innovation Advisors Programme</a></li>
 				<li><a href="https://www.ipi-singapore.org/marketplace">Innovation Marketplace</a></li>
 			</ul>
-			</div>
-		</div>
-		<div>
+	</div>
+</div>
+
+<div>
 	<input type="checkbox" id="title14"  /><label for="title14">USS I&E Office</label>
 	<div class="accordion-content">
 		<ul>
 			<li>The USS I&E Office is a national platform jointly set up by MSE, MND, NRF and A*STAR to bring impactful technologies from laboratories to the market for the <a href="https://www.nrf.gov.sg/rie2025-plan/urban-solutions-and-sustainability">Urban Solutions and Sustainability</a> domain. It facilitates and coordinates the technology translation processes in partnership with Industries and Trade Associations & Chambers, Government Agencies, and various research performers (such as Institutes of Higher Learning and A*STAR Research Institutes). It also seeks to provide a technology and innovation edge to companies and technology owners.</li>
 			<li> For more information, please contact: Cedric Yon, Head USS I&E, cedric_yon@hq.a-star.edu.sg</li>
 		</ul>
-			</div>
-		</div>
+	</div>
+</div>
