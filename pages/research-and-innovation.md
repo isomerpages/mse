@@ -161,6 +161,6 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title14"  /><label for="title14">USS I&E Office</label>
 	<div class="accordion-content">
 		<ul><li>The USS I&E Office is a national platform jointly set up by MSE, MND, NRF and A*STAR to bring impactful technologies from laboratories to the market for the <a href="https://www.nrf.gov.sg/rie2025-plan/urban-solutions-and-sustainability">Urban Solutions and Sustainability</a> domain. It facilitates and coordinates the technology translation processes in partnership with Industries and Trade Associations & Chambers, Government Agencies, and various research performers (such as Institutes of Higher Learning and A*STAR Research Institutes). It also seeks to provide a technology and innovation edge to companies and technology owners.</li>
-			<li> For more information, please contact: Cedric Yon, Head USS I&E, cedric_yon@hq.a-star.edu.sg</li></ul>
+			<li> For more information, please contact: Cedric Yon, Head USS I&E (cedric_yon@hq.a-star.edu.sg)</li></ul>
 	</div>
 </div>
