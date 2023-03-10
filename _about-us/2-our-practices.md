@@ -11,10 +11,9 @@ At MSE, we recognise our personal responsibility towards the community and the e
 
 Our commitment towards charity, community involvement and environmental activities is expressed through:
 
-Our support of the President's Challenge through annual fundraisers such as Vertical Challenge and Breakfast for Charity
-Our participation in the Community Chest's SHARE Programme
+Our support of the President's Challenge through annual fundraisers such as the Vertical Challenge, and participation in the Community Chest SHARE Programme
 Our provision of time off (up to 2 days a year) for staff to follow their hearts in helping the less fortunate through participation in individually-driven community involvement activities
-Our contribution towards environmental sustainability through activities such as coastal clean-ups
+Our contribution towards environmental sustainability such as clean-up activities, and adopting environmentally-friendly best practices for all our events.
 
 
 -------
