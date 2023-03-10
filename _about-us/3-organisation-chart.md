@@ -25,7 +25,7 @@ WFPD works on policies to provide a reliable and high quality water and food sup
 
 ### International Policy Division (IPD)
 
-Singapore’s environment and water quality are affected as much by what happens within Singapore as well as what goes on beyond our borders. Recognising these challenges, IPD seeks to maintain and enhance good relations with the international community through bilateral, regional and international initiatives.
+Singapore's environment, water quality and food security are affected as much by what happens within Singapore as well as what goes on beyond our borders. Recognising these challenges, IPD seeks to maintain and enhance good relations with the international community through bilateral, regional and international initiatives.
 
 ### Communications and 3P Partnership Division (C3PD)
 
