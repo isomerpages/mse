@@ -17,15 +17,9 @@ To view our current job openings, kindly visit [Careers@Gov](http://www.careers.
 
 ### INTERNSHIPS  
 
-MSE offers internships to students via the internship programs administered by the Public Service Division (PSD). The duration of each PSD internship typically lasts between a few weeks to several months, depending on the nature of the project and the availability of the candidate. While MSE does offer internships outside of the PSD framework from time to time, it is subject to organisational needs.  
+MSE offers internship opportunities from time to time, subject to organisational needs. The duration of each internship typically lasts between a few weeks to several months, depending on the nature of the project and the availability of the candidate. 
 
-The objectives of internships are:  
-
-- To give top students a positive work experience in the Public Service  
-- To foster a better understanding of the mission and values that drives public policies  
-- To be the interns’ preferred choice of employer  
-
-For more information on how you can apply for PSD internship, please visit [Internships@Gov](http://www.careers.gov.sg/internships@gov).  
+For more information, check out [Careers@Gov](http://www.careers.gov.sg).  
 
 ### SCHOLARSHIPS
 
@@ -42,19 +36,19 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 ## LEARNING & DEVELOPMENT
 
-In MSE, we value our staff and believe in helping our officers develop to their fullest potential. We have a comprehensive learning and development framework which comprises external and in-house training, job postings within and beyond the Ministry as well as opportunities for secondment to our statutory boards,  [NEA](http://www.nea.gov.sg/), [PUB](http://www.pub.gov.sg/) and  [SFA](https://www.sfa.gov.sg/).
+In MSE, we value our staff and believe in helping our officers develop to their fullest potential. We have a comprehensive framework, which aims to equip our officers with the commitment to sustainability through environmental stewardship, as well as the required competencies to perform their jobs optimally, thrive in a digitally-enabled workplace, and cultivate harmonious and productive work relationships with both internal and external stakeholders.
 
 ### LEARNING OPPORTUNITIES
 
-MSE has a comprehensive learning framework for officers to enhance their knowledge and expertise. An annual budget is set aside for your specialised learning needs. You can expect to attend external and in-house training, participate in divisional retreats and attend educational trips to MSE Family installations such as the Marina Barrage Sustainable Singapore Gallery, NEWater Visitor Centre, Pulau Semakau and Incineration Plants.
+You can expect to participate in public service-wide and MSE-specific programmes, including site visits to key MSE Family installations. An annual budget is also set aside for your specialised learning needs and development of core competencies. 
 
 ### CAREER DEVELOPMENT
 
 MSE also believes in enabling our people to develop to their fullest potential while striving to meet both individual and organisational needs. While on the job, you will have opportunities to be exposed to different and varied job scopes. With the right attitude and aptitude, you will rise and assume more challenging roles. At suitable junctures in your career, you can also look forward to job postings within the MSE family which will enable you to gain a broader perspective of what we do.
 
-### TRAINING SPONSORSHIPS/SCHOLARSHIPS
+### TRAINING SPONSORSHIPS
 
-As part of our effort in promoting continuous learning, MSE also provides training sponsorships and scholarships to enhance our officers’ personal development.  
+As part of our effort in promoting continuous learning, MSE also provides training sponsorships for formal part-time programmes that are relevant to our officers' work.
 
 -----
 
@@ -89,7 +83,6 @@ Your starting monthly salary will commensurate with your qualifications and rele
 
 -   Government holiday bungalows
 -   Civil Service Club Membership
--   Range of recreational facilities in MSE, such as gymnasium and tennis, squash and badminton courts
 -   Range of staff welfare activities
 
 
