@@ -1,5 +1,5 @@
 ---
-title: Opening Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, for the Second Reading of the Environmental Public Health (Amendment) Bill
+title: Second Reading of the Environmental Public Health (Amendment) Bill - Opening Speech by Dr Amy Khor
 permalink: /resource-room/category/2023-02-06-opening-speech-for-second-reading-of-epha-bill
 image:
 file_url:
