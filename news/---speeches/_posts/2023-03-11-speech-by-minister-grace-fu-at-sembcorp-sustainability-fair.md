@@ -6,7 +6,7 @@ file_url:
 description:
 ---
 
-** Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at Sembcorp Sustainability Fair at Jurong-Clementi Town on 11 March 2023**
+**Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at Sembcorp Sustainability Fair at Jurong-Clementi Town on 11 March 2023**
 
 Mr Lee Kok Kin, CEO of SembWaste, Sembcorp Industries,
 
