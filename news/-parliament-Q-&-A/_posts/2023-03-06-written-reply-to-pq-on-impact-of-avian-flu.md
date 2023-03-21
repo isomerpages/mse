@@ -1,5 +1,5 @@
 ---  
-title: Oral Reply to Parliamentary Question on Impact of Avian Flu by Ms Grace Fu, Minister for Sustainability and the Environment
+title: Written Reply to Parliamentary Question on Impact of Avian Flu by Ms Grace Fu, Minister for Sustainability and the Environment
 permalink: /resource-room/category/2023-03-06-written-reply-to-pq-on-impact-of-avian-flu
 image:  
 file_url:  
