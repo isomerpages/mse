@@ -72,7 +72,7 @@ permalink: /take-action/individuals
         <div>
             <h1><b>Volunteer & Participate</b></h1><br>
                 Want to do more? There are diverse opportunities to get involved - from events that promote environmental awareness, to beautifying our community spaces and garnering support for ground-up projects.<br><br>
-                Volunteer with <a href="https://www.cgs.gov.sg/how-can-we-act/volunteer">NEA</a>, <a href="https://sec.org.sg/volunteer/">Singapore Environment Council</a>, or one of the many <a href="https://www.towardszerowaste.gov.sg/green-groups-in-singapore/"> green groups in Singapore.</a>
+                Volunteer with <a href="https://www.cgs.gov.sg/how-can-we-act/volunteer">NEA</a>, <a href="https://web.sec.org.sg/earthhelper/">Singapore Environment Council</a>, or one of the many <a href="https://www.towardszerowaste.gov.sg/green-groups-in-singapore/"> green groups in Singapore.</a>
                 Join the <a href="http://www.byosingapore.com/byo-container/">“Bring Your Own” (BYO) movement</a>, encouraging Singaporeans to use reusable bags at supermarkets, or take part in a <a href="https://www.publichygienecouncil.sg/beachcleanup">beach clean-up</a>. <br><br>
                 If you cherish Singapore’s pristine water bodies like us, you can get involved with <a href="https://www.giving.sg/waterways-watch-society">Waterways Watch Society</a> which strives to preserve their beauty.<br><br>
                 Support initiatives to supplement the city’s food supply such as <a href="https://foodbank.sg">The Food Bank</a> and <a href="https://www.giving.sg/free-food-for-all-limited">Free Food For All</a> to redistribute food and reduce waste.
