@@ -95,7 +95,7 @@ permalink: /take-action/organisations/
 
 <div class='grid-row' style="padding-bottom:0px">
     <div class='grid-column'>
-            <h1><b>Utilize Our Resources</b></h1><br>
+            <h1><b>Utilise Our Resources</b></h1><br>
         <img src="/images/take-action-6.svg" alt="Take Action" style="max-width:33vh;">
     </div> 
 </div>
