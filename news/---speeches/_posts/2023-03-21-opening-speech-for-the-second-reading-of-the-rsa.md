@@ -28,7 +28,7 @@ c.	To move decisively towards this goal, we passed the Carbon Pricing (Amendment
 
 INTENT OF THE BILL
 
-5.	Today’s Resource Sustainability (Amendment) Bill marks the next step in our national sustainability agenda. Alvin 
+5. Today’s Resource Sustainability (Amendment) Bill marks the next step in our national sustainability agenda. 
 
 6.	We are introducing three new measures to address packaging waste and food waste:
 a.	A disposable carrier bag charge at supermarkets;
@@ -38,6 +38,7 @@ c.	A food waste reporting framework for industrial and commercial premises
 7.	These measures are also intended to spark behaviour change.
 a.	They are a call for everyone to act, participate, and take a stake in Singapore’s zero waste journey.  
 b.	To shift from a throwaway culture towards a more sustainable paradigm – one that is characterised by mindful consumption and the sustainable habits of reducing, reusing, and recycling.  
+
 
 SINGAPORE’S APPROACH TOWARDS PLASTIC AND PLASTIC POLLUTION
 
