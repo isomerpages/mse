@@ -57,7 +57,8 @@ a.We are not imposing a ban on disposable carrier bags — they will still be av
 b.Other packaging such as the bags that hold bread or toilet rolls can also be used to bag waste, as alternatives to supermarket carrier bags.  
 c.The bag charge should not be an excuse to dispose of waste in an irresponsible manner.  
 
-10. Mr Yip Hon Weng and Mr Don Wee commented that with the bag charge, consumers might start purchasing single-use plastic bags from online and overseas retailers in bulk.  While this is possible, these consumers would likely only buy what they really need and be more mindful of how they use the bags, since they would also have to pay for them.  
+10.Mr Yip Hon Weng and Mr Don Wee commented that with the bag charge, consumers might start purchasing single-use plastic bags from online and overseas retailers in bulk.  While this is possible, these consumers would likely only buy what they really need and be more mindful of how they use the bags, since they would also have to pay for them.  
+
 11.Members like Ms Poh Li San and Mr Dennis Tan spoke about the importance of public education to promote greater understanding of the value of sustainability and effect positive behavioural change. I agree with this. 
 a.Our nation-wide Say YES to Waste Less campaign has been ongoing since 2019.   
 b.As part of the campaign, we work with many partners, including supermarkets and F&B establishments, to amplify the message of sustainable living, and encourage action through initiatives and incentives. The campaign aims to help Singaporeans better appreciate why we need to reduce the use of disposables and food wastage, and how to do so.   
