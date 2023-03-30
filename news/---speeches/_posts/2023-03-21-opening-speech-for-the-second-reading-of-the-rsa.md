@@ -15,19 +15,19 @@ INTRODUCTION
 2.Three years ago, I stood in this Chamber to introduce the Resource Sustainability Act 2019 (or “RSA”), which is a key part of our Zero Waste Masterplan.  a.	The Act put in place a systems-level approach that mandated key responsibilities to support re-use and recycling nation-wide.  
 b.	It set out the legal framework to address our three priority waste streams: an extended producer responsibility scheme for e-waste, a mandatory reporting framework for packaging, and mandatory segregation and treatment of food waste.
 
-3.	We have seen the law take effect since.  
+3.We have seen the law take effect since.  
 a.	Over 700 e-waste collection points are deployed across Singapore, and over 9,000 tonnes of e-waste have been collected for recycling.  
 b.	Companies submitted their first reports for the Mandatory Packaging Reporting scheme last year.  
 c.	We see the first fruits of our shift from a linear take-make-throw economy to a circular one, where waste is turned into resources to be put to good use again.
 
-4.	Our sustainability movement has since gained momentum.
+4.Our sustainability movement has since gained momentum.
 a.	We launched the Singapore Green Plan 2030 two years ago, with a comprehensive national agenda for sustainable development.  
 b.	Last year, we raised our national climate target to achieve net zero emissions by 2050, affirming Singapore’s strong commitment to climate action.
 c.	To move decisively towards this goal, we passed the Carbon Pricing (Amendment) Bill to ensure our carbon pricing regime supports the transition to a low-carbon future.
 
 INTENT OF THE BILL
 
-5. Today’s Resource Sustainability (Amendment) Bill marks the next step in our national sustainability agenda. 
+5.Today’s Resource Sustainability (Amendment) Bill marks the next step in our national sustainability agenda. 
 
 6.	We are introducing three new measures to address packaging waste and food waste:
 a.	A disposable carrier bag charge at supermarkets;
