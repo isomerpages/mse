@@ -8,12 +8,11 @@ description:
 
 #### OPENING SPEECH BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, FOR THE SECOND READING OF THE RESOURCE SUSTAINABILITY (AMENDMENT) BILL ON 21 MARCH 2023
 
-1.	Mr Speaker, Sir, on behalf of the Minister for Sustainability and the Environment, I beg to move, “That the Bill be now read a Second time.”
+1.Mr Speaker, Sir, on behalf of the Minister for Sustainability and the Environment, I beg to move, “That the Bill be now read a Second time.”
 
 INTRODUCTION
 
-2.	Three years ago, I stood in this Chamber to introduce the Resource Sustainability Act 2019 (or “RSA”), which is a key part of our Zero Waste Masterplan.  
-a.	The Act put in place a systems-level approach that mandated key responsibilities to support re-use and recycling nation-wide.  
+2.Three years ago, I stood in this Chamber to introduce the Resource Sustainability Act 2019 (or “RSA”), which is a key part of our Zero Waste Masterplan.  a.	The Act put in place a systems-level approach that mandated key responsibilities to support re-use and recycling nation-wide.  
 b.	It set out the legal framework to address our three priority waste streams: an extended producer responsibility scheme for e-waste, a mandatory reporting framework for packaging, and mandatory segregation and treatment of food waste.
 
 3.	We have seen the law take effect since.  
