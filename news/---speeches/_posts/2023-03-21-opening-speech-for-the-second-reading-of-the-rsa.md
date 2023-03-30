@@ -144,7 +144,7 @@ c.	With growing pressures on food supply chains and resource availability, we mu
 a.	The requirements are intended to apply to industrial and commercial buildings such as hotels, shopping malls and factories, which are large generators of food waste.
 b.	In addition to facilitating the treatment or conversion of food waste into useful products such as new food products or animal feed, other benefits include reduction in disamenities such as odour and pest nuisance at the premises.
 
-30.	We are also investing in critical infrastructure to ensure sufficient food waste treatment capacity.  Construction of the food waste treatment facility at Tuas Nexus is ongoing, and forms part of our efforts to support the industry in treating the segregated food waste.  
+30.We are also investing in critical infrastructure to ensure sufficient food waste treatment capacity.  Construction of the food waste treatment facility at Tuas Nexus is ongoing, and forms part of our efforts to support the industry in treating the segregated food waste.  
  
 FOOD WASTE REPORTING FRAMEWORK
  
