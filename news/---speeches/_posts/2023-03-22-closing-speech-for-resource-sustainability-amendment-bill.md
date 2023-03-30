@@ -8,24 +8,24 @@ description:
 
 #### CLOSING SPEECH BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, FOR THE SECOND READING OF THE RESOURCE SUSTAINABILITY (AMENDMENT) BILL ON 22 MARCH 2023
 
-1. Mr Speaker, I am happy that Members from both sides of the House have expressed support on the initiatives proposed in this Bill. Let me address Members’ thoughtful comments and suggestions.
+1.Mr Speaker, I am happy that Members from both sides of the House have expressed support on the initiatives proposed in this Bill. Let me address Members’ thoughtful comments and suggestions.
 
-**DISPOSABLE CARRIER BAG CHARGE**
+DISPOSABLE CARRIER BAG CHARGE
 
-2. First, the disposable carrier bag charge (or “bag charge”).  
-a.	I am glad that many Members have expressed support for the bag charge, including Mr Dennis Tan and Mr Louis Ng. Indeed, many Members, including Ms Cheng Li Hui, former Member of Parliament Ms Lee Bee Wah, as well as NGOs like Zero Waste SG and WWF-Singapore, have also called for a charge on disposable bags.  Mr Louis Ng, as he noted, has been speaking up about a charge since 2016 and I commend him for his persistence.  
-b.	We heard these calls. The Government has been studying the experiences of other jurisdictions that have implemented a bag charge.  
-c. 	We are also mindful of our local circumstances, where plastic bags are widely used by households to dispose of waste hygienically and where incinerable waste is not directly landfilled.  
-d.	We convened the Citizens’ Workgroup in 2020 to tap into diverse views and insights to address the issue of disposables. After we accepted the recommendation to implement a disposable carrier bag charge, we consulted widely to hear different considerations, seek feedback, and build collective support.  
-e.	I am glad that Mr Dennis Tan agrees that it is the excessive use of disposables that we need to tackle.  
-f.	By placing a visible cost on each bag, we will be more sensitive to the impact of our consumption on the environment.  
+2.First, the disposable carrier bag charge (or “bag charge”).   
+a.I am glad that many Members have expressed support for the bag charge, including Mr Dennis Tan and Mr Louis Ng. Indeed, many Members, including Ms Cheng Li Hui, former Member of Parliament Ms Lee Bee Wah, as well as NGOs like Zero Waste SG and WWF-Singapore, have also called for a charge on disposable bags.  Mr Louis Ng, as he noted, has been speaking up about a charge since 2016 and I commend him for his persistence.   
+b.We heard these calls. The Government has been studying the experiences of other jurisdictions that have implemented a bag charge.   
+c.We are also mindful of our local circumstances, where plastic bags are widely used by households to dispose of waste hygienically and where incinerable waste is not directly landfilled.   
+d.We convened the Citizens’ Workgroup in 2020 to tap into diverse views and insights to address the issue of disposables. After we accepted the recommendation to implement a disposable carrier bag charge, we consulted widely to hear different considerations, seek feedback, and build collective support.  
+e.I am glad that Mr Dennis Tan agrees that it is the excessive use of disposables that we need to tackle.  
+f.By placing a visible cost on each bag, we will be more sensitive to the impact of our consumption on the environment.  
 
 _Moderating impact on households_
 
-3. While Ms Joan Pereira raised concerns about cost, Mr Yip Hon Weng asked if we should consider charging more to discourage consumption. Indeed, we need to strike a careful balance between creating an effective behavioural nudge, and managing the cost impact on households.  
-a.	Compared to other retail establishments, shoppers tend to make larger purchases at supermarkets and may have to purchase more bags if they forget or do not bring enough reusable bags.  
-b. 	We have therefore set the bag charge at a minimum of 5 cents, and most covered supermarket operators will be charging 5 cents per bag when the bag charge comes into effect.  
-c.	The bag charge can be avoided by bringing our own bags. We all have to play our part for the environment.  
+3.While Ms Joan Pereira raised concerns about cost, Mr Yip Hon Weng asked if we should consider charging more to discourage consumption. Indeed, we need to strike a careful balance between creating an effective behavioural nudge, and managing the cost impact on households.   
+a.Compared to other retail establishments, shoppers tend to make larger purchases at supermarkets and may have to purchase more bags if they forget or do not bring enough reusable bags.   
+b.We have therefore set the bag charge at a minimum of 5 cents, and most covered supermarket operators will be charging 5 cents per bag when the bag charge comes into effect.   
+c.The bag charge can be avoided by bringing our own bags. We all have to play our part for the environment.   
 
 _Transparency by retailers_
 
