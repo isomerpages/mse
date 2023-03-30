@@ -28,7 +28,7 @@ c.	To move decisively towards this goal, we passed the Carbon Pricing (Amendment
 
 INTENT OF THE BILL
 
-5.	Today’s Resource Sustainability (Amendment) Bill marks the next step in our national sustainability agenda.  
+5.	Today’s Resource Sustainability (Amendment) Bill marks the next step in our national sustainability agenda. Alvin 
 
 6.	We are introducing three new measures to address packaging waste and food waste:
 a.	A disposable carrier bag charge at supermarkets;
