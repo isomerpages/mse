@@ -10,7 +10,7 @@ description:
 
 1.	Mr Speaker, Sir, on behalf of the Minister for Sustainability and the Environment, I beg to move, “That the Bill be now read a Second time.”
 
-**INTRODUCTION**
+INTRODUCTION
 
 2.	Three years ago, I stood in this Chamber to introduce the Resource Sustainability Act 2019 (or “RSA”), which is a key part of our Zero Waste Masterplan.  
 a.	The Act put in place a systems-level approach that mandated key responsibilities to support re-use and recycling nation-wide.  
@@ -26,7 +26,7 @@ a.	We launched the Singapore Green Plan 2030 two years ago, with a comprehensive
 b.	Last year, we raised our national climate target to achieve net zero emissions by 2050, affirming Singapore’s strong commitment to climate action.
 c.	To move decisively towards this goal, we passed the Carbon Pricing (Amendment) Bill to ensure our carbon pricing regime supports the transition to a low-carbon future.
 
-**INTENT OF THE BILL**
+INTENT OF THE BILL
 
 5.	Today’s Resource Sustainability (Amendment) Bill marks the next step in our national sustainability agenda.  
 
@@ -39,7 +39,7 @@ c.	A food waste reporting framework for industrial and commercial premises
 a.	They are a call for everyone to act, participate, and take a stake in Singapore’s zero waste journey.  
 b.	To shift from a throwaway culture towards a more sustainable paradigm – one that is characterised by mindful consumption and the sustainable habits of reducing, reusing, and recycling.  
 
-**SINGAPORE’S APPROACH TOWARDS PLASTIC AND PLASTIC POLLUTION**
+SINGAPORE’S APPROACH TOWARDS PLASTIC AND PLASTIC POLLUTION
 
 8.	Mr Speaker, Sir, we are introducing the disposable carrier bag charge and the beverage container return scheme in the context of a global movement against plastic pollution.  So, I would like to take some time to explain Singapore’s approach towards plastics and plastic pollution.
 
@@ -69,7 +69,7 @@ d.	And with the beverage container return scheme, we will put in place a better 
 
 16.	Let me explain each initiative.
 
-**DISPOSABLE CARRIER BAG CHARGE**
+DISPOSABLE CARRIER BAG CHARGE
 
 17.	The disposable carrier bag charge is first and foremost, a behavioural nudge.  
 a.	Disposable carrier bags will remain available at retail establishments, but making the cost of the bag visible in supermarkets prompts us to pause and consider how many we really need.  
@@ -85,7 +85,7 @@ d.	Section 23H will require registered retailers to communicate this charge to t
 e.	To monitor compliance, Section 23I will require registered retailers to report data to NEA.  
 f.	For public accountability and transparency on the use of proceeds, Section 23K will require registered retailers to publish information on the number of bags issued, the amount of proceeds collected, and how the proceeds were used.
 
-**BEVERAGE CONTAINER RETURN SCHEME**
+BEVERAGE CONTAINER RETURN SCHEME
 
 19.	The Bill will also give effect to a beverage container return scheme.  
 a.	This is an extended producer responsibility scheme, where producers are made responsible for the collection and recycling of beverage containers like plastic bottles and metal cans that they put on the market.  
@@ -145,7 +145,7 @@ b.	In addition to facilitating the treatment or conversion of food waste into us
 
 30.	 We are also investing in critical infrastructure to ensure sufficient food waste treatment capacity.  Construction of the food waste treatment facility at Tuas Nexus is ongoing, and forms part of our efforts to support the industry in treating the segregated food waste.
  
-**FOOD WASTE REPORTING FRAMEWORK**
+FOOD WASTE REPORTING FRAMEWORK
  
 31.	To complement segregation and treatment requirements, we will be introducing a new requirement for building managers to submit food waste reports to the NEA under Section 27C.  
 a.	This will raise awareness on the amount of food waste generated, and encourage building managers to pursue waste minimisation opportunities.  
@@ -156,7 +156,7 @@ a.	For new buildings, the requirements will commence from 1 Jan 2024.  These are
 b.	For existing buildings, the requirements will commence progressively from the second half of 2025.  
 c.	Part 5 of the RSA, which has not yet come into force, will be repealed and re-enacted to allow for the staggered implementation.
 
-**GREATER FLEXIBILITY FOR INNOVATIVE FOOD WASTE TREATMENT METHODS**
+GREATER FLEXIBILITY FOR INNOVATIVE FOOD WASTE TREATMENT METHODS
 
 33.	With more circular production practices emerging, there are increasing possibilities to transform food waste into higher value products.  
 a.	For example, waste bread can be used to make beverages; and  
@@ -172,7 +172,7 @@ a.	The new section 27 will allow building occupiers of both new and existing bui
 
 37.	In assessing whether approval will be granted, NEA will take into consideration if the proposed treatment methods process food waste into higher value products.
 
-**CONCLUSION**
+CONCLUSION
 
 38.	Let me conclude.  At its core, the issue of waste stems from human actions and choices.  Likewise, the ultimate solution to achieve zero waste and a circular economy lies, not in regulations or technologies, but with us.   
 a.	With the Resource Sustainability (Amendment) Bill, we are putting in place stronger measures for individuals and the private sector to reduce waste and recycle more to achieve circularity.
