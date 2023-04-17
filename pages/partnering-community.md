@@ -104,7 +104,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
             <h5>MSE-NYC Youth Circle Report<br>(2021)</h5>
             </div>
           <img src="/images/youth-circle-report-cover.jpg" alt="MSE-NYC Youth Circle Report" style="width:80%; border:1px solid black;">
-		<p style="text-align: center; font-size: 0.8em;">This is a report by a group of youth leaders who worked with the Ministry of Sustainability and the Environment and the Singapore Food Agency to study the issue of food waste, and how a Good Samaritan Law Food Donation Act might encourage donation of surplus or unsold food to the needy.</p>
+		<p style="text-align: center; font-size: 0.8em;">The Youth Circle is a group of youth leaders who worked with the Ministry of Sustainability and the Environment and the Singapore Food Agency. This report, designed by the Youth Circle and commissioned by the National Youth Council, studies the issue of food waste and how a Good Samaritan Law Food Donation Act might encourage donation of surplus or unsold food to the needy.</p>
         </a>
     </div>
     <div class="card">
