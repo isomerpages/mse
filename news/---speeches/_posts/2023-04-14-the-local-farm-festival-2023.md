@@ -1,11 +1,10 @@
 ---  
 title: The Local Farm Festival 2023 - Ms Grace Fu
-permalink: /resource-room/category/2023-04-14-the-local-farm-festival-2023.md
+permalink: /resource-room/category/2023-04-14-the-local-farm-festival-2023
 image:  
 file_url:  
 description:  
----  
-
+---
 **Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the The Local Farm Festival 2023 on 14 April 2023**
 
 Mr Kenny Eng, festival director of The Local Farm Festival
