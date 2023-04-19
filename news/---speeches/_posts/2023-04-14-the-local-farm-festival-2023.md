@@ -1,6 +1,6 @@
 ---  
 title: The Local Farm Festival 2023 - Ms Grace Fu
-permalink: /resource-room/category/2023-04-14-the-local-farm-festival-2023.md
+permalink: /resource-room/category/2023-04-14-the-local-farm-festival-2023
 image:  
 file_url:  
 description:  
