@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Carbon Footprint of Carrier Bags by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-03-21-written-reply-to-pq-on-carbon-footprint-carrier-bags
+permalink: /resource-room/category/2023-04-21-written-reply-to-pq-on-microplastics-in-water-sources
 file_url:  
 description:  
 ---  
