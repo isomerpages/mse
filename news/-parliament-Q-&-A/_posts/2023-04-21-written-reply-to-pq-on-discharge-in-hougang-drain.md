@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on Discharge found in Hougang Drain by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-04-21-written-reply-on-discharge-in-hougang-drain
+permalink: /resource-room/category/2023-04-21-written-reply-to-pq-on-discharge-in-hougang-drain
 image:  
 file_url:  
 description:  
