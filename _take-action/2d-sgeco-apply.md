@@ -53,6 +53,8 @@ Refer to the table below for the SG Eco Fund application timelines for each cate
 
 All application forms must be successfully submitted via FormSG (see below) by 23:59 of the respective deadline.
 
+Projects referred by strategic partners may be assessed on a separate timeline from current grant cycles. 
+
 Check out the <a href="/sgecofund/community" target="_blank">recordings of our recent workshops</a> to learn more about what makes a good application.
 
 **Application Process**
