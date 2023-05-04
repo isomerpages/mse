@@ -77,7 +77,7 @@ These funding principles represent the characteristics of a good project that th
 
 _________________________________________________________
 
-The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory Committee comprising representatives from the People, Private and Public (3P) sectors, as well as the SG Eco Office. The members of the Board of Trustees and Advisory Committee are as follows:
+The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory Committee comprising representatives from the People, Private and Public (3P) sectors, as well as the Sustainability Partnerships Office. The members of the Board of Trustees and Advisory Committee are as follows:
 
 
 <div>
