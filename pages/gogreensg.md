@@ -15,7 +15,7 @@ margin-top: 10px !important;
 }
 
 .mse50-logo {
- max-width: 75% !important;
+ max-width: 35% !important;
  }
  
 .column {
