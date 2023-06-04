@@ -566,7 +566,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
  
 </style>
 
-<img src="images/gogreensg_logo.png" alt="GoGreenSG" class="Go Green SG" width="200"><br>
+<img src="images/gogreensg_logo.png" alt="GoGreenSG" class="mse50-logo"><br>
 Led by the Ministry of Sustainability and the Environment, Go Green SG (formerly known as Climate Action Week) is a whole-of-nation movement to rally the community to take collective action towards a sustainable future for Singapore. It comprises a series of sustainability-related events and activities in July organised by our People, Public and Private (3P) partners.
 
 This year, in collaboration with the Singapore Tourism Board, we are also showcasing various sustainable experiences that Singapore has to offer as a sustainable urban destination.
