@@ -573,6 +573,8 @@ This year, in collaboration with the Singapore Tourism Board, we are also showca
 
 You can curate your own Go Green experiences, based on individual lifestyles, personal interests and goals. With many exciting activities (e.g. behind-the-scenes sustainability tours, exclusive learning journeys, events, workshops, school and youth activities, promotions and green challenges) organised by 3P partners to choose from, everyone can go green in your own way.
 
+For more information, please visit [http://www.gogreen.gov.sg](www.gogreen.gov.sg)!
+
 
 <!--
 <p><b>Climate Action Week is now Go Green SG!</b></p>
