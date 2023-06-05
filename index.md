@@ -24,13 +24,13 @@ sections:
         title: <h2 style="font-family:'Cabin';margin-top:1em;">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:
     - infopic:
-         title: <h2 style="font-family:'Cabin'">MSE Turns 50!</h2>
-        # subtitle: What we are doing about climate change?
-         description: 2022 marks the Ministry of Sustainability and the Environment's 50th Anniversary (MSE50). We will be commemorating this Golden Jubilee with a series of meaningful activities to celebrate Singapore’s environmental milestones and renew our commitment to build a green and resilient Singapore.
-         button: About MSE50
-         url: /mse50
-         image: /images/mse50/MSE50_Hori_Dark_RGB.png
-         alt: MSE50
+         title: <h2 style="font-family:'Cabin'">Go Green SG</h2>
+        # subtitle: Get ready for a month of fun-filled green activities and experiences! 
+         description: Go Green SG comprises a series of sustainability-related events and activities in July organised by our People, Public and Private (3P) partners.
+         button: Sign up now!
+         url: http://www.gogreen.gov.sg
+         image: /images/gogreensg_logo.png
+         alt: Go Green SG
     - infopic:
          title: <h2 style="font-family:'Cabin'">Forward Singapore's Steward Pillar</h2>
         # subtitle: ForwardSG
