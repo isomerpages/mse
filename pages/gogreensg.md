@@ -15,7 +15,7 @@ margin-top: 10px !important;
 }
 
 .mse50-logo {
- max-width: 75% !important;
+ max-width: 35% !important;
  }
  
 .column {
@@ -566,7 +566,17 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
  
 </style>
 
-<img src="images/go-green-sg.png" alt="GoGreenSG" class="mse50-logo"><br>
+<img src="images/gogreensg_logo.png" alt="GoGreenSG" class="mse50-logo"><br>
+Led by the Ministry of Sustainability and the Environment, Go Green SG (formerly known as Climate Action Week) is a whole-of-nation movement to rally the community to take collective action towards a sustainable future for Singapore. It comprises a series of sustainability-related events and activities in July organised by our People, Public and Private (3P) partners.
+
+This year, in collaboration with the Singapore Tourism Board, we are also showcasing various sustainable experiences that Singapore has to offer as a sustainable urban destination.
+
+You can curate your own Go Green experiences, based on individual lifestyles, personal interests and goals. With many exciting activities (e.g. behind-the-scenes sustainability tours, exclusive learning journeys, events, workshops, school and youth activities, promotions and green challenges) organised by 3P partners to choose from, everyone can go green in your own way.
+
+For more information, please visit [http://www.gogreen.gov.sg](www.gogreen.gov.sg)!
+
+
+<!--
 <p><b>Climate Action Week is now Go Green SG!</b></p>
 
 <p>Organised by the Ministry of Sustainability and the Environment (MSE), Climate Action Week is an annual national initiative that brings together sustainability-related events to galvanise Singaporeans to take collective climate action.</p>
@@ -578,7 +588,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
 We invite you to join in this community movement and organise sustainability-related activities in the month of July to rally even more Singaporeans towards a sustainable lifestyle. Download our [partner's package](/files/GGSG-partners-package.pdf) to find out how to be part of the Go Green SG movement this year!
 
 <p>Find out what happened during last year’s event <a href="https://www.mse.gov.sg/climate-action-week/">here!</a></p>
-
+-->
 
 	
 <!-- container end dic -->
