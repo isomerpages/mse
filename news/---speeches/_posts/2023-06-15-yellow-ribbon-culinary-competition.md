@@ -14,7 +14,9 @@ Mr Phillip Tan, Chairman, Yellow Ribbon Singapore
 
 Mrs Kim Lang Khalil, CEO, HCSA Community Services
 
-Chef Elvin Chew, Executive Committee Member, Singapore Chefs’ Association Ladies and Gentlemen,
+Chef Elvin Chew, Executive Committee Member, Singapore Chefs’ Association 
+
+Ladies and Gentlemen,
 
 1 Good afternoon. I am pleased to join you today at the Grand Finale of the Yellow Ribbon Culinary Competition. I thank Yellow Ribbon Singapore and the Singapore Prison Service for organising this meaningful competition, and for your continued efforts in galvanising our society to uplift ex-offenders.
 
