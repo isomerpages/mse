@@ -95,7 +95,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title7"  /><label for="title7">Our Efforts</label>
 	<div class="accordion-content">
 		<p><em>Steady Reduction in Water Consumption</em></p>
-		<p>Through PUB's long-term efforts in water conservation, Singapore's per capita household water consumption dropped from 165 litres per day in 2013 to 141 litres per day in 2019. We aim to reduce it to 130 litres per day by 2030.</p>
+		<p>Through PUB's long-term efforts in water conservation, Singapore's per capita household water consumption dropped from 165 litres per day in 2000 to 141 litres per day in 2019. We aim to reduce it to 130 litres per day by 2030.</p>
 		<p><em>Water Conservation Education and Outreach</em></p>
 		<p>PUB conducts community outreach efforts to raise awareness. The annual Water Conservation Awareness Programme sends volunteers to households with high water consumption to install water saving devices and share water saving tips. Participating households save up to 5% of their monthly water consumption. PUB’s 10% Challenge benefits the non-domestic sector by encouraging businesses to cut down 10% of their monthly water consumption, which also lowers their operational costs.</p>
 		<p><em>Preventing and Detecting Leaks</em></p>
