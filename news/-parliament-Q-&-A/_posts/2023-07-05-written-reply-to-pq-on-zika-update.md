@@ -1,6 +1,6 @@
 ---  
 title: Written Reply to Parliamentary Question on the Zika Update by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-07-04-written-reply-to-pq-on-zika-update
+permalink: /resource-room/category/2023-07-05-written-reply-to-pq-on-zika-update
 image:  
 file_url:  
 description:  
