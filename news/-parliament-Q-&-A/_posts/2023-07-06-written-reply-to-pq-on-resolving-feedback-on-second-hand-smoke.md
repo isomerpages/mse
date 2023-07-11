@@ -5,7 +5,7 @@ image:
 file_url:  
 description:  
 ---  
-#### Written Reply to Parliamentary Question on Vehicular Noise by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on Resolving Feedback on Second Hand Smoke by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Mr Louis Ng Kok Kwang:** To ask the Minister for Sustainability and the Environment how does the Ministry follow up on feedback concerning secondhand smoke at homes to ensure that the issues are resolved other than noting there is no repeat feedback from the same informer.
 
