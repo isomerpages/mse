@@ -149,7 +149,7 @@ input:checked + label + .accordion-content {
         <p>The SG Eco Fund <b>does not</b> support the following cost items:</p>
             <ul>
             <li>Overhead costs (e.g. manpower, payment to team members, office space rental, production space rental, land rental, utilities);</li>
-            <li>International shipping fees, vehicle fuel, and long-term vehicle rental;</li>
+            <li>Vehicle fuel and long-term vehicle rental;</li>
             <li>Construction costs for buildings and enclosed structures;</li>
             <li>Food and beverage;</li>
             <li>Gifts and prizes (e.g. tokens of appreciation, cash prizes, vouchers, medals);</li>
