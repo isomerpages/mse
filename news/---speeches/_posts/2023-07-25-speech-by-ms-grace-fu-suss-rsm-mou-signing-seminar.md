@@ -26,13 +26,17 @@ Good afternoon.
 3	Climate change is the existential challenge of our time. 
 
 • I was in the US last week for a United Nations conference. The US has been battling an unprecedented heatwave with record-high temperatures across the country. 
+
 • Closer to home, our region has seen unprecedented heatwaves too, with temperatures soaring beyond 40 degrees Celsius in India and Bangladesh to Thailand and Vietnam. Singapore experienced the hottest recorded temperature of 37 degree Celsius in the last 40 years in May this year. 
+
 • A Dartmouth study calculated that extreme heat could cost countries between 1.5 to 6.7 per cent of their GDP per year. Not to mention the cost of global warming on human health and well-being, and knock-on effects on water resources and food production. 
+
 • I was pleased to launch the Heat Stress Advisory yesterday, aimed at helping members of the public make informed decisions on prolonged outdoor activities, so that they can mitigate the risk of heat stress and heat-related illnesses.
 
 4	It is clear that to avert further climate impacts, we need to curb global emissions, and fast. This requires ambitious and collective action, from all sectors of the economy and society, and at all levels. 
 
 • Climate action needs to be, as the movie title suggests, “Everything, Everywhere, All at Once” – it needs to be ubiquitous, from the water we drink and the food we eat, to the buildings we use for work, the things we make and use, and the waste we collect and manage. 
+
 • It is also highly connected – every step of the way presents opportunity for the 3 ‘R’s – Reduce, Reuse, Recycle; or in some cases – Replace, Refuse, Remove.
 
 **Business case for sustainability**
@@ -40,18 +44,26 @@ Good afternoon.
 5	SMEs have always been the bedrock of our economy and play significant roles in supply chains. 
 
 • In Southeast Asia, SMEs make up almost 60 per cent of the region’s GDP. 
+
 • It is no surprise then that the green transition will be very much driven by SMEs.
 
 6	Rather than viewing sustainability as a burden to the bottom-line, companies must realise that it is not only imperative, but a good business case, in an increasingly carbon- and resource-constrained future. 
 
 • For instance, companies that integrate sustainability into their operations will enhance their energy and resource efficiencies, leading to cost savings and resilience. 
+
 • Consumers and investors are also much more discerning and place greater value on sustainable products and services – so it’s a whole new market out there. 
+
 • And as MNCs and larger companies look to decarbonise their supply chains, SMEs will need to build up their green credentials to stay on the supplier list, or risk being dropped. 
+
 • Under the GreenGov.SG initiative, the public sector will play a catalytic role in encouraging the industry to develop greener products and adopt greener practices. 
-    - Earlier this year, the Government announced that we will enhance our green procurement policies to further incorporate environmental sustainability considerations. 
-    - We will start with large construction and ICT tenders, setting aside up to 5 per cent of the tender evaluation points for environmental sustainability considerations; and we will progressively introduce sustainability considerations into our procurement in more sectors. 
-    - We hope that this will encourage suppliers to grow their sustainability capabilities as they bid for Government contracts, and enhance their competitiveness in a global green economy. 
-    - All statutory boards are committed to publish annual environmental sustainability disclosures from FY2024.
+
+- Earlier this year, the Government announced that we will enhance our green procurement policies to further incorporate environmental sustainability considerations. 
+    
+- We will start with large construction and ICT tenders, setting aside up to 5 per cent of the tender evaluation points for environmental sustainability considerations; and we will progressively introduce sustainability considerations into our procurement in more sectors. 
+    
+- We hope that this will encourage suppliers to grow their sustainability capabilities as they bid for Government contracts, and enhance their competitiveness in a global green economy. 
+    
+- All statutory boards are committed to publish annual environmental sustainability disclosures from FY2024.
 
 **Support for companies**
 
