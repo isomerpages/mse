@@ -37,7 +37,7 @@ Read [stories](https://medium.com/greenplan/tagged/sg-eco-fund){:target="_blank"
 <img src="/files/sgecofund/sgeco-mykilio.jpeg" alt="photo of mykilio"><br>
 <img src="/files/sgecofund/sgeco-engineering-good.jpg" alt="photo of engineering good">
 
-Check out the [complete list of SG Eco Fund recipients](/files/sgecofund/SGEcoFund_Awarded_Projects_March_2023.pdf){:target="_blank"}.
+Check out the [complete list of SG Eco Fund recipients](/files/sgecofund/SGEF-GC1-4-Sprout1-awarded-projects-public.pdf){:target="_blank"}.
 
 <b>Be <u>In</u>volved</b>
  
