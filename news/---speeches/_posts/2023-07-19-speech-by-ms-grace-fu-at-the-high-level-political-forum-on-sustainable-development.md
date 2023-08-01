@@ -45,7 +45,7 @@ b)  At the same time, we target to reduce the energy consumption of desalination
 
 14  Solar power, hydrogen, and electricity imports will play key roles.
 
-a)  We have grown our capacity for solar power – our most viable renewable energy source – by more than six times since our last VNR.
+a)  We have grown our capacity for solar power – our most viable renewable energy source – by more than four times since our last VNR.
 
 b)  We have launched a National Hydrogen Strategy to accelerate decarbonisation in the power and industry sectors, as well as the maritime and aviation sectors.
 
