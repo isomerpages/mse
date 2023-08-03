@@ -18,7 +18,7 @@ Ladies and Gentlemen,
 
 **Making Sustainability Mainstream**
 
-2 The existential threat of climate change is upon us.** Its impact is already felt globally. The US was battling an unprecedented heatwave with record-high temperatures when I was there last month for a United Nations conference. Temperature of the waters off Florida has reached 38 degrees Celsius. Singapore experienced the highest recorded temperature of 37 degree Celsius in the last 40 years in May this year. And now, Beijing is battling record-breaking rain from successive typhoons, with tens of thousands being evacuated.
+2 **The existential threat of climate change is upon us.** Its impact is already felt globally. The US was battling an unprecedented heatwave with record-high temperatures when I was there last month for a United Nations conference. Temperature of the waters off Florida has reached 38 degrees Celsius. Singapore experienced the highest recorded temperature of 37 degree Celsius in the last 40 years in May this year. And now, Beijing is battling record-breaking rain from successive typhoons, with tens of thousands being evacuated.
 
 3 **Progress on global sustainable development is also concerning.** The Sustainable Development Goals (SDG) Progress Report 2023 found that just 12 per cent of the SDGs are on track to meet our 2030 targets. Under current trends, 575 million people will still be living in extreme poverty in 2030, and only about one third of countries will meet the target to halve poverty levels.
 
