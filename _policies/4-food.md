@@ -114,6 +114,6 @@ input:checked + label + .accordion-content {
 			<li><p>Track records (hygiene grading, number of demerit points and suspension history) of the food establishment:<a href="go.gov.sg/sfa-food-retail-licence"> Food Retail Licence</a></p>
 			</li>
 		</ul>
-		<p>Consumers who come across any errant food operator can play your part by reporting these operators to SFA via the <a href="www.sfa.gov.sg/feedback">online feedback form.</a></p>
+		<p>Consumers who come across any errant food operator can play your part by reporting these operators to SFA via the <a href="https://www.sfa.gov.sg/feedback">online feedback form.</a></p>
 	</div>
 </div>
