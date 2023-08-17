@@ -87,5 +87,3 @@ An example below illustrates how WBGT values varies with humidity and globe temp
 ![image](https://github.com/isomerpages/mse/assets/113347709/1e26e1cd-63cb-4e5c-a882-e77bc7a36f4e)
 
 ![image](https://github.com/isomerpages/mse/assets/113347709/02dee140-9035-4355-9148-beb59ea475da)
-
-
