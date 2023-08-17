@@ -24,14 +24,6 @@ sections:
         title: <h2 style="font-family:'Cabin';margin-top:1em;">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:
     - infopic:
-         title: <h2 style="font-family:'Cabin'">Go Green SG</h2>
-        # subtitle: Get ready for a month of fun-filled green activities and experiences! 
-         description: Go Green SG comprises a series of sustainability-related events and activities in July organised by our People, Public and Private (3P) partners.
-         button: Sign up now!
-         url: http://www.gogreen.gov.sg
-         image: /images/gogreensg_logo.png
-         alt: Go Green SG
-    - infopic:
          title: <h2 style="font-family:'Cabin'">Forward Singapore's Steward Pillar</h2>
         # subtitle: ForwardSG
          description: We are seeking to engage all segments of society to discuss the challenges, constraints as well as opportunities that Singapore faces as we tackle climate change, the trade-offs that Singapore has to balance, our priorities moving forward and how we can all contribute to realise our vision for the future.
