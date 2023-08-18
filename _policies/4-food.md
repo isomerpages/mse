@@ -105,15 +105,15 @@ input:checked + label + .accordion-content {
 		<p>As food safety is a joint responsibility, SFA works with the industry and consumers to build their capabilities and educate them on their roles in ensuring food safety. For instance, food handlers in restaurants, hawker stalls and coffee shops must attend and pass the Basic Food Hygiene Course (BFHC) before they are allowed to work.</p>
 		<p>As for consumers, SFA has made available food safety information and tips online to equip consumers with knowledge of food safety risks and good food safety practices. Examples include:</p>
 		<ul>
-			<li><p><a href="go.gov.sg/sfa-food-risk">Risk at a glance</a></p>
+			<li><p><a href="https://www.sfa.gov.sg/food-information/risk-at-a-glance">Risk at a glance</a></p>
 			</li>
-			<li><p><a href="go.gov.sg/food-for-thought">Food for Thought content hub</a></p>
+			<li><p><a href="https://www.sfa.gov.sg/food-for-thought">Food for Thought content hub</a></p>
 			</li>
-			<li><p>Food safety educational materials, food alerts and recalls, labelling information:<a href="sfa.gov.sg/food-information"> Food Information</a></p>
+			<li><p>Food safety educational materials, food alerts and recalls, labelling information:<a href="https://www.sfa.gov.sg/food-information"> Food Information</a></p>
 			</li>
-			<li><p>Track records (hygiene grading, number of demerit points and suspension history) of the food establishment:<a href="go.gov.sg/sfa-food-retail-licence"> Food Retail Licence</a></p>
+			<li><p>Track records (hygiene grading, number of demerit points and suspension history) of the food establishment:<a href="https://www.sfa.gov.sg/food-retail/licensing-permits"> Food Retail Licence</a></p>
 			</li>
 		</ul>
-		<p>Consumers who come across any errant food operator can play your part by reporting these operators to SFA via the <a href="www.sfa.gov.sg/feedback">online feedback form.</a></p>
+		<p>Consumers who come across any errant food operator can play your part by reporting these operators to SFA via the <a href="https://www.sfa.gov.sg/feedback">online feedback form.</a></p>
 	</div>
 </div>
