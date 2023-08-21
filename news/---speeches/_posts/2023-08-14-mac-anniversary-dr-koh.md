@@ -1,7 +1,7 @@
 ---
 title: Marine Aquaculture Centre 20th Anniversary Symposium - Dr Koh Poh Koon
 image:
-file_url: /resource-room/category/2023-08-14-mac-anniversary-dr-Koh/
+file_url: /resource-room/category/2023-08-14-mac-anniversary-dr-koh/
 description:
 ---
  
