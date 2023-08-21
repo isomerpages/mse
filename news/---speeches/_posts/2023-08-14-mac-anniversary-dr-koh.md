@@ -4,7 +4,7 @@ image:
 file_url: /resource-room/category/2023-08-14-mac-anniversary-dr-koh/
 description:
 ---
- 
+
 #### SPEECH BY DR KOH POH KOON, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, AT MAC's 20TH ANNIVERSARY SYMPOSIUM ON 14 AUGUST 2023
  
 Distinguished guests
