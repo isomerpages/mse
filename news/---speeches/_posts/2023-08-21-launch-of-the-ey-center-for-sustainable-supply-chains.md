@@ -2,7 +2,7 @@
 title: Launch of the EY Center for Sustainable Supply Chains - Dr Koh Poh Koon
 permalink: /resource-room/category/2023-08-21-launch-of-the-ey-center-for-sustainable-supply-chains/
 image:
-file_url: 
+file_url:
 description:
 ---
 
