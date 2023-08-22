@@ -1,9 +1,11 @@
 ---
 title: Marine Aquaculture Centre 20th Anniversary Symposium - Dr Koh Poh Koon
+permalink: /resource-room/category/2023-08-14-mac-anniversary/
 image:
-file_url: /resource-room/category/2023-08-14-mac-anniversary/
+file_url: 
 description:
 ---
+
 
 #### SPEECH BY DR KOH POH KOON, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, AT MAC's 20TH ANNIVERSARY SYMPOSIUM ON 14 AUGUST 2023
 
