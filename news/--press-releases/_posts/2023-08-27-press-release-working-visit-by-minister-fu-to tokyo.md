@@ -1,6 +1,6 @@
 ---  
-title: Visit by Minister for Sustainability and the Environment Grace Fu to Tokyo from 28 to 31 August 2023
-permalink: /resource-room/category/2023-08-27-working-visit-by-minister-fu-to-tokyo
+title: Visit by Minister for Sustainability and the Environment, Ms Grace Fu, to Tokyo from 28 to 31 August 2023
+permalink: /resource-room/category/2023-08-27-working-visit-by-minister-fu-to-tokyo/
 image:  
 file_url:  
 description: Visit by Minister for Sustainability and the Environment Grace Fu to Tokyo from 28 to 31 August 2023
