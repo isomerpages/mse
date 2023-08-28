@@ -1,5 +1,5 @@
 ---
-title: Completion of 
+title: Completion of the Deep Tunnel Sewerage System Phase 2 Tunnelling Works
 permalink: /resource-room/category/2023-08-21-completion-of-tunnelling-works-for-dtss2
 file_url:
 description:
