@@ -44,14 +44,14 @@ Good afternoon. I am pleased to attend this Congress and participate in the disc
 
 12 To address the water-waste-energy nexus, we are integrating our water and solid waste treatment facilities at Tuas Nexus, Singapore's first integrated water and solid waste treatment facility. By co-locating the two facilities, we are able to harness the synergies from used water and solid waste treatment and leverage the by-product of one facility as a resource for the other.
 
-For example, food waste and used water sludge will be co-digested at Tuas Nexus. This will enable us to produce 40% more biogas compared to digesting these products separately and will boost electricity generation. The electricity generated will be used to power the operations of both plants.
+13 For example, food waste and used water sludge will be co-digested at Tuas Nexus. This will enable us to produce 40% more biogas compared to digesting these products separately and will boost electricity generation. The electricity generated will be used to power the operations of both plants.
 
-13 In our efforts towards achieving Net Zero in Singapore, we have also deployed floating solar photovoltaic (PV) systems in our reservoirs. We opened one of the world's largest inland floating solar PV systems in 2021. This generates enough energy to power all of Singapore's local waterworks, allowing us to have a fully green waterworks system. Prior to the construction of this floating PV system, we had conducted extensive environmental studies and built a small solar PV testbed to address technical concerns. There have been no discernible changes to reservoir water quality and no impact to ecology. Furthermore, the large surface area of our reservoirs now serves the dual purpose of water storage and electricity generation.
+14 In our efforts towards achieving Net Zero in Singapore, we have also deployed floating solar photovoltaic (PV) systems in our reservoirs. We opened one of the world's largest inland floating solar PV systems in 2021. This generates enough energy to power all of Singapore's local waterworks, allowing us to have a fully green waterworks system. Prior to the construction of this floating PV system, we had conducted extensive environmental studies and built a small solar PV testbed to address technical concerns. There have been no discernible changes to reservoir water quality and no impact to ecology. Furthermore, the large surface area of our reservoirs now serves the dual purpose of water storage and electricity generation.
 
-14 On the industrial front, we are aiming to raise water efficiency, particularly for large water users. As such, we recently announced plans to introduce mandatory water recycling requirements on new projects in the wafer fabrication, electronics, and biomedical industries. With these measures in place, daily water savings could reach 15 Olympic-sized swimming pools from 2035 onwards.
+15 On the industrial front, we are aiming to raise water efficiency, particularly for large water users. As such, we recently announced plans to introduce mandatory water recycling requirements on new projects in the wafer fabrication, electronics, and biomedical industries. With these measures in place, daily water savings could reach 15 Olympic-sized swimming pools from 2035 onwards.
 
-15 Singapore looks to continue our partnership with China and other countries to galvanise collective action for water security, and design solutions for mutual benefit and the common good. This Congress serves as a useful platform to further such partnerships.
+16 Singapore looks to continue our partnership with China and other countries to galvanise collective action for water security, and design solutions for mutual benefit and the common good. This Congress serves as a useful platform to further such partnerships.
 
-16 I look forward to hearing from the distinguished speakers at this congress and the discussions that follow.
+17 I look forward to hearing from the distinguished speakers at this congress and the discussions that follow.
 
-17 Thank you.
+18 Thank you.
