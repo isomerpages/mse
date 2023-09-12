@@ -18,7 +18,7 @@ Good afternoon. I am pleased to attend this Congress and participate in the disc
 
 3 Our planet is unique because it harbours life. It harbours life only because it has water.
 
-Impacts of Climate Change on Water Security
+**Impacts of Climate Change on Water Security**
 
 4 Over the last decade, the accelerating pace of climate change and rapid urbanisation have severely threatened water security.
 
