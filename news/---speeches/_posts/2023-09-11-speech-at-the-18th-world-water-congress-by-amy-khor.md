@@ -12,7 +12,7 @@ Excellencies, Distinguished Guests.
 
 Good afternoon. I am pleased to attend this Congress and participate in the discussions on a very important topic.
 
-Importance of Water
+**Importance of Water**
 
 2 Water is without a doubt an existential resource.
 
@@ -34,7 +34,7 @@ Impacts of Climate Change on Water Security
 
 8 Second, to plan and invest for the future. Significant investments are necessary for a resilient and sustainable water supply. This can be made possible by right-pricing water, which will allow us to invest in water infrastructure and pursue climate-resilient innovations in a financially sustainable manner.
 
-Singapore's Story
+**Singapore's Story**
 
 9 Let me briefly share Singapore's water story in relation to the water, economy, and ecology nexus. Since independence, Singapore has had to address our water challenges head-on through long term planning, development of regulatory and governance frameworks, and catalysing innovation in the private sector.
 
