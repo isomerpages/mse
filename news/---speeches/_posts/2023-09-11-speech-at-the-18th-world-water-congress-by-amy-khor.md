@@ -22,9 +22,9 @@ Good afternoon. I am pleased to attend this Congress and participate in the disc
 
 4 Over the last decade, the accelerating pace of climate change and rapid urbanisation have severely threatened water security.
 
-  a Record rainfall in many countries has resulted in devastating floods.
+  a. Record rainfall in many countries has resulted in devastating floods.
 
-  b At the same time, extreme droughts and heatwaves have reduced, if not decimated, agriculture yields, and threatened the supply of drinking water.
+  b. At the same time, extreme droughts and heatwaves have reduced, if not decimated, agriculture yields, and threatened the supply of drinking water.
 
 5 Tackling these challenges require strong partnership and collaboration. Collectively, we must double down on efforts to achieve a secure water supply in line with the United Nations Sustainable Development Goal of ensuring the availability and sustainable management of water for all **.**
 
