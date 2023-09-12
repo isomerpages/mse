@@ -170,7 +170,7 @@ input:checked + label + .accordion-content {
         <p> <em>24-HOUR AIR QUALITY MONITORING NETWORK</em></p>
         <p>The ambient air in Singapore is monitored through a network of air monitoring stations located in different parts of Singapore. The monitoring stations measure concentration levels of particulate matter (PM10), fine particulate matter (PM2.5), sulphur dioxide (SO2), nitrogen dioxide (NO2), ozone (O3), and carbon monoxide (CO). These six pollutant parameters determine the Pollutant Standards Index (PSI).  </p>
         <p>The state of air quality has an impact on our health and quality of life.</p>
-        <p>As such, the 24-hour Pollutant Standards Index (PSI) readings of the 5 regions of Singapore are reported every hour on the  <a href="http://www.haze.gov.sg/home">Haze microsite</a>, and myENV  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app. The pollutant  concentration readings are also published regularly on the <a href="www.haze.gov.sg/resources/pollutant-concentrations)">haze website</a>.</p>
+        <p>As such, the 24-hour Pollutant Standards Index (PSI) readings of the 5 regions of Singapore are reported every hour on the  <a href="http://www.haze.gov.sg/home">Haze microsite</a>, and myENV  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app. The pollutant  concentration readings are also published regularly on the <a href="http://www.haze.gov.sg/resources/pollutant-concentrations">haze website</a>.</p>
         <p><em>ACHIEVING HIGHER AIR QUALITY STANDARDS</em></p>
         <p>MEWR has adopted the World Health Organisation (WHO) Air Quality Guidelines (AQG) for particulate matter (PM10), nitrogen dioxide (NO<sub>2</sub>), carbon monoxide (CO) and ozone (O<sub>3</sub>), and the WHO Interim Targets for fine particulate matter (PM2.5) and sulphur dioxide (SO<sub>2</sub>), as Singapore’s air quality targets for 2020. To attain these air quality targets by 2020, abatement measures are being implemented to reduce emissions from vehicles and industries.</p>
         <p><em>NEW AIR QUALITY REPORTING SYSTEM</em></p>
@@ -204,7 +204,7 @@ input:checked + label + .accordion-content {
         <p><em>A HAZE ACTION PLAN IN PLACE</em></p>
         <p>We have in place a set of measures and procedures to activate in the event of serious haze levels.</p>
         <p><em>SUGGESTIONS FOR HOMES AND OFFICES</em></p>
-        <p>For air cleaning devices, see <a href="www.nea.gov.sg/our-services/pollution-control/air-pollution/managing-haze/air-cleaning-devices">this list/a>.</p>
+        <p>For air cleaning devices, see <a href="http://www.nea.gov.sg/our-services/pollution-control/air-pollution/managing-haze/air-cleaning-devices">this list</a>.</p>
         <p><em>TIMELY UPDATES FOR THE PUBLIC</em></p>
         <p>The 24-hr PSI readings by the 5 regions of Singapore are made available on the myEnv  <a href="http://itunes.apple.com/sg/app/myenv/id444435182">iPhone</a>  and  <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;hl=en">Android</a>  app,  <a href="http://www.twitter.com/NEAsg">Twitter</a>  account and  <a href="http://www.nea.gov.sg/">website</a>.</p>
         <p><em>MEASURES IN PLACE TO MANAGE TRANSBOUNDARY HAZE POLLUTION</em></p>
