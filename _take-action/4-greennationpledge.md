@@ -4,8 +4,6 @@ description: Make a pledge and tell us how you will help make Singapore a green,
 permalink: /greennationpledge
 image: /images/mse-home-banner.jpg
 ---
-<a href="http://go.gov.sg/greennationpledge"><img src="/images/GNPWebBanner.png" alt="Green Nation Pledge"></a>
-
 
 ### Thank you for your Pledges! 
 
