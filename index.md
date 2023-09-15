@@ -3,7 +3,7 @@ layout: homepage
 title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
 image: /images/mse-home-banner.jpg
-notification: <p><a style="font-family:'Cabin'" href="/greennationpledge/"><b>Take the Green Nation Pledge!</b></a></p>
+notification: 
 permalink: /
 sections:
     - hero:
