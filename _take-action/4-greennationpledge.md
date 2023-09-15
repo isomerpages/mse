@@ -4,18 +4,10 @@ description: Make a pledge and tell us how you will help make Singapore a green,
 permalink: /greennationpledge
 image: /images/mse-home-banner.jpg
 ---
-<a href="http://go.gov.sg/greennationpledge"><img src="/images/GNPWebBanner.png" alt="Green Nation Pledge"></a>
 
+### Thank you for your Pledges! 
 
-### Take Action Now 
-
-The time to take action is now. Make a pledge and tell us how you will help make Singapore a green, liveable and climate-resilient home! A contributor, an advocate, or a champion, which one are you? Remember, every little effort counts, so do what you can and be a part of the driving force towards a sustainable future.
-
-Please make your [Green Nation Pledge](http://go.gov.sg/greennationpledge) now! You can choose to pledge as an individual or on behalf of your school or organisation. 
-
-We look forward to seeing your commitment to help Singapore become a Green Nation.
-
-<p> Share your pledge on social media with the hashtag <span style="color:#00725c">#GreenNationPledgeSG</span> and you might just inspire someone else to start their green journey today.</p>
+Pledges are now closed! Thank you all for submitting your Green Nation Pledges over the past several months. Whether you're a contributor, advocate or champion, remember that every little effort on your part helps drive Singapore to a more sustainable future!
 
 ### MSE's Green Nation Pledge
 
