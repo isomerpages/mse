@@ -256,7 +256,7 @@ input:checked + label + .accordion-content {
 		<p><em>Experts Reviewed Drainage Planning Norms and Flood Protection Measures</em></p>
 		<p>On June 30, 2011, the Ministry appointed an Expert Panel on Drainage Design and Flood Protection Measures to conduct an in-depth review of our drainage system, management approach and flood protection measures.</p>
 		<p>The Ministry and PUB have accepted the panel's recommendations, released in January 2012. The recommendations include implementing a wider range of drainage solutions and improving the flood warning system.</p>
-		<p>The full report and PUB's response can be found <a href="https://www.mse.gov.sg/news/full-report-by-the-expert-panel-on-drainage-design-and-flood-protection-measures">here.</a></p>
+		<p>The full report and PUB's response can be found <a href="https://www.pub.gov.sg/Documents/fullReport.pdf">here.</a></p>
 		<p><em>Flood Prone Areas Reduced</em></p>
 		<p>Despite increased urbanisation - which increases the likelihood of flooding, we have greatly reduced flood prone areas. Through ongoing drainage improvement works, PUB has further reduced flood prone areas to 30.5 hectares in 2016.</p>
 	</div>
