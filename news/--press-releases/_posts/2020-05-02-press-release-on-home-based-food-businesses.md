@@ -26,7 +26,7 @@ description:
 
 7 Enforcement agencies will take firm action against non-compliance. For home-based food businesses that fail to comply with safe management measures, first-time offenders will be issued composition offers of $1,000, and repeat offenders will face higher fines or prosecution in court. For customers or third party delivery service providers that breach measures, first-time offenders will be issued composition fines of $300, and repeat offenders will face a fine of $1,000 or prosecution in court.  
 
-8 A range of schemes have been introduced to help households who face income loss due to COVID-19 and require assistance. A list of the assistance schemes can be found at Annex C.  
+8 A range of schemes have been introduced to help households who face income loss due to COVID-19 and require assistance.  
 
 **Remaining Vigilant and Socially Responsible**  
 
@@ -106,18 +106,3 @@ Home-based food businesses are required to strictly abide by the safe management
 - Keep perishable foods refrigerated or frozen until they are used.  
 
 -----  
-**Annex C**  
-
-**ASSISTANCE SCHEMES AVAILABLE FOR HOUSEHOLDS**  
-
-COVID-19 Support Grant (Open for applications from May till 30 Sep 2020): [Form](go.gov.sg/CSG)  
-
-Self-Employed Person Income Relief Scheme (Open for applications from 27 April): <https://www.ntuc.com.sg/sirs>  
-
-Workfare Special Payment: [link](www.workfare.gov.sg)  
-
-Assistance schemes offered by Malay/Muslim organisations: <https://www.m3.sg/sgteguhbersatu/initiatives>  
-
-For more details on ongoing or new support measures, please refer to MSF website: <https://www.msf.gov.sg/assistance/Pages/covid19relief.aspx#CSG>  
-
-Operators may also wish to register with the Singapore Malay Chamber of Commerce & Industry, which is offering support to home-based businesses: <https://bit.ly/SMCCI-HomeBasedData>  
