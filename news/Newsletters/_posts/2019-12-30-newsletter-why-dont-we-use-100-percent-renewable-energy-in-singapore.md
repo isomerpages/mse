@@ -1,6 +1,6 @@
 ---  
 title: Why don't we use 100% renewable energy in Singapore?
-permalink: /resource-room/category/2019-12-30-newsletter-why-dont-we-use-100%-renewable-energy-in-singapore/    
+permalink: /resource-room/category/2019-12-30-newsletter-why-dont-we-use-100-percent-renewable-energy-in-singapore/    
 image:  
 file_url:  
 description:  
