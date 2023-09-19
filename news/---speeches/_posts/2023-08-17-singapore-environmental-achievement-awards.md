@@ -128,6 +128,6 @@ b. Hope that you will lead the way for even more companies to follow suit and pl
 
 14 Lastly, I would like to extend my heartfelt thanks to SEC for having this Awards and for having me today, and also to the judges and all of you involved in the assessment.
 
-15 Thank you very much and congratulations again.
+15 Thank you very much and congratulations again. 
 
 
