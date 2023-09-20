@@ -1,5 +1,5 @@
 ---
-title: Written Reply to Parliamentary Question on Hawker Centre Rents by Ms Grace Fu, Minister for Sustainability and the Environmentt
+title: Written Reply to Parliamentary Question on Hawker Centre Rents by Ms Grace Fu, Minister for Sustainability and the Environment
 permalink: /resource-room/category/2023-09-18-written-reply-to-pq-on-hawker-centre-rents/
 image:
 file_url:
