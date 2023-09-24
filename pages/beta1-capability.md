@@ -1,6 +1,6 @@
 ---
 title: *BETA* Capability Building
-permalink: /beta/research-and-innovation/capability
+permalink: /beta-research-and-innovation/capability
 ---  
 <style>
 

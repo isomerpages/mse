@@ -1,6 +1,6 @@
 ---
 title: *BETA* Key Innovation Partners
-permalink: /beta/research-and-innovation/key-partners
+permalink: /beta-research-and-innovation/key-partners
 ---  
 <style>
 

@@ -1,6 +1,6 @@
 ---
 title: *BETA* Research & Innovation
-permalink: /beta/research-and-innovation/
+permalink: /beta-research-and-innovation/
 ---  
 <style>
 
@@ -144,7 +144,7 @@ START OF PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="R&I-links-container">
 <section class="cards">
     <div class="card">
-        <a href="/beta/research-and-innovation/key-partners">
+        <a href="/beta-research-and-innovation/key-partners">
                 <img src="/images/key-partners.png" alt="For companies and researchers keen to find partners for devevloping innovative solutions and technologies">
             <div class="card-content">
                 <h6>Key Partners</h6>
@@ -152,7 +152,7 @@ START OF PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
         <div class="card">
-        <a href="/beta/research-and-innovation/companies">
+        <a href="/beta-research-and-innovation/companies">
                 <img src="/images/companies.png" alt="For companies looking to transform business processes and operations through innovation">
             <div class="card-content">
                 <h6>For Companies</h6>
@@ -160,7 +160,7 @@ START OF PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/beta/research-and-innovation/researchers">
+        <a href="/beta-research-and-innovation/researchers">
                 <img src="/images/researchers.png" alt="For researchers looking to contribute to R&D in the resource and environmental sustainability domain">
             <div class="card-content">
                 <h6>For Researchers</h6>
@@ -168,7 +168,7 @@ START OF PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/beta/research-and-innovation/capability-building">
+        <a href="/beta-research-and-innovation/capability-building">
                 <img src="/images/capability.png" alt="For those looking to build capability in the company and the workforce">
             <div class="card-content">
                 <h6>Capability Building</h6>

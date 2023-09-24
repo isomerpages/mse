@@ -1,6 +1,6 @@
 ---
 title: *BETA* Companies
-permalink: /beta/research-and-innovation/companies
+permalink: /beta-research-and-innovation/companies
 ---  
 <style>
 
@@ -89,7 +89,7 @@ input:checked + label + .accordion-content {
     </div>
 	<input type="checkbox" id="title5"  /><label for="title5">Innovation Partners</label>
 	<div class="accordion-content">
-        <ul><font size="+2">Reach out to our <a href="https://www.mse.gov.sg/beta/research-and-innovation/key-partners">key innovation partners</a></font></ul>
+        <ul><font size="+2">Reach out to our <a href="/beta-research-and-innovation/key-partners">key innovation partners</a></font></ul>
     </div>
 </div>
 
@@ -97,10 +97,10 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title6"  /><label for="title6">Innovation Partners</label>
 	<div class="accordion-content">
-        <ul><font size="+2">Reach out to <a href="https://www.mse.gov.sg/beta/research-and-innovation/key-partners">partners in the innovation ecosystem</a></font>
-            <li><a href="https://www.mse.gov.sg/beta/research-and-innovation/key-partners#Innovation_Catalysts">Key innovation partners IPI and the USS IEO</a></li>
-            <li><a href="https://www.mse.gov.sg/beta/research-and-innovation/key-partners#Trade_Associations_and_Chambers">Trade associations and chambers</a></li>
-            <li><a href="https://www.mse.gov.sg/beta/research-and-innovation/key-partners#Accelerators_and_Incubators">Accelerators and incubators</a></li></ul>
+        <ul><font size="+2">Reach out to <a href="/beta-research-and-innovation/key-partners">partners in the innovation ecosystem</a></font>
+            <li><a href="/beta-research-and-innovation/key-partners#Innovation_Catalysts">Key innovation partners IPI and the USS IEO</a></li>
+            <li><a href="/beta-research-and-innovation/key-partners#Trade_Associations_and_Chambers">Trade associations and chambers</a></li>
+            <li><a href="/beta-research-and-innovation/key-partners#Accelerators_and_Incubators">Accelerators and incubators</a></li></ul>
     </div>
 	<input type="checkbox" id="title7"  /><label for="title7">Open Innovation Challenges</label>
 	<div class="accordion-content">

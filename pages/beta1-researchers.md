@@ -1,6 +1,6 @@
 ---
 title: *BETA* Researchers
-permalink: /beta/research-and-innovation/researchers
+permalink: /beta-research-and-innovation/researchers
 ---  
 <style>
 
