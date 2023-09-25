@@ -1,5 +1,5 @@
 ---
-title: *BETA* Key Innovation Partners
+title: [test page] Key Innovation Partners
 permalink: /beta-research-and-innovation/key-partners
 ---  
 <style>
@@ -49,7 +49,7 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-<h1><b>*BETA* Key Innovation Partners</b></h1>
+<h1><b>[test page] Key Innovation Partners</b></h1>
     <ul><font size="+2">The MSE Family works with the following on Research & Innovation</font>
         <br><font size="+1"><a href="#Innovation_Catalysts">1. Innovation Catalysts</a></font>
         <br><font size="+1"><a href="#Research_Centres_of_Excellence">2. Research Centres of Excellence</a></font>

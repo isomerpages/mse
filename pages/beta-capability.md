@@ -1,5 +1,5 @@
 ---
-title: *BETA* Capability Building
+title: [test page] Capability Building
 permalink: /beta-research-and-innovation/capability
 ---  
 <style>
@@ -49,7 +49,7 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-<h1><b>*BETA* Capability Building</b></h1>
+<h1><b>[test page] Capability Building</b></h1>
     <ul><font size="+1"><a href="https://www.mse.gov.sg/policies/overview/">1. Learn more about environmental issues and policies</a>
         <br><a href="#Train_Skills">2. Train my workforce, or pick up sustainability-related skills</a>
         <br><a href="https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/sustainability">3. Build up sustainability capabilities in my company</a>

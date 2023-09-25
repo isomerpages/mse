@@ -1,5 +1,5 @@
 ---
-title: *BETA* Research & Innovation
+title: [test page] Research & Innovation
 permalink: /beta-research-and-innovation/
 ---  
 <style>
@@ -137,7 +137,7 @@ START OF PAGE CARDS FLEXBOX LAYOUT AND STYLES
 
 <div class="container">
 
-<h1><b>*BETA TEST* Research & Innovation</b></h1>
+<h1><b>[test page] Research & Innovation</b></h1>
 <p>Research & Innovation is a key enabler for Singapore to overcome our natural constraints. MSE, <a href="https://www.nea.gov.sg">NEA</a>, <a href="https://www.pub.gov.sg">PUB</a>, and <a href="https://www.sfa.gov.sg">SFA</a> invest in Research & Development and build Science & Technology capabilities to address Singapore's challenges.</p>
 
 

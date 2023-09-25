@@ -1,5 +1,5 @@
 ---
-title: *BETA* Researchers
+title: [test page] Researchers
 permalink: /beta-research-and-innovation/researchers
 ---  
 <style>
@@ -49,10 +49,11 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-<h1><b>I am looking for:</b></h1>
-<br><font size="+1"><a href="#R_and_D">1. R&D programmes administered by the MSE Family</a>
-<br><a href="#Tech_Testbed">2. Technology test-bedding and demonstration facilities in the environmental services, water, and agri-food sectors</a>
-<br><a href="#Research_Infra">3. Research support infrastructure available in Singapore</a>    
+<h1><b>[test page] Researchers</b></h1>
+<ul><font size="+2"><b>I am looking for:</b></font>
+    <br><font size="+1"><a href="#R_and_D">1. R&D programmes administered by the MSE Family</a>
+    <br><a href="#Tech_Testbed">2. Technology test-bedding and demonstration facilities in the environmental services, water, and agri-food sectors</a>
+    <br><a href="#Research_Infra">3. Research support infrastructure available in Singapore</a></font></ul>    
 
 <h2><a id="R_and_D">R&D programmes administered by the MSE Family</a></h2>
 <div>

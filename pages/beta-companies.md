@@ -1,5 +1,5 @@
 ---
-title: *BETA* Companies
+title: [test page] Companies
 permalink: /beta-research-and-innovation/companies
 ---  
 <style>
@@ -49,11 +49,12 @@ input:checked + label + .accordion-content {
 
 <div class="container">
 
-<h1><b>I am looking for:</b></h1>
-<br><font size="+1"><a href="#Transform_Process">1. Ways to transform my business processes and operations</a>
-<br><a href="#Innovation_Solutions">2. Sustainability-related innovations and solutions to address my business needs</a>
-<br><a href="#Promote_Platforms">3. Platforms to promote my company's sustainability-related innovations and solutions</a>    
-<br><a href="#Business_Grants">4. Business grants and other support schemes</a></font>
+<h1><b>[test page] Companies</b></h1>
+<ul><font size="+2"><b>I am looking for:</b></font>
+    <br><font size="+1"><a href="#Transform_Process">1. Ways to transform my business processes and operations</a>
+    <br><a href="#Innovation_Solutions">2. Sustainability-related innovations and solutions to address my business needs</a>
+    <br><a href="#Promote_Platforms">3. Platforms to promote my company's sustainability-related innovations and solutions</a>    
+    <br><a href="#Business_Grants">4. Business grants and other support schemes</a></font></ul>
 
 <h2><a id="Transform_Process">Ways to transform my business processes and operations</a></h2>
 <div>
@@ -85,7 +86,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title4"  /><label for="title4">Productivity Solutions Grants</label>
 	<div class="accordion-content">
         <ul><font size="+2">Explore proven productivity solutions supported by the <a href="https://www.gobusiness.gov.sg/productivity-solutions-grant/all-psg-solutions">Productivity Solutions Grant</a>. You may be eligible for grant support depending on your industry classification (SSIC) and if you meet the eligibility criteria.</font></ul>
-        <ul><font size="+2">Companies in the water space could explore the <a href="https://www.swadigiexpo.com">Singapore Water Association Virtual Expo</a></font></ul>
+        <ul><font size="+2">Companies in the water space could explore the <a href="https://www.swadigiexpo.com">Singapore Water Association Virtual Expo (account required)</a></font></ul>
     </div>
 	<input type="checkbox" id="title5"  /><label for="title5">Innovation Partners</label>
 	<div class="accordion-content">
@@ -112,7 +113,7 @@ input:checked + label + .accordion-content {
     </div>
 	<input type="checkbox" id="title9"  /><label for="title9">SWA Virtual Expo</label>
 	<div class="accordion-content">
-        <ul><font size="+2">Companies in the water space could explore the <a href="https://www.swadigiexpo.com">Singapore Water Association Virtual Expo</a> platform</font></ul>
+        <ul><font size="+2">Companies in the water space could explore the <a href="https://www.swadigiexpo.com">Singapore Water Association Virtual Expo</a> platform (account required)</font></ul>
 </div>
 
 <h2><a id="Business_Grants">Business grants and other support schemes</a></h2>
