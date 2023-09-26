@@ -99,11 +99,11 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <div class="cards">
 
 		<div class="card">
-        <a href="/files/resources/Key-Environmental-Statistics-2022.pdf" target="_blank">  
+        <a href="/files/resources/key-environmental-statistics-2023.pdf" target="_blank">  
             <div class="card-content">
-            <h5>Key Environmental Statistics 2022</h5>
+            <h5>Key Environmental Statistics 2023</h5>
             </div>
-          <img src="/images/Key-Environmental-Statistics-2022-Cover.jpg" alt="Key Environmental Statistics 2022" style="width:300px;">
+          <img src="/images/key-environmental-statistics-2023-cover.jpg" alt="Key Environmental Statistics 2023" style="width:300px;">
         </a>
     </div>  
 	
@@ -134,24 +134,6 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
           <img src="/images/Sustainability-MSE-Publication-Cover-2.jpg" alt="Sustainability @ MSE 2022" style="width:300px;">
         </a>
     </div>  
-
-	<div class="card">
-        <a href="/files/resources/Key-Environmental-Statistics-2021-Publication.pdf" target="_blank">  
-            <div class="card-content">
-            <h5>Key Environmental Statistics 2021</h5>
-            </div>
-          <img src="/images/Key-Environmental-Statistics-2021-Cover.jpg" alt="Key Environmental Statistics 2021" style="width:300px;">
-        </a>
-    </div>  
-	
-	<div class="card">
-        <a href="/resources/key-environmental-statistics.pdf" target="_blank">  
-            <div class="card-content">
-            <h5>Key Environmental Statistics 2020</h5>
-            </div>
-          <img src="/images/key-environmental-statistics.png" alt="Key Environmental Statistics 2020" style="width:300px;">
-        </a>
-    </div>
     <div class="card">
         <a href="/resources/zero-waste-masterplan.pdf" target="_blank">  
             <div class="card-content">
