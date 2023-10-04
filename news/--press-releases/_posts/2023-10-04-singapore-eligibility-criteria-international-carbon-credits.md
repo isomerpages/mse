@@ -47,13 +47,13 @@ To comply with Article 6 of the Paris Agreement, the certified emissions reducti
 
 11 The establishment of the ICC Framework and the International Advisory Panel for Carbon Credits are among the latest initiatives to support Singapore’s position as a carbon services and trading hub. Other notable initiatives include:
 
-12 *Fostering international partnerships in the global carbon market* to open new sources of ICCs that meet Singapore’s Eligibility Criteria.
+12 **Fostering international partnerships in the global carbon market** to open new sources of ICCs that meet Singapore’s Eligibility Criteria.
 
 a) Singapore has substantively concluded negotiations with Ghana and Vietnam on Implementation Agreements setting out the requirements and processes for Article 6 compliant carbon credit cooperation. Carbon tax-liable companies can source for ICCs generated under these Implementation Agreements to offset their taxable emissions.
 
 b) Memoranda of Understanding (MOUs) to work towards Implementation Agreements have also been signed with other host countries: Bhutan, Cambodia, Chile, Colombia, Dominican Republic, Indonesia, Kenya, Mongolia, Morocco, Papua New Guinea, Peru and Sri Lanka. Singapore is also in active discussion with several other countries including Brazil, Brunei and Thailand.
 
-13 *Developing enabling infrastructure and the carbon services ecosystem.* As part of the ICC Framework, NEA is developing a national registry to account and track the ICCs surrendered by taxable facilities in compliance with Article 6 rules.
+13 **Developing enabling infrastructure and the carbon services ecosystem.** As part of the ICC Framework, NEA is developing a national registry to account and track the ICCs surrendered by taxable facilities in compliance with Article 6 rules.
 
 14 NEA has signed MOUs with five carbon credit programmes to leverage on their capabilities in ensuring that ICCs issued under their programmes and subsequently used to offset taxable emissions are robustly validated, verified, issued and retired. These programmes include the Gold Standard, Verra’s Verified Carbon Standard, Global Carbon Council, American Carbon Registry and the Architecture for REDD+ Transactions. We intend to expand our partnerships to more programmes in the future.
 
@@ -63,3 +63,47 @@ b) Memoranda of Understanding (MOUs) to work towards Implementation Agreements h
 
 *****
 
+**Annex A: Illustration of how a Carbon Credit Project is Assessed under each Principle**
+
+1 Eligible ICCs must fulfil **all** principles under Singapore’s Eligibility Criteria.
+
+2 **Table A-1** illustrates a simplified assessment of a carbon credit project against each principle. This is meant to facilitate understanding, and is **not representative** of the actual processes applied in evaluating and verifying individual projects.
+
+*Table A-1: Simplified assessment of a carbon credit project against each principle*
+
+| ICC Project type | Provision of biogas digesters that convert organic waste into clean energy for heating and cooking |
+| ---- | ---- |
+| **Principle under Singapore’s Eligibility Criteria** | Key considerations in assessing this principle in relation to the ICC Project |
+| **Not double-counted** | Singapore has an Implementation Agreement in place with Country X, which sets out the requirements and processes for carbon credits to come with corresponding adjustments, i.e., the emissions reductions represented by the carbon credit used by carbon tax-liable companies in Singapore to offset their taxable emissions will only be counted towards Singapore’s climate targets. These emissions reductions will **not** also be counted towards Country X’s climate targets. |
+| **Additional** | Under a business-as-usual (BAU) scenario where the project did not occur, residents would have continued to collect and burn firewood to heat up their homes and cook food. This would have resulted in carbon emissions from deforestation. However, with the implementation of the project and the financing from carbon credits, households are provided with biogas digesters which ferment organic waste such as manure, offering an alternative source of clean energy in the form of biomethane. **This reduces the reliance on firewood, and the resulting carbon emissions from deforestation.** Hence, the project fulfils the “additional” principle. |
+| **Real** | With the implementation of the project, emissions have been reduced from a credible and conservative baseline, resulting in **real emissions reductions**. This baseline is the BAU scenario whereby firewood continue to be used, and was determined from field studies that ascertain the prevalence and entrenchment of firewood use as a community practice.|
+| **Quantified and verified** | Independent, third-party verifiers have **quantified and verified** the emissions reduced by the project during the entire project timeframe, based on a robust measurement, reporting and verification framework. |
+| **No net harm** | Biogas digesters has resulted in **no net harm**, and even delivered co-benefits to local communities in Country X, such as cleaner air quality from burning biomethane, a smokeless fuel, instead of firewood. |
+| **No leakage**| The use of biogas digesters in the community did not lead to an increase in deforestation in other communities or elsewhere. Hence, the project **does not cause leakage**, i.e., an increase in emissions elsewhere. |
+
+**Annex B: Membership of the International Advisory Panel for Carbon Credits (IAPCC)**
+
+| No. | IAPCC Members | Designation |
+| ---- | ---- | ---- |
+| 1 | Prof Bertil Andersson [Chairperson] | President Emeritus, Nanyang Technological University (NTU) | 
+| 2 | Ms Catherine McKenna |Chair, United Nations High-Level Expert Group on the Net-Zero Emissions Commitments of Non-State Entities | 
+| 3 | Prof Koh Lian Pin | Associate Vice President and Chief Sustainability Scientist, National University of Singapore (NUS) | 
+| 4 | Ms Patricia Espinosa | Chief Executive Officer and Founding Partner, Onepoint5 |
+| 5 | Ms Usha Rao-Monari | Former Under-Secretary-General and Associate Administrator, United Nations Development Programme (UNDP) |
+| 6| Ms Yuki Yasui | Regional Director of Asia Pacific, Glasgow Financial Alliance for Net Zero (GFANZ) |
+
+**Annex C: Factsheet on ICCs and Article 6**
+
+*Figure C-1: Life cycle of ICCs*
+
+![image](https://github.com/isomerpages/mse/assets/113347709/78699d97-eeed-4a6b-9bfe-30b708b11929)
+
+**Article 6**
+
+1 Article 6 of the Paris Agreement sets out the framework for countries to voluntarily cooperate to achieve their Nationally Determined Contributions (NDCs) and advance global climate action and ambition. As an alternative-energy disadvantaged country with limited domestic mitigation potential, Singapore is keenly exploring cooperation on carbon markets.
+
+2 The rules and guidelines under Article 6 facilitate the transfer of carbon credits between countries, and was finalised at the 26th United Nations Climate Change Conference (COP-26) in November 2021, following negotiations co-facilitated by Singapore and Norway. Under the Article 6 rules, the transfer of carbon credits between countries requires corresponding adjustments to be made to each country’s national greenhouse gas inventory. Corresponding adjustments prevent the double-counting of emissions reductions towards both the buyer and host country’s NDCs.
+
+3 Article 6 also does not allow the use of carbon credits that represent emissions reductions or removals that occurred outside of the current NDC period. To illustrate, as countries’ 2030 NDCs encompass the years 2021 to 2030, countries ought not to trade carbon credits that represent pre-2020 emissions reductions or removals.
+
+4 In compliance with Article 6 rules, Singapore’s Eligibility Criteria require ICCs to be authorised by the host country for corresponding adjustment, and represent emissions reductions or removals that occurred between 1 January 2021 and 31 December 2030.
