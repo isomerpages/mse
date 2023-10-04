@@ -1,5 +1,5 @@
 ---  
-title: Minister for Sustainability and the Environment Grace Fu to attend the 45th ASEAN Ministers of Agriculture and Forestry Meeting in Malaysia
+title: Minister for Sustainability and the Environment Grace Fu to attend the 45th ASEAN Ministers on Agriculture and Forestry Meeting in Malaysia
 permalink: /resource-room/category/2023-10-02-press-release-minister-fu-to-attend-45th-amaf-in-malaysia/
 image:  
 file_url:  
