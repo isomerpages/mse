@@ -1,0 +1,31 @@
+---
+title: Oral Reply to Parliamentary Question on Water Price and Water Recycling by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment
+permalink: /resource-room/category/2023-10-04-oral-reply-to-pq-on-water-price-and-water-recycling/
+image:
+file_url:
+description:
+---
+
+#### Oral Reply to Parliamentary Question on Water Price and Water Recycling by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment
+
+**Mr Leong Mun Wai:** To ask the Minister for Sustainability and the Environment (a) whether there has been a change in the cost of producing NEWater and desalinated water since 2017; (b) what is the difference between the current marginal cost and long run marginal cost of producing water in Singapore; and (c) whether the Government considers that there will be a need to increase water prices within the next five years.
+
+**Ms Poh Li San:** To ask the Minister for Sustainability and the Environment (a) how will the recent recycling requirements on large water users affect business costs; and (b) whether the Government will be providing any additional support to help affected businesses amidst rising costs.
+
+**Answer:**  
+
+1	In Singapore, the water price is pegged to the cost of producing and supplying the next drop of water. This includes the cost of building and upgrading water infrastructure. Pricing water on this basis allows PUB to finance its long-term investments sustainably to meet future water demand and safeguard Singapore’s water security.  
+
+2 The cost of producing and supplying water has increased substantially since the last price revision in 2017. Average electricity tariffs have increased by 37%. Operating expenses for chemicals needed for water production have grown by 33% due to global supply chain disruption and higher transportation cost. Maintenance expenses have risen by 18% due to higher costs for contracted services. Construction costs have also gone up by 35%. Together, these cost pressures have led to an increase in PUB’s operating expenditure by around 30% since the last water price revision in 2017.  
+
+3 PUB has undertaken various measures to moderate the impact of these cost drivers. These include leveraging energy-efficient technologies to reduce energy consumption, harnessing engineering solutions to offset construction costs, and optimising and digitalising processes to reduce chemical and maintenance expenses. PUB’s efforts have borne some fruit. For example, at the new Tuas Water Reclamation Plant (TWRP), PUB avoided the construction of a long deep-sea outfall costing $650 million by adopting membrane bio-reactor technology to treat used water to an adequate standard for near-shore discharge. TWRP will also generate 80% of the energy it requires for used water treatment, compared to only 25% for the conventional Ulu Pandan and Jurong WRPs it will replace, through enhanced primary treatment of used water and synergies from co-locating with the Integrated Waste Management Facility. Despite such cost-saving measures, the cost of producing and supplying water, and collecting and treating our used water, remains significantly higher than the current water price.  
+
+4 An increase in water price is thus necessary to catch up with rising costs. This is why the Government has announced the revision of water price by 50 cents per cubic metre in two phases in 2024 and 2025, with a smaller increase in the first phase after due consideration for the current inflationary pressures. The Government will continue to review the water price regularly to ensure that water is right-priced.  
+
+5 With the full increase in water price by 2025, three quarters of households will see an increase of less than $10 per month in their water bill. As announced by MOF last week, the Government will provide financial support to mitigate the impact of the water price increase and other cost of living concerns, especially for lower- and middle-income households. This includes additional U-Save rebates of $20 per quarter in 2024 and 2025 for all Singaporean HDB households. The additional rebates will, on average, fully offset the increase in utility bills for 1- to 2- room HDB households and offset about 80% of the increase in utility bills for 3- to 4-room HDB households during this period. With these rebates, 3- and 4-room households will see increases of only about $2 per month in their utility bills.  
+
+6 Besides right-pricing water to safeguard our water security, it is also important that we manage the growth in our water demand. This is especially so in the non-domestic sector, which will account for about two-third of our water demand by 2065. Ms Poh Li San asked about water recycling requirements for companies which are large water users and government support for them.  From January next year, PUB will mandate minimum water efficiency requirements on new projects in water intensive industries, with high potential for water recycling. By recycling water, companies can recover the cost of their investments over time and enjoy cost savings in the longer term through reduced water usage. Based on our estimates, the payback period for installing such recycling infrastructure ranges from two to four years for wafer fabrication companies and less than one year for the electronics and biomedical companies.  
+
+7 To better support businesses, PUB has also recently enhanced its Water Efficiency Fund, which businesses can tap to implement water recycling, adopt innovative technologies for water conservation and conduct studies to identify water-saving opportunities in their operations. This includes an increased funding cap of up to $5 million, to support large-scale recycling projects in water-intensive industries. PUB also works with businesses with high water consumption to identify ways to reduce consumption through their Water Efficiency Management Plans (WEMP).  
+
+8 Everyone – individuals, households, community, and businesses – has a part to play in conserving and using water wisely. With right pricing and sustainable growth in water demand, we can continue to ensure a sustainable water system, and safeguard water security for Singapore.  
