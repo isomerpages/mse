@@ -3,7 +3,7 @@ title: Minister Fu to attend 45th ASEAN Ministers of Agriculture and Forestry Me
 permalink: /resource-room/category/2023-10-02-press-release-minister-fu-to-attend-45th-amaf-in-malaysia/
 image:  
 file_url:  
-description: Minister Fu to attend 45th ASEAN Ministers of Agriculture and Forestry Meeting in Malysia
+description: Minister Fu to attend 45th ASEAN Ministers of Agriculture and Forestry Meeting in Malaysia
 --- 
 
  **Singapore, 2 October 2023** – Minister for Sustainability and the Environment, Ms Grace Fu, will participate in the 45th ASEAN Ministers on Agriculture and Forestry (AMAF) and related meetings in Kuala Lumpur, Malaysia from 3 to 6 October 2023.
