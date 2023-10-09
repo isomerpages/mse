@@ -1,9 +1,9 @@
 ---
-title: 50th ASEAN-Japan Cooperation & Friendship and SSEAYP Day 2023 - SMS Amy Khor
+title: 50th ASEAN-Japan Cooperation & Friendship and SSEAYP Day 2023 - Dr Amy Khor
 permalink: /resource-room/category/2023-10-07-speech-at-50th-asean-japan-cooperation-and-friendship-and-sseayp-day-2023/
 image:
 file_url:
-description: 50th ASEAN-Japan Cooperation & Friendship and SSEAYP Day 2023 - SMS Amy Khor
+description: 50th ASEAN-Japan Cooperation & Friendship and SSEAYP Day 2023 - Dr Amy Khor
 ---
 Excellency Ambassador Ishikawa,
 
