@@ -4,7 +4,7 @@ permalink: /pae/past-recipients
 third_nav_title: President's Award for the Environment
 ---
 
-<img src="/images/pae/pae-2021-1.jpg" alt="2023 PAE Recipients">
+<img src="/images/pae/PAE2-2023-13.jpg" alt="2023 PAE Recipients">
 
 Since 2006, 49 outstanding environmental champions have been conferred the President's Award for the Environment.
 
