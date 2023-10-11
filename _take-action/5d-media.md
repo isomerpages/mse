@@ -7,6 +7,8 @@ third_nav_title: President's Award for the Environment
 
 ### 2023
 
+[President’s Award Spotlights Environmental Stewards For Sustainability Efforts](/files/Media-Release-Presidents-Award-for-the-Environment-2023.pdf) *10 OCT 2023*
+
 [Call for the President's Award for the Environment 2023 Nominations]([/files/media-release-on-the-pae-2021.pdf](https://www.mse.gov.sg/resource-room/category/2023-01-31-press-release-on-call-for-the-presidents-award-for-the-environment-2023-nominations)) *31 JAN 2023* 
 
 ### 2021
