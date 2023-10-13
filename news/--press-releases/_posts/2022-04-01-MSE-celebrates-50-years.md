@@ -31,7 +31,7 @@ ii. To recognise those who have contributed to Singapore&#39;s sustainable devel
 
 iii. To continue working together to safeguard our environment
 
-- **Tree planting events** with partners.
+- **Tree planting events** with partners. 
 
 6 More information on MSE50 will be shared on [www.mse.gov.sg/mse50](http://www.mse.gov.sg/mse50).
 
