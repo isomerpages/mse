@@ -1,12 +1,12 @@
 ---
 title: Her World Woman of the Year 2023 Award Ceremony and Dinner - Ms Grace Fu
-permalink: /resource-room/category/2023-10-15-her-world-woman-of-the-year-2023
+permalink: /resource-room/category/2023-10-13-her-world-woman-of-the-year-2023
 image:
 file_url:
 description: 
 ---
 
-#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at Her World Woman of the Year 2023 Award Ceremony and Dinner on 15 October 2023
+#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at Her World Woman of the Year 2023 Award Ceremony and Dinner on 13 October 2023
 
 Distinguished guests, 
 Ladies and gentlemen, 
