@@ -1,9 +1,9 @@
 ---
-title: Opening Remarks at High-Level Seminar on a New Outlook on Green Silk Road - Dr Amy Khor
+title: Opening Remarks at Belt and Road Forum for International Cooperation, High-Level Seminar on a New Outlook on Green Silk Road - Dr Amy Khor
 permalink: /resource-room/category/2023-10-17-opening-remarks-for-high-level-seminar-on-a-new-outlook-on-green-silk-road/
 image:
 file_url:
-description: Opening Remarks at High-Level Seminar on a New Outlook on Green Silk Road - Dr Amy Khor
+description: Opening Remarks at Belt and Road Forum for International Cooperation, High-Level Seminar on a New Outlook on Green Silk Road - Dr Amy Khor
 ---
 Vice Minister Zhao,
 
