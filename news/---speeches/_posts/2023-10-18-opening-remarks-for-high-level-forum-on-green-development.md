@@ -1,9 +1,9 @@
 ---
-title: Opening Remarks at High-Level Forum on Green Development - Green Silk Road for Harmony with Nature - Dr Amy Khor
+title: Opening Remarks at Belt and Road Forum for International Cooperation, High-Level Forum on Green Development - Dr Amy Khor
 permalink: /resource-room/category/2023-10-17-opening-remarks-for-high-level-forum-on-green-development/
 image:
 file_url:
-description: Opening Remarks at High-Level Forum on Green Development - Green Silk Road for Harmony with Nature - Dr Amy Khor
+description: Opening Remarks at Belt and Road Forum for International Cooperation, High-Level Forum on Green Development - Dr Amy Khor
 ---
 
 Distinguished Guests.
