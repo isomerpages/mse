@@ -1,6 +1,6 @@
 ---
 title: International E-waste Day - Dr Amy Khor
-permalink: /resource-room/category/2023-10-04-national-energy-efficiency-conference
+permalink: /resource-room/category/2023-10-14-international-e-waste-day
 image:
 file_url:
 description: 
