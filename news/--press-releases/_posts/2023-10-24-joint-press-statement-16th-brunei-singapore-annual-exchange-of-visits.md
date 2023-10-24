@@ -5,7 +5,7 @@ image:
 file_url:  
 description: Joint Press Statement for the 16th Brunei Darussalam-Singapore Annual Exchange of Visits
 --- 
-**Singapore, 22 October 2023** – The Sixteenth Brunei Darussalam-Singapore Annual Exchange of Visits on the  Environment (16th BSAEV), instituted under the renewed 2022 Memorandum  of Understanding on Bilateral Partnership in Environmental Affairs and  Climate Change, was held in Brunei Darussalam on 24th October 2023.
+**Singapore, 24 October 2023** – The Sixteenth Brunei Darussalam-Singapore Annual Exchange of Visits on the  Environment (16th BSAEV), instituted under the renewed 2022 Memorandum  of Understanding on Bilateral Partnership in Environmental Affairs and  Climate Change, was held in Brunei Darussalam on 24th October 2023.
 
 2 The Brunei Darussalam delegation was led by Yang Berhormat Dato Seri Setia  Awang Haji Muhammad Juanda bin Haji Abdul Rashid, Minister of  Development, and comprised Dayang Dr. Nor Imtihan binti Haji Abdul Razak,  Permanent Secretary (Planning, Land Use and Environment), and senior  officials from the Department of Environment, Parks and Recreation and the  Public Works Department, Ministry of Development, and the Brunei  Darussalam Climate Change Secretariat (BCCS), Prime Minister’s Office,  Brunei Darussalam.  
 
