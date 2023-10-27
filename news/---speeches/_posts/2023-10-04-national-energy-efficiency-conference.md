@@ -6,7 +6,7 @@ file_url:
 description: 
 ---
 
-#### Speech by Dr Amy Khor, Senior Minister for Sustainability and the Environment, at the National Energy Efficiency Conference on 4 October 2023
+#### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the National Energy Efficiency Conference on 4 October 2023
 
 Distinguished Guests, Ladies and Gentlemen 
 
