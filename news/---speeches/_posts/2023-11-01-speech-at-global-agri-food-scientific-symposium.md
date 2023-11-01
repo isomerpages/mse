@@ -9,6 +9,7 @@ description:
 ### SPEECH BY DR KOH POH KOON, SENIOR MINISTER OF STATE FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE GLOBAL AGRI-FOOD SCIENTIFIC SYMPOSIUM ON 1 NOVEMBER 2023
 
 Professors and distinguished guests
+
 Ladies and gentlemen
 
 1 It is my pleasure to join you at the second Global Agri-Food Scientific Symposium. I am glad to see everyone gather again to exchange knowledge and strengthen our capabilities in future food-tech, nutrition and safety, agri-tech, and aqua-tech.
