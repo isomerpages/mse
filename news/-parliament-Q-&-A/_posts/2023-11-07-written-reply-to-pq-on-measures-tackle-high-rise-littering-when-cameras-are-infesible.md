@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on measures to tackle high-rise littering when cameras are infesible by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-11-07-written-reply-to-measures-tackle-high-rise-littering-when-cameras-are-infesible/
+permalink: /resource-room/category/2023-11-07-written-reply-to-pq-on-measures-tackle-high-rise-littering-when-cameras-are-infesible/
 image:
 file_url:
 description:
