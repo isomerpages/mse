@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on reported cases of catered food for foreign workers without timestamp by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-11-06-written-reply-to-reported-cases-of-catered-food-for-foreign-workers-without-timestamp/
+permalink: /resource-room/category/2023-11-06-written-reply-to-pq-on-reported-cases-of-catered-food-for-foreign-workers-without-timestamp/
 image:
 file_url:
 description:
