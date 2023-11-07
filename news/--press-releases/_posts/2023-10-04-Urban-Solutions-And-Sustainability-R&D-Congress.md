@@ -72,13 +72,13 @@ a)	Capability Development and Training Programmes
 b)	Knowledge Creation and Knowledge Sharing  
 c) 	Academic and Professional Networking  
 
-__**About the Centre for Liveable Cities**__    
+**About the Centre for Liveable Cities**  
 Set up in 2008 by the Ministry of National Development and the then-Ministry of the Environment and Water Resources, the Centre for Liveable Cities (CLC) aims to distil, create and share knowledge on liveable and sustainable cities. The CLC’s work spans four main areas: Research, Capability Development, Knowledge Platforms, and Advisory. Through these activities, it hopes to provide urban leaders and practitioners with the knowledge and support needed to make our cities better. For more information, please visit www.clc.gov.sg  
 
-__**About the Singapore-ETH Centre**__  
+**About the Singapore-ETH Centre**  
 The Singapore-ETH Centre was established in 2010 as a collaboration between ETH Zurich and Singapore’s National Research Foundation (NRF). Based in the NRF’s Campus for Research Excellence and Technological Enterprise (CREATE) in Singapore, the centre is the only research centre set up by ETH Zurich outside Switzerland. Today, the centre runs the Future Cities Lab Global, Future Resilient Systems, Future Health Technologies and a range of research projects to develop practical solutions to some of the most pressing challenges, including sustainability, liveability, resilience and health. FOr more information, please visit sec.ethz.ch  
 
-__**About CREATE**__
+**About CREATE**  
 The Campus for Research Excellence and Technological Enterprise (CREATE) is an international research hub, with nine overseas partner universities that collaborate with Singapore’s universities and institutions in 15 interdisciplinary programmes. The partner universities include Cambridge University, the French National Centre for Scientific Research (Centre National de la Recherché Scientifique; CNRS), ETH Zurich, Hebrew University of Jerusalem (HUJ), Massachusetts Institute of Technology (MIT), Shanghai Jiao Tong University (SJTU), Technical University of Munich (TUM), University of California Berkeley (UCB), and University of Illinois Urbana-Champaign (UIUC). FOr more information, please visit www.create.edu.sg  
 
 **ANNEX C: NTU Singapore – French Alternative Energies and Atomic Energy Commission (CEA) Alliance for Research in Circular Economy (SCARCE)**
