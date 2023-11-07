@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on likelihood of surge in Dengue cases by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-11-06-written-reply-to-likelihood-of-surge-in-dengue-cases/
+permalink: /resource-room/category/2023-11-06-written-reply-to-pq-on-likelihood-of-surge-in-dengue-cases/
 image:
 file_url:
 description:
