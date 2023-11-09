@@ -1,5 +1,5 @@
 ---
-title: 24th Investors' Choice Awards - Ms Grace Fu
+title: 24th Investors'Choice Awards - Ms Grace Fu
 permalink: /resource-room/category/2023-11-08-Address-By-Minister-at-24th-Investors-Choice-Awards/
 image: 
 file_url: 
