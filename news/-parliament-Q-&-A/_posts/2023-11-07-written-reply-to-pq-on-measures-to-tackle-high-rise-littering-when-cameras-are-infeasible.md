@@ -1,12 +1,12 @@
 ---
-title: Written Reply to Parliamentary Question on measures to tackle high-rise littering when cameras are infesible by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-11-07-written-reply-to-pq-on-measures-tackle-high-rise-littering-when-cameras-are-infesible/
+title: Written Reply to Parliamentary Question on measures to tackle high-rise littering when cameras are infeasible by Ms Grace Fu, Minister for Sustainability and the Environment
+permalink: /resource-room/category/2023-11-07-written-reply-to-pq-on-measures-tackle-high-rise-littering-when-cameras-are-infeasible/
 image:
 file_url:
 description:
 ---
  
-#### Written Reply to Parliamentary Question on measures to tackle high-rise littering when cameras are infesible by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on measures to tackle high-rise littering when cameras are infeasible by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Dr Tan Wu Meng:** To ask the Minister for Sustainability and the Environment what measures are being explored to tackle high-rise littering when the design of HDB blocks renders the use of CCTVs infeasible.
 
