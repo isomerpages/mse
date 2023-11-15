@@ -1,3 +1,4 @@
+---
 layout: homepage
 title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
@@ -5,9 +6,11 @@ image: /images/mse-home-banner-2023.png
 notification: 
 permalink: /
 sections:
-    - hero:
-        background: 
-        # /images/mse-home-banner-2023.png
+      - hero:
+      title: Go Green SG
+      background: /images/mse-home-banner-2023
+      dropdown:
+        title: Ministry of Sustainability and the Environment
     - infobar:
         title: <h2 style="font-family:'Cabin';margin-top:1em;">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:
