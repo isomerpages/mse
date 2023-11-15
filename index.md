@@ -1,16 +1,13 @@
-MSE Homepage settings (video)
-
----
 layout: homepage
 title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
-image: /images/mse-home-banner.jpg
+image: /images/mse-home-banner-2023.png
 notification: 
 permalink: /
 sections:
     - hero:
         background: 
-        # /images/mse-home-banner.jpg
+        # /images/mse-home-banner-2023.png
     # - infobar:
     #     title: 
         # subtitle: What we are doing about climate change?
