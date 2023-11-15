@@ -2,15 +2,24 @@
 layout: homepage
 title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
-image: /images/mse-home-banner-2023.png
+image: /images/mse-home-banner.jpg
 notification: 
 permalink: /
 sections:
-      - hero:
-      title: Go Green SG
-      background: /images/mse-home-banner-2023
-      dropdown:
-        title: Ministry of Sustainability and the Environment
+    - hero:
+        background: 
+        # images/banner.png
+        # video: /images/pexel.mp4
+        title: <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&display=swap" rel="stylesheet"><h1 style="font-family:'Cabin','Lato'; font-weight:600; color:white;text-align:right;font-size:0.8em;line-height:1.1em; text-shadow:black 0px 0px 3px;">Sustainable.<br> Resource-efficient.<br>Climate-resilient.</h1><meta property="og:image" content="/images/thumbnail.jpg">
+        subtitle:   <video autoplay muted playsinline loop poster="images/banner.png" id="bannerVideo"><source src="/images/banner-video.mp4" type="video/webm"></video>
+#   <source src="polina.mp4" type="video/mp4"> add another backup video in mp4
+    # - infobar:
+    #     title: 
+        # subtitle: What we are doing about climate change?
+        # description: <b><h6 style="font-family:'Cabin'">INTRODUCING<br></h6></b><a href="https://www.greenplan.gov.sg/"><img src="/images/sgplogo.png"></a><br><a class="button_sgp30" href="https://www.greenplan.gov.sg/" alt="">Learn More</a>
+    #     # button: Learn more
+    #     # url: https://climategamechanger.sg/
+    #     alt: SGP30
     - infobar:
         title: <h2 style="font-family:'Cabin';margin-top:1em;">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
         description:
