@@ -5,7 +5,7 @@ description: Ministry of Sustainability and the Environment — providing Singap
 permalink: /
 sections:
     - hero:
-             title: A City of Green Possibilities
+             title: 
              background: /images/mse-home-banner-2023.png
     - infopic:
          title: <h2 style="font-family:'Cabin'">Forward Singapore's Steward Pillar</h2>
