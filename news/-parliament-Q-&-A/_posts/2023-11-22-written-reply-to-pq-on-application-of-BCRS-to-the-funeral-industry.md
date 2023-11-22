@@ -12,6 +12,6 @@ description:
 
 **Answer:**
 
-When the Beverage Container Return Scheme is implemented, consumers can get a refund of their deposits when they return empty beverage containers at designated return points. This includes containers from beverages consumed at funeral wakes.
+1 When the Beverage Container Return Scheme is implemented, consumers can get a refund of their deposits when they return empty beverage containers at designated return points. This includes containers from beverages consumed at funeral wakes.
 
 2 The National Environment Agency will work with the Beverage Container Return Scheme Operator to engage premises owners and other stakeholders to set up accessible and convenient return points, as well as other suitable take-back arrangements. The locations could include premises at or close to where funeral wakes are held.
