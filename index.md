@@ -7,6 +7,9 @@ sections:
     - hero:
              title: 
              background: /images/mse-home-banner-2023.png
+    - infobar:
+        title: <h2 style="font-family:'Cabin';margin-top:1em;">Sustainable. Resource-Efficient. Climate-Resilient.</h2>
+        description:
     - infopic:
         title: <h2 style="font-family:'Cabin'">Singapore Green Plan 2030</h2>
         # subtitle: What can you do?
