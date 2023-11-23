@@ -6,7 +6,7 @@ permalink: /
 sections:
     - hero:
              title: 
-             background: /images/mse-homepage-banner-2023.png
+             background: /images/mse-home-banner-2023.png
     - infopic:
          title: <h2 style="font-family:'Cabin'">Forward Singapore's Steward Pillar</h2>
         # subtitle: ForwardSG
