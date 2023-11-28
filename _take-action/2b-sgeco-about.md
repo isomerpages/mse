@@ -83,10 +83,11 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 <div>
 	<input type="checkbox" id="board"  /><label for="board">Board of Trustees</label>
 	<div class="accordion-content">
-        <li>Chaly Mah, Chairman, Singapore Tourism Board</li>
-        <li>Lily Kong, President, Singapore Management University</li>
-	<li>Stanley Loh, Permanent Secretary, Ministry of Sustainability and the Environment</li>
-        <li>Zuraidah Abdullah, CEO, Yayasan MENDAKI</li>
+        <li><b>Mr Stanley Loh (Chairman)</b> Permanent Secretary, Ministry of Sustainability and the Environment</li>
+        <li><b>Mr Chaly Mah</b> Chairman, Singapore Tourism Board</li>
+	<li><b>Mr Joseph Koh</b> Chairman, Board of Trustees, WWFS Conservation Fund</li>
+        <li><b>Ms Susan Leong</b> CEO, Adsan Law LLC</li>
+	<li><b>Mdm Zuraidah Abdullah</b> CEO, Yayasan MENDAKI</li>
 	</div>
 </div>
 
@@ -94,18 +95,16 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 <div>
 	<input type="checkbox" id="advisory"  /><label for="advisory">Advisory Committee</label>
 	<div class="accordion-content">
-        <li>Amy Hing, 1 Deputy Secretary, Ministry of Sustainability and the Environment</li>
-	<li>Elmie Nekmat, Assistant Professor, Department of Communications and New Media, National University of Singapore</li>
-        <li>Esther An, Chief Sustainability Officer, City Developments Limited</li>
-	<li>Fang Eu-Lin, Partner (Sustainability and Climate Change Advisory), PwC</li>
-        <li>Heng Whoo Kiat, Director, Eco-City Project Office, Ministry of National Development</li>
-	<li>Jen Teo, Executive Director, Singapore Environment Council</li>
-        <li>Melissa Low, Research Fellow, Centre for Nature-based Climate Solutions, National University of Singapore</li>
-	<li>Neo Gim Huay, Managing Director, Centre for Nature and Climate, World Economic Forum</li>
-        <li>Sivasothi N, Senior Lecturer, Department of Biological Sciences, National University of Singapore</li>
-        <li>Wang Weixiang, Director, Environmental Policy Division, Ministry of Sustainability and the Environment</li>
-        <li>Winston Chow, Associate Professor (Science, Technology, and Society), School of Social Sciences, Singapore Management University</li>
-        <li>Zakir Hussain, Singapore Editor, The Straits Times, SPH Media</li>
+        <li><b>Ms Fang Eu-Lin (Co-Chair)</b> Partner, Sustainability and Climate Change Advisory, PwC</li>
+	<li><b>Mr Lim Tuang Liang (Co-Chair)</b> Government Chief Sustainability Officer, Ministry of Sustainability and the Environment</li>
+        <li><b>Ms Andie Ang</b> President, Board of Directors, Jane Goodall Institute Singapore</li>
+	<li><b>Ms Cecilia Tan</b> Vice President, Global Government Relations & Public Policy, Asia Pacific, Middle East & Africa, P&G</li>
+        <li><b>Ms Claire Wong-Low</b> Executive Director and Head, DBS Foundation</li>
+	<li><b>Mr David Chua</b> CEO, National Youth Council</li>
+        <li><b>Mr Elmie Nekmat</b> Associate Professor, Department of Communications and New Media, National University of Singapore</li>
+	<li><b>Ms Esther An</b> Chief Sustainability Officer, City Developments Limited</li>
+	<li><b>Mr Heng Whoo Kiat</b> Senior Director, Bay East Project Office, Gardens by the Bay</li>
+	<li><b>Mr Lenard Raymond Pattiselanno</b> Director, Community Leadership & Partnerships, National Volunteer & Philanthropy Centre</li>
 	</div>
 </div>
 
@@ -117,4 +116,6 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 	</div>
 </div>
 
+**Annual Reports**
 
+Download our FY2022 Annual Report here. 
