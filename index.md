@@ -32,6 +32,6 @@ sections:
         url: /policies/overview/
         button: View Our Policies
     - resources:
-        subtitle: Latest News
+        title: Latest News
         button: News Catalogue
 ---
