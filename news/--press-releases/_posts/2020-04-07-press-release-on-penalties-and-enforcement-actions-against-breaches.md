@@ -20,7 +20,7 @@ description:
 
 6 We will step up enforcement and take a firm stance. Under the COVID-19 Temporary Measures Bill passed in Parliament on 7 April 2020, first time offenders will face a fine of up to S$10,000, imprisonment of up to six months, or both. Second or subsequent offences may face a fine of up to S$20,000, imprisonment of up to twelve months, or both.  
 
-7 Visit the MEWR website for latest information on safe distancing measures to fight COVID-19 together: <http://mewr.gov.sg/safe-distancing>.  
+ 
 
 **MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES**  
 **7 APRIL 2020**  
