@@ -88,7 +88,7 @@ permalink: /take-action/individuals
                 Be the change you wish to see, and start something of your own! We have resources that can help kick-start your environmental event or initiative.<br><br>
             </div>
             <img src="/images/take-action-3.svg" alt="Take Action" style="max-width:33vh;"><br>
-            <a class="button_david" href="/resources/">View Resources</a>
+            <a href="/resources/">View Resources</a>
     </div>
   </div>
 
