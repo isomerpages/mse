@@ -50,4 +50,6 @@ This year saw more than 6,000 unique, in-person visitors attending over 70 sessi
 
 **Singapore sent our first official youth delegation to COP28, with youth delegates identified from the Climate Youth Development Programme.** The Climate Youth Development Programme is an initiative co-led by the Ministry of Sustainability and the Environment (MSE), the National Climate Change Secretariat (NCCS), and the National Youth Council (NYC) to strengthen partnership with the youth community in advancing climate action and sustainable development.  
 
-[/images/cop28-infogfx.png](https://github.com/isomerpages/mse/blob/master/images/COP28-infogfx.png)https://github.com/isomerpages/mse/blob/master/images/COP28-infogfx.png
+![image](https://github.com/isomerpages/mse/assets/107536040/5ec282dc-a9c6-483b-ade3-77da8f53d189)
+
+
