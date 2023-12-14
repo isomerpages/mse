@@ -30,6 +30,8 @@ Singapore has announced various new initiatives to support and accelerate a gree
 - The Singapore-Asia Taxonomy to define transition activities across various focus sectors. This will help to minimise greenwashing, while allowing financing to flow to climate-friendly transition activities. 
 - The Transition Credits Coalition (TRACTION) to help ecosystem players identify barriers and potential solutions to develop transition credits as viable market solutions and accelerate the early retirement of coal-fired power plants.
 
+Minister Grace Fu announced that **Singapore will not be claiming from the Loss and Damage Fund.** Singapore is committed to doing our part to support fellow developing countries in ways we can make a meaningful contribution, such as by sharing best practices in climate adaptation and resilience under the Sustainability Action Package under the Singapore Cooperation Programme (SCP). Under the SCP, close to 150,000 officials from over 180 countries, territories and intergovernmental organisations have participated in our capacity-building courses. 
+
 Singapore has also entered into an Implementation Agreement with Papua New Guinea and various other agreements on carbon credits collaboration with partner nations, in line with Article 6 of the Paris Agreement:
 
 | S/N | Country | Partnership Agreement | 
@@ -48,4 +50,4 @@ This year saw more than 6,000 unique, in-person visitors attending over 70 sessi
 
 **Singapore sent our first official youth delegation to COP28, with youth delegates identified from the Climate Youth Development Programme.** The Climate Youth Development Programme is an initiative co-led by the Ministry of Sustainability and the Environment (MSE), the National Climate Change Secretariat (NCCS), and the National Youth Council (NYC) to strengthen partnership with the youth community in advancing climate action and sustainable development.  
 
-![image] /images/cop28-infogfx.png
+[/images/cop28-infogfx.png](https://github.com/isomerpages/mse/blob/master/images/COP28-infogfx.png?raw=true)https://github.com/isomerpages/mse/blob/master/images/COP28-infogfx.png?raw=true 
