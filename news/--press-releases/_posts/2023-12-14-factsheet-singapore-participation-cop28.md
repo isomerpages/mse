@@ -47,3 +47,5 @@ Singapore also organised the **COP28 Singapore Pavilion**, showcasing Singaporeâ
 This year saw more than 6,000 unique, in-person visitors attending over 70 sessions, panels and events held at the Pavilion. 11 new announcements by Pavilion Partner Entities were also announced over the duration of the event.
 
 **Singapore sent our first official youth delegation to COP28, with youth delegates identified from the Climate Youth Development Programme.** The Climate Youth Development Programme is an initiative co-led by the Ministry of Sustainability and the Environment (MSE), the National Climate Change Secretariat (NCCS), and the National Youth Council (NYC) to strengthen partnership with the youth community in advancing climate action and sustainable development.  
+
+![image] /images/cop28-infogfx.png
