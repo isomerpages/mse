@@ -11,6 +11,7 @@ description:
 COP28 is a significant milestone for global climate action. Singapore has actively contributed to a positive outcome for the UNFCCC and COP28, particularly in the Mitigation and Global Stocktake tracks.
 
 **Mitigation**
+
 At the request of UAE COP28 President Sultan Al Jaber, Minister Grace Fu co-facilitated ministerial consultations on mitigation with Norwegian Foreign Minister Espen Barth Eide. This supported the efforts of the COP28 President in reaching consensus on some key actions that aim to raise global climate ambition and accelerate the energy transition in this critical decade. This included a call on Parties to:
 
 - Transition away from fossil fuels in energy systems in a just, orderly and equitable manner;
@@ -19,7 +20,8 @@ At the request of UAE COP28 President Sultan Al Jaber, Minister Grace Fu co-faci
 
 This agreement is significant as it builds on the decisions at past COPs and includes for the first time a reference to fossil fuels in decision text. Amid other pressing global challenges, the agreed actions reaffirm our collective resolve to strengthen the multilateral framework of cooperation on climate change and accelerate the energy transition to keep 1.5oC within reach. They will serve as an important signal for the private sector, which we hope will lead to a virtuous cycle of greater investments and lower costs in the clean energy sector, which is necessary for the clean energy transition.
 
-**Global Stocktake** 
+**Global Stocktake**
+
 Singapore also played a key role in facilitating the conclusion of the first Global Stocktake (GST), which reviewed the collective progress towards the achievement of the goals of the Paris Agreement. Our Chief Negotiator for Climate Change Mr Joseph Teo co-chaired the joint contact group for the Global Stocktake, which helped to tee-up substantive outcomes under GST that were successfully adopted as a key outcome at COP28. The GST decision will guide Parties’ collective actions to achieve low-GHG emission and climate-resilient development. It will also inform the preparation of the next round of Nationally Determined Contributions by Parties due in 2025.
 
 Singapore has announced various new initiatives to support and accelerate a green transition in Singapore, our region, and beyond, including:
