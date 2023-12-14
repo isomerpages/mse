@@ -1,12 +1,12 @@
 ---
 title: Implementation Agreement Signing Ceremony with Papua New Guinea - Ms Grace Fu
-permalink: /resource-room/category/2023-12-07-implementation-agreement-papua-new-guinea
+permalink: /resource-room/category/2023-12-08-implementation-agreement-papua-new-guinea
 image: 
 file_url: 
 description: 
 ---
 
-### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Implementation Agreement Signing Ceremony with Papua New Guinea on 7 December 2023
+### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Implementation Agreement Signing Ceremony with Papua New Guinea on 8 December 2023
 
 Your Excellency Simo Kilepa, Papua New Guinea’s Minister for Environment, Conservation and Climate Change,  
 Distinguished guests,  
