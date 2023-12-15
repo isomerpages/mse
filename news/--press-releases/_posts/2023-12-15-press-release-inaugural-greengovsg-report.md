@@ -5,7 +5,7 @@ image:
 file_url:  
 description: Ministry of Sustainability and the Environment releases inaugural GreenGov.SG report
 --- 
-**Singapore, 15 Decemeber 2023** – The Ministry of Sustainability and the Environment (MSE) has published the inaugural GreenGov.SG report, which details the emissions profile and resource footprint of the public sector for Financial Year (FY) 2022, which runs from 1 April 2022 to 31 March 2023. The launch of the report was announced by Senior Parliamentary Secretary of the Ministry of Sustainability and the Environment Mr Baey Yam Keng at the “Charting towards Net-Zero in the Public Sector” event at Singapore Polytechnic today.  
+**Singapore, 15 December 2023** – The Ministry of Sustainability and the Environment (MSE) has published the inaugural GreenGov.SG report, which details the emissions profile and resource footprint of the public sector for Financial Year (FY) 2022, which runs from 1 April 2022 to 31 March 2023. The launch of the report was announced by Senior Parliamentary Secretary of the Ministry of Sustainability and the Environment Mr Baey Yam Keng at the “Charting towards Net-Zero in the Public Sector” event at Singapore Polytechnic today.  
 
 2	The GreenGov.SG report provides a snapshot of the public sector’s latest performance on greenhouse gas emissions, energy, and water use. It covers the public sector’s assets in Singapore, including office buildings, healthcare facilities, schools, public utilities installations, public transport infrastructure, and vehicles. The report also sets out the public sector’s key strategies and initiatives to enhance environmental sustainability.  
 
