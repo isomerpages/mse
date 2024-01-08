@@ -84,7 +84,7 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 	<input type="checkbox" id="board"  /><label for="board">Board of Trustees</label>
 	<div class="accordion-content">
         <li><b>Mr Stanley Loh (Chairman)</b> Permanent Secretary, Ministry of Sustainability and the Environment</li>
-        <li><b>Mr Chaly Mah</b> Chairman, Singapore Tourism Board</li>
+        <li><b>Mr Chaly Mah</b> Chairman, Surbana Jurong Pte Ltd and Netlink NBN Trust</li>
 	<li><b>Mr Joseph Koh</b> Chairman, Board of Trustees, WWFS Conservation Fund</li>
         <li><b>Ms Susan Leong</b> CEO, Adsan Law LLC</li>
 	<li><b>Mdm Zuraidah Abdullah</b> CEO, Yayasan MENDAKI</li>
