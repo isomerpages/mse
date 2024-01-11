@@ -1,12 +1,12 @@
 ---
-title: Written Reply to Parliamentary Question on GreenGovSG by Ms Grace Fu, Minister for Sustainability and the Environment
+title: Written Reply to Parliamentary Question on GreenGov.SG by Ms Grace Fu, Minister for Sustainability and the Environment
 permalink: /resource-room/category/2024-1-10-written-reply-to-pq-on-greengovsg/
 image:
 file_url:
 description:
 ---
  
-#### Written Reply to Parliamentary Question on GreenGovSG by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on GreenGov.SG by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Mr Neil Parekh Nimil Rajnikant:** To ask the Minister for Sustainability and the Environment (a) what is the Ministry’s assessment of the public sector’s achievements of the targets to go green following the launch of the GreenGov.SG initiative; (b) what yardsticks does the Ministry intend to use to assess the greening efforts of the private sector; and (c) what are some of the immediate areas that the private sector, in particular small and medium enterprises, can address in their efforts to go green.  
 
