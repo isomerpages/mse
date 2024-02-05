@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on licensed and unlicensed tissue sellers by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-02-05-licensed-and-unlicensed-tissue-sellers/
+permalink: /resource-room/category/2024-02-05-written-reply-to-pq-on-licensed-and-unlicensed-tissue-sellers/
 image:
 file_url:
 description:
