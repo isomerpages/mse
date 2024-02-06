@@ -6,7 +6,7 @@ third_nav_title: Climate Change
 
 #### Carbon Pricing Act
 
-Singapore is the first country in Southeast Asia to introduce a carbon price. The carbon tax, at S$5 per tonne of greenhouse gas emissions (tCO2e), was introduced in 2019 through the Carbon Pricing Act (CPA).
+Singapore is the first country in Southeast Asia to introduce a carbon price. The tax was set at $5/tCO<sub>2</sub>e from 2019 to 2023 as a transition period to give the industry time to adjust to its impact. To support our net zero target, the carbon tax will be raised to $25/tCO<sub>2</sub>e in 2024 and 2025, and $45tCO<sub>2</sub>e in 2026 and 2027, with a view to reaching $50-80 tCO<sub>2</sub>e by 2030. 
 
 The carbon tax will incentivise emissions reductions across all sectors and support the transition to a low-carbon economy. There are no exemptions for covered facilities, to maintain a transparent, fair, and consistent price signal across the economy.
 

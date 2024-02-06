@@ -54,7 +54,7 @@ input:checked + label + .accordion-content {
 <p><strong>REDUCING EMISSIONS</strong><br>  Energy consumption is the main cause of carbon emissions in Singapore. We aim to transform the way we use energy, and adopt clean sources of energy to mitigate our emissions.</p>
 
 <h2 id="our-key-targets">Our Key Targets</h2>
-<p>We aim to peak emissions at 65 million tons of CO<sub>2</sub> equivalent (MtCO<sub>2</sub>e)around 2030 and halve our emissions from its peak to 33MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century.</p>
+<p>On October 2022, Singapore announced that it would raise its national climate target to achieve net-zero emissions by 2050 as part of our Long-Term Low-Emissions Development Strategy. We will also reduce emissions to around 60 million tons of CO<sub>2</sub> equivalent (MtCO<sub>2</sub>e) in 2030 after peaking emissions earlier. </p>
 
 <h2 id="our-main-plans">Our Main Plans</h2>
 <div>
