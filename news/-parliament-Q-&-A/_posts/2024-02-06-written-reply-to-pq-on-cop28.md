@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on COP28 by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2023-02-06-ritten-reply-to-pq-on-cop28/
+permalink: /resource-room/category/2024-02-06-written-reply-to-pq-on-cop28/
 image:
 file_url:
 description:
