@@ -6,7 +6,7 @@ file_url:
 description: 
 ---
 
-#### Speech by Dr Amy Khor, Senior Minister for Sustainability and the Environment, at the Bulky Waste to Wonder Competition Finals 2023 on 29 October 2023  
+#### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Bulky Waste to Wonder Competition Finals 2023 on 29 October 2023  
 
 Mr Andrew Khng, Chairman of Public Hygiene Council (PHC),  
 

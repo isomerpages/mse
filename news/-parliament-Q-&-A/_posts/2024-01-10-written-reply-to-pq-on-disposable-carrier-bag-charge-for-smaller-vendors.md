@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on disposable carrier bag charge for smaller vendors by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-10-written-reply-to-pq-on-disposable-carrier-bag-charge-for-smaller-vendors/
+permalink: /resource-room/category/2024-01-10-written-reply-to-pq-on-disposable-carrier-bag-charge-for-smaller-vendors/
 image:
 file_url:
 description:

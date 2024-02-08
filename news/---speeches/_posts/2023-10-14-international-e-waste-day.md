@@ -6,7 +6,7 @@ file_url:
 description: 
 ---
 
-#### Speech by Dr Amy Khor, Senior Minister for Sustainability and the Environment, at the International E-waste Day Event on 14 October 2023
+#### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the International E-waste Day Event on 14 October 2023
 
 Distinguished guests, 
 Ladies and gentlemen, 

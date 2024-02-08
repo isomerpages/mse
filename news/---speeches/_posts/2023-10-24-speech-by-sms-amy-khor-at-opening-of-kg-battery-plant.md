@@ -6,7 +6,7 @@ file_url:
 description:  
 ---  
 
-#### Speech by Dr Amy Khor, Senior Minister for Sustainability and the Environment, at the Opening of the KGS Battery Plant on 24 October 2023
+#### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Opening of the KGS Battery Plant on 24 October 2023
 
 KGS Founders and management – Mr Max T, Mr Jasper Tan, Mr Andrew Tay, and Mr Kenny Lim,  
 

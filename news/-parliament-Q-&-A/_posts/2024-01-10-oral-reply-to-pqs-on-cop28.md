@@ -1,6 +1,6 @@
 ---
 title: Oral Reply to Parliamentary Questions on COP28 by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-10-oral-reply-to-pqs-on-cop28/
+permalink: /resource-room/category/2024-01-10-oral-reply-to-pqs-on-cop28/
 image:
 file_url:
 description:

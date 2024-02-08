@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on tracking and reward system for electricity bill credits by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-9-written-reply-to-pq-on-tracking-and-reward-system-for-electricity-bill-credits/
+permalink: /resource-room/category/2024-01-09-written-reply-to-pq-on-tracking-and-reward-system-for-electricity-bill-credits/
 image:
 file_url:
 description:

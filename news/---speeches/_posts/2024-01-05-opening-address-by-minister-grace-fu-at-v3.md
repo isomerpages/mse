@@ -1,6 +1,6 @@
 ---  
 title: Symposium on Singapore's Third National Climate Change Study - Ms Grace Fu
-permalink: /resource-room/category/2024-1-5-opening-address-at-symposium-on-v3
+permalink: /resource-room/category/2024-01-05-opening-address-at-symposium-on-v3
 image:  
 file_url:  
 description:  

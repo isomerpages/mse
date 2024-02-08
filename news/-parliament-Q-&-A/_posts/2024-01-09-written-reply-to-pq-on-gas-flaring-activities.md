@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on gas flaring activities in Singapore by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-9-written-reply-to-pq-on-gas-flaring-activities/
+permalink: /resource-room/category/2024-01-09-written-reply-to-pq-on-gas-flaring-activities/
 image:
 file_url:
 description:

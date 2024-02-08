@@ -1,6 +1,6 @@
 ---  
 title: Ministerial Statement on Charges Against NEA on Incident at Tuas Incineration Plant - Ms Grace Fu
-permalink: /resource-room/category/2024-1-9-ministerial-statement-on-charges-against-nea-on-incident-at-tuas-incineration-plant
+permalink: /resource-room/category/2024-01-09-ministerial-statement-on-charges-against-nea-on-incident-at-tuas-incineration-plant
 image:  
 file_url:  
 description:  
