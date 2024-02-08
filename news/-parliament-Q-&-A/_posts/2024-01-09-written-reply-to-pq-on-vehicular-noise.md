@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on vehicular noise by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-9-written-reply-to-pq-on-vehicular-noise/
+permalink: /resource-room/category/2024-01-09-written-reply-to-pq-on-vehicular-noise/
 image:
 file_url:
 description:
