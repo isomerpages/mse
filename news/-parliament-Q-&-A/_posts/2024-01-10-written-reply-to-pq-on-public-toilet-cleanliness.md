@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on public toilet cleanliness by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-10-written-reply-to-pq-on-public-toilet-cleanliness/
+permalink: /resource-room/category/2024-01-10-written-reply-to-pq-on-public-toilet-cleanliness/
 image:
 file_url:
 description:
