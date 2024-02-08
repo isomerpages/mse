@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on measures to detect and prevent bedbugs infestation by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-9-written-reply-to-pq-on-measures-to-detect-and-prevent-bedbugs-infestation/
+permalink: /resource-room/category/2024-01-09-written-reply-to-pq-on-measures-to-detect-and-prevent-bedbugs-infestation/
 image:
 file_url:
 description:
