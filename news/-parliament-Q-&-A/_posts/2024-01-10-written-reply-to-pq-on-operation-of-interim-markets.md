@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on operation of interim markets by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-10-written-reply-to-pq-on-operation-of-interim-markets/
+permalink: /resource-room/category/2024-01-10-written-reply-to-pq-on-operation-of-interim-markets/
 image:
 file_url:
 description:
