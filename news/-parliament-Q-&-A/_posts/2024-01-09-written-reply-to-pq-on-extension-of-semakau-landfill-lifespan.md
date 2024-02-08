@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on extension of Semakau Landfill lifespan by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-9-written-reply-to-pq-on-extension-of-semakau-landfill-lifespan/
+permalink: /resource-room/category/2024-01-09-written-reply-to-pq-on-extension-of-semakau-landfill-lifespan/
 image:
 file_url:
 description:
