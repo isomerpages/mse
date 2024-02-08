@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on socially conscious enterprise hawker centres by Ms Grace Fu, Minister for Sustainability and the Environment
-permalink: /resource-room/category/2024-1-10-written-reply-to-pq-on-socially-conscious-enterprise-hawker-centres/
+permalink: /resource-room/category/2024-01-10-written-reply-to-pq-on-socially-conscious-enterprise-hawker-centres/
 image:
 file_url:
 description:
