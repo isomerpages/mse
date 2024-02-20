@@ -260,7 +260,7 @@ input:checked + label + .accordion-content {
     </div><!-- .card -->
         <div class="card">
         <a href="/research-and-innovation/companies">
-                <img src="/images/companies.png" alt="For companies looking to transform business processes and operations through innovation">
+                <img src="/images/companies.png" alt="For companies looking to transform business processes and operations through innovation, as well as grants">
             <div class="card-content">
                 <h6>For Companies</h6>
             </div><!-- .card-content -->
@@ -275,7 +275,7 @@ input:checked + label + .accordion-content {
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/research-and-innovation/capability-building">
+        <a href="/research-and-innovation/key-partners#capability-building">
                 <img src="/images/capability.png" alt="For those looking to build capability in the company and the workforce">
             <div class="card-content">
                 <h6>Capability Building</h6>
