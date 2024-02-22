@@ -667,7 +667,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
             <div class="card-content">
             <h5>Singapore River Walk</h5>
             </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
+          <img src="/images/take-action-3.svg" alt="" style="width:300px;">
         </a>
     </div>
 <div class="card">
@@ -675,7 +675,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
             <div class="card-content">
             <h5>Green Spaces Trail</h5>
             </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
+          <img src="/images/take-action-3.svg" alt="" style="width:300px;">
         </a>
     </div>	
 </div>
@@ -687,7 +687,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
             <div class="card-content">
             <h5>NEA Hawker Book</h5>
             </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
+          <img src="/images/take-action-3.svg" alt="" style="width:300px;">
         </a>
     </div>  
 	<div class="card">
@@ -695,7 +695,7 @@ STYLING FOR CARDS - ADDITIONAL RESOURCES
             <div class="card-content">
             <h5>+65 Publication</h5>
             </div>
-          <img src="https://d33wubrfki0l68.cloudfront.net/a9154e74e9c95139dc8f60630dd4ee06387861a2/5f7f9/images/take-action-3.svg" alt="" style="width:300px;">
+          <img src="/images/take-action-3.svg" alt="" style="width:300px;">
         </a>
     </div>
 </div>
