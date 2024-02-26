@@ -1,11 +1,11 @@
 ---
-title: Written Reply to Parliamentary Question on Provision of Plant-based Meals for Government Events
+title: Written Reply to Parliamentary Question on provision of plant-based meals for government events
 permalink: /resource-room/category/2024-02-26-written-reply-to-pq-on-provision-of-plant-based-meals-for-government-events/
 file_url:
 description:
 ---
  
-#### Written Reply to Parliamentary Question on Provision of Plant-based Meals for Government Events by Ms Grace Fu, Minister for Sustainability and the Environment
+#### Written Reply to Parliamentary Question on provision of plant-based meals for government events by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Ms Hazel Poa:** To ask the Minister for Sustainability and the Environment whether the Government has considered offering plant-based meals for Government events to lead the way in making sustainability more mainstream.
 
