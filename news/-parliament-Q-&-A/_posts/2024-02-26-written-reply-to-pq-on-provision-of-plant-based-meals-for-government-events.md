@@ -7,7 +7,7 @@ description:
  
 #### Written Reply to Parliamentary Question on provision of plant-based meals for government events by Ms Grace Fu, Minister for Sustainability and the Environment
 
-**Ms Hazel Poa:** To ask the Minister for Sustainability and the Environment whether the Government has considered offering plant-based meals for Government events to lead the way in making sustainability more mainstream.
+**Ms See Jinli Jean:** To ask the Minister for Sustainability and the Environment whether the Government has considered offering plant-based meals for Government events to lead the way in making sustainability more mainstream.
 
 **Answer:**
 
