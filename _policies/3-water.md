@@ -113,7 +113,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title8"  /><label for="title8">Water - A Precious Resource</label>
 	<div class="accordion-content">
-		<p>A sunny island set in the sea, Singapore depends  on rain as a natural source of water. We receive plenty of rain but we are constrained bu our land area which limits our storage space for water. Singapore has NO large rivers, natural springs or glaciers.</p>
+		<p>A sunny island set in the sea, Singapore depends  on rain as a natural source of water. We receive plenty of rain but we are constrained by our land area which limits our storage space for water. Singapore has NO large rivers, natural springs or glaciers.</p>
 	</div>
 	<input type="checkbox" id="title9"  /><label for="title9">The Challenge</label>
 	<div class="accordion-content">
