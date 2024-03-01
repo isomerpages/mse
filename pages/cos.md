@@ -215,6 +215,7 @@ input:checked + label + .accordion-content {
       	 <li>Continue to engage stakeholders on coastal protection efforts, including for Long Island</li>
 	</ul>
 	</div>
+<div>
 	<input type="checkbox" id="cctitle4"  /><label for="cctitle4">Improving our Resource Sustainability</label>
 	<div class="accordion-content">
 	<p><b>Supporting businesses in building waste management competencies</b></p>
