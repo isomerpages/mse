@@ -142,7 +142,7 @@ input:checked + label + .accordion-content {
 
 <p>At the Ministry of Sustainability and the Environment (MSE)'s Committee of Supply debate on XX March 2024, Minister Grace Fu, Senior Ministers of State Dr Amy Khor and Dr Koh Poh Koon, and Senior Parliamentary Secretary Baey Yam Keng shared the Ministry's key initiatives in creating a clean, green, and resilient shared Singapore.</p>
 
-<p>This year, we are focusing our efforts on enhancing public hygiene to better protect public health and create a thriving urban environment for Singaporeans. We have inherited a clean and green environment from earlier generations, but it is up to us to leave an even better environment for our future generations. In the spirit of the Forward Singapore exercise, we are designating 2024 as the Year of Public Hygiene to inspire collective responsbility and to galvanise a whole-of-nation effort to upkeep our hygiene standards across four key areas: clean environment, safe food, clean air, and clean water.</p>
+<p>This year, we are focusing our efforts on enhancing public hygiene to better protect public health and create a thriving urban environment for Singaporeans. We have inherited a clean and green environment from earlier generations, but it is up to us to leave an even better environment for our future generations. In the spirit of the Forward Singapore exercise, we are designating 2024 as the <b>Year of Public Hygiene</b> to inspire collective responsbility and to galvanise a whole-of-nation effort to upkeep our hygiene standards across four key areas: clean environment, safe food, clean air, and clean water.</p>
 
 <div>
 <center>	  
