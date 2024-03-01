@@ -165,7 +165,6 @@ input:checked + label + .accordion-content {
          <li>Four-fold increase in CCTV deployment to enhance deterrence and facilitate enforcement against offenders</li>
          <li>Selectively publicise acts of littering in community spaces to seek public assistance to identify offenders</li>
         </ul>
-
 	<p><b>Tackling unhygienic public toilets</b></p>
   	<ul>
 	 <li>Public Toilets Taskforce to develop and pilot solutions to improve cleanliness of public toilets</li>
@@ -192,7 +191,7 @@ input:checked + label + .accordion-content {
 	 <li>Remove the need for licences for market stalls selling non-food and low-risk food items and vending machines selling pre-packed food</li>
       </ul>
       	</div>
-	
+<div>
   	<input type="checkbox" id="cctitle2"  /><label for="cctitle2">Pressing on Towards Net Zero</label>
 	<div class="accordion-content">
 	<p><b>Supporting households and businesses to be more resource efficient</p><b>
@@ -206,7 +205,7 @@ input:checked + label + .accordion-content {
 	 <li>Tender evaluation points to be set aside for environmental sustainability for Government events from FY2025</li>
 	</ul>
 	</div>
-	
+<div>	
   	<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Strengthening Climate Resilience</label>
 	<div class="accordion-content">
       	<p><b>Protecting our coasts</b></p>
@@ -216,7 +215,6 @@ input:checked + label + .accordion-content {
       	 <li>Continue to engage stakeholders on coastal protection efforts, including for Long Island</li>
 	</ul>
 	</div>
-		
 	<input type="checkbox" id="cctitle4"  /><label for="cctitle4">Improving our Resource Sustainability</label>
 	<div class="accordion-content">
 	<p><b>Supporting businesses in building waste management competencies</b></p>
@@ -227,10 +225,9 @@ input:checked + label + .accordion-content {
 	<ul>
           <li>Commence study to explore feasibility of expanding the Extended Producer Responsibility approach to cover more types of packaging waste beyond beverage containers</li>
 	</ul>
-		
 	</div>
-	
-
+		
+<div>
 	<input type="checkbox" id="cctitle5"  /><label for="cctitle5">Securing a Supply of Safe Food</label>
 	<div class="accordion-content">
 	<p><b>Strengthening our food safety & security regime</b></p>
@@ -253,7 +250,7 @@ input:checked + label + .accordion-content {
 	 </ul>
 	</div>
 	
-
+<div>
 	<input type="checkbox" id="cctitle6"  /><label for="cctitle6">Ensuring Access to Affordable Hawker Food</label>
 	<div class="accordion-content">
 	<p><b>Three new hawker centres to open in 2024</b></p>
