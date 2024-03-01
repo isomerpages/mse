@@ -194,7 +194,7 @@ input:checked + label + .accordion-content {
 	
   	<input type="checkbox" id="cctitle2"  /><label for="cctitle2">Pressing on Towards Net Zero</label>
 	<div class="accordion-content">
-	<p><b>Supporting households and businesses to be more resource efficient</p><b>
+	<p><b>Supporting households and businesses to be more resource efficient</b></p>
 	 <ul>
 	  <li>Enhancement of Climate Friendly Households Programme to encourage all HDB householdsto switch to energy and water efficient household appliances</li>
           <li>Extension of energy labelling scheme to household water heaters and commercial storage refrigerators to help households and businesses make informed energy efficient choices</li>
