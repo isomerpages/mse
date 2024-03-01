@@ -200,7 +200,7 @@ input:checked + label + .accordion-content {
           <li>Extension of energy labelling scheme to household water heaters and commercial storage refrigerators to help households and businesses make informed energy efficient choices</li>
      	  <li>A more streamlined Energy Efficiency Grant for businesses</li>
 	</ul>
-	<p><b>Greening the public sector's procurement policies</p><b>
+	<p><b>Greening the public sector's procurement policies</b></p>
 	<ul>
 	 <li>Tender evaluation points to be set aside for environmental sustainability for Government events from FY2025</li>
 	</ul>
