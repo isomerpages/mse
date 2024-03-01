@@ -138,7 +138,7 @@ input:checked + label + .accordion-content {
 	display: block;
 }
 </style>
-<img src="/images/cos2023/20230302-COS2023-banner.png" class="mse50-logo"><br>
+<img src="/images/C0S2024-banner-design-01.png" class="mse50-logo"><br>
 
 <p>At the Ministry of Sustainability and the Environment (MSE)'s Committee of Supply debate on XX March 2024, Minister Grace Fu, Senior Ministers of State Dr Amy Khor and Dr Koh Poh Koon, and Senior Parliamentary Secretary Baey Yam Keng shared the Ministry's key initiatives in creating a clean, green, and resilient shared Singapore.</p>
 
