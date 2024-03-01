@@ -196,7 +196,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 	<p><b>Supporting households and businesses to be more resource efficient</b></p>
 	 <ul>
-	  <li>Enhancement of Climate Friendly Households Programme to encourage all HDB householdsto switch to energy and water efficient household appliances</li>
+	  <li>Enhancement of Climate Friendly Households Programme to encourage all HDB households to switch to energy and water efficient household appliances</li>
           <li>Extension of energy labelling scheme to household water heaters and commercial storage refrigerators to help households and businesses make informed energy efficient choices</li>
      	  <li>A more streamlined Energy Efficiency Grant for businesses</li>
 	</ul>
