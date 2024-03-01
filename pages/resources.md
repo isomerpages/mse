@@ -99,7 +99,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <div class="cards">
 
 		<div class="card">
-        <a href="/files/resources/gogreensg-2024-partners-package.pdf" target="_blank">  
+        <a href="/resources/gogreensg-2024-partners-package.pdf" target="_blank">  
             <div class="card-content">
             <h5>Go Green SG 2024 Partners Package</h5>
             </div>
