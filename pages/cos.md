@@ -146,7 +146,7 @@ input:checked + label + .accordion-content {
 
 <div>
 <center>	  
-	  <a class="button" href="/resource-room/category/2023-03-02-media-release-cos-mse-2023" target="_blank">Press Release</a>&nbsp;
+	  <a class="button" href="/resource-room/category/2024-03-04-media-release-cos2024" target="_blank">Press Release</a>&nbsp;
 	  <a class="button" href="/news/committee-of-supply/" target="_blank">Speeches</a>&nbsp; 
 	  <a class="button" href="/resources/COS2024-infographic.pdf" target="_blank">Infographics</a>&nbsp;
 </center>
