@@ -215,7 +215,7 @@ input:checked + label + .accordion-content {
 	</ul>
 	</div>
  
- 	<input type="checkbox" id="cctitle4"  /><label for="cctitle3">Improving our Resource Sustainability</label>
+ 	<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Improving our Resource Sustainability</label>
 	<div class="accordion-content">
 	<p><b>Supporting businesses in building waste management competencies</b></p>
 	<ul>
@@ -227,7 +227,7 @@ input:checked + label + .accordion-content {
 	</ul>
 	</div>
  
-  	<input type="checkbox" id="cctitle3"  /><label for="cctitle4">Strengthening Climate Resilience</label>
+  	<input type="checkbox" id="cctitle4"  /><label for="cctitle4">Strengthening Climate Resilience</label>
 	<div class="accordion-content">
       	<p><b>Protecting our coasts</b></p>
 	<ul>
