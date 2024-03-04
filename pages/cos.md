@@ -148,7 +148,7 @@ input:checked + label + .accordion-content {
 <center>	  
 	  <a class="button" href="/resource-room/category/2023-03-02-media-release-cos-mse-2023" target="_blank">Press Release</a>&nbsp;
 	  <a class="button" href="/news/committee-of-supply/" target="_blank">Speeches</a>&nbsp; 
-	  <a class="button" href="/files/20230302-COS-infogfx.pdf" target="_blank">Infographics</a>&nbsp;
+	  <a class="button" href="/resources/COS2024-infographic.pdf" target="_blank">Infographics</a>&nbsp;
 </center>
 </div>
 
@@ -163,32 +163,40 @@ input:checked + label + .accordion-content {
       <ul>
 	 <li>Increase frequency, scale and visibility of enforcement blitzes</li>
          <li>Four-fold increase in CCTV deployment to enhance deterrence and facilitate enforcement against offenders</li>
-         <li>Selectively publicise acts of littering in community spaces to seek public assistance to identify offenders</li>
         </ul>
 	<p><b>Tackling unhygienic public toilets</b></p>
   	<ul>
-	 <li>Public Toilets Taskforce to develop and pilot solutions to improve cleanliness of public toilets</li>
+	 <li>Public Toilets Taskforce to develop solutions and galvanise collective action to improve cleanliness</li>
 	 <li>Enhance enforcement on dirty public toilets</li>
       </ul>
 	<p><b>Enhancing vector control</b></p>
   	<ul>
 	 <li>Pilot thermal technology to improve rat surveillance</li>
+  	 <li>Expansion of Project Wolbachia-Singapore to 5 additional sites - bringing total coverage to 35% of all households</li>
 	 <li>Step up enforcement of poor waste management at food premises and bin centres</li>
       </ul>
-	<p><b>Enhancing industry capability & leveraging technology</b></p>
+	<p><b>Improving indoor air quality to safeguard public health</b></p>
   	<ul>
-	 <li>Opening of industry-led Enviro Tech Innovation Hub (EITH@TP) to advance sustainable cleaning and support the cleaning workforce</li>
-	 <li>Explore the use of artificial intelligence-powered video analytics to detect cleaning gaps more quickly</li>
-      </ul>
-	<p><b>Rallying the community</b></p>
+	 <li>Introduce formaldehyde limits for interior paints</li>
+	</ul>
+	<p><b>Protecting our supply of clean water</b></p>
   	<ul>
-	 <li>Encourage everyone to play their part through campaigns such as "Keep Singapore Clean"</li>
-	 <li>Expand Community Auditor Programme to audit performance of cleaning service providers at private housing estates</li>
-      </ul>
+	 <li>Introduce measures to further deter silt discharges into our waterways and reservoirs, and illegal discharge of harmful substances into our public sewerage system</li>
+	</ul>
 	<p><b>Fostering joint food safety responsibility with industry</b></p>
   	<ul>
 	 <li>Refine food safety grading system to recognise food establishments with good track record of food safety and food safety management systems</li>
 	 <li>Remove the need for licences for market stalls selling non-food and low-risk food items and vending machines selling pre-packed food</li>
+      </ul>
+      <p><b>Enhancing industry capability & leveraging technology</b></p>
+  	<ul>
+	 <li>Opening of industry-led Enviro Tech Innovation Hub (EITH@TP) to advance sustainable cleaning and support our cleaning workforce</li>
+	 <li>Explore the use of artificial intelligence-powered video analytics to detect cleaning gaps more quickly</li>
+      </ul>
+      <p><b>Rallying the community</b></p>
+  	<ul>
+	 <li>Encourage everyone to play their part through campaigns such as "Keep Singapore Clean" and "Go Green SG"</li>
+	 <li>Expand Community Auditor Programme to audit performance of cleaning service providers at private housing estates</li>
       </ul>
       	</div>
 	
@@ -197,26 +205,17 @@ input:checked + label + .accordion-content {
 	<p><b>Supporting households and businesses to be more resource efficient</b></p>
 	 <ul>
 	  <li>Enhancement of Climate Friendly Households Programme to encourage all HDB households to switch to energy and water efficient household appliances</li>
-          <li>Extension of energy labelling scheme to household water heaters and commercial storage refrigerators to help households and businesses make informed energy efficient choices</li>
+          <li>Expansion of energy labelling scheme to household water heaters and commercial storage refrigerators to help households and businesses make informed energy efficient choices</li>
      	  <li>A more streamlined Energy Efficiency Grant for businesses</li>
 	</ul>
 	<p><b>Greening the public sector's procurement policies</b></p>
 	<ul>
-	 <li>Tender evaluation points to be set aside for environmental sustainability for Government events from FY2025</li>
+	 <li>Expand scope of tender evaluation points for sustainability to MICE events</li>
+  	 <li>Inclusion of waste data in future GreenGov.SG reports</li>
 	</ul>
 	</div>
  
-  	<input type="checkbox" id="cctitle3"  /><label for="cctitle3">Strengthening Climate Resilience</label>
-	<div class="accordion-content">
-      	<p><b>Protecting our coasts</b></p>
-	<ul>
-	 <li>Propose new legislation and Code of Practice to support coastal protection measures</li>
-      	 <li>Conduct site-specific studies at City-East Coast, North-west Coast and Jurong Island to better understand Singapore's coastlines</li>
-      	 <li>Continue to engage stakeholders on coastal protection efforts, including for Long Island</li>
-	</ul>
-	</div>
- 
-	<input type="checkbox" id="cctitle4"  /><label for="cctitle4">Improving our Resource Sustainability</label>
+ 	<input type="checkbox" id="cctitle4"  /><label for="cctitle3">Improving our Resource Sustainability</label>
 	<div class="accordion-content">
 	<p><b>Supporting businesses in building waste management competencies</b></p>
 	<ul>
@@ -224,7 +223,17 @@ input:checked + label + .accordion-content {
         </ul>	
 	<p><b>Reducing packaging waste</b></p>
 	<ul>
-          <li>Commence study to explore feasibility of expanding the Extended Producer Responsibility approach to cover more types of packaging waste beyond beverage containers</li>
+          <li>Commence study to explore feasibility of expanding the Extended Producer Responsibility approach to cover more types of packaging waste, beyond beverage containers</li>
+	</ul>
+	</div>
+ 
+  	<input type="checkbox" id="cctitle3"  /><label for="cctitle4">Strengthening Climate Resilience</label>
+	<div class="accordion-content">
+      	<p><b>Protecting our coasts</b></p>
+	<ul>
+	 <li>Propose new legislation and Code of Practice to support coastal protection measures</li>
+      	 <li>Conduct site-specific studies at City-East Coast, North-West Coast and Jurong Island to better understand Singapore's coastlines</li>
+      	 <li>Continue to engage stakeholders on coastal protection efforts, including for Long Island</li>
 	</ul>
 	</div>
 		
