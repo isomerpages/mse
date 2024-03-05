@@ -1,6 +1,6 @@
 ---  
 title: Speech by Senior Parliamentary Secretary Baey Yam Keng - Keeping Singapore clean and safe, and enabling community action
-permalink: /resource-room/category/2024-03-04-speech-by-sps-baey-yam-keng-at-cos-2024.md
+permalink: /resource-room/category/2024-03-04-speech-by-sps-baey-yam-keng-at-cos-2024
 image:
 file_url: 
 description:
