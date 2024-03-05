@@ -1,10 +1,10 @@
----  
+---
 title: Speech by Minister Grace Fu - A Clean, Green and Resilient Singapore for All
-permalink: /resource-room/category/2024-03-04-speech-by-minister-grace-fu-at-cos-2024.md
+permalink: /resource-room/category/2024-03-04-speech-by-minister-grace-fu-at-cos-2024
 image:
 file_url: 
 description:
---- 
+---
 
 #### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at Ministry of Sustainability and the Environment's Committtee of Supply (COS) Debate 2024, 4 March 2024
 

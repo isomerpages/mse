@@ -1,6 +1,6 @@
 ---  
 title: Speech by Senior Minister of State Dr Koh Poh Koon - Strengthening our Climate Resilience
-permalink: /resource-room/category/2024-03-04-speech-by-sms-dr-koh-poh-koon-at-cos-2024.md
+permalink: /resource-room/category/2024-03-04-speech-by-sms-dr-koh-poh-koon-at-cos-2024
 image:
 file_url: 
 description:
