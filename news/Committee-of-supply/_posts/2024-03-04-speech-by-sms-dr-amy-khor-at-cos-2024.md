@@ -1,6 +1,6 @@
 ---  
 title: Speech by Senior Minister of State Dr Amy Khor - Pressing on Towards Net Zero
-permalink: /resource-room/category/2024-03-04-speech-by-sms-dr-amy-khor-at-cos-2024.md
+permalink: /resource-room/category/2024-03-04-speech-by-sms-dr-amy-khor-at-cos-2024
 image:
 file_url: 
 description:
