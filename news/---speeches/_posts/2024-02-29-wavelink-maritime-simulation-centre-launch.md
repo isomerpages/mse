@@ -5,7 +5,7 @@ image:
 file_url:  
 description:  
 ---
-#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations, at the Advancing Maritime Resilience - No One Is Left Behind Seminar and Wavelink Maritime Simulation Centre Launch on 9 March 2024
+#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations, at the Advancing Maritime Resilience - No One Is Left Behind Seminar and Wavelink Maritime Simulation Centre Launch on 29 February 2024
 
 Brother Rahim Jaffar, President, Singapore Maritime Officers’ Union (SMOU),
 
