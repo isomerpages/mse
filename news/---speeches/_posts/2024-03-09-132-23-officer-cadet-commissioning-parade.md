@@ -1,6 +1,6 @@
 ---  
 title: 132/23 Officer Cadet Commissioning Parade - Ms Grace Fu
-permalink: /resource-room/category/2024-03-09-132-23-officer-cadet-commssioning-parade
+permalink: /resource-room/category/2024-03-09-132-23-officer-cadet-commissioning-parade
 image:  
 file_url:  
 description:  
