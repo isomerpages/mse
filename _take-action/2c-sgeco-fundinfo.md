@@ -96,7 +96,7 @@ input:checked + label + .accordion-content {
         </tbody>
         </table>
 	<div>
-	<br><h5>Download <a href="/files/sgecofund/SGEcoFund_Awarded_Projects_25_Nov_2022.pdf">list of SG Eco Fund’s supported projects</a>.</h5>
+	<br><h5>Download <a href="/files/sgecofund/SGEF-GC1-4-Sprout2-awarded-projects-public.pdf">list of SG Eco Fund’s supported projects</a>.</h5>
 	</div>
 	</div>
 </div>

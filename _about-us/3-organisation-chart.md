@@ -3,7 +3,7 @@ title: Organisation Chart & Divisions
 permalink: /about-us/organisation-chart/
 ---
 
-<img src="/images/MSE-Org-Chart-1-Feb-2024.jpg" alt="org chart">
+<img src="/images/MSE-Org-Chart-1-Mar-2024.jpg" alt="org chart">
 
 
 
