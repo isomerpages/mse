@@ -1,6 +1,6 @@
 ---  
 title: Appointment of New Chief Executive Officer for the Singapore Food Agency  
-permalink: /resource-room/category/2023-02-17-press-release-appointment-of-new-ceo-sfa
+permalink: /resource-room/category/2023-03-25-press-release-appointment-of-new-ceo-sfa
 image:  
 file_url:  
 description: Appointment of New Chief Executive Officer for the Singapore Food Agency 
