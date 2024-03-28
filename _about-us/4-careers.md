@@ -13,7 +13,7 @@ MSE's work has a direct impact on the living standards of all Singaporeans. Our 
 
 Do you have the desire to make a difference in ensuring sustainable development for Singapore and that we can all continue to enjoy clean air, clean water and clean land now and for future generations? If you do, come join MSE!
 
-To view our current job openings, kindly visit [Careers@Gov](http://www.careers.gov.sg/).  
+To view our current job openings, kindly visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).  
 
 ### INTERNSHIPS  
 
