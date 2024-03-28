@@ -91,19 +91,19 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Safe Food For All</label>
 	<div class="accordion-content">
-		<p>As the national agency for food safety, SFA has in place an integrated food safety system from farm-to-fork to ensure that food sold in Singapore is safe for consumption. SFA adopts a science-based risk assessment and management approach to food safety, and sets food safety standards that are aligned  with international standards. SFA has put in place regulatory levers along the food supply chain like licensing, inspection, sampling, testing and enforcement.</p>
+		<p>As the national agency for food safety, SFA has in place an integrated food safety system from farm-to-fork to ensure that food sold in Singapore is safe for consumption. SFA adopts a science-based risk assessment and management approach to food safety, and sets food safety standards that are aligned  with international standards. SFA has in place regulatory levers along the food supply chain including licensing, inspection, sampling, testing and enforcement.</p>
 		<ul>
-			<li><p>Overseas Imports – Food importers are licensed by SFA, and are required to apply for import permits for each consignment of food imported into Singapore. For high-risk food items like livestock, meat and egg items that can carry diseases that can be transmitted to people, SFA conducts accreditation at source to ensure that the imports meet food safety and animal health import requirements.</p>
+			<li><p>Overseas sources and imports – Food importers are licensed by SFA, and are required to apply for import permits for each consignment of food imported into Singapore. For high-risk food items like livestock, meat and eggs that can carry diseases that can be transmitted to people, SFA conducts accreditation at source to ensure that the imports meet food safety and animal health requirements.</p>
 			</li>
 			<li><p>Local farms and food establishments – SFA licenses farms and food establishments in Singapore, including slaughterhouses, food processing/manufacturing establishments, as well as various food retail establishments such as hawker and market stalls, coffeeshops, food courts, food caterers, canteens, supermarkets, mobile food wagons, cafes, and restaurants. Inspections are carried out to ensure that these establishments comply with licensing conditions and regulatory requirements.</p>
 			</li>
 		</ul>
-		<p>In the event of food safety incidents, there are response mechanisms in place to manage them too (e.g. food recalls, foodborne outbreak investigation).</p>
+		<p>In the event of food safety incidents, SFA carries out investigations and activates response measures to manage the risk to public health (e.g. food recalls, movement control directions to suspend operations or stop sale of food).</p>
 	</div>
 	<input type="checkbox" id="title2"  /><label for="title2">Food Safety is a Joint Responsibility: Role of Industry and Consumers</label>
 	<div class="accordion-content">
-		<p>As food safety is a joint responsibility, SFA works with the industry and consumers to build their capabilities and educate them on their roles in ensuring food safety. For instance, food handlers in restaurants, hawker stalls and coffee shops must attend and pass the Basic Food Hygiene Course (BFHC) before they are allowed to work.</p>
-		<p>As for consumers, SFA has made available food safety information and tips online to equip consumers with knowledge of food safety risks and good food safety practices. Examples include:</p>
+		<p>With food safety being a joint responsibility, SFA works with the industry and consumers to build their capabilities and educate them on their roles in ensuring food safety. For instance, food handlers in restaurants, hawker stalls and coffee shops must attend and pass the Food Safety Course Level 1 before they are allowed to work.</p>
+		<p>For consumers, SFA has made available food safety information and tips online to equip consumers with knowledge of food safety risks and good food safety practices. Examples include:</p>
 		<ul>
 			<li><p><a href="https://www.sfa.gov.sg/food-information/risk-at-a-glance">Risk at a glance</a></p>
 			</li>
