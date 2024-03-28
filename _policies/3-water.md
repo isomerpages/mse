@@ -52,10 +52,20 @@ input:checked + label + .accordion-content {
 
 <h1><b>Our Water Policy in a Nutshell</b></h1>
 
-<p><strong>ENSURING WATER SUPPLY FOR ALL</strong><br>	Singapore depends on four sources for its water supply – local catchment water, imported water, NEWater and desalinated water. Known as the Four National Taps, this diversified water supply strategy ensures Singaporeans of a robust supply of water for generations to come.</p>
+<p><strong>ENSURING WATER SUPPLY FOR ALL</strong><br>	Singapore depends on four sources for its water supply – water from local catchment, imported water, high-grade reclaimed water known as NEWater and desalinated water. Known as the Four National Taps, this diversified water supply strategy ensures Singaporeans of a robust supply of water for generations to come.</p>
 
-<p><strong>CONSERVING OUR WATER RESOURCES</strong><br>  As our population and economy continue to grow, we need to ensure that water demand does not rise at an unsustainable rate. We need to look at ways to manage demand and conserve our precious water resources, so that our water supply will be sustainable.</p>  
-
+<h2 id="weather-resilient-water-sources">Weather-resilient Water Sources</h2>
+<p>NEWater and desalinated water are weather-resilient water sources and will help strengthen Singapore's water security.</p>
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">NEWater</label>
+	<div class="accordion-content">
+		<p>We have successfully closed the water loop by recycling used water to become a high-grade reclaimed water known as NEWater, allowing us to reuse every drop of water endlessly. There are currently five NEWater factories in Singapore.</p>
+	</div>
+	<input type="checkbox" id="title2"  /><label for="title2">Desalination</label>
+	<div class="accordion-content">
+		<p>With improvements in membrane technology, desalination has become an economically viable option for water supply. We now have five desalination plants in operation. The fifth desalination plant, Jurong Island Desalination Plant, officially opened on 17 April 2022.</p>
+	</div>
+</div>
 
 <h2 id="our-main-plans">Our Main Plans</h2>
 <div>
