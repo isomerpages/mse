@@ -79,7 +79,7 @@ input:checked + label + .accordion-content {
 		<p><strong>Then is global warming and climate change the same?</strong></p>
 		<p>Not exactly!</p>
 		<p>The greenhouse effect occurs naturally when heat from the Earth’s surface is absorbed by greenhouse gases (GHGs) such as carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), sulphur hexafluoride (SF<sub>6</sub>), hydrofluorocarbons (HFCs) and perfluorocarbons (PFCs).</p>
-		<p>Greenhouse gases are naturally present in the air, and allow the Earth’s atmosphere to be warm enough to support life. However, human activities such as burning of fossil fuels for energy and industrial production, and clearing of forests to raise livestock, increases the amount of GHGs in the atmosphere. These additional GHGs trap even more heat in the atmosphere, making the Earth warmer. Global warming leads to long-term climate change.</p>
+		<p>Greenhouse gases are naturally present in the air. They allow the Earth’s atmosphere to be warm enough to support life. However, human activities such as burning of fossil fuels for energy and industrial production, and the clearing of forests to raise livestock, increases the amount of GHGs in the atmosphere. These additional GHGs trap even more heat in the atmosphere, making the Earth warmer. Global warming leads to long-term climate change.</p>
 		<p><strong>So what is climate change?</strong></p>
 		<p>Climate change refers to significant variations in global weather patterns that persist over an extended period of time.</p>
 		<p>Over the past 100 years, global temperatures have been increasing faster than ever before. As the Earth gets warmer, rain patterns are changing, sea levels are rising, and year after year, snow and ice are melting sooner each spring. The impact of climate change on the environment is becoming increasingly apparent as climate conditions continue to change and intensify.</p>
@@ -88,57 +88,63 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title2"  /><label for="title2">Impacts of Climate Change</label>
 	<div class="accordion-content">
 		<p>Like many countries around the world, Singapore is experiencing the effects of climate change.</p>
-		<p>In recent years, Singapore has seen bouts of high temperatures, intense thunderstorms leading to flash floods, dry spells, and the threat of rising sea levels. These can cause significant damage to homes, businesses and livelihoods globally.</p>
-		<p>As a <strong>low-lying, densely-populated tropical island city-state,</strong> we are vulnerable to the effects of climate change and variability.</p>
+		<p>In recent years, Singapore has seen bouts of high temperatures, intense thunderstorms leading to flash floods, dry spells, and the threat of rising sea levels along low-lying stretches of our coastlines, like the East Coast. These events can cause significant damage to homes, businesses and livelihoods.</p>
+		<p>As a <strong>low-lying tropical island state,</strong> we are extremely vulnerable to the effects of climate change.</p>
 		<p>Here are some examples of how Singapore is experiencing the effects of climate change.</p>
 		<h4>Warmer Weather</h4>
 		<p>2019 was our hottest year on record, alongside 2016. The annual mean temperature in 2019 was 28.4°C — 0.9°C higher than the 1981-2010 long-term average, and equalled the previous warmest year record of 28.4°C set in 2016.</p>
-		<p>Four of the past five years are among the top 10 warmest years on record with respect to annual mean temperature, since temperature records began in 1929.</p>
-		<p>Towards the end of this century (2070 to 2099), daily mean temperatures are projected to increase by 1.4°C to 4.6°C , compared with the baseline period of 1980 to 2009.</p>
+		<p>Towards the end of this century, daily mean temperatures are projected to increase by 0.6°C to 5.0°C, compared with the baseline period of 1995 to 2014.</p>
 		<h4>Dry Spell</h4>
-		<p>In 2014, Singapore experienced a record 27-day dry spell. Our desalination and NEWater plants had to operate near full capacity to meet our water needs.</p>
-		<p>In 2016, the prolonged dry period brought water levels at Linggiu Reservoir to a the historic low of 20%.</p>
+		<p>In 2014, Singapore experienced a record 27-day dry spell. Our desalination and NEWater plants had to operate near full capacity to meet our water needs.</p>					   
 		<h4>Heavy Rainfall</h4>
-		<p>In 2010, 2011 and 2013, heavy rainfall contributed to major flash flood events, resulting in significant damage.</p>
-		<p>The contrast between the wet months (Nov to Jan) and dry months (Feb and Jun to Sep) will likely become more pronounced in the future. Increasing trends in both intensity and frequency of heavy rainfall events are expected as the world gets warmer.</p>
+		<p>Heavy rainfall contributing to flash flood events have become more common.</p>
+		<p>The contrast between the wet months (Nov to Jan) and dry months (Feb and Jun to Sep) will likely become more pronounced in the future. Increasing trends in both intensity and frequency of heavy rainfall events and dry spells are expected as the world gets warmer.</p>
 		<h4>How else can climate change affect Singapore?</h4>
-		<p><strong>Our Coasts</strong></p>
-		<p>Communities and property along Singapore’s coastline could be affected by rising sea levels.</p>
-		<p>Based on today’s science, climate scientists in Singapore have projected that our mean sea levels could rise by up to around one metre by 2100. If ice sheets melt more rapidly and, worse, if ice shelves in Antarctica were to collapse, sea levels could reach one metre even earlier, or go even higher.</p>
-		<p><strong>Our Waters</strong></p>
-		<p>An increase in the intensity of weather variability could present significant challenges to the management of our water resources. Periods of drought can affect the reliability of Singapore’s water supply, while sudden episodes of intense rainfall could overwhelm our drainage system and lead to flash floods.</p>
-		<p><strong>Our Biodiversity and Greenery</strong></p>
-		<p>Trees could be damaged or uprooted due to strong winds.<br>  Biodiversity may be affected by changes in temperature and rainfall.<br>  There may be more bush fires due to temperature increase and low rainfall.</p>
-		<p><strong>Our Public Health</strong></p>
-		<p>Higher temperatures may affect human health and healthcare operations.Vector and pest populations could increase due to higher temperatures and rainfall, increasing the incidence of diseases such as dengue.</p>
+		<p><strong>Coastal and Inland Floods</strong></p>
+		<p>Climate change could cause mean sea-level rise of up to 1.15 metre by 2100 in Singapore. If there is a confluence of extreme high tides and storm surges, sea levels could rise transiently by up to 4 to 5 metres above mean sea level If there is a confluence of extreme high tides and storm surges, some projections suggest that sea levels could rise transiently by up to 4 to 5 metres above mean sea level. This is high enough to potentially flood one-third of Singapore.</p>
+		<p><strong>Our Water Supply</strong></p>
+		<p>An increase in the intensity of weather variability could present significant challenges to the management of our water resources. Episodes of intense rainfall could overwhelm our drainage system and lead to flash floods.</p>
 		<p><strong>Our Food Supply</strong></p>
 		<p>The effects of climate change, such as intense storms, flooding and prolonged droughts, are one of the trends threatening global food security. In Singapore, we are particularly vulnerable to fluctuations in global food supply and prices, as we import more than 90% of our food.</p>
+		<p><strong>Our Temperatures</strong></p>
+		<p>Temperatures are set to rise over time due to climate change, and rising temperatures will be compounded by the Urban Heat Island (UHI) effect, as our densely built-up environment absorbs and retains heat, and activities such as transportation and industrial works generate heat. With rising temperatures, people will feel hotter and are likely to experience greater levels of heat stress.</p>
+		<p><strong>Our Food Supply</strong></p>
+		<p>The effects of climate change, such as intense storms, flooding and prolonged droughts, are one of the trends threatening global food security. In Singapore, we are particularly vulnerable to fluctuations in global food supply and prices, as we import more than 90% of our food.</p>
+		<p><strong>Our Public Health</strong></p>
+		<p>Higher temperatures may affect human health and healthcare services. Vector populations could increase due to higher temperatures and more intense rainfall during rainy months, increasing the incidence of vector-borne diseases such as dengue and other zoonotic diseases transmitted between animals and humans.</p>
+		<p><strong>Our Biodiversity and Greenery</strong></p>
+		<p>Climate change is associated with shifts in rainfall patterns and temperature changes, which may lead to alterations at the ecosystem and species levels across various habitats of Singapore, including terrestrial, coastal and marine. Increase in frequency of extreme weather events, such as storms with heavy rainfall and strong wind, may lead to increased risk of treefalls.</p>
 		<p><strong>Our Essential Services</strong></p>
 		<p>Intense rainfall, sea level rise, and temperature changes could affect the operation of our telecommunications, power, and transport infrastructure.</p>
-		<p><strong>Our Buidlings and Infrastructure</strong></p>
-		<p>Safety and reliability of infrastructure could be impacted by strong winds and higher temperatures. Increased rainfall could lead to slope instability</p>
+		<p><strong>Our Buildings and Infrastructure</strong></p>
+		<p>Safety and reliability of infrastructure could be impacted by strong winds and higher temperatures. Increased rainfall could lead to soil erosion slope instability.</p>
 	</div>
 	<input type="checkbox" id="title3"  /><label for="title3">Climate Science</label>
 	<div class="accordion-content">
 		<p>Robust, credible and objective scientific assessments form the cornerstone of our climate change strategy.</p>
 		<p>Even as we harness science and technology, Singapore is taking a measured approach against climate change as well as developing meaningful solutions to tackle climate change problems.</p>
 		<p>For some years, we have already started research and made early investments in climate science.</p>
-		<p>Research findings have allowed us to make specific policy formulations and will give policy makers guidance on the need to protect critical infrastructure against rising sea levels and extreme events.</p>
+		<p>Research findings have allowed us to make specific policy formulations and will give policy makers guidance on the need to protect critical infrastructure against the impact of climate change.</p>
 		<h4>Evidence-based climate policies</h4>
 		<p>In 2013, we had established the Centre for Climate Research Singapore (CCRS) under the Meteorological Service Singapore (MSS). CCRS is one of the few dedicated centres in the region that focuses on research in tropical weather and climate.</p>
-		<p>Climate science, where it is developed specifically for the tropics, is a new and complex area of research. CCRS develops research expertise in the weather and climate of Singapore and the wider Southeast Asia region. It also undertakes projections of Singapore’s future climate for long-term planning, as well as researches the characteristics and causes of extreme weather.</p>
+		<p>Climate science, where it is developed specifically for the tropics, is a new and complex area of research. CCRS develops research expertise in the weather and climate of Singapore and the wider Southeast Asia region. It also undertakes projections of Singapore’s future climate for long-term planning, as well as research into the characteristics and causes of extreme weather.</p>
 		<p>It has since grown to be one of our region’s most advanced tropical climate research centres.</p>
-		<p>We are expanding CCRS and will set up a new Programme Office in CCRS this year. The Programme Office will <strong>drive the formulation and implementation of our national climate science research masterplan</strong> and systematically <strong>build up our climate science capabilities</strong> in Singapore. CCRS and our research institutes and universities, together, will pursue cutting-edge, inter-disciplinary climate science research. The research will focus on key areas with significant impact on Singapore, including: sea level rise; the impact of climate change on our water resources; and the impact of warming trends on human health and the energy sector.</p>
-		<p>The Programme Office will oversee the recently-launched <strong>National Sea Level Programme.</strong> This $10 million Programme will, over the next five years, fund pioneering proposals and collaborations, to help us better understand long-term sea level rise and its variability, regional patterns, and extreme weather events.</p>
+		<p>Most recently in 2024, CCRS has released the results of Singapore’s Third National Climate Change Study (V3), which provides the world’s highest resolution climate projections for Singapore and Southeast Asia. These updated projections will be used to guide climate adaptation plans so that Singapore remains resilient.</p>
+		<p>CCRS also administers research programmes through the Climate Science Research Programme Office to carry out climate impact science research, which will inform the government’s climate adaptation strategies. There are two research programmes, which fund projects from our universities and research institutes.</p>
+		<p>•	First, the National Sea Level Programme aims to coordinate relevant climate research in Singapore and address key knowledge gaps in the understanding and modelling of the physical mechanisms of sea level rise and variability, with specific focus on Singapore and the wider Southeast Asia region.</p>
+		<p>•	Second, the Climate Impact Science Research Programme focuses on five key priority areas to better understand the long-term impact of climate change on Singapore. They are sea level rise; water resources and flood management; biodiversity and food security; human health and energy; and cross-cutting research to bridge science-policy translation.</p>
 		<h4>Singapore’s Contribution to the Development of Climate Science</h4>
-		<p>Singapore hosted a Scoping Meeting of the Intergovernmental Panel on Climate Change (IPCC) in Singapore in October 2019, together with a meeting of the IPCC Bureau, one of the highest decision-making bodies in the IPCC.</p>
-		<p>This Scoping Meeting is an important session that will lay the foundation for drafting the next Synthesis Report of the Sixth Assessment Report (AR6).</p>
-		<p>Climate science tailored to the tropics is still a nascent area of research. Through our efforts, we hope to work more closely with the IPCC to further strengthen and advance the understanding of tropical climates. We will share our knowledge and expertise with countries in our region and work with them to enhance capacity to tackle climate change.</p>
+		<p>Professor Winston Chow from Singapore Management University is elected as Co-Chair for Working Group II (WGII) on Impacts, Adaptation and Vulnerability of the Intergovernmental Panel on Climate Change (IPCC)’s Seventh Assessment Report Cycle (AR7) Bureau. He works closely with fellow Co-Chair Professor Bart van den Hurk from the Netherlands.</p>
+		<p>Professor Chow is Singapore’s first elected Bureau member of the IPCC, the UN body for assessing the science related to climate change. The work of the IPCC AR7 will guide global climate action for the rest of this decade.</p>
+		<p>Singapore is supporting the Singapore branch of the WGII Technical Support Unit (TSU), which provides scientific, technical, operational and communications support that underpin and implement the WGII assessment process.</p>
+		<p>Singapore also hosted an IPCC Scoping Meetingvin October 2019, together with a meeting of the IPCC Bureau.</p>
+		<p>This Scoping Meeting laid the foundation for drafting the Synthesis Report of the Sixth Assessment Report Cycle (AR6).</p>
+		<p>Climate science tailored to the tropics is still a nascent area of research. Through our efforts, we hope to continue working more closely with the IPCC to further strengthen and advance the understanding of tropical climates. We will share our knowledge and expertise with countries in our region and work with them to enhance capacity to tackle climate change.</p>
 	</div>
 </div>
 
-<h3>Our Game Plan</h3>
-<p>Responding to climate change involves two approaches:</p>
+<h3>Our Climate Change Strategy</h3>
+<p>Tackling climate change involves two approaches:</p>
 <ul>
 	<li>Reducing the levels of greenhouse gases in the atmosphere <strong>(“mitigation”)</strong> as well as</li>
 	<li>Adapting to the effects of climate change that is already happening <strong>(“adaptation”).</strong></li>
@@ -188,43 +194,51 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p>Even with the best efforts to limit the rise in global temperatures, countries are taking adaptation measures to reduce the damaging impact of climate change and increase their resilience to potential future effects.</p>
 		<p>Singapore is no different.</p>
-		<p>As a small low-lying island-state, we need to take the impact of climate change very seriously, and invest in resilient infrastructure to safeguard ourselves and our future.</p>
-		<p><strong>Protecting our coasts from sea level rise</strong></p>
-		<p>As an island-state and a major port city, Singapore is defined by our coasts. To protect these areas, we have strengthened our defences against coastal erosion and flooding. Today, over 70% of Singapore’s coastline is protected with hard structures such as seawalls and rock slopes.</p>
-		<p>We expect to invest S$100 billion, or even more, in coastal defences such as sea walls, pumping stations and land reclamation.</p>
-		<p>We are also making plans for coastal defences to better protect our coastal areas, starting with the more critical segments, in particular, City-East Coast and Jurong Island.</p>
-		<p>PUB has planned to build a second pump house on the opposite end of the Marina Barrage to pump water out of Marina Reservoir into the sea. When rain falls in the city area, the water can then drain into Marina Reservoir.</p>
-		<p>For the eastern coastline, some of the options we are considering include the building of polders (which is land reclaimed from the sea) or reclaiming a series of islands offshore, from Marina East all the way to Changi.</p>
-		<p>Our plan will also incorporate nature-based solutions such as active restoration of our mangrove areas.</p>
+		<p>As a low-lying tropical island-state, we need to take the impact of climate change very seriously, and invest in resilient infrastructure to safeguard ourselves and our future.</p>
+		<p><strong>Enhancing Flood and Coastal Resilience</strong></p>
+		<p>Given the magnitude and time-sensitivity of the threat posed by sea level rise to a low-lying small island state like Singapore, we are developing a resilience framework and have begun to plan and implement adaptation measures in a coordinated and coherent manner.</p>
+		<p>We are already making plans for coastal defences to better protect our coastal areas, by studying Singapore’s coastlines through progressive site-specific studies (e.g. ‘Long Island’ at East Coast). Our plan will also incorporate nature-based solutions such as active restoration of our mangrove areas.</p>
+		<p>We are also strengthening flood resilience through catchment-wide solutions at the Source (e.g. building detention tanks), Pathway (e.g. widening and deepening drains and canals), and Receptor (e.g. stipulating minimum platform and crest levels).</p>
+		<p>Here are some examples of how Singapore has done.</p>
+		<p>•	Singapore has invested almost $2 billion on drainage improvement works in the last decade to boost our flood resilience. This includes the Stamford Diversion Canal and Stamford Detention Tank completed in 2018, which significantly enhanced the flood protection of the Orchard Road areas.</p>
+		<p>•	Since 1991, new coastal land had to be reclaimed to a minimum level of 3 metres above mean sea level for adequate protection of coastal areas against sea level rise. To cater for even higher long-term sea level rise, from 2011, the minimum reclamation levels for newly reclaimed land have been raised from 3 metres to 4 metres above mean sea level. Critical infrastructure such as Tuas Port and Changi Airport Terminal 5 are built at about 5 metres or more above mean sea level. As part of Singapore’s adaptation strategy, land reclamation seeks to protect our coasts and infrastructure from the existential threat of climate change and sea level rise, while creating more land for housing and other needs. This is similar to other countries, including small island states, where land reclamation has been adopted as a key coastal protection measure.</p>
+		<p>•	To protect our commuters and rail infrastructure against flooding, our MRT station entrances and all other ingress points for our underground MRT infrastructure are designed to meet the minimum platform and crest levels. </p>
+		<p>Beyond infrastructural improvements, we are addressing flood risks holistically through modelling and research. The Coastal Inland Flood Model will be used to simulate flood events under the combined effects of higher sea levels and intense rainfall to inform adaptation planning and operations management. We have also launched the Coastal Protection and Flood Resilience Institute (CFI) Singapore to strengthen capabilities and expertise in coastal protection and flood management. CFI Singapore will conduct research in the above areas and train a new generation of researchers and engineers to meet Singapore’s long-term needs to implement coastal protection and flood management projects.</p>
 		<p><strong>Safeguarding Key Infrastructure</strong></p>
 		<p>Since 2011, we have raised minimum reclamation levels for newly reclaimed lands to at least four metres above the mean sea level, up from three metres previously. Roads near coastal areas, including a stretch of Changi Coast Road and Nicoll Drive, have also been raised to protect them from rising sea levels.</p>
 		<p>We have also raised the minimum platform levels for new developments and are building critical future developments such as the Changi Airport Terminal 5 and Tuas Terminal mega port at higher platform levels – at least five metres above mean sea level.</p>
 		<p>Climate change could also affect our underground MRT stations as they will be susceptible to flooding during intense rainfalls. To protect our commuters and rail infrastructure, we have built MRT stations with elevated entrances or installed flood barriers.</p>
-		<p><strong>Enhancing flood resilience</strong></p>
-		<p>Since 2011, Singapore has spent $1.8 billion on drainage improvement works to boost our flood resilience. This includes the Stamford Diversion Canal and Stamford Detention Tank completed last year, which significantly enhance the flood protection of the Orchard Road areas. In the next two years, another $400 million will go towards upgrading and maintaining our drains.</p>
-		<p><strong>Ensuring water resilience</strong></p>
+		<p><strong>Ensuring Water Security</strong></p>
 		<p>We have invested in research and development, water infrastructures, and diversified Singapore’s water supply to include weather-resilient sources such as NEWater and desalinated water.</p>
-		<p><strong>Strengthening food security</strong></p>
-		<p>Singapore imports more than 90% of our food today. This makes us vulnerable to external factors, such as volatilities of the global food market, impacts of climate change, and disease outbreak.</p>
-		<p>To make our food supply more resilient, we are pursuing three strategies, also known as our three “food baskets”:</p>
+		<p><strong>Strengthening Food Resilience</strong></p>
+		<p>Singapore imports more than 90% of our food today. This makes us vulnerable to external factors, such as volatilities of the global food market, impacts of climate change, geopolitical decisions, and disease outbreaks.</p>
+		<p>To strengthen the resilience of our food suply, we adopt a multi-pronged strategy which includes:</p>
 		<ol>
-			<li>Diversify import sources;</li>
-			<li>Grow local; and</li>
-			<li>Grow overseas.</li>
+			<li>Import source diversification to reduce our reliance on any single food supply source;</li>
+			<li>Stockpiling essential food items that can meet our nutritional needs during a severe food supply disruption or emergency; and</li>
+			<li>Local production which complements import source diversification and stockpiling, to serve as a buffer in the event of a food supply disruption. We are facilitating the local agri-food industry to adopt productive, climate-resilient, and resource-efficient farming methods, which will help toand build their capability and capacity to sustainably produce 30% of Singapore’s nutritional needs by 2030.</li>
 		</ol>
-		<p>To effectively buffer against supply disruptions, we aim to produce 30% of our nutritional needs by 2030.</p>
-		<p><strong>Investing in research to guide adaptation planning</strong></p>
-		<p>The Centre for Climate Research Singapore will launch a S$10 million National Sea Level Research Programme over the next five years to develop more robust projections of sea level rise. A new Climate Science Research Programme Office will also be set up to formulate, lead and drive efforts to build up climate science capabilities in Singapore.</p>
-		<p><strong>Protecting Biodiversity and Greenery</strong></p>
-		<p>Our trees are an essential part of Singapore’s landscape. But some trees are especially tall and certain species are fragile. This makes them likely to fall or be uprooted in strong gales or periods of heavy rain.</p>
-		<p>To ensure that our trees are in good health and resilient to climate change, the National Parks Board (NParks) inspects trees along major roads and areas with high human activity at least once a year. If needed, trees are pruned to reduce the size and weight of their crowns so they can better withstand strong winds. Storm-vulnerable trees have also been replaced with hardier species. NParks also studies tree uprooting to better diagnose its causes.</p>
-		<p>To protect Singapore’s marine biodiversity, NParks established Singapore’s first marine park at the Sisters’ Islands in 2014. The marine park is an ecosystem inhabited by rare and endangered marine animals. Other measures to protect Singapore’s biodiversity include restoring mangrove areas in Singapore.</p>
-		<p><strong>Protecting Public Health</strong></p>
-		<p>Climate change also poses threats to our health. For example, changes in the weather pattern, such as temperature increase, could create prime conditions for mosquitoes to breed and viruses to replicate faster, leading to an increase in the infective vector population and transmission of dengue. We have already seen similar trends in late 2015, when there was a spike in dengue cases partly due to weather changes caused by the El Niño.</p>
+		<p><strong>Building Heat Resilience</strong></p>
+		<p>We adopt a science-based and proactive heat resilience strategy, which has three prongs:</p>
+		<p>1.	Implementing national-level cooling strategies to benefit all segments of our society.</p>
+		<p>This includes strategies to cool our urban environment through urban planning, greenery and cool materials, and reducing the amount of waste heat generated by increasing the energy efficiency of industrial, commercial, and residential buildings.</p>
+		<p>2.	Strengthening the community’s resilience, especially among more vulnerable population segments.</p>
+		<p>We are empowering the community to cope with a warming world, including by launching the <a href="https://www.nea.gov.sg/media/news/news/index/new-heat-stress-advisory-launched-to-guide-public-on-minimising-risk-of-heat-related-illnesses">Heat Stress Advisory</a> to guide the public on ways to minimise the risk of heat stress.</p>
+		<p>3.	Deepening our scientific understanding of the impact of rising temperatures.</p>
+		<p>CCRS has released the results of Singapore’s Third National Climate Change Study (V3), which provides the world’s highest resolution climate projections for Singapore and Southeast Asia, including for heat. These updated projections will be used to guide climate adaptation plans so that Singapore remains resilient.</p>
+		<p>We continue to invest in heat resilience research and development. We are undertaking environmental modelling and simulation to better understand the contributors to heat and assess effectiveness of cooling strategies, as well as studying the impacts of rising heat on human health and other conditions.</p>
+		<p><strong>Safeguarding Public Health</strong></p>
+		<p>Climate change also poses threats to our health. For example, changes in the weather pattern, such as temperature increase, could create prime conditions for mosquitoes to breed and viruses to replicate faster, leading to an increase in the infective vector population and transmission of dengue.</p>
 		<p>Currently, the National Environment Agency (NEA) has in place a nation-wide programme to fight dengue – but we will need to do more as we prepare for harsher conditions in the future. While innovative solutions such as Wolbachia technology could help to suppress the mosquito population, sustained efforts by the community to eradicate mosquito breeding habitats remain key to preventing dengue.</p>
-		<p><strong>Enhancing our Built Environment</strong></p>
-		<p>It is essential for the buildings we live and work in to be protected from the effects of climate change. Analyses so far have indicated that the structural integrity of buildings in Singapore will not be affected by the projected changes in temperature, rainfall, and wind speeds as long as the buildings adhere to building codes and are properly maintained. As many buildings in Singapore are constructed and maintained by private developers and owners, the private sector plays an indispensable role in helping us keep our buildings safe. BCA and the Housing & Development Board (HDB) are conducting additional studies to further understand the potential effects of higher temperatures, rainfall, and wind speeds on buildings and building attachments, to recommend adaptation measures to enhance the resilience of our buildings.</p>
-		<p>The Green Mark Scheme is the Building and Construction Authority’s (BCA) green building rating system, tailored for the tropics and sub-tropics. It evaluates and sets benchmarks for environmental sustainability in buildings. To enhance current efforts to green existing buildings, BCA and Singapore Green Building Council (SGBC) have collaborated to develop the Zero Capital Partnership scheme, which provides a “zero capital” solution for building owners to carry out energy efficiency retrofits for buildings. These efforts will contribute to Singapore’s aim of making 80% of all buildings green by 2030.</p>
+		<p>Additionally, we are also enhancing our biosurveillance programmes through a multi-disciplinary approach involving various OneHealth agencies - Ministry of Health (MOH), NEA, National Parks Board (NParks), Singapore Food Agency (SFA), and PUB, Singapore’s National Water Agency, to safeguard Singapore against climate-sensitive vector-borne and other zoonotic disease threats. For example, agencies scan and jointly assess globally emerging public health threats at the human-animal-environment interface e.g. avian influenza.</p>
+		<p><strong>Protecting Biodiversity and Greenery</strong></p>
+		<p>Our trees are an essential part of Singapore’s landscape. To this end, NParks is transforming Singapore into a City in Nature by conserving and extending our natural capital island-wide, such as by planting one million more trees across Singapore between 2020 and 2030.</p>
+		<p>To ensure that our trees are in good health and resilient to climate change, NParks is leveraging technology to inspect and monitor the stability of trees along major roads and areas with high human . If needed, trees are pruned to reduce the size and weight of their crowns so they can better withstand windstorm events. NParks is progressively replacing storm-vulnerable trees with sturdier species and planting more drought-resistant species that can tolerate erratic weather conditions. NParks also studies how climate change has affected the resilience of urban trees in Singapore.</p>
+		<p>NParks is also implementing habitat restoration and species recovery plans to strengthen the conservation of native plant and animal species, which helps to ensure that our ecosystems remain resilient in the face of climate change. For example, to protect Singapore’s marine biodiversity, NParks established Singapore’s first marine park at the Sisters’ Islands in 2014. The park is an ecosystem inhabited by rare and endangered marine animals. Other measures to protect Singapore’s biodiversity include restoring mangrove areas in Singapore.</p>
+		<p><strong>Maintaining Infrastructure Resilience</strong></p>
+		<p>It is essential for the buildings we live and work in to be protected from the effects of climate change. Analyses so far have indicated that the structural integrity of buildings in Singapore will not be affected by the projected changes in temperature, rainfall, and wind speeds as long as the buildings that are designed and constructed adhere to building codes and are properly maintained. As many buildings in Singapore are constructed and maintained by private developers and owners, the private sector plays an indispensable role in helping us keep our buildings safe.</p>
+		<p>The Building and Construction Authority (BCA) and the Housing & Development Board (HDB) are conducting additional studies to further understand the potential effects of higher temperatures, rainfall, and wind speeds on buildings and building attachments, to recommend adaptation measures to enhance the resilience of our buildings.</p>
+		<p>The Green Mark Scheme is the Building and Construction Authority’s (BCA) green building rating system, tailored for the tropics and subtropics. It evaluates and sets benchmarks for environmental sustainability in buildings. To enhance current efforts to green existing buildings, BCA and Singapore Green Building Council (SGBC) have collaborated to develop the Zero Capital Partnership scheme, which provides a “zero capital” solution for building owners to carry out energy efficiency retrofits for buildings. These efforts will contribute to Singapore’s aim of making 80% of all buildings green by 2030.</p>
 	</div>
 	<div>
 
