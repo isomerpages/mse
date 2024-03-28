@@ -88,7 +88,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title5"  /><label for="title5">Our Efforts</label>
 	<div class="accordion-content">
 		<p>Through careful planning and innovation, we have been able to build a robust, diversified and sustainable supply of water over the decades with our Four National Taps: <br>1) water from local catchment,<br>2) imported water, <br> 3) high-grade reclaimed water known as NEWater and <br>4) desalinated water.</p>
-		<p>Water demand is expected to almost double by 2065. To meet this growing need, we have to continue planning ahead, innovating and investing in research and development of more efficient water treatment processes to ensure the long-term sustainability of our water resources.
+		<p>Water demand is expected to almost double by 2065. To meet this growing need, we have to continue planning ahead, innovating and investing in research and development of more efficient water treatment processes to ensure the long-term sustainability of our water resources.</p>
 	</div>
 </div>
 
@@ -179,7 +179,7 @@ input:checked + label + .accordion-content {
 		<p><em>Desalinated Water is Costly</em></p>
 		<p>Although desalinated water is weather-resilient, it remains an energy-intensive source of water.</p>
 	</div>
-	<input type="checkbox" id="title18"  /><label for="title18">Our Efforts: Technology Provides Solution</label>
+	<input type="checkbox" id="title18"  /><label for="title18">Our Efforts:</label>
 	<div class="accordion-content">
 		<p><em>Technology Provides Solution</em></p>
 		<p>We continue to invest in research and development to reduce the energy consumption of desalination to ensure the sustainability of desalinated water. These include technologies such as electrodeionisation and biomimicry with the goal of halving the current energy requirement. </p>
@@ -188,56 +188,59 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
-<a id="beach-water-quality"></a>
+<a id="encouraging-water-conservation"></a>
 
-<h2>Our Beach Water Quality</h2>
+<h2>Encouraging Water Conservation</h2>
+<p>As our population and economy continue to grow, we need to manage our water demand and conserve our precious water resources.</p>
 <div>
-	<input type="checkbox" id="title20"  /><label for="title20">Beach Water can be Harmful</label>
+	<input type="checkbox" id="title19"  /><label for="title19">The Challenge: Taking Water for Granted</label>
 	<div class="accordion-content">
-		<p>Beach water is vulnerable to contamination from pollutants. During water activities at the beach, we will come into contact with seawater and may ingest it accidentally. Should the water quality be poor or contaminated this may lead to gastrointestinal and respiratory illness.</p>
+		<p><em>Increasing Demand and Climate Change</em></p>
+		<p>Singapore consumes about 440 million gallons of water per day, and the total water demand is expected to almost double by 2065 as a result of projected increases in industrial activity and population growth. Coupled with the uncertainty of weather patterns in the face of climate change, we must do all we can to ensure the sustainability of our water resources.</p>
+		<p><em>Wasteful Habits </em></p>
+		<p>In Singapore, we are fortunate to have easy access to clean water. However, this also makes it easy for us to use more water than we really need. When clean water comes at the turn of a tap, it is easy to take water for granted and waste this precious resource without noticing.</p>
+		<p><em>Unrepaired Leaks</em></p>
+		<p>Water wastage from pipes or water appliances often goes unnoticed. Loose tap fittings, malfunctioning toilet cisterns and leaking water pipes can all lead to a huge waste of water.</p>
+		<p>For instance, a typical leak from a kitchen can amount to 10,000 litres per year, which is over 6,600 large bottles.</p>
 	</div>
-	<input type="checkbox" id="title21"  /><label for="title21">The Challenge: Many Factors Affect the Quality of Beach Water</label>
+	<input type="checkbox" id="title20"  /><label for="title20">Our Efforts:</label>
 	<div class="accordion-content">
-		<p>Many sources of pollution to monitor: Minor leakage from older sewers, Sea Animals and Discharges from moored vessels</p>
-		<p><em>Changing Tides Present Different Challenges</em></p>
-		<p>While our beaches are cleaned regularly, changing tidal conditions make the task more challenging. During the north-east and south-west monsoons, more floating refuse and debris is washed ashore from the open sea. This requires greater effort in removal.</p>
-		<p><em>Beach Goers Must Play Their Part</em></p>
-		<p>While beach goers enjoy their time at the beach, they should take care not to leave rubbish behind when they leave, which could contribute to the pollution of beach water.</p>
-	</div>
-	<input type="checkbox" id="title22"  /><label for="title22">Our Efforts: Setting Standards, Monitoring and Cleaning Up</label>
-	<div class="accordion-content">
-		<p>Water samples are collected and tested by NEA weekly at monitored recreational beaches. These tests help ensure that our beach water quality meets our recreational water quality guidelines.</p>
-		<p>Singapore's recreational water quality guidelines are adopted from World Health Organisation guidelines for Safe Recreational Waters. The local guidelines were established in 2008 after a careful study of the WHO guidelines, analysis of data gathered over a few years, and consultation and collaboration with other relevant agencies.</p>
-		<p>NEA also has regular cleaning regimes for our beaches.</p>
-		<p><em>High Standards Upheld</em></p>
-		<p>For the past few years, five out of six recreational beaches monitored by NEA were assessed to be suitable for primary contact activities such as swimming and wakeboarding.</p>
-		<p>The water quality at Pasir Ris beach did not meet the recreational water guidelines in the past but has since improved in 2011 to achieve the 'Good' standard.</p>
-		<p>Since 27 Jan 2012, Pasir Ris beach has joined five other popular recreational beaches where the water quality is suitable for beach goers and water activities.</p>
+		<p>Reduction in Water Consumption</p>
+		<p>Through our long-term efforts in water conservation, Singapore's household water consumption dropped steadily from 165 litres per capita per day (LPCD) in 2003 to 141 LPCD in 2019.</p>
+		<p>Household water consumption increased sharply during the COVID-19 pandemic - 154 LPCD in 2020 and 158 LPCD in 2021. This was a result of people spending more time at home due to safe management measures and work-from-home arrangements, and an increased emphasis on hygiene.</p>
+		<p>The household water consumption returned to pre-pandemic levels of 141 LCPD in 2023, following the relaxation of COVID-19 safe management measures and resumption of business activities. We will continue our efforts to encourage water conservation.
+		<p><em>Water Conservation Education and Outreach</em></p>
+		<p>PUB engages in community outreach efforts to raise awareness. These include the annual water conservation campaign to reinforce the importance of water conservation, and Singapore World Water Day celebration in the month of March to rally the community and drive continued awareness on the importance of water conservation and sustainability, through a variety of community and ground-up events.</p>
+		<p><em>Preventing and Detecting Leaks</em></p>
+		<p>PUB replaces ageing water mains and pipes over the years to minimise leaks. Regular checks are also conducted on water meter readingfs, and on water mains and pipes using technologies such as leak monitoring sensors and inline pipe inspection tools, to detect leaks.</p>
+		<p><em>Pricing Water to Reflect Its True Value</em></p>
+		<p>The price of water in Singapore reflects its scarcity value. The use of sound economic principles in pricing water is important to keep demand and supply in balance. Under-pricing water leads to over-consumption. In Singapore, water is priced to recover the full cost of its supply and production, and to reflect the cost of producing the next drop of water, which will be from NEWater and desalination.</p>
+		<p><em>Mandating Water Efficiency Requirements</em></p>
+		<p>The Mandatory Water Efficiency Labelling Scheme and minimum water efficiency standards for water fittings and appliances help consumers and businesses make more informed choices, and encourage suppliers to introduce more water-efficient fittings and appliances into the market.</p>
+		<p>Large water users in the non-domestic sector are required to submit water efficiency management plans to PUB annually. This requirement encourages companies to better understand and manage their water usage, and has allowed PUB to develop water efficiency benchmarks and best practice guidelines using the data collected.
+		<p><em>Funding Water Efficient Measures</em></p>
+		<p>PUB's Water Efficiency Fund (WEF) co-funds organisations, companies and community groups to implement water saving initiatives such as water recycling projects and the adoption of water efficient equipment. Since 1 July 2023, PUB has raised the funding cap for water recycling projects under the WEF from $1 million to $5 million, as part of its continuing efforts to drive water conservation efforts and promote the sustainable water management practices in the non-domestic sector.</p>
 	</div>
 </div>
 
 <a id="flash-floods"></a>
 
-<h2>Flash Floods</h2>
+<h2>Stormwater Management and Flood Protection</h2>
 <div>
-	<input type="checkbox" id="title23"  /><label for="title23">Unexpectedly Intense Rainfall</label>
+	<input type="checkbox" id="title21"  /><label for="title21">Coping with More Intense Rainfall</label>
 	<div class="accordion-content">
-		<p>We have an extensive drainage system comprising 8,000km of drains, rivers and canals that channel rainwater to our reservoirs or the sea. Most times, our drains are able to cope with the rain that we receive. However, intense bouts of rainfall can sometimes exceed the capacity that the drains are designed for, resulting in flash floods. These floods are localised and generally subside in under an hour.</p>
+		<p>As climate change brings about more extreme weather events, we are likely to see more flash floods from intense rain.</p>
+		<p>We have an extensive drainage system comprising 8,000km of drains, rivers and canals that channel rainwater to our reservoirs or the sea. Most times, our drains can cope with the rain that we receive. However, intense bouts of rainfall can sometimes exceed the capacity that the drains are designed for, resulting in flash floods. These floods are mostly localised and subside within an hour.</p>
 	</div>
-	<input type="checkbox" id="title24"  /><label for="title24">The Challenge: Human Enginnering VS Unpredictable Weather </label>
+	<input type="checkbox" id="title24"  /><label for="title24">Our Efforts:</label>
 	<div class="accordion-content">
 		<p><em>Reviewing Our Drainage System</em></p>
-		<p>In recent years, weather and rainfall patterns have become increasingly unpredictable. While our drainage system has served us well for decades, we need to examine our options carefully to see how else we can expand or improve on it to cope with these new challenges.</p>
-		<p><em>Preparing Ourselves Against Damage</em></p>
-		<p>The Ministry recognises that flash floods can be very disruptive. We have put in place measures to protect human safety as well as work with building and property owners to ensure that their premises have sufficient flood protection to limit the dangers.</p>
-	</div>
-	<input type="checkbox" id="title25"  /><label for="title25">Our Efforts: Safety First, Study in the Works</label>
-	<div class="accordion-content">
-		<p><em>Safety A Top Concern</em></p>
-		<p>The Ministry has made human safety top priority. We have installed railings at more open drains, especially in flood-prone and low-lying areas, among other measures to protect public safety.</p>
-		
-		<p><em>Flood Prone Areas Reduced</em></p>
-		<p>Despite increased urbanisation - which increases the likelihood of flooding, we have greatly reduced flood prone areas. Through ongoing drainage improvement works, PUB has further reduced flood prone areas to less than 30 ha in 2023.</p>
+		<p>In light of the challenges posed by growing urbanisation and increasing weather uncertainties, PUB has adopted a system-wide "Source-Pathway-Receptor" approach to introduce flexibility and adaptability to our drainage system.</p>
+		<p><em>Strengthening Community Resilience</em></p>
+		<p>While we continue with efforts to reduce flood risks through drainage expansions, it may not always be feasible to build our drains to accommodate every extreme rainfall event as this would require massive land take and much higher costs. Everyone has a role to play in ensuring Singapore's flood resilence. Hence, we work closely with building and property owners to ensure that their premises have sufficient flood protection to minimise flood risks and keep public out of harm's way.</p>
+		<p><em>Experts Reviewed Drainage Planning Norms and Flood Protection Measures</em></p>
+		<p>To improve flood monitoring, PUB has installed an extensive network of water level sensors at major waterways and drains, as well as CCTVs at flood-prone areas and hotspots. With the ability to monitor real-time site conditions, PUB can provide early warning to the public and activate its Quick Response Teams to flooded areas to carry out flood management (such as removing chokage, deploying portable flood barriers) and traffic management.</p>
+  		<p>In addition, the public can get timely updates on potential floods through multiple platforms such as the Telegram flood alert channel, "MyENV" mobile application, and social media platforms (e.g. Facebook and X (formerly known as Twitter)), so that safety precautions can be taken.</p>
 	</div>
 </div>
 
@@ -246,9 +249,5 @@ input:checked + label + .accordion-content {
 	<li><p>PUBLIC UTILITIES ACT (Cap 261)</p>
 	</li>
 	<li><p>SEWERAGE AND DRAINAGE ACT (Cap 294)</p>
-	</li>
-	<li><p>ENVIRONMENTAL PROTECTION AND MANAGEMENT ACT (Cap 94A)</p>
-	</li>
-	<li><p>ENVIRONMENTAL PUBLIC HEALTH ACT (Cap 95)</p>
 	</li>
 </ol>
