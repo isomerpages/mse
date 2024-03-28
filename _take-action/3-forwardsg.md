@@ -33,5 +33,8 @@ Youths were invited to participate in a dialogue to explore the challenges and o
 #### Our Coastal Conversation
 Members of public were invited to participate in PUB’s community dialogue sessions to hear from experts on coastal and flood protection strategies and approaches, and share their views and ideas on how we can transform Singapore’s coastlines to protect ourselves from the impacts of climate change in the next few decades.
 
+<img src="images/Picture1.jpg" alt="Our Coastal Conversations 1"> <img src="images/Picture2.jpg" alt="Our Coastal Conversations 2">
+<img src="images/Picture3.jpg" alt="Our Coastal Conversations 3"> <img src="images/Picture4.jpg" alt="Our Coastal Conversations 4">
+
 #### Public consultation on proposed Beverage Container Return Scheme
 The National Environment Agency is implementing a beverage container return scheme as part of efforts to reduce waste, and make Singapore a Zero Waste Nation. Members of public were invited to provide views on the proposed scheme, particularly on the type of beverage containers to be covered, deposit amount, and return point locations. 
