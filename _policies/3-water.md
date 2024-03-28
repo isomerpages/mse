@@ -179,7 +179,7 @@ input:checked + label + .accordion-content {
 		<p><em>Desalinated Water is Costly</em></p>
 		<p>Although desalinated water is weather-resilient, it remains an energy-intensive source of water.</p>
 	</div>
-	<input type="checkbox" id="title18"  /><label for="title18">Our Efforts:</label>
+	<input type="checkbox" id="title18"  /><label for="title18">Our Efforts</label>
 	<div class="accordion-content">
 		<p><em>Technology Provides Solution</em></p>
 		<p>We continue to invest in research and development to reduce the energy consumption of desalination to ensure the sustainability of desalinated water. These include technologies such as electrodeionisation and biomimicry with the goal of halving the current energy requirement. </p>
@@ -203,12 +203,12 @@ input:checked + label + .accordion-content {
 		<p>Water wastage from pipes or water appliances often goes unnoticed. Loose tap fittings, malfunctioning toilet cisterns and leaking water pipes can all lead to a huge waste of water.</p>
 		<p>For instance, a typical leak from a kitchen can amount to 10,000 litres per year, which is over 6,600 large bottles.</p>
 	</div>
-	<input type="checkbox" id="title20"  /><label for="title20">Our Efforts:</label>
+	<input type="checkbox" id="title20"  /><label for="title20">Our Efforts</label>
 	<div class="accordion-content">
 		<p>Reduction in Water Consumption</p>
 		<p>Through our long-term efforts in water conservation, Singapore's household water consumption dropped steadily from 165 litres per capita per day (LPCD) in 2003 to 141 LPCD in 2019.</p>
 		<p>Household water consumption increased sharply during the COVID-19 pandemic - 154 LPCD in 2020 and 158 LPCD in 2021. This was a result of people spending more time at home due to safe management measures and work-from-home arrangements, and an increased emphasis on hygiene.</p>
-		<p>The household water consumption returned to pre-pandemic levels of 141 LCPD in 2023, following the relaxation of COVID-19 safe management measures and resumption of business activities. We will continue our efforts to encourage water conservation.
+		<p>The household water consumption returned to pre-pandemic levels of 141 LCPD in 2023, following the relaxation of COVID-19 safe management measures and resumption of business activities. We will continue our efforts to encourage water conservation.</p>
 		<p><em>Water Conservation Education and Outreach</em></p>
 		<p>PUB engages in community outreach efforts to raise awareness. These include the annual water conservation campaign to reinforce the importance of water conservation, and Singapore World Water Day celebration in the month of March to rally the community and drive continued awareness on the importance of water conservation and sustainability, through a variety of community and ground-up events.</p>
 		<p><em>Preventing and Detecting Leaks</em></p>
@@ -232,7 +232,7 @@ input:checked + label + .accordion-content {
 		<p>As climate change brings about more extreme weather events, we are likely to see more flash floods from intense rain.</p>
 		<p>We have an extensive drainage system comprising 8,000km of drains, rivers and canals that channel rainwater to our reservoirs or the sea. Most times, our drains can cope with the rain that we receive. However, intense bouts of rainfall can sometimes exceed the capacity that the drains are designed for, resulting in flash floods. These floods are mostly localised and subside within an hour.</p>
 	</div>
-	<input type="checkbox" id="title24"  /><label for="title24">Our Efforts:</label>
+	<input type="checkbox" id="title24"  /><label for="title24">Our Efforts</label>
 	<div class="accordion-content">
 		<p><em>Reviewing Our Drainage System</em></p>
 		<p>In light of the challenges posed by growing urbanisation and increasing weather uncertainties, PUB has adopted a system-wide "Source-Pathway-Receptor" approach to introduce flexibility and adaptability to our drainage system.</p>
