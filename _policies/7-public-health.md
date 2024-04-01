@@ -51,41 +51,44 @@ input:checked + label + .accordion-content {
 
 <h1><b>Our Public Health Policy in a Nutshell</b></h1>
 
-<p><strong>MAINTAINING A GOOD QUALITY OF LIFE</strong><br>  Public health standards contribute to the quality of life. High public health standards reflect a safe environment for Singaporeans to work and play.</p>
+<p><strong>MAINTAINING A GOOD QUALITY OF LIFE</strong><br>  Robust public health standards are fundamental to ensure a good quality of life. By upholding high public health standards, we create a clean and safe environment where Singaporeans can work and play without compromising their overall health and well-being.</p>
 
-<p><strong>CONTROLLING VECTOR POPULATIONS TO PROTECT PUBLIC HEALTH</strong><br>  Vectors spread diseases among the population by carrying viruses from one person to another. The control of vectors, especially mosquitoes, is one important way of protecting Singaporeans from diseases.</p>
+<p><strong>CONTROLLING VECTOR POPULATIONS TO PROTECT PUBLIC HEALTH</strong><br>  Vectors such as mosquitoes and rats can transmit spread diseases among within the population. Effectively  by carrying viruses from one person to another. The controlcontrolling vector populations of vectors, especially mosquitoes, is a key strategy to safeguard one important way of protecting Singaporeans from potential public health threats such as dengue and other vector-bornefrom diseases.</p>
 
-<p><strong>PROTECTING THE PUBLIC FROM SECOND-HAND SMOKE</strong><br>  To protect Singaporeans from the harmful effects of second-hand smoke, the smoking ban was first introduced in October 1970. It has been progressively extended over the years to cover many public places.</p>
+<p><strong>PROTECTING THE PUBLIC FROM SECOND-HAND SMOKE</strong><br>  To protect Singaporeans from the harmful effects of second-hand tobacco smoke, the smoking ban was introduced in October 1970 and has been progressively extended to cover many public places over the years.</p>
 
-<h2 id="our-key-targets">Our Key Targets</h2>
+<p><strong>STRENGTHENING PUBLIC HEALTH RESILIENCE THROUGH PUBLIC CLEANLINESS AND HYGIENE <i>[NEW]</i></strong><br>  Ensuring clean public spaces is important to prevent the spread of diseases and safeguard the overall well-being of the community. Upholding high standards of public cleanliness and hygiene, contributes towards strengthening our resilience against public health threats in the long term.</p>
+
+<h2 id="our-key-targets">Our Key Outcomes</h2>
 <ol>
-	<li><p>Maintain a low incidence of vector-borne diseases.</p>
+	<li><p>Maintain a low incidence of vector-borne diseases and become a leading regional centre in epidemiological surveillance and research on vector-borne diseases.</p>
 	</li>
-	<li><p>Become a leading regional centre in epidemiological surveillance and research on vector-borne diseases.</p>
+	<li><p>Minimise public exposure to second-hand tobacco smoke and contribute to whole-of-government efforts in reducing the prevalance of smoking. <i>[New]</i></p>
+	</li>
+	<li><p>Enhance the cleanliness of public spaces and foster a sense of personal and shared responsibility in keeping public spaces clean. <i>[New]</i></p>
 	</li>
 </ol>
 
 <h2 id="our-main-plans">Our Main Plans</h2>
 <div>
-	<input type="checkbox" id="title1"  /><label for="title1">Encouraging The Community to Help Protect Public Health</label>
+	<input type="checkbox" id="title1"  /><label for="title1">Finding Better Ways to Monitor and Control Vector-Borne Diseases</label>
 	<div class="accordion-content">
-		<p>To achieve high standards of public health, we aim to increase community ownership for public health. The involvement of the wider community and private sector contributes to our public health as we move towards greater self-regulation.</p>
+		<p>To safeguard the well-being of Singaporeans, we employ various ways to monitor and control vector-borne diseases. This includes regular surveillance and periodic checks to control vector populations as well as  carry outconducting research to study vector-borne diseases and explore better ways to control them.</p>
 	</div>
-	<input type="checkbox" id="title2"  /><label for="title2">Finding Better Ways to Monitor and Control Vector-Borne Diseases</label>
+	<input type="checkbox" id="title2"  /><label for="title2">Encouraging The Community to Help Protect Public Health</label>
 	<div class="accordion-content">
-		<p>To safeguard the well-being of Singaporeans, we carry out research to study vector-borne diseases and explore better ways to control them.</p>
+		<p>To achieve high standards of high public health standards, we  aim to foster a sense of  increase community ownership for public health. The involvement of the wider  community and the private sector plays a pivotal role in safeguarding contributes to our our public health as we move towards greater increased self-regulation. Efforts at both the individual and collective level are necessary to mitigate public health risks attributed to vectors, second-hand tobacco smoke, and poor cleanliness issues in public spaces.</p>
 	</div>
 </div>
 
-<a id="smoking"></a>
+<a id="Dengue"></a>
 
-<h2>Smoking</h2>
+<h2>Dengue</h2>
 <div>
-	<input type="checkbox" id="title3"  /><label for="title3">Smoking Harms Not Only The Smoker</label>
+	<input type="checkbox" id="title3"  /><label for="title3">Dengue Can Be Fatal If Untreated</label>
 	<div class="accordion-content">
-		<p>Smoking harms the health of the smoker. Not only that, people exposed to second-hand smoke in public places are also at risk of the ill effects of smoking.</p>
-		<p>There are at least 60 cancer-causing chemicals in second-hand smoke. Non-smokers who are exposed to second-hand smoke face higher risks of lung cancer, respiratory tract infections, heart disease as well as eye, nose and throat irritations.</p>
-		<p>Studies have also shown that pregnant women exposed to second-hand smoke are more likely to have miscarriages or stillbirths.</p>
+		<p>The female Aedes aegypti mosquito is the primary vector of dengue in Singapore. When an Aedes mosquito bites an infected person, it can pick up the virus and pass it to the next person it bites.</p>
+		<p>The more severe forms of dengue can be fatal if not treated.</p>
 	</div>
 	<input type="checkbox" id="title4"  /><label for="title4">The Challenge: Cooperation From Smokers Necessary To Protect Public Health</label>
 	<div class="accordion-content">
