@@ -52,17 +52,17 @@ input:checked + label + .accordion-content {
 <h1><b>Our Clean Land Policy in a Nutshell</b></h1>
 
 <p><strong>REDUCING AND RECYCLING OUR WASTE AS MUCH AS POSSIBLE</strong><br>	We are producing an increasing amount of waste.</p>
-<p>We have to cut down on the amount of waste we generate as we are running out of space to dispose them.</p>
+<p>We have to cut down on the amount of waste we generate as we are running out of space to dispose of waste.</p>
 
 <p><strong>MINIMISING THE VOLUME OF WASTE DISPOSED</strong><br>	Singapore currently has only one active landfill. To conserve our limited landfill space, we incinerate as much waste as we can to reduce the volume going to the landfill. Through incineration, we can reduce the volume by as much as 90%.</p>
-<p>Excess heat from these Waste-to-Energy incineration plants provides about 2% of our electricity supply.</p>
+<p>Excess heat from Waste-to-Energy incineration plants provides about 2% of our electricity supply.</p>
 
 <p><strong>DISPOSE HAZARDOUS WASTE SAFELY</strong><br>	Many industries produce hazardous waste and generate by-products that pose health risks to both people and the environment.</p>
 <p>Strict regulations are administered by NEA to ensure that such waste is properly managed.</p>
 
 <h2 id="our-key-targets">Our Key Targets</h2>
 <ol>
-	<li><p>Extend the lifespan of Semaku landfill.</p>
+	<li><p>Extend the lifespan of Semakau landfill.</p>
 	</li>
 	<li><p>Achieve 70% recycling rate by 2030.</p>
 	</li>
@@ -76,48 +76,22 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title2"  /><label for="title2">Seeking Co-operation From Industries</label>
 	<div class="accordion-content">
-		<p>Industrial waste form up to 40% of the total amount of waste we produce. Their efforts to recycle materials and good waste management practices will bring us closer to our aims.</p>
+		<p>Industrial waste form up to 40% of the total amount of waste we produce. Their efforts to reduce waste and recycle materials will bring us closer to our aims.</p>
 	</div>
 	<input type="checkbox" id="title3"  /><label for="title3">Providing An Efficient Waste Management System</label>
 	<div class="accordion-content">
-		<p>NEA licenses public waste collectors and general waste collectors to bring solid waste disposed to our Waste-to-Energy plants and the Semakau landfill.</p>
+		<p>NEA licenses public waste collectors and general waste collectors to bring solid waste disposed to our Waste-to-Energy plants and the Semakau Landfill.</p>
 	</div>
 	<input type="checkbox" id="title4"  /><label for="title4">Enforcing Regulations For Proper Waste Management</label>
 	<div class="accordion-content">
 		<p>Illegal dumping of waste of any kind is a serious offence. It pollutes the environment and can be a hazard to public health.</p>
 		<p>NEA enforces various acts to protect our public health.</p>
 	</div>
-</div>
-
-<a id="packaging"></a>
-
-<h2>Packaging</h2>
-<div>
-	<input type="checkbox" id="title5"  /><label for="title5">Packaging Creates Significant Waste</label>
+	<input type="checkbox" id="title5"  /><label for="title5">Priority Waste Streams</label>
 	<div class="accordion-content">
-		<p>Most packaging for consumer goods, such as food, drinks, and electronics, is used just once before being thrown away.</p>
-		<p>Packaging makes up about one third of all household waste in Singapore and more than half of this consists of packaging for food and drinks.</p>
-		<p>Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.</p>
-	</div>
-	<input type="checkbox" id="title6"  /><label for="title6">The Challenge: Changing Current Practices</label>
-	<div class="accordion-content">
-		<p><em>Installing The Habit Of Recycling Packaging</em></p>
-		<p>Many people and companies simply throw packaging away without a thought, especially if the packaging was not designed to be reused or easily recycled.</p>
-		<p><em>Promoting Responsible Packaging Practices</em></p>
-		<p>Often, elaborate packaging is used to make products look better. Consumers can help change wasteful practices by rejecting products that have excessive packaging.</p>
-	</div>
-	<input type="checkbox" id="title7"  /><label for="title7">Our Efforts: Engaging Companies And Users</label>
-	<div class="accordion-content">
-		<p><em>Redesigning And Reducing Packaging Production</em></p>
-		<p>The National Environment Agency (NEA) introduced the voluntary Singapore Packaging Agreement in 2007. Companies which sign the Agreement commit to reducing their packaging waste over a period of five years.</p>
-		<p>They do this by redesigning their production processes, reducing the size and thickness of the physical packaging produced, eliminating unnecessary packaging, and changing the way that products are packaged.</p>
-		<p><em>Increasing The Amount Of Packaging Recycled</em></p>
-		<p>Under the agreement, companies also agree to increase the amount of packaging recycled and use more recycled or recycle-able materials when producing packaging. Building owners and hotel and shopping mall managers have also signed the Agreement, committing to provide recycling facilities for their tenant.</p>
-		<p><em>Raising Awareness Among Consumers</em></p>
-		<p>Companies also try to raise awareness and educate consumers on the benefits of reducing packaging waste. For instance, Tetra Pak has been running educational programmes in the school to encourage students to recycle used beverage cartons since 2008.</p>
-		<p><em>Companies Cut Back On 10,000 Tonnes Of Packaging</em></p>
-		<p>Since the Singapore Packing Agreement was launched in 2007, the companies that signed the Agreement have reduced the amount of packaging produced by up to 46,000 tonnes.</p>
-		<p>These companies also saved $100 million in the process. The number of signatories has grown from 32 companies to the current 229.</p>
+		<p>As Singapore prepares for an increasingly carbon and resource constrained future, with limited space for waste disposal, we have to shift towards a circular economy where our resources can be used for as long and as many times as possible.</p>
+		<p>Under the Zero Waste Masterplan, we have set out Singapore’s strategies to sustainable waste management and close our resource loops. We have identified three priority waste streams: food waste; electronic waste (e-waste); and packaging waste, including plastics. These waste streams are generated in high amounts, with low recycling rates.</p>
+		<p>The Resource Sustainability Act puts in place a systems-level approach that mandates key responsibilities to enable re-use and recycling nation-wide. This sends economic signals to producers to take into account the cost of environmental externalities. It also encourages innovation and the redesigning of products that require less material, last longer and are more easily recycled.</p>
 	</div>
 </div>
 
@@ -132,13 +106,12 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title9"  /><label for="title9">The Challenge: Increasing Recycling Rate To 70% By 2030</label>
 	<div class="accordion-content">
-		<p>The recycling rate in Singapore currently stands at about 60%, up from 40% in 2000.</p>
-		<p>However, we can do better. In 2018, only about half of the total amount of paper and cardboard waste were recycled and just 4% of plastics were recycled.</p>
-		<p>We aim to increase the recycling rate to 70% by 2030.</p>
+		<p>We have had successes with certain waste streams, such as ferrous metals and construction and demolition materials, with near 100% recycling rates.</p>
+		<p>However, more can be done, particularly with increasing the recycling rates of our priority waste streams. Although awareness of recycling has improved among Singaporeans, the recycling rate remains low. The contamination of recyclables in collection bins adds further challenges. We will need everyone’s collective efforts in order to achieve our recycling rate target.</p>
 	</div>
 	<input type="checkbox" id="title10"  /><label for="title10">Our Efforts</label>
 	<div class="accordion-content">
-		<p>More than 80,000 bins have been placed in HDB and landed estates across the island.</p>
+		<p>More than 80,000 blue recycling bins have been placed in HDB and landed estates across the island.Paper, plastic, glass and metal recyclables can be deposited into these bins. The mixed recyclables are collected by dedicated recycling trucks and sent to Materials Recovery Facilities for sorting. After sorting, the recyclable materials are sent to recycling facilities for further processing.</p>
 		<p>Since April 2018, all new non-landed private residential developments above four storeys are required to install dual chutes for refuse and recyclables. All condominiums have also been required to provide one recycling per block since August 2018.</p>
 		<p>We will continue to make recycling accessible to all residents.</p>
 	</div>
@@ -150,7 +123,7 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title11"  /><label for="title11">Waste Production Never Stops</label>
 	<div class="accordion-content">
-		<p>In line with population and economic growth, the volume of waste produced has increased more than six-fold over the past 40 years. In 1970, we were producing some 1,200 tonnes of waste each day. Today, the amount has grown to more than 8,700 tonnes per day.</p>
+		<p>In line with population and economic growth, the volume of waste produced has increased exponentially.</p>
 		<p>Without an efficient waste collection system in place, piles of rubbish would accumulate near homes and workplaces and create breeding grounds for pests and poses threats to public health.</p>
 	</div>
 	<input type="checkbox" id="title12"  /><label for="title12">The Challenge: Our Climate Cannot Tolerate Waste</label>
@@ -160,7 +133,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title13"  /><label for="title13">Our Efforts</label>
 	<div class="accordion-content">
-		<p>Today, there are now 4 public waste collection companies operating in 6 sectors, each with 100,000 households and trade premises. Rights to manage waste are competitively tendered by these companies.</p>
+		<p>Today, there are now 3 public waste collection companies operating in 6 sectors, serving households and trade premises. Rights to manage waste are competitively tendered by these companies.</p>
 		<p>In addition, there are more than 300 approved general waste collectors that serve commercial and industrial premises.</p>
 	</div>
 </div>
@@ -169,17 +142,12 @@ input:checked + label + .accordion-content {
 
 <h2>Incineration</h2>
 <div>
-	<input type="checkbox" id="title14"  /><label for="title14">Space For Waste Is Limited</label>
-	<div class="accordion-content">
-		<p>Incineration is necessary for Singapore as land is limited. Incineration is able to reduce the volume of our waste to as little as 10 per cent of its original volume. This results in lower waste volumes being sent to our landfill.</p>
-		<p>However, as ash from incinerated waste eventually has to go into our landfill and we have only one landfill, incineration alone cannot deal with the ever-increasing amount of waste that we are producing.</p>
-	</div>
 	<input type="checkbox" id="title15"  /><label for="title15">The Challenge: Effective But Not A Sustainable Solution</label>
 	<div class="accordion-content">
 		<p><em>Incineration Plants Cost Us Space And Money</em></p>
-		<p>Incineration plants are very expensive to build and operate. They also take up large areas of land. We cannot keep building more incineration plants indefinitely.</p>
+		<p>Incineration converts waste to energy and reduces the volume of waste going to landfill. However, incineration plants are very expensive to build and operate. They also take up land space. We cannot keep building more incineration plants indefinitely.</p>
 		<p><em>Pollutants During Incineration</em></p>
-		<p>Pollutants, such as NOx, SO<sub>2</sub>, dioxin and particulate matter, are produced in the process of incineration and they affect our air quality.</p>
+		<p>Pollutants, such as NOx, SO<sub>2</sub>, dioxins and particulate matter, are produced in the process of incineration and they affect our air quality.</p>
 	</div>
 	<input type="checkbox" id="title16"  /><label for="title16">Our Efforts: Improving Processes And Exploring New Uses</label>
 	<div class="accordion-content">
@@ -190,9 +158,9 @@ input:checked + label + .accordion-content {
 		<p><em>Reducing Waste</em></p>
 		<p>NEA has been encouraging people and industries to reduce their waste, reuse where possible and increase their rate of recycling.</p>
 		<p><em>Incinerating Less Than Before</em></p>
-		<p>In 2017, around 36% of all waste was incinerated, down from 51% in 2001. The reduction of waste and increase in recycling will also help to delay the building of new incineration plants. Instead of building one every 5-7 years, we can build one every 8-10 years.</p>
+		<p>The reduction of waste and increase in recycling will also help to delay the building of new incineration plants. Instead of building one every 5-7 years, we can build one every 8-10 years.</p>
 		<p><em>Ash May Be Recycled Instead Of Landfilled</em></p>
-		<p>After the success of developing the use of incinerated bottom ash (IBA) for road material, NEA will continue to explore other uses for treated ash so as to extend the lifespan of our sole remaining landfill, Semakau.</p>
+		<p>After the success of developing the use of incinerated bottom ash (IBA) for road material, NEA is exploring other uses for treated ash so as to extend the lifespan of our sole remaining landfill, Semakau.</p>
 	</div>
 </div>
 
@@ -202,9 +170,8 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title17"  /><label for="title17">Limited Space For Our Growing Amount Of Waste</label>
 	<div class="accordion-content">
-		<p>We only have one landfill left.</p>
-		<p>Each year, we send about 200,000 tonnes of solid waste and all incineration ash to the Semakau landfill. At this rate we are sending waste there, it will run out of space by around 2035.</p>
 		<p>As there is no available land for landfill on mainland Singapore, Semakau Landfill had to be created by enclosing 350 hectares of sea space between two offshore islands. Semakau Landfill opened on 1 April 1999 and is now the only one we have.</p>
+		<p>At current waste generation rates, Semakau Landfill will run out of space by around 2035.</p>
 	</div>
 	<input type="checkbox" id="title18"  /><label for="title18">The Challenge: Building Landfills Is Not A Sustainable Solution</label>
 	<div class="accordion-content">
@@ -213,7 +180,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title19"  /><label for="title19">Our Efforts: Minimising The Amount Of Waste That Goes To The Landfill</label>
 	<div class="accordion-content">
-		<p>The Zero Waste Masterplan sets a new waste reduction target for Singapore - to reduce the waste sent to Semakau Landfill each day by 30 per cent by 2030. This will help extend Semakau Landfill's lifespan beyond 2035. Grab a copy of the Zero Waste Masterplan <a href="https://www.towardszerowaste.gov.sg/zero-waste-masterplan/">here!</a></p>
+		<p>The Zero Waste Masterplan sets a new waste reduction target for Singapore - to reduce the waste sent to Semakau Landfill each day by 30 per cent by 2030. This will help extend Semakau Landfill's lifespan beyond 2035.</p>
 		<p><em>Reduce Volume Of Waste By Incineration</em></p>
 		<p>Incinerable waste is sent to our four incineration plants, and the ashes end up at Semakau landfill.</p>
 		<p>Incineration can reduce waste volume by over 90%!</p>
@@ -225,13 +192,17 @@ input:checked + label + .accordion-content {
 
 <h2>The Related Laws</h2>
 <ol>
-	<li><p>ENVIRONMENTAL PROTECTION AND MANAGEMENT ACT (Cap 94A)<br>  The Act covers pollution control, hazardous substances control and licensing of industrial plant works among others.</p>
+	<li><p>RESOURCE SUSTAINABILITY ACT<br>  The Act covers pregulatory measures targeting the three priority waste streams of food waste, e-waste and packaging waste, including plastics.</p>
 	</li>
-	<li><p>ENVIRONMENTAL PUBLIC HEALTH ACT (Cap 95)<br>  The Act lists out regulations for public services such as general waste collection, swimming pools and food hygiene among others.</p>
+	<li><p>ENVIRONMENTAL PROTECTION AND MANAGEMENT ACT<br>  The Act covers pollution control, hazardous substances control and licensing of industrial plant works among others.</p>
 	</li>
-	<li><p>HAZARDOUS WASTE (CONTROL OF EXPORT, IMPORT AND TRANSIT) ACT (Cap 122A)<br>  The Act regulates the movement of hazardous wastes among others.</p>
+	<li><p>ENVIRONMENTAL PROTECTION AND MANAGEMENT ACT<br>  The Act covers pollution control, hazardous substances control and licensing of industrial plant works among others.</p>
 	</li>
-	<li><p>RADIATION PROTECTION ACT (Cap 262)<br>  The Act controls the import and export of radioactive materials and other related apparatus as well as the disposal, accumulation and transport of radioactive.</p>
+	<li><p>ENVIRONMENTAL PUBLIC HEALTH ACT<br>  The Act lists out regulations for public services such as general waste collection, swimming pools and food hygiene among others.</p>
+	</li>
+	<li><p>HAZARDOUS WASTE (CONTROL OF EXPORT, IMPORT AND TRANSIT) ACT<br>  The Act regulates the movement of hazardous wastes among others.</p>
+	</li>
+	<li><p>RADIATION PROTECTION ACT<br>  The Act controls the import and export of radioactive materials and other related apparatus as well as the disposal, accumulation and transport of radioactive.</p>
 	</li>
 </ol>
 
