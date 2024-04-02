@@ -223,16 +223,39 @@ input:checked + label + .accordion-content {
 	</div>
 </div>
 
+<h2>Our Beach Water Quality</h2>
+<div>
+	<input type="checkbox" id="title21"  /><label for="title21">Beach Water can be Harmful</label>
+	<div class="accordion-content">
+		<p>Beach water is vulnerable to contamination from pollutants. During water activities at the beach, we will come into contact with seawater and may ingest it accidentally. Should the water quality be poor or contaminated, this may lead to gastrointestinal and respiratory illness.</p>
+	</div>
+	<input type="checkbox" id="title22"  /><label for="title22">The Challenge: Many Factors Affect the Quality of Beach Water</label>
+	<div class="accordion-content">
+		<p>Many sources of pollution to monitor: Minor leakage from older sewers, Sea Animals and Discharges from moored vessels.</p>
+		<p><em>Changing Tides Present Different Challenges</em></p>
+		<p>While our beaches are cleaned regularly, changing tidal conditions make the task more challenging. During the north-east and south-west monsoons, more floating refuse and debris is washed ashore from the open sea. This requires greater effort in removal.</p>
+		<p><em>Beach Goers Must Play Their Part</em></p>
+		<p>While beach goers enjoy their time at the beach, they should take care not to leave rubbish behind when they leave, which could contribute to the pollution of beach water.</p>	
+	</div>
+	<input type="checkbox" id="title23"  /><label for="title23">Our Efforts: Setting Standards, Monitoring and Cleaning Up</label>
+	<div class="accordion-content">
+		<p>Water samples are collected and tested by NEA weekly at monitored recreational beaches. These tests help ensure that our beach water quality meets our recreational water quality guidelines.</p>
+		<p>Singapore's recreational water quality guidelines are adopted from World Health Organisation guidelines for Safe Recreational Waters. The local guidelines were established in 2008 after a careful study of the WHO guidelines, analysis of data gathered over a few years, and consultation and collaboration with other relevant agencies.</p>
+		<p>NEA also has regular cleaning regimes for our beaches.</p></p>
+		<p>More information on Singapore's water quality guidelines for recreational beaches, as well as updates on the latest beach gradings and advisories can be found <a href="www.nea.gov.sg/our-services/pollution-control/water-quality/recreational-beaches/"> here.</a></p>
+	</div>
+</div>
+
 <a id="flash-floods"></a>
 
 <h2>Stormwater Management and Flood Protection</h2>
 <div>
-	<input type="checkbox" id="title21"  /><label for="title21">Coping with More Intense Rainfall</label>
+	<input type="checkbox" id="title24"  /><label for="title24">Coping with More Intense Rainfall</label>
 	<div class="accordion-content">
 		<p>As climate change brings about more extreme weather events, we are likely to see more flash floods from intense rain.</p>
 		<p>We have an extensive drainage system comprising 8,000km of drains, rivers and canals that channel rainwater to our reservoirs or the sea. Most times, our drains can cope with the rain that we receive. However, intense bouts of rainfall can sometimes exceed the capacity that the drains are designed for, resulting in flash floods. These floods are mostly localised and subside within an hour.</p>
 	</div>
-	<input type="checkbox" id="title24"  /><label for="title24">Our Efforts</label>
+	<input type="checkbox" id="title25"  /><label for="title25">Our Efforts</label>
 	<div class="accordion-content">
 		<p><em>Reviewing Our Drainage System</em></p>
 		<p>In light of the challenges posed by growing urbanisation and increasing weather uncertainties, PUB has adopted a system-wide "Source-Pathway-Receptor" approach to introduce flexibility and adaptability to our drainage system.</p>
