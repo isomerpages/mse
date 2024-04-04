@@ -35,7 +35,7 @@ Read [stories](https://medium.com/greenplan/tagged/sg-eco-fund){:target="_blank"
 
 Check out the full list of SG Eco Fund recipients below:  
 [Grant Call 1](/files/sgecofund/SGEF-GC1-COMPLETE.pdf)  
-[Grant Call 2](/files/sgecofund/SGEF-GC2-COMPLETE.pdf)  
+[Grant Call 2](/files/sgecofund/SGEF-GC2-COMPLETE.pdf) 
 [Grant Call 3](/files/sgecofund/SGEF-GC3-COMPLETE.pdf)  
 [Grant Call 4](/files/sgecofund/SGEF-GC4-COMPLETE.pdf)  
 
