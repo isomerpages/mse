@@ -33,11 +33,16 @@ View the SG Eco Fund [Press Release]() -->
 
 Read [stories](https://medium.com/greenplan/tagged/sg-eco-fund){:target="_blank"} about past SG Eco Fund recipients.
 
+Check out the full list of SG Eco Fund recipients below:
+
+<a href="files/sgecofund/SGEF-GC1-COMPLETE.pdf">Grant Call 1</a>  
+<a href="files/sgecofund/SGEF-GC2-COMPLETE.pdf">Grant Call 2</a>  
+<a href="files/sgecofund/SGEF-GC3-COMPLETE.pdf">Grant Call 3</a>  
+<a href="files/sgecofund/SGEF-GC4-COMPLETE.pdf">Grant Call 4</a>    
+
 <img src="/files/sgecofund/sgeco-community-seed-bank.jpeg" alt="photo of community seed bank"><br>
 <img src="/files/sgecofund/sgeco-mykilio.jpeg" alt="photo of mykilio"><br>
 <img src="/files/sgecofund/sgeco-engineering-good.jpg" alt="photo of engineering good">
-
-Check out the [complete list of SG Eco Fund recipients](/resources/SGEF-GC1-4-FULL-awarded-projects-public.pdf){:target="_blank"}.
 
 <b>Be <u>In</u>volved</b>
  
