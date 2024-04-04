@@ -119,7 +119,7 @@ input:checked + label + .accordion-content {
 </tbody>
 </table>
 
-
+<br>
 <div class="container">
     <input type="checkbox" id="title1" /><label for="title1">The challenge - Modern life affects air quality</label>
     <div class="accordion-content">
@@ -148,13 +148,13 @@ input:checked + label + .accordion-content {
 <h2>Our Key Strategies</h2>
 
 <div class="container">
-    <input type="checkbox" id="title3" /><label for="title3">Minimising pollution from our industries</label>
+    <input type="checkbox" id="title4" /><label for="title4">Minimising pollution from our industries</label>
     <div class="accordion-content">
         <p>In Singapore, an integrated approach is adopted to ensure that environmental considerations are factored upfront during our land- use planning, development control and building control stages in order to minimise pollution impacts and mitigate nuisance impacts on surrounding land uses. Industries are sited in designated industrial estates with adequate buffer from residential estates.</p>
         <p>Before industrial facilities are allowed to operate in Singapore, they are also screened to ensure they do not pose un-manageable pollution problems and health and safety hazards. In addition, they have to incorporate pollution control measures to comply with NEA’s air emissions standards and regulations.</p>
         <p>Once the industrial facilities are in operations, the National Environment Agency (NEA) also requires regular monitoring of industry emissions to ensure that they meet prescribed emission standards. NEA’s Source Emission Test Scheme requires industries to conduct tests on their own or engage accredited laboratories under the Singapore Laboratory Accreditation Scheme (SAC-SINGLAS) to do so for them.</p>
     </div>
-    <input type="checkbox" id="title4" /><label for="title4">Reducing emissions from vehicles</label>
+    <input type="checkbox" id="title5" /><label for="title5">Reducing emissions from vehicles</label>
     <div class="accordion-content">
         <p>All new vehicles in Singapore have to meet minimum emission standards at the point of registration and while they are being driven on our roads.</p>
         <p>Singapore's emission standards are pegged to international standards, and have progressively tightened over years to keep abreast with improving technology. New petrol and diesel passenger cars and commercial vehicles have to meet Euro VI emissions standards, and new motorcycles have to meet Euro IV emissions standards.</p>
@@ -162,19 +162,19 @@ input:checked + label + .accordion-content {
         <p>The NEA takes stringent enforcement action against smoky vehicles on roads. Owners of smoky vehicles will be required to send their vehicles for inspection and will be fined if the vehicle fails the inspection. In addition, owners will be required to rectify and send their vehicles for a re-inspection which they must pass before the vehicle will be allowed on the road.</p>
         <p>Schemes such as the Vehicular Emissions Scheme (VES), Commercial Vehicle Emissions Scheme (CVES) and Early Turnover Scheme (ETS) respectively serve to encourage the adoption of cleaner passenger cars, commercial vehicles and incentivize the early phase-out of older, more pollutive commercial vehicles.</p>
     </div>
-    <input type="checkbox" id="title5" /><label for="title5">About Haze</label>
+    <input type="checkbox" id="title6" /><label for="title6">About Haze</label>
     <div class="accordion-content"> 
         <p><b>Effects of Haze</b></p>
         <p>From time to time, transboundary smoke haze from land and forest fires in the region affects Singapore's air quality.</p>
         <p>During haze episodes, one could sneeze or cough more often  and one's eyes might be irritated. The elderly, children and individuals with existing heart or lung disease are most sensitive to the effects of haze. Haze also  has the potential to lead to impairment of respiratory functions and aggravation of existing respiratory and cardiovascular disease.</p>
         <p><b>Cooperation and preparedness</b></p>
-        <p><i>BANDING TOGETHER TO BE PART OF THE SOLUTIONS</i></p>
+        <p><i>Banding together to be part of the solutions</i></p>
         <p>Singapore works closely with ASEAN to manage the haze issue. We share satellite pictures of hotspots and are ready to provide assistance to help fight fires if requested.</p>
-        <p><i>A HAZE ACTION PLAN IN PLACE</i></p>
+        <p><i>A haze action plan in place</i></p>
         <p>The National Environmental Agency (NEA) works with other Government agencies through the Haze Task Force to develop and implement plans to manage the impact of haze on Singapore.</p>
-        <p><i>TIMELY UPDATES FOR THE PUBLIC</i></p>
-        The 24-hr PSI readings by the 5 regions of Singapore are made available on the myENV <a href="https://apps.apple.com/sg/app/myenv/id444435182">iPhone</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&hl=en&pli=1">Android</a> app, <a href="https://twitter.com/NEAsg">X account</a>, and <a href="https://www.nea.gov.sg/">website</a>.
-        <p><i>MEASURES IN PLACE TO MANAGE TRANSBOUNDARY HAZE POLLUTION</i></p>
+        <p><i>Timely updates for the public</i></p>
+        <p>The 24-hr PSI readings by the 5 regions of Singapore are made available on the myENV <a href="https://apps.apple.com/sg/app/myenv/id444435182">iPhone</a> and <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&hl=en&pli=1">Android</a> app, <a href="https://twitter.com/NEAsg">X account</a>, and <a href="https://www.nea.gov.sg/">website</a>.</p>
+        <p><i>Measures in place to manage transboundary haze pollution</i></p>
         <p>Singapore works closely with ASEAN to develop measures for transboundary haze management. Singapore is a party to the ASEAN Agreement on Transboundary Haze Pollution, and meets with other ASEAN Member States regularly to discuss and coordinate regional efforts to manage transboundary haze. In 2014, MSE introduced the Transboundary Haze Pollution Bill, which holds entities accountable for causing or contributing transboundary haze in Singapore. The Bill is the first of its kind in the region to provide for criminal and civil liability for conduct of entities which causes or contributes to haze pollution in Singapore. Regional cooperation to reduce transboundary haze pollution is continuing. ASEAN Member States have endorsed the Second ASEAN Haze-Free Roadmap for the period of 2023 to 2030, and will work together to synthesise best practices and approaches to advance the goal of a haze-free region.</p>
 
 <h2>The Related Laws</h2>
