@@ -87,25 +87,25 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title3"  /><label for="title3">Dengue Can Be Fatal If Untreated</label>
 	<div class="accordion-content">
-		<p>The female Aedes aegypti mosquito is the primary vector of dengue in Singapore. When an Aedes mosquito bites an infected person, it can pick up the virus and pass it to the next person it bites.</p>
+		<p>The female <i>Aedes aegypti</i> mosquito is the primary vector of dengue in Singapore. When an <i>Aedes</i> mosquito bites an infected person, it can pick up the virus and pass it to the next person it bites.</p>
 		<p>The more severe forms of dengue can be fatal if not treated.</p>
 	</div>
 	<input type="checkbox" id="title4"  /><label for="title4">The Challenge: Mosquitoes Breed Easily In Our Environment</label>
 	<div class="accordion-content">
-		<p>The Aedes mosquito breeds in stagnant water in man-made habitats. These can be easily found in our environment – such as pails and containers in our homes, tree holes and outdoor drains. Our tropical climate is also conducive to the maturation of the mosquito.</p>
+		<p>The <i>Aedes</i> mosquito breeds in stagnant water in man-made habitats. These can be easily found in our environment – such as pails and containers in our homes, tree holes and outdoor drains. Our tropical climate is also conducive to the maturation of the mosquito.</p>
 		<p><i>The Disease Is Constantly Among Us</i></p>
 		<p>Dengue is endemic in Singapore and the region. This means that the disease is always present, even if it is not always at high levels. To prevent disease transmission, it is important for us to keep mosquito numbers as low as possible at all times.</p>
 	</div>
 	<input type="checkbox" id="title5"  /><label for="title5">Our Efforts: Supporting Dengue Prevention and Control Measures</label>
 	<div class="accordion-content">
-		<p>NEA is the lead agency that tackles the dengue problem in Singapore. The Ministry coordinates broader efforts across government agencies to   stop the spread of dengue fever.</p>
+		<p>NEA is the lead agency that tackles the dengue problem in Singapore. The Ministry coordinates broader efforts across government agencies to stop the spread of dengue fever.</p>
 		<p><i>Surveillance and Control</i></p>
-		<p>To pre-emptively remove potential breeding spots, NEA ofﬁcers visit premises to conduct regular inspections which are guided by surveillance data of the mosquito population from NEA’s Gravitrap network. NEA also carries out virus surveillance on patient blood samples submitted by healthcare providers, to track the different variations of the dengue virus circulating in the community.</i></p>
+		<p>To pre-emptively remove potential breeding spots, NEA ofﬁcers visit premises to conduct regular inspections which are guided by surveillance data of the mosquito population from NEA’s Gravitrap network. NEA also carries out virus surveillance on patient blood samples submitted by healthcare providers, to track the different variations of the dengue virus circulating in the community.</p>
 		<p><i>Developing New Tools - Project Wolbachia</i></p>
-		<p>As part of research and to complement existing mosquito control efforts, NEA has been releasing male Wolbachia-Aedes mosquitoes in certain housing estates of Singapore. These male Wolbachia-Aedes mosquitoes then mate with wild-type female Aedes aegypti mosquitoes to produce eggs which do not hatch, thus helping to suppress the Aedes aegypti population and reduce the risk of dengue transmission. Project Wolbachia is intended to complement, and not replace good housekeeping and basic preventive actions that prevent mosquito breeding. Source reduction remains the key strategy to control the populations of all types of mosquitoes.</p>
+		<p>As part of research and to complement existing mosquito control efforts, NEA has been releasing male <i>Wolbachia-Aedes</i> mosquitoes in certain housing estates of Singapore. These male <i>Wolbachia-Aedes</i> mosquitoes then mate with wild-type female <i>Aedes aegypti</i> mosquitoes to produce eggs which do not hatch, thus helping to suppress the <i>Aedes aegypti</i> population and reduce the risk of dengue transmission. Project <i>Wolbachia</i> is intended to complement, and not replace good housekeeping and basic preventive actions that prevent mosquito breeding. Source reduction remains the key strategy to control the populations of all types of mosquitoes.</p>
   		<p><i>Engaging The Community</i></p>
-		<p>NEA also engages and educates the community on the need to prevent mosquito breeding. The community can view the map and receive alerts on areas with high aedes aegypti mosquito populations through the myENV app. Residents living in areas with relatively higher Aedes aegypti mosquito populations are also urged to help reduce the mosquito population by regularly practising the Mozzie Wipeout 'B-L-O-C-K' steps.</p>
-  		<p>The community can also find out more information on how to prevent Aedes mosquito breeding at the National Environment Agency (NEA)'s <a href="https://www.nea.gov.sg/dengue-zika/dengue">dengue webpage</a>.</p>
+		<p>NEA also engages and educates the community on the need to prevent mosquito breeding. The community can view the map and receive alerts on areas with high <i>aedes aegypti</i> mosquito populations through the myENV app. Residents living in areas with relatively higher <i>Aedes aegypti</i> mosquito populations are also urged to help reduce the mosquito population by regularly practising the <i>Mozzie Wipeout 'B-L-O-C-K'</i> steps.</p>
+  		<p>The community can also find out more information on how to prevent <i>Aedes</i> mosquito breeding at the National Environment Agency (NEA)'s <a href="https://www.nea.gov.sg/dengue-zika/dengue">dengue webpage</a>.</p>
 		</div>
 </div>
 
@@ -130,8 +130,7 @@ diseases is likely to spread rapidly. It is therefore important to monitor the v
 	<input type="checkbox" id="title8"  /><label for="title8">Our Efforts: From Reaction To Prevention</label>
 	<div class="accordion-content">
 		<p><em>Surveillance And Control</em></p>
-		<p>NEA maintains a close watch on the rat population to keep it under  control. Since 01 June 2011, NEA's vector control technicians (VCTs) conduct systematic inspections of both HDB and non-HDB estates
-island-wide as part of a dedicated rat surveillance and control team under NEA. Surveillance technology involving  sensor networks has also been deployed at hawker centres and markets managed by NEA to detect rat activity more efficiently.</p>
+		<p>NEA maintains a close watch on the rat population to keep it under  control. Since 01 June 2011, NEA's vector control technicians (VCTs) conduct systematic inspections of both HDB and non-HDB estates island-wide as part of a dedicated rat surveillance and control team under NEA. Surveillance technology involving  sensor networks has also been deployed at hawker centres and markets managed by NEA to detect rat activity more efficiently.</p>
 		<p><em>Monitoring Vector-borne Diseases</em></p>
 		<p>While we cannot get rid of vectors such as mosquitoes completely, we have successfully kept outbreaks of diseases at bay. </p>
 		<p>Since its set up in 2002, NEA’s Environmental Health Institute (EHI) has been conducting research, surveillance and risk assessments on vector-borne diseases such as zika, chikungunya and malaria. Accurate and rapid diagnosis of such diseases is important as it helps to minimise the chances of transmission.</p>
