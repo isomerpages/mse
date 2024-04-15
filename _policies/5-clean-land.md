@@ -55,7 +55,7 @@ input:checked + label + .accordion-content {
 <p>We have to cut down on the amount of waste we generate as we are running out of space to dispose of waste.</p>
 
 <p><strong>MINIMISING THE VOLUME OF WASTE DISPOSED</strong><br>	Singapore currently has only one active landfill. To conserve our limited landfill space, we incinerate as much waste as we can to reduce the volume going to the landfill. Through incineration, we can reduce the volume by as much as 90%.</p>
-<p>Excess heat from Waste-to-Energy incineration plants provides about 2% of our electricity supply.</p>
+<p>Excess heat from Waste-to-Energy plants provides about 2% of our electricity supply.</p>
 
 <p><strong>DISPOSE HAZARDOUS WASTE SAFELY</strong><br>	Many industries produce hazardous waste and generate by-products that pose health risks to both people and the environment.</p>
 <p>Strict regulations are administered by NEA to ensure that such waste is properly managed.</p>
@@ -85,7 +85,6 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title4"  /><label for="title4">Enforcing Regulations For Proper Waste Management</label>
 	<div class="accordion-content">
 		<p>Illegal dumping of waste of any kind is a serious offence. It pollutes the environment and can be a hazard to public health.</p>
-		<p>NEA enforces various acts to protect our public health.</p>
 	</div>
 	<input type="checkbox" id="title5"  /><label for="title5">Priority Waste Streams</label>
 	<div class="accordion-content">
@@ -111,7 +110,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title10"  /><label for="title10">Our Efforts</label>
 	<div class="accordion-content">
-		<p>More than 80,000 blue recycling bins have been placed in HDB and landed estates across the island.Paper, plastic, glass and metal recyclables can be deposited into these bins. The mixed recyclables are collected by dedicated recycling trucks and sent to Materials Recovery Facilities for sorting. After sorting, the recyclable materials are sent to recycling facilities for further processing.</p>
+		<p>More than 80,000 blue recycling bins have been placed in HDB and landed estates across the island. Paper, plastic, glass and metal recyclables can be deposited into these bins. The mixed recyclables are collected by dedicated recycling trucks and sent to Materials Recovery Facilities for sorting. After sorting, the recyclable materials are sent to recycling facilities for further processing.</p>
 		<p>Since April 2018, all new non-landed private residential developments above four storeys are required to install dual chutes for refuse and recyclables. All condominiums have also been required to provide one recycling per block since August 2018.</p>
 		<p>We will continue to make recycling accessible to all residents.</p>
 	</div>
