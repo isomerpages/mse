@@ -130,10 +130,10 @@ diseases is likely to spread rapidly. It is therefore important to monitor the v
 	<input type="checkbox" id="title8"  /><label for="title8">Our Efforts: From Reaction To Prevention</label>
 	<div class="accordion-content">
 		<p><em>Surveillance And Control</em></p>
-		<p>NEA maintains a close watch on the rat population to keep it under  control. Since 01 June 2011, NEA's vector control technicians (VCTs) conduct systematic inspections of both HDB and non-HDB estates island-wide as part of a dedicated rat surveillance and control team under NEA. Surveillance technology involving  sensor networks has also been deployed at hawker centres and markets managed by NEA to detect rat activity more efficiently.</p>
+		<p>NEA maintains a close watch on the rat population to keep it under control. Since 01 June 2011, NEA's vector control technicians (VCTs) conduct systematic inspections of both HDB and non-HDB estates island-wide as part of a dedicated rat surveillance and control team under NEA. Surveillance technology involving  sensor networks has also been deployed at hawker centres and markets managed by NEA to detect rat activity more efficiently.</p>
 		<p><em>Monitoring Vector-borne Diseases</em></p>
 		<p>While we cannot get rid of vectors such as mosquitoes completely, we have successfully kept outbreaks of diseases at bay. </p>
-		<p>Since its set up in 2002, NEA’s Environmental Health Institute (EHI) has been conducting research, surveillance and risk assessments on vector-borne diseases such as zika, chikungunya and malaria. Accurate and rapid diagnosis of such diseases is important as it helps to minimise the chances of transmission.</p>
+		<p>Since its set up in 2002, NEA’s Environmental Health Institute (EHI) has been conducting research, surveillance and risk assessments on vector-borne diseases such as Zika, Chikungunya and Malaria. Accurate and rapid diagnosis of such diseases is important as it helps to minimise the chances of transmission.</p>
 	</div>
 </div>
 
