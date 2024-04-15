@@ -111,7 +111,7 @@ input:checked + label + .accordion-content {
 
 <a id="vector-control"></a>
 
-<h2>Other Vectore-borne Diseases</h2>
+<h2>Other Vector-borne Diseases</h2>
 <div>
 	<input type="checkbox" id="title6"  /><label for="title6">Some Pests Can Carry Diseases That Affect Us</label>
 	<div class="accordion-content">
