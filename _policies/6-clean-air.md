@@ -120,6 +120,7 @@ input:checked + label + .accordion-content {
 </table>
 
 <br>
+<br>
 <div class="container">
     <input type="checkbox" id="title1" /><label for="title1">The challenge - Modern life affects air quality</label>
     <div class="accordion-content">
