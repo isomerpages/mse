@@ -11,8 +11,6 @@ Distinguished guests,
 
 Ladies and gentlemen,
 
-A very good evening
-
 1  Good morning.
 
 2  “Renewing our Vibrant Spring”, the theme for Ecosperity, heralds in a season of renewal and revitalisation, mirroring the transformation needed in our collective journey towards global net zero.
