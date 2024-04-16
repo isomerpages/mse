@@ -55,7 +55,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="our-key-targets">Our Key Targets</h2>
 
-<p>Singapore Ambient Air Quality Targets</p>
+<p>Singapore Ambient Air Quality Targets:</p>
 
 <table style="font-weight: 400;" width="693">
 <!-- Table format -->
