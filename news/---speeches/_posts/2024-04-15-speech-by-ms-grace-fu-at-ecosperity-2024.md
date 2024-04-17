@@ -39,9 +39,9 @@ Ladies and gentlemen,
 
 14  As COP28 outcomes have shown, there is growing global recognition that the future of energy lies in clean energy sources, representing a strategic shift towards a more secure, resilient, and low-emission energy landscape.
 
-15  15.While it is uncertain what our energy mix will be in the future, it is clear that significant effort and resources will be needed to transition from Singapore’s current energy system, which is powered almost entirely by natural gas, towards cleaner energy.
+15  While it is uncertain what our energy mix will be in the future, it is clear that significant effort and resources will be needed to transition from Singapore’s current energy system, which is powered almost entirely by natural gas, towards cleaner energy.
 
-16  16.The Government will need to provide some catalytic funding to support the shift towards low-carbon energy sources. This is why we announced the establishment of the Future Energy Fund at Budget 2024, with an initial injection of $5 billion, to support the large amounts of upfront infrastructure investment required to secure low-carbon energy.
+16  The Government will need to provide some catalytic funding to support the shift towards low-carbon energy sources. This is why we announced the establishment of the Future Energy Fund at Budget 2024, with an initial injection of $5 billion, to support the large amounts of upfront infrastructure investment required to secure low-carbon energy.
 
 17  One promising source of low-carbon energy is hydrogen, which we believe has the potential to be a needle-mover in the global energy transition. In 2022, Singapore launched our National Hydrogen Strategy, setting out the steps we are taking to prepare Singapore for a hydrogen future. To facilitate the adoption of hydrogen as an energy source, we announced new emissions standards for power generation units last year, which will require all new generation units to be at least 30% hydrogen-ready by volume, with the ability to be retrofitted to become 100% hydrogen-ready in the future.
 
@@ -72,8 +72,3 @@ Ladies and gentlemen,
 30  I hope that Ecosperity Week 2024 will inspire innovative, collaborative, and transformative efforts that resonate across borders, industries, and communities.
 
 31  I wish you fruitful discussions ahead. Thank you.
-
-
-
-
-
