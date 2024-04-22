@@ -1,9 +1,9 @@
 ---  
-title: CapitaLand Investment and Sg Eco Fund Unveil Partnership to Enhance Community Engagement on Sustainability Initiatives in Singapore  
+title: Joint Media Release for CapitaLand Investment and SG Eco Fund Unveil Partnership to Enhance Community Engagement on Sustainability Initiatives in Singapore  
 permalink: /resource-room/category/2024-04-21-press-release-on-sg-eco-fund-and-capitaland-investment-partnership
 image:  
 file_url:  
-description: CapitaLand Investment and Sg Eco Fund Unveil Partnership to Enhance Community Engagement on Sustainability Initiatives in Singapore
+description: CapitaLand Investment and SG Eco Fund Unveil Partnership to Enhance Community Engagement on Sustainability Initiatives in Singapore
 ---
 
 **Singapore, 21 April 2024** – CapitaLand Investment (CLI) and SG Eco Fund will be entering a two-year partnership to drive greater environmental awareness and community engagement on sustainability initiatives in Singapore, in celebration of Earth Day on 22 April.  
