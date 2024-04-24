@@ -1,6 +1,6 @@
 ---  
 title: Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations Grace Fu to attend the Petersberg Climate Dialogue 2024 and the OECD Ministerial Council Meeting 2024
-permalink: /resource-room/category/2024-4-24-press-release-minister-fu-to-attend-pcd-and-oecd-mcm
+permalink: /resource-room/category/2024-04-24-press-release-minister-fu-to-attend-pcd-and-oecd-mcm
 image:  
 file_url:  
 description: Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations Grace Fu to attend the Petersberg Climate Dialogue 2024 and the OECD Ministerial Council Meeting 2024
