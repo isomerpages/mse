@@ -3,7 +3,7 @@
 
 <p>The four key focus areas for the Year of Public Hygiene are: <b>Clean Environment, Clean Water, Clean Air, and Safe Food.</b> MSE will work alongside NEA, PUB and SFA to tackle inconsiderate behaviour and address pain points in the following areas:</p>
 
-
+<img src="/files/sgecofund/sgeco-community-seed-bank.jpeg" alt="photo of targeted key messages"><br>
 
 <p>Public hygiene will not be achieved by the Government alone. Everyone – the Government, individuals,  businesses, and the community, must work together to ensure that the basic needs of all Singaporeans continue to be met.</p>
 
@@ -11,7 +11,7 @@
 
 <h2>Year of Public Hygiene Profile Frame</h2>
 <p>Show your support by adopting the Year of Public Hygiene profile image frame!</p>
-<p>Click <a href="">here</a> to download the frame, and a guide on how to add the frame to your profile image.</p>
+<p>Click [here]() to download the frame, and a guide on how to add the frame to your profile image.</p>
 
 <br>
 
