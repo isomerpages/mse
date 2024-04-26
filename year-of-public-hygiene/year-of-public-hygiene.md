@@ -11,7 +11,7 @@
 
 <h2>Year of Public Hygiene Profile Frame</h2>
 <p>Show your support by adopting the Year of Public Hygiene profile image frame!</p>
-<p>Click [here]() to download the frame, and a guide on how to add the frame to your profile image.</p>
+<p>Click <a href="/year-of-public-hygiene/YoPH-social-media-frame-template-and-guide.pptx">here</a> to download the frame, and a guide on how to add the frame to your profile image.</p>
 
 <br>
 
