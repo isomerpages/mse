@@ -60,7 +60,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p><i>Managing Littering Hotspots</i></p>
     <p>NEA will adopt a more targeted approach with stepped up enforcement, greater use of technology and community involvement to keep our common spaces clean and deter potential litterbugs.</p>
-		<p><i>Tackling Unhygienic Public Toilets</p>
+		<p><i>Tackling Unhygienic Public Toilets</i></p>
     <p>A Public Toilets Taskforce will be formed, tapping on the expertise of public sector agencies, town councils, premises managers, academia and trade and industry associations, to address the problem of dirty public toilets holistically.</p>
       <p><i>Enhancing Vector Control</i></p>
       <p>NEA will leverage technology to eliminate potential rat nesting grounds, and expand <i>Project Wolbachia</i> to combat dengue.</p>
@@ -75,7 +75,6 @@ input:checked + label + .accordion-content {
       <p>Our used water network is designed to collect and convey used water and not waste, oil and grease. We must ensure proper waste disposal to keep our public and private sewers free-flowing, and minimise chokes that can result in public health issues.</p>
       <p>PUB continues to collaborate with our partners to educate the public and businesses on the importance of keeping our waterways clean and ensuring proper waste disposal. </p>
 	</div>
-<div>
 	<input type="checkbox" id="title3"  /><label for="title3">Safe Food</label>
 	<div class="accordion-content">
 		<<p><i>Leveraging science, data and technology to enhance food safety</i></p>
