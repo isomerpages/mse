@@ -58,31 +58,31 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Clean Environment & Air</label>
 	<div class="accordion-content">
-		<p><i>Managing Littering Hotspots</i></p>
-    <p>NEA will adopt a more targeted approach with stepped up enforcement, greater use of technology and community involvement to keep our common spaces clean and deter potential litterbugs.</p>
-		<p><i>Tackling Unhygienic Public Toilets</i></p>
-    <p>A Public Toilets Taskforce will be formed, tapping on the expertise of public sector agencies, town councils, premises managers, academia and trade and industry associations, to address the problem of dirty public toilets holistically.</p>
-      <p><i>Enhancing Vector Control</i></p>
-      <p>NEA will leverage technology to eliminate potential rat nesting grounds, and expand <i>Project Wolbachia</i> to combat dengue.</p>
-      <p><i>Preserving the Quality of Indoor Air</i></p>
-      <p>NEA will progressively introduce limits on formaldehyde, starting with interior paint, to safeguard public health.</p>
+		<p><b>Managing Littering Hotspots</b><br>
+    NEA will adopt a more targeted approach with stepped up enforcement, greater use of technology and community involvement to keep our common spaces clean and deter potential litterbugs.</p>
+		<p><b>Tackling Unhygienic Public Toilets</b><br>
+    A Public Toilets Taskforce will be formed, tapping on the expertise of public sector agencies, town councils, premises managers, academia and trade and industry associations, to address the problem of dirty public toilets holistically.</p>
+      <p><b>Enhancing Vector Control</b><br>
+      NEA will leverage technology to eliminate potential rat nesting grounds, and expand <i>Project Wolbachia</i> to combat dengue.</p>
+      <p><b>Preserving the Quality of Indoor Air</b><br>
+      NEA will progressively introduce limits on formaldehyde, starting with interior paint, to safeguard public health.</p>
 	</div>
 	<input type="checkbox" id="title2"  /><label for="title2">Clean Water</label>
 	<div class="accordion-content">
-	<p><i>Keeping our waterways clean</i></p>
-      <p>Our reservoirs serve as a source of water supply for our nation. Everyone has a role to play to keep our water catchments clean by keeping litter and other pollutants out of the water bodies.</p>
-    <p><i>Disposing used water properly</i></p>
-      <p>Our used water network is designed to collect and convey used water and not waste, oil and grease. We must ensure proper waste disposal to keep our public and private sewers free-flowing, and minimise chokes that can result in public health issues.</p>
+	<p><b>Keeping our waterways clean</b><br>
+      Our reservoirs serve as a source of water supply for our nation. Everyone has a role to play to keep our water catchments clean by keeping litter and other pollutants out of the water bodies.</p>
+    <p><b>Disposing used water properly</b><br>
+      Our used water network is designed to collect and convey used water and not waste, oil and grease. We must ensure proper waste disposal to keep our public and private sewers free-flowing, and minimise chokes that can result in public health issues.</p>
       <p>PUB continues to collaborate with our partners to educate the public and businesses on the importance of keeping our waterways clean and ensuring proper waste disposal. </p>
 	</div>
 	<input type="checkbox" id="title3"  /><label for="title3">Safe Food</label>
 	<div class="accordion-content">
-		<<p><i>Leveraging science, data and technology to enhance food safety</i></p>
-      <p>SFA adopts a data-driven inspection regime targeted as food establishments with high propensity of food safety lapses to detect non-compliances and food safety lapses early. This will eliminate or minimise the occurrence of foodborne outbreaks and food safety incidents. </p>
-	<p><i>Safeguarding food safety through good public hygiene</i></p>
-      <p>SFA and NEA continue to work together to ensure propoer refuse management and pest control at food establishments as part of our continued efforts to ensure food safety. Food operators must do their part to upkeep good food preparation practices and ensure their premises are clean and well-maintained.</p>
-      <p><i>Ensuring joint responsibility fod food safety</i></p>
-      <p>SFA is developing a new Food Safety and Security Bill (FSSB) to enhance our food safety and security regime to better protect the public and facilitate joint responsibility between industry, consumers and the Government.</p>
+		<p><b>Leveraging science, data and technology to enhance food safety</b><br>
+      SFA adopts a data-driven inspection regime targeted as food establishments with high propensity of food safety lapses to detect non-compliances and food safety lapses early. This will eliminate or minimise the occurrence of foodborne outbreaks and food safety incidents. </p>
+	<p><b>Safeguarding food safety through good public hygiene</b><br>
+      SFA and NEA continue to work together to ensure propoer refuse management and pest control at food establishments as part of our continued efforts to ensure food safety. Food operators must do their part to upkeep good food preparation practices and ensure their premises are clean and well-maintained.</p>
+      <p><b>Ensuring joint responsibility for food safety</b><br>
+      SFA is developing a new Food Safety and Security Bill (FSSB) to enhance our food safety and security regime to better protect the public and facilitate joint responsibility between industry, consumers and the Government.</p>
 	</div>
 </div>
 
