@@ -1,8 +1,59 @@
+---
+title: Year of Public Hygiene
+permalink: /year-of-public-hygiene/yoph
+---
+<style>
+
+input {
+	display: none;
+}
+label {
+	display: block;
+	padding: 8px 22px;
+	margin: 0 0 5px 0;
+	cursor: pointor;
+	background: #F0F4F6;
+	border-radius: 3px;
+	color: #484848;
+	transition: ease .5s;
+	font-size: 1.5em;
+}
+
+label:hover {
+	background: #4a96b0;
+	color: #FFF;
+}
+
+.accordion-content {
+	/* background: #E2E5F6; */
+	padding: 10px 0px 30px 30px;
+	/* border: 1px solid #484848; */
+	margin: 0 0 1px 0;
+	border-radius: 3px;
+}
+
+input + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: none;
+}
+
+input:checked + label + .accordion-content {
+	display: block;
+}
+
+</style>
+<!-- End of accordion -->
+
 <h1>Year of Public Hygiene</h1>
 <p>MSE has designated 2024 as the Year of Public Hygiene to highlight our commitment to raising the standards of public cleanliness and hygiene across our environment, air, water and food. It also emphasises the importance of collective responsibility from both government and the community in maintaining a clean, safe and liveable environment for everyone.</p>
 
 <p>The four key focus areas for the Year of Public Hygiene are: <b>Clean Environment, Clean Water, Clean Air, and Safe Food.</b> MSE will work alongside NEA, PUB and SFA to tackle inconsiderate behaviour and address pain points in the following areas:</p>
 
+<div class="container">
+	
 <h2 id="our-main-plans">Creating a Clean, Green and Resilient Shared Singapore</h2>
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Clean Environment & Air</label>
