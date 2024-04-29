@@ -80,7 +80,7 @@ input:checked + label + .accordion-content {
 		<p><b>Leveraging science, data and technology to enhance food safety</b><br>
       SFA adopts a data-driven inspection regime targeted as food establishments with high propensity of food safety lapses to detect non-compliances and food safety lapses early. This will eliminate or minimise the occurrence of foodborne outbreaks and food safety incidents. </p>
 	<p><b>Safeguarding food safety through good public hygiene</b><br>
-      SFA and NEA continue to work together to ensure propoer refuse management and pest control at food establishments as part of our continued efforts to ensure food safety. Food operators must do their part to upkeep good food preparation practices and ensure their premises are clean and well-maintained.</p>
+      SFA and NEA continue to work together to ensure proper refuse management and pest control at food establishments as part of our continued efforts to ensure food safety. Food operators must do their part to upkeep good food preparation practices and ensure their premises are clean and well-maintained.</p>
       <p><b>Ensuring joint responsibility for food safety</b><br>
       SFA is developing a new Food Safety and Security Bill (FSSB) to enhance our food safety and security regime to better protect the public and facilitate joint responsibility between industry, consumers and the Government.</p>
 	</div>
