@@ -1,11 +1,17 @@
 logo: /images/mse-logo.png
 links:
+  - title: About Us
+    collection: about-us
   - title: Latest News
     resource_room: true
   - title: Policies
     collection: policies
   - title: Take Action
     collection: take-action
+  - title: Go Green SG
+    url: /gogreensg
+  - title: Year of Public Hygiene
+    url: /year-of-public-hygiene/page
   - title: Resources
     url: /resources
     sublinks:
@@ -17,9 +23,3 @@ links:
         url: /partnering-community
       - title: Frequently Asked Questions
         url: /faq
-  - title: About Us
-    collection: about-us
-  - title: Go Green SG
-    url: /gogreensg
-  - title: Year of Public Hygiene
-    url: /year-of-public-hygiene/page
