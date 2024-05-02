@@ -56,8 +56,6 @@ input:checked + label + .accordion-content {
 	
 <h2 id="our-main-plans">Creating a Clean, Green and Resilient Shared Singapore</h2>
 
-<br>
-
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Clean Environment & Air</label>
 	<div class="accordion-content">
@@ -91,17 +89,16 @@ input:checked + label + .accordion-content {
 
 <p>Public hygiene will not be achieved by the Government alone. Everyone – the Government, individuals,  businesses, and the community, must work together to ensure that the basic needs of all Singaporeans continue to be met.</p>
 
-<br>
-
 <h2>Year of Public Hygiene Profile Frame</h2>
 <p>Show your support by adopting the Year of Public Hygiene profile image frame!</p>
 <p>Click <a href="/year-of-public-hygiene/YoPH-social-media-frame-template-and-guide.pptx">here</a> to download the frame, and a guide on how to add the frame to your profile image.</p>
 
-<br>
-
 <h2>Other Resources</h2>
 
-
+<p>
+	
 -   [NEA's Year of Public Hygiene webpage](http://www.nea.gov.sg/our-services/year-of-public-hygiene)
 -   [Public Hygiene Council's website](http://www.publichygienecouncil.sg/)
 -   [Clean & Green Singapore](http://www.cgs.gov.sg/)
+
+</p>
