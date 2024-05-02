@@ -98,4 +98,3 @@ input:checked + label + .accordion-content {
 -   [NEA's Year of Public Hygiene webpage](http://www.nea.gov.sg/our-services/year-of-public-hygiene)
 -   [Public Hygiene Council's website](http://www.publichygienecouncil.sg/)
 -   [Clean & Green Singapore](http://www.cgs.gov.sg/)
-
