@@ -55,7 +55,9 @@ input:checked + label + .accordion-content {
 <div class="container">
 	
 <h2 id="our-main-plans">Creating a Clean, Green and Resilient Shared Singapore</h2>
+
 <br>
+
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Clean Environment & Air</label>
 	<div class="accordion-content">
