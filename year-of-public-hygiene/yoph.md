@@ -101,7 +101,7 @@ input:checked + label + .accordion-content {
 
 <h2>Other Resources</h2>
 
--	<a href="http://www.nea.gov.sg/our-services/year-of-public-hygiene">NEA’s Year of Public Hygiene webpage</a>  
--	<a href="http://www.publichygienecouncil.sg/">Public Hygiene Council’s website</a>                                                              
--	<a href="http://www.cgs.gov.sg/">Clean & Green Singapore</a>
+-   [NEA's Year of Public Hygiene webpage](http://www.nea.gov.sg/our-services/year-of-public-hygiene)
+-   [Public Hygiene Council's website](http://www.publichygienecouncil.sg/)
+-   [Clean & Green Singapore](http://www.cgs.gov.sg/)
 
