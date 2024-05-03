@@ -126,7 +126,7 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div>  
 	
 		<div class="card">
-        <a href="/files/resources/zero-waste-sg-report-transparent-bin-pilot.pdf" target="_blank">  
+        <a href="/resources/zero-waste-sg-report-transparent-bin-pilot.pdf" target="_blank">  
             <div class="card-content">
             <h5>Zero Waste SG Report on Transparent Bin Pilot</h5>
             </div>
