@@ -13,7 +13,6 @@ locations:
         - Environment Building
         - Singapore 228231 
         - Tel &nbsp &nbsp 6731 9000
-        - Fax &nbsp 6731 9456
     operating_hours:
       - days: Mondays - Thursdays
         time: 8.30am - 6.00pm
