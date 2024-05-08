@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on Rents Paid by Hawkers
-permalink: /resource-room/category/2024-05-07-written-reply-to-pq-rents-paid-by-hawkers
+permalink: /resource-room/category/2024-05-07-written-reply-to-pq-on-rents-paid-by-hawkers
 file_url:
 description:
 ---
