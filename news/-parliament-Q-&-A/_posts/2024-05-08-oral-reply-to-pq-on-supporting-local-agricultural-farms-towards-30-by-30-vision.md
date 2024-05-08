@@ -1,5 +1,5 @@
 ---
-title: Written Reply to Parliamentary Question on Supporting Local Agricultural Farms towards 30-by-30 vision
+title: Oral Reply to Parliamentary Question on Supporting Local Agricultural Farms towards 30-by-30 vision
 permalink: /resource-room/category/2024-05-08-oral-reply-to-pq-on-supporting-local-agricultural-farms-towards-30-by-30-vision
 file_url:
 description:
