@@ -7,8 +7,6 @@ description:
  
 #### Written Reply to Parliamentary Question on Using Smart Water Meters to Monitor Safety of Seniors Living Alone by Ms Grace Fu, Minister for Sustainability and the Environment
 
-**Question:**
-
 **Miss Rachel Ong:** To ask the Minister for Sustainability and the Environment whether there are plans to leverage the smart water meter being installed by SP Group to make available monitoring and push alert services to caregivers of seniors living alone when there are anomalies in home usage.
 
 **Answer:**
