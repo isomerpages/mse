@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on Smoking at Covered Walkways and Linkways
-permalink: /resource-room/category/2024-05-07-written-reply-to-pq-on-smoking-at-covered-walkways-and-linkways
+permalink: /resource-room/category/2024-05-08-written-reply-to-pq-on-smoking-at-covered-walkways-and-linkways
 file_url:
 description:
 ---
