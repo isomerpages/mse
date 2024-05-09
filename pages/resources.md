@@ -212,14 +212,6 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>
     <div class="card">
-        <a href="https://www.towardszerowaste.gov.sg/resources/" target="_blank">  
-            <div class="card-content">
-                <h5>Towards Zero Waste (Infographics, Videos)</h5>
-            </div>
-        <img src="/images/towards-zero-waste.png" alt="Towards Zero Waste" style="width:300px;">
-        </a>
-    </div>
-    <div class="card">
         <a href="https://www.nea.gov.sg/corporate-functions/resources/educational-materials/posters" target="_blank">  
             <div class="card-content">
                 <h5>NEA Educational Materials on the Environment</h5>
