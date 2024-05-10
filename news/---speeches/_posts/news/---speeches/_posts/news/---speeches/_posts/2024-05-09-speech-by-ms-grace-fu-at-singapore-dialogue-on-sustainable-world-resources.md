@@ -5,7 +5,7 @@ image:
 file_url:  
 description:  
 ---
-#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the 11th Singapore Dialogue on Sustainable World Resources on 9 May 2024
+#### Keynote Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the 11th Singapore Dialogue on Sustainable World Resources on 9 May 2024
 
 Chairman of the SIIA Simon Tay,  
 
