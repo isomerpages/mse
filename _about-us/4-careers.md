@@ -7,13 +7,13 @@ permalink: /about-us/careers/
 
 <div>
 <center>	  
-	  <a id="meaningful-work">Meaningful work rooted in purpose</a>
-	  <a id="#grow">Grow With Us</a> 
+	  <a id="meaningful-work">Meaningful work rooted in purpose</a> | 
+	  <a id="#grow">Grow With Us</a> | 
 	  <a id="#benefits">Benefits</a> 
 </center>
 </div>
 
-<a href="#meaningful-work"> </a>
+<h2 id="meaningful-work">Meaningful work rooted in purpose</h2>
 
 ### Join a place where there is meaningful work rooted in purpose with everyday impact. 
 
@@ -43,7 +43,8 @@ In the MSE Family, we encourage committment towards environmental sustainability
 Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).
 
 -----
-<a href="#grow"> </a>
+<h2 id="meaningful-work">Grow with us</h2>
+
 ### Join a place where you can grow.
 
 **We help you grow future-relevant competencies**
@@ -78,7 +79,8 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 -----
 
-<a href="#benefits"> </a>
+<a id="#benefits">Benefits</a> 
+
 ### Join a place where we help you to deliver your best work. 
 
 At the MSE family, we care deeply about officers' well-being and safety, and we have measures in place to make sure you feel supported and protected. 
