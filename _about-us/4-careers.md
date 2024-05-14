@@ -13,7 +13,7 @@ permalink: /about-us/careers/
 </center>
 </div>
 
-#### Join a place where there is meaningful work rooted in purpose with everyday impact. 
+### Join a place where there is meaningful work rooted in purpose with everyday impact. 
 
 Our Sustainability, Our Resilience, Our Everyday
 Make a direct impact on the daily lives of every Singaporean. 
@@ -40,7 +40,9 @@ In the MSE Family, we encourage committment towards environmental sustainability
 
 Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).
 
-#### Join a place where you can grow.
+-----
+
+### Join a place where you can grow.
 
 **We help you grow future-relevant competencies**
 
@@ -56,13 +58,13 @@ You will also get the chance to participate in public service-wide and MSE-speci
 
 An annual budget is set aside for your specialised learning needs and development of core competencies. As part of our effort in promoting continuous learning, MSE also provides training sponsorships for formal part-time programmes that are relevant to our officers' work. 
 
-### INTERNSHIPS  
+#### Internships  
 
 MSE offers internship opportunities from time to time, subject to organisational needs. The duration of each internship typically lasts between a few weeks to several months, depending on the nature of the project and the availability of the candidate. 
 
 For more information, check out [Careers@Gov](http://www.careers.gov.sg).  
 
-### SCHOLARSHIPS
+#### Scholarships
 
 The Singapore Sustainability Scholarship offers aspiring young talents an exciting career across the three statutory boards: National Environment Agency (NEA), PUB, Singapore’s National Water Agency, and the Singapore Food Agency (SFA).  
 
@@ -75,7 +77,7 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 -----
 
 
-#### Join a place where we help you to deliver your best work. 
+### Join a place where we help you to deliver your best work. 
 
 At the MSE family, we care deeply about officers' well-being and safety, and we have measures in place to make sure you feel supported and protected. 
 
