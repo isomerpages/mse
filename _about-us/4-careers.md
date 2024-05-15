@@ -7,7 +7,7 @@ permalink: /about-us/careers/
 
 <div>
 <center>	  
-	  <a href="work">Meaningful work rooted in purpose</a> | 
+	  <a href="#work">Meaningful work rooted in purpose</a> | 
 	  <a href="#grow">Grow With Us</a> | 
 	  <a href="#benefits">Benefits</a> 
 </center>
@@ -79,7 +79,7 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 -----
 
-<h2><a id="#benefits">Benefits</a></h2> 
+<h2><a id="benefits">Benefits</a></h2> 
 
 ### Join a place where we help you to deliver your best work. 
 
