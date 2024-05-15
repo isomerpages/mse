@@ -44,7 +44,7 @@ Professor Cheong Koon Hean, Chair of LKYCIC commented: “Despite the barriers, 
 
 •	Respondents turned to and were more trusting of local news outlets and official government sources for environmental sustainability information
 
-To full report can be found here. 
+To full report can be found <a href="[url](https://ipur.nus.edu.sg/wp-content/uploads/2024/05/Getting-to-Net-Zero-Report-1.pdf)">here</a>. 
 
 ___________________________________________________________
 <sup>1</sup> Respondents were first asked if they knew about Net Zero. All respondents were then provided with information about Singapore’s Net Zero target. Following which, they were asked about their views on the target. 
