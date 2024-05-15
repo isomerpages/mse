@@ -3,25 +3,71 @@ title: Careers
 permalink: /about-us/careers/
 ---
 
+![MSE Banner - Our Sustainability, Our Resilience, Our Everyday](/images/mse-career-banner.jpg)
 
+<div>
+<center>	  
+	  <a href="work">Meaningful work rooted in purpose</a> | 
+	  <a href="#grow">Grow With Us</a> | 
+	  <a href="#benefits">Benefits</a> 
+</center>
+</div>
 
-## THE MINISTRY WITH A MISSION
+<h2><a id="work">Meaningful work rooted in purpose</a></h2>
 
-MSE's work has a direct impact on the living standards of all Singaporeans. Our efforts bring about a clean living environment with high standards of public health and sustainable supply of safe food for all to enjoy.
+### Join a place where there is meaningful work rooted in purpose with everyday impact. 
 
-## CAREER OPPORTUNITIES
+Our Sustainability, Our Resilience, Our Everyday
+Make a direct impact on the daily lives of every Singaporean. 
+As part of MSE Family, you will drive sustainability initiatives that will have a direct and meaningful impact on the daily lives of every Sinagporean. 
 
-Do you have the desire to make a difference in ensuring sustainable development for Singapore and that we can all continue to enjoy clean air, clean water and clean land now and for future generations? If you do, come join MSE!
+Innovation is at the heart of what we do. To prepare for an uncertain future and global changes, we are forward-thinking and constantly seek new solutions to address evolving challenges. 
 
-To view our current job openings, kindly visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).  
+We are dedicated to continuous growth and learning. We stay ahead of the curve, developing our skills and careers to adapt to a rapidly evolving world. 
 
-### INTERNSHIPS  
+As a team, we look out for one another and strive towards an inclusive, safe, and supportive MSE Family that values our staff and prioritises workplace safety and health. 
+
+Together, we champion Singapore's efforts to create a greener, more sustainable and resilient future for ourselves and generations to come. 
+
+**Journey alongside a committed and diverse team with us at MSE Family.**
+
+In the MSE Family, we encourage committment towards environmental sustainability and the community through SPIRIT*-based activities such as: 
+
+* Vertical Challenge,
+* Coastal clean-ups,
+* Social recycling events,
+* Provision of time-off for community involvement activities up to twice a year.
+
+*SPIRIT stands for: Service, Professionalism, Integrity, Respect, Innovation and Teamwork
+
+Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).
+
+-----
+<h2><a id="grow">Grow with us</a></h2>
+
+### Join a place where you can grow.
+
+**We help you grow future-relevant competencies**
+
+At MSE Family, we believe in developing our officers to reach their fullest potential. Through our comprehensive Learning & Development and sustainability competency frameworks, we empower our officers to be catalysts for change and contribute to MSE family's mission of building a resilient, sustainable Singapore. 
+
+**We support you to develop new skills in the sunrise sustainability industry and develop professional competencies within and across the MSE Family.**
+
+At suitable junctures in your career, look forward to job postings and rotational opportunities within the MSE family which will enable you to gain a broader perspective of what we do. 
+
+You will also get the chance to participate in public service-wide and MSE-specific programmes.
+
+**We invest in your development.**
+
+An annual budget is set aside for your specialised learning needs and development of core competencies. As part of our effort in promoting continuous learning, MSE also provides training sponsorships for formal part-time programmes that are relevant to our officers' work. 
+
+#### Internships  
 
 MSE offers internship opportunities from time to time, subject to organisational needs. The duration of each internship typically lasts between a few weeks to several months, depending on the nature of the project and the availability of the candidate. 
 
 For more information, check out [Careers@Gov](http://www.careers.gov.sg).  
 
-### SCHOLARSHIPS
+#### Scholarships
 
 The Singapore Sustainability Scholarship offers aspiring young talents an exciting career across the three statutory boards: National Environment Agency (NEA), PUB, Singapore’s National Water Agency, and the Singapore Food Agency (SFA).  
 
@@ -33,59 +79,35 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 -----
 
+<h2><a id="#benefits">Benefits</a></h2> 
 
-## LEARNING & DEVELOPMENT
+### Join a place where we help you to deliver your best work. 
 
-In MSE, we value our staff and believe in helping our officers develop to their fullest potential. We have a comprehensive framework, which aims to equip our officers with the commitment to sustainability through environmental stewardship, as well as the required competencies to perform their jobs optimally, thrive in a digitally-enabled workplace, and cultivate harmonious and productive work relationships with both internal and external stakeholders.
+At the MSE family, we care deeply about officers' well-being and safety, and we have measures in place to make sure you feel supported and protected. 
 
-### LEARNING OPPORTUNITIES
+**Where you feel safe to come to work**
+Regular communication efforts on Workplace Safety & Health (WSH) practices, and safety walkabouts to mitigate WSH risks in our workplace; MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices)
 
-You can expect to participate in public service-wide and MSE-specific programmes, including site visits to key MSE Family installations. An annual budget is also set aside for your specialised learning needs and development of core competencies. 
+**Where you can strike a balance**
+Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership)
 
-### CAREER DEVELOPMENT
+**Where you can feel supported emotionally**
+Providing access to programmes and services (e.g. WOG Wellness Ambassadors network, WOG Counselling Services) to support the health and mental well-being of our officers
 
-MSE also believes in enabling our people to develop to their fullest potential while striving to meet both individual and organisational needs. While on the job, you will have opportunities to be exposed to different and varied job scopes. With the right attitude and aptitude, you will rise and assume more challenging roles. At suitable junctures in your career, you can also look forward to job postings within the MSE family which will enable you to gain a broader perspective of what we do.
+**Health and protection**
+Subsidised Outpatient and Dental Treatment
+Additional 2% Medisave Contribution, subject to a cap of $70 per month
+Public Officers Group Insurance Scheme
 
-### TRAINING SPONSORSHIPS
-
-As part of our effort in promoting continuous learning, MSE also provides training sponsorships for formal part-time programmes that are relevant to our officers' work.
-
------
-
-
-## EMPLOYEE BENEFITS
-
-Joining the Ministry of Sustainability and the Environment (MSE) is more than just a rewarding career move; it is a new way of life! Knowing that you play an important role towards making Singapore a pleasant place to live in is just one of the many rewards.
-
-### REMUNERATION
-
-Your starting monthly salary will commensurate with your qualifications and relevant work experience. On top of your monthly salary, you will receive other annual salary components including individual performance bonus, 13th month Non-Pensionable Annual Allowance (NPAA) and other variable bonuses.
-
-### MEDICAL / DENTAL / INSURANCE BENEFITS
-
--   Subsidised Outpatient and Dental Treatment
--   Additional 1% Medisave Contribution, subject to a cap of $70 per month
--   Public Officers Group Insurance Scheme
-
-### LEAVE ENTITLEMENT
-
--   14 days/18 days annual vacation leave, depending on your scheme of service
--   Marriage Leave
--   Maternity and Paternity Leave
--   Parent-care Leave
--   Compassionate Leave
--   Childcare / Infant Care Leave
--   Sick leave and Hospitalisation Leave
--   Study Leave
--   Leave for Representative Games
-
-### SOCIAL / RECREATIONAL BENEFITS
-
--   Government holiday bungalows
--   Civil Service Club Membership
--   Range of staff welfare activities
-
-
------
+**Leave entitlement**
+14 days/18 days annual vacation leave, depending on your scheme of service
+Marriage Leave
+Maternity and Paternity Leave
+Parent-care Leave
+Compassionate Leave
+Childcare/Infant Care Leave
+Sick leave and Hospitalisation Leave
+Study Leave
+Leave for Representation Games
 
 
