@@ -2,7 +2,7 @@
 title: Strong support for government policies to achieve Net Zero; many are already taking action to reduce their carbon footprint
 permalink: /resource-room/category/2024-05-15-joint-mse-nus-sutd-press-release-net-zero-survey-results
 image:  
-file_url:  
+file_url:
 description: Joint press release between NUS, SUTD and MSE on the findings for the Getting to Net Zero: Knowledge and Perceptions in Singapore survey
 ---
 SINGAPORE, 15 May 2024 – When provided with information about Singapore’s 2050 goal<sup>1</sup>, 65% of respondents from a recently completed survey expressed support for Singapore’s target to achieve Net Zero carbon emissions by 2050, with an additional 17% saying they support a more ambitious timeline. This was despite the current low levels of awareness where only 15% of the respondents knew of the national commitment to achieve Net Zero carbon emissions by 2050.
