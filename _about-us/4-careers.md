@@ -7,13 +7,13 @@ permalink: /about-us/careers/
 
 <div>
 <center>	  
-	  <a href="meaningful-work">Meaningful work rooted in purpose</a> | 
+	  <a href="work">Meaningful work rooted in purpose</a> | 
 	  <a href="#grow">Grow With Us</a> | 
 	  <a href="#benefits">Benefits</a> 
 </center>
 </div>
 
-<h2><a id="#meaningful-work">Meaningful work rooted in purpose</a></h2>
+<h2><a id="work">Meaningful work rooted in purpose</a></h2>
 
 ### Join a place where there is meaningful work rooted in purpose with everyday impact. 
 
