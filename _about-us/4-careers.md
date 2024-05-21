@@ -19,7 +19,7 @@ permalink: /about-us/careers/
 
 Our Sustainability, Our Resilience, Our Everyday
 Make a direct impact on the daily lives of every Singaporean. 
-As part of MSE Family, you will drive sustainability initiatives that will have a direct and meaningful impact on the daily lives of every Sinagporean. 
+As part of MSE Family, you will be at the forefront of innovation, driving sustainability and resilience initiatives that will have a direct and meaningful impact on the daily lives of every Sinagporean. 
 
 Innovation is at the heart of what we do. To prepare for an uncertain future and global changes, we are forward-thinking and constantly seek new solutions to address evolving challenges. 
 
@@ -96,7 +96,7 @@ Providing access to programmes and services (e.g. WOG Wellness Ambassadors netwo
 
 **Health and protection**
 Subsidised Outpatient and Dental Treatment
-Additional 2% Medisave Contribution, subject to a cap of $70 per month
+Additional 2% Medisave Contribution, subject to a cap of $140 per month
 Public Officers Group Insurance Scheme
 
 **Leave entitlement**
