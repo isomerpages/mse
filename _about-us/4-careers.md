@@ -15,7 +15,7 @@ permalink: /about-us/careers/
 
 <h2><a id="work">Meaningful work rooted in purpose</a></h2>
 
-### Join a place where there is meaningful work rooted in purpose with everyday impact. 
+<font color="#70AD47"> ### Join a place where there is meaningful work rooted in purpose with everyday impact. </font>
 
 Our Sustainability, Our Resilience, Our Everyday
 Make a direct impact on the daily lives of every Singaporean. 
@@ -45,7 +45,7 @@ Want to make a direct impact on the everyday lives of Singaporeans, and work tow
 -----
 <h2><a id="grow">Grow with us</a></h2>
 
-### Join a place where you can grow.
+<font color="#70AD47"> ### Join a place where you can grow. </font>
 
 **We help you grow future-relevant competencies**
 
@@ -81,7 +81,7 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 <h2><a id="benefits">Benefits</a></h2> 
 
-### Join a place where we help you to deliver your best work. 
+<font color="#70AD47"> ### Join a place where we help you to deliver your best work. </font>
 
 At the MSE family, we care deeply about officers' well-being and safety, and we have measures in place to make sure you feel supported and protected. 
 
