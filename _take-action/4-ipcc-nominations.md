@@ -1,7 +1,6 @@
 ---
 title: Nominations for Intergovernmental Panel on Climate Change (IPCC)
 permalink: /nominations-for-ipcc/
-third_nav_title: Nominations for IPCC
 ---
 
 The Intergovernmental Panel on Climate Change (IPCC) is the United Nations’ body for assessing the scientific basis of climate change, its impacts and future risks, and options for mitigation and adaptation.  IPCC assessments provide a scientific basis for governments to develop climate-related policies and contribute to global climate action under the United Nations Framework Convention on Climate Change (UNFCCC).
