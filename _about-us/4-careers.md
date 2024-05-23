@@ -15,11 +15,11 @@ permalink: /about-us/careers/
 
 <h2><a id="work">Meaningful work rooted in purpose</a></h2>
 
-### Join a place where there is meaningful work rooted in purpose with everyday impact. 
+<font color="#70AD47"> <h3> Join a place where there is meaningful work rooted in purpose with everyday impact.</h3> </font>
 
 Our Sustainability, Our Resilience, Our Everyday
 Make a direct impact on the daily lives of every Singaporean. 
-As part of MSE Family, you will drive sustainability initiatives that will have a direct and meaningful impact on the daily lives of every Sinagporean. 
+As part of MSE Family, you will be at the forefront of innovation, driving sustainability and resilience initiatives that will have a direct and meaningful impact on the daily lives of every Sinagporean. 
 
 Innovation is at the heart of what we do. To prepare for an uncertain future and global changes, we are forward-thinking and constantly seek new solutions to address evolving challenges. 
 
@@ -45,7 +45,7 @@ Want to make a direct impact on the everyday lives of Singaporeans, and work tow
 -----
 <h2><a id="grow">Grow with us</a></h2>
 
-### Join a place where you can grow.
+<font color="#70AD47"> <h3> Join a place where you can grow. </h3> </font>
 
 **We help you grow future-relevant competencies**
 
@@ -81,7 +81,7 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 <h2><a id="benefits">Benefits</a></h2> 
 
-### Join a place where we help you to deliver your best work. 
+<font color="#70AD47"> <h3> Join a place where we help you to deliver your best work. </h3> </font>
 
 At the MSE family, we care deeply about officers' well-being and safety, and we have measures in place to make sure you feel supported and protected. 
 
@@ -96,7 +96,7 @@ Providing access to programmes and services (e.g. WOG Wellness Ambassadors netwo
 
 **Health and protection**
 Subsidised Outpatient and Dental Treatment
-Additional 2% Medisave Contribution, subject to a cap of $70 per month
+Additional 2% Medisave Contribution, subject to a cap of $140 per month
 Public Officers Group Insurance Scheme
 
 **Leave entitlement**
