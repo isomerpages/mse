@@ -1,5 +1,5 @@
 ---
-title: Nominations for the IPCC (IPCC)
+title: Nominations for the IPCC
 permalink: /nominations-for-ipcc/
 ---
 
