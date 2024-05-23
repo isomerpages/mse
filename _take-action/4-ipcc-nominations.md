@@ -10,4 +10,4 @@ The nominations will be subject to a further selection process by the IPCC.
 
 The call for nominations for the Scoping Meeting is currently open. Should you wish to nominate experts in your organisation to participate in the Scoping Meeting, please fill in the form for each nomination by 31 May 2024:
 
-<a class="button_david" href="https://go.gov.sg/ipcc-ar7-scoping-meeting-sg-nominations">APPLY HERE</a></center>
+<center><a class="button_david" href="https://go.gov.sg/ipcc-ar7-scoping-meeting-sg-nominations">APPLY HERE</a></center>
