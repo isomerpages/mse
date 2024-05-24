@@ -89,7 +89,7 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | -------- | -------- | -------- | -------- |
-| ![work](/images/icon1.jpg) | ![balance](/images/icon2.jpg)  | ![support](/images/icon3.jpg)  | ![health](/images/icon4.jpg)  | 
+| ![work](/images/icon1.png) | ![balance](/images/icon2.png)  | ![support](/images/icon3.png)  | ![health](/images/icon4.png)  | 
 | **Where you feel safe to come to work** | **Where you can strike a balance** | **Where you can feel supported emotionally** | **Health and protection** |
 | Regular communication efforts on Workplace Safety & Health (WSH) practices, and safety walkabouts to mitigate WSH risks in our workplace; MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices)| Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership) | Providing access to programmes and services (e.g. WOG Wellness Ambassadors network, WOG Counselling Services) to support the health and mental well-being of our officers | - Subsidised Outpatient and Dental Treatment - Additional 2% Medisave Contribution, subject to a cap of $140 per month - Public Officers Group Insurance Scheme
 
