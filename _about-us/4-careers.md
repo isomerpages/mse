@@ -40,7 +40,7 @@ In the MSE Family, we encourage committment towards environmental sustainability
 
 *SPIRIT stands for: Service, Professionalism, Integrity, Respect, Innovation and Teamwork
 
-![MSE Family](images/IMG-20240412-WA0003.jpg)
+![MSE Family](/images/IMG-20240412-WA0003.jpg)
 
 Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).
 
