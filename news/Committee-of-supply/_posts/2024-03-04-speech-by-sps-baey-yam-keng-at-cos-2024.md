@@ -6,7 +6,7 @@ file_url:
 description:
 --- 
 
-#### Speech by Mr Baey Yam Keng, Senior Parliamentary Secretary for Sustainability and the Environment, at Ministry of Sustainability and the Environment's Committtee of Supply (COS) Debate 2024, 4 March 2024
+#### Speech by Mr Baey Yam Keng, Senior Parliamentary Secretary for Sustainability and the Environment, at Ministry of Sustainability and the Environment's Committee of Supply (COS) Debate 2024, 4 March 2024
 
 **Keeping Singapore clean and safe, and enabling community action**
 
