@@ -6,7 +6,7 @@ file_url:
 description: 
 ---
 
-####REMARKS BY DR KOH POH KOON, SENIOR MINISTER OF STATE, MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT, AT THE LAUNCH OF AGGREGATED LOCAL PRODUCE AT FAIRPRICE STORES
+#### REMARKS BY DR KOH POH KOON, SENIOR MINISTER OF STATE, MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT, AT THE LAUNCH OF AGGREGATED LOCAL PRODUCE AT FAIRPRICE STORES
 
 Mr Ken Cheong, CEO, SAFEF 
 
@@ -28,7 +28,7 @@ Ladies and gentlemen
 
 6	To strengthen our food security, a key strategy we adopt is to diversify our import sources. We import from over 180 countries and regions, hoping that by not putting all our eggs in one basket, we diversify our risk. This has worked well for us. Another key strategy is local food production. The food that we grow locally can act as a form of insurance that buffers us in times of food supply disruptions. This is something that will help strengthen our overall food safety resilience. This is why we embarked on an ambitious 30 by 30 vision to build our local agri-food industry’s capability and capacity to sustainably produce 30 per cent of our nutritional needs by 2030. This is a tall order and our farms are working very hard to achieve this, but this is something that we have to keep trying for.
 
-Demand-Supply Aggregation 
+**Demand-Supply Aggregation** 
 
 7	In our journey to strengthen our food security, it is important that we build a strong agri-food ecosystem where various players synergistically support one another. No one stakeholder can achieve food resilience for Singapore on their own, it takes everyone working together – the producers, buyers, value-adding industries and importantly, consumers. I am heartened that the industry is coming together to help our farmers find more avenues for demand offtake, such as through the matching of demand and supply. 
 
