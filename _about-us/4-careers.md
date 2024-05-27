@@ -94,14 +94,14 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
 
 
 **Leave entitlement**
-*14 days/18 days annual vacation leave, depending on your scheme of service
-*Marriage Leave
-*Maternity and Paternity Leave
-*Parent-care Leave
-*Compassionate Leave
-*Childcare/Infant Care Leave
-*Sick leave and Hospitalisation Leave
-*Study Leave
-*Leave for Representation Games
+* 14 days/18 days annual vacation leave, depending on your scheme of service
+* Marriage Leave
+* Maternity and Paternity Leave
+* Parent-care Leave
+* Compassionate Leave
+* Childcare/Infant Care Leave
+* Sick leave and Hospitalisation Leave
+* Study Leave
+* Leave for Representation Games
 
 
