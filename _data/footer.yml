@@ -1,11 +1,8 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
-faq:
 social_media:
-    facebook: https://www.facebook.com/MSEsingapore/
-    twitter: https://www.twitter.com/MSEsingapore/
-    youtube: https://www.youtube.com/channel/UCAY0e59sglqfb8AWKYe7UPw/
-    instagram: https://www.instagram.com/msesingapore/
-    tiktok: https://www.tiktok.com/@msesingapore
-    
+  facebook: https://www.facebook.com/MSEsingapore/
+  twitter: https://www.twitter.com/MSEsingapore/
+  youtube: https://www.youtube.com/channel/UCAY0e59sglqfb8AWKYe7UPw/
+  instagram: https://www.instagram.com/msesingapore/
+  tiktok: https://www.tiktok.com/@msesingapore
