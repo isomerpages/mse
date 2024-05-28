@@ -1,6 +1,6 @@
 ---  
 title: Senior Minister of State for Sustainability and the Environment Dr Amy Khor to attend 10<sup>TH</sup> World Water Forum in Bali, Indonesia
-permalink: /resource-room/category/2024-04-15-press-release-on-sms-khor-at-10th-world-water-forum
+permalink: /resource-room/category/2024-05-19-press-release-on-sms-khor-at-10th-world-water-forum
 image:  
 file_url:  
 description: Senior Minister of State for Sustainability and the Environment Dr Amy Khor to attend 10<sup>th</sup> World Water Forum in Bali, Indonesia 
