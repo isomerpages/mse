@@ -1,25 +1,21 @@
 title: Ministry of Sustainability and the Environment
-url: 'https://www.mse.gov.sg'
+url: https://www.mse.gov.sg
 favicon: /images/favicon.ico
 shareicon: /images/thumbnail.png
-# is_government: false
-
-# Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#6031b6"
+  secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
-      color: '#323232'
+      color: "#323232"
     - title: media-color-two
-      color: '#323232'
+      color: "#323232"
     - title: media-color-three
-      color: '#323232'
+      color: "#323232"
     - title: media-color-four
-      color: '#323232'
+      color: "#323232"
     - title: media-color-five
-      color: '#323232'
-
+      color: "#323232"
 collections:
   about-us:
     output: true
@@ -35,22 +31,30 @@ collections:
     output: true
 google_analytics: UA-183999332-1
 resources_name: news
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -60,4 +64,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-
+facebook-pixel: ""
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
