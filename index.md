@@ -12,7 +12,7 @@ sections:
       title: Sustainable. Resource-Efficient. Climate-Resilient.
   - infopic:
       title: Go Green SG
-      description: Go Green SG comprises a series of sustainability-related events and activities organised by our People, Public and Private (3P) partners.
+      description: Go Green SG returns this year from June 12 to July 14, with more activities related to public cleanliness, the environment and sustainability, in support of the Year of Public Hygiene.
       button: Learn more
       url: https://www.gogreen.gov.sg
       image: /images/gogreensg_logo.png
