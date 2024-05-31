@@ -1,18 +1,22 @@
 ---
 layout: homepage
 title: Home - MSE
-description: Ministry of Sustainability and the Environment — providing
-  Singapore with a clean and sustainable environment with resilient supplies of
-  safe food and water
+description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
 notification: <p><a style="font-family:'Arial'"
-  href="https://www.mse.gov.sg/year-of-public-hygiene/page"><b>MSE marks 2024 as
-  The Year of Public Hygiene</b></a></p>
+  href="https://www.mse.gov.sg/year-of-public-hygiene/page"><b>MSE marks 2024 as The Year of Public Hygiene</b></a></p>
 permalink: /
 sections:
   - hero:
       background: /images/images_mse_home_banner_2024.png
   - infobar:
       title: Sustainable. Resource-Efficient. Climate-Resilient.
+  - infopic:
+      title: Go Green SG
+      description: Go Green SG returns this year from June 12 to July 14, with more activities related to public cleanliness, the environment and sustainability, in support of the Year of Public Hygiene.
+      button: Learn more
+      url: https://www.gogreen.gov.sg
+      image: /images/gogreensg_logo.png
+      alt: Go Green SG
   - infopic:
       title: Singapore Green Plan 2030
       description: Climate change is a global challenge, and Singapore is taking firm
