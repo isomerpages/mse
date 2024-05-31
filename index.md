@@ -11,6 +11,13 @@ sections:
   - infobar:
       title: Sustainable. Resource-Efficient. Climate-Resilient.
   - infopic:
+      title: Go Green SG
+      description: Go Green SG comprises a series of sustainability-related events and activities organised by our People, Public and Private (3P) partners.
+      button: Learn more
+      url: https://www.gogreen.gov.sg
+      image: /images/gogreensg_logo.png
+      alt: Go Green SG
+  - infopic:
       title: Singapore Green Plan 2030
       description: Climate change is a global challenge, and Singapore is taking firm
         actions to do our part to build a sustainable future. Singapore Green
