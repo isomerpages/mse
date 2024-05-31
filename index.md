@@ -12,8 +12,8 @@ sections:
       title: Sustainable. Resource-Efficient. Climate-Resilient.
   - infopic:
      title: Go Green SG
-     description: Go Green SG comprises a series of sustainability related events and activities organised by our People, Public and Private (3P) partners.
-      button: Sign up now
+      description: Go Green SG comprises a series of sustainability related events and activities organised by our People, Public and Private (3P) partners.
+      button: Learn more
       url: http://www.gogreen.gov.sg
       image: /images/gogreensg_logo.png
       alt: Go Green SG
