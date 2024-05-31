@@ -15,7 +15,8 @@ sections:
       title: Sustainable. Resource-Efficient. Climate-Resilient.
   - infopic:
        title: <h2 style="font-family:'Cabin'">Go Green SG</h2>
-         description: Go Green SG comprises a series of sustainability-related events and activities in July organised by our People, Public and Private (3P) partners.
+         description: Go Green SG comprises a series of sustainability-related events
+         and activities in July organised by our People, Public and Private (3P) partners.
          button: Learn more!
          url: http://www.gogreen.gov.sg
          image: /images/gogreensg_logo.png
