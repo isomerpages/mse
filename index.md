@@ -10,6 +10,14 @@ sections:
       background: /images/images_mse_home_banner_2024.png
   - infobar:
       title: Sustainable. Resource-Efficient. Climate-Resilient.
+ - infopic:
+      title: <h2 style="font-family:'Cabin'">Go Green SG</h2>
+      # subtitle: Get ready for a month of fun-filled green activities and experiences! 
+      description: Go Green SG comprises a series of sustainability-related events and activities in July organised by our People, Public and Private (3P) partners.
+      button: Sign up now!
+      url: http://www.gogreen.gov.sg
+      image: /images/gogreensg_logo.png
+      alt: Go Green SG
   - infopic:
       title: Singapore Green Plan 2030
       description: Climate change is a global challenge, and Singapore is taking firm
