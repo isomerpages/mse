@@ -5,7 +5,7 @@ image:
 file_url:  
 description: Online registration for Go Green SG 2024 activities starts from 5 June 2024
 --- 
-**Singapore, 31 May 2024** – Go Green SG 2024 will be launched by Deputy Prime Minister Heng Swee Keat on 12 June 2024. Members of the public can visit the Go Green SG website (<a href="www.gogreen.gov.sg">www.gogreen.gov.sg</a>) to browse the available activities from 31 May 2024. Online registration to participate in the activities will commence from 5 June 2024, on World Environment Day
+**Singapore, 31 May 2024** – Go Green SG 2024 will be launched by Deputy Prime Minister Heng Swee Keat on 12 June 2024. Members of the public can visit the Go Green SG website (<a href="https://www.gogreen.gov.sg">www.gogreen.gov.sg</a>) to browse the available activities from 31 May 2024. Online registration to participate in the activities will commence from 5 June 2024, on World Environment Day
 
 **Go Green SG 2024 Activities by Partners from People, Private and Public (3P) Sectors**
 
@@ -21,7 +21,7 @@ description: Online registration for Go Green SG 2024 activities starts from 5 J
 
 6  For those interested in taking a behind-the-scenes look into how sustainability features in the work of the Public Service, several public agencies will be organising tours to facilities not usually open to the public. These include visits to national water agency PUB’s WaterHub, where participants will see a live demonstration on how to clear a choke in our public sewerage system, which conveys used water to our water reclamation plants for treatment and reuse into NEWater; tours to Seletar Bus Depot organised by the Land Transport Authority; and a visit to JTC Corporation’s SolarLand at Changi Business Park — the site of Singapore’s largest ground mounted solar farm.
 
-7  The public can view the list of Go Green SG 2024 activities at <a href="www.gogreen.gov.sg">www.gogreen.gov.sg</a> from 31 May, and register from 5 June on World Environment Day. Activities will be progressively updated on the website. See <a href="/resources/Media-Release-Online-Registration-for-Go-Green-SG-2024-Activities-Starts-from-5-June-2024.pdf">Annex</a> for details of some Go Green SG activities organised by MSE’s 3P sector partners.
+7  The public can view the list of Go Green SG 2024 activities at <a href="https://www.gogreen.gov.sg">www.gogreen.gov.sg</a> from 31 May, and register from 5 June on World Environment Day. Activities will be progressively updated on the website. See <a href="/resources/Media-Release-Online-Registration-for-Go-Green-SG-2024-Activities-Starts-from-5-June-2024.pdf">Annex</a> for details of some Go Green SG activities organised by MSE’s 3P sector partners.
 
 **Go Green SG Jingle Galvanises Collective Action towards Good Public Hygiene**
 
