@@ -5,7 +5,7 @@ image:
 file_url:  
 description: Online registration for Go Green SG 2024 activities starts from 5 June 2024
 --- 
-**Singapore, 31 May 2024** – Go Green SG 2024 will be launched by Deputy Prime Minister Heng Swee Keat on 12 June 2024. Members of the public can visit the Go Green SG website (www.gogreen.gov.sg) to browse the available activities from 31 May 2024. Online registration to participate in the activities will commence from 5 June 2024, on World Environment Day
+**Singapore, 31 May 2024** – Go Green SG 2024 will be launched by Deputy Prime Minister Heng Swee Keat on 12 June 2024. Members of the public can visit the Go Green SG website (<a href="www.gogreen.gov.sg">www.gogreen.gov.sg</a>) to browse the available activities from 31 May 2024. Online registration to participate in the activities will commence from 5 June 2024, on World Environment Day
 
 **Go Green SG 2024 Activities by Partners from People, Private and Public (3P) Sectors**
 
@@ -21,12 +21,12 @@ description: Online registration for Go Green SG 2024 activities starts from 5 J
 
 6  For those interested in taking a behind-the-scenes look into how sustainability features in the work of the Public Service, several public agencies will be organising tours to facilities not usually open to the public. These include visits to national water agency PUB’s WaterHub, where participants will see a live demonstration on how to clear a choke in our public sewerage system, which conveys used water to our water reclamation plants for treatment and reuse into NEWater; tours to Seletar Bus Depot organised by the Land Transport Authority; and a visit to JTC Corporation’s SolarLand at Changi Business Park — the site of Singapore’s largest ground mounted solar farm.
 
-7  The public can view the list of Go Green SG 2024 activities at www.gogreen.gov.sg from 31 May, and register from 5 June on World Environment Day. Activities will be progressively updated on the website. See <a href"/resources/Media-Release-Online-Registration-for-Go-Green-SG-2024-Activities-Starts-from-5-June-2024.pdf">Annex</a> for details of some Go Green SG activities organised by MSE’s 3P sector partners.
+7  The public can view the list of Go Green SG 2024 activities at <a href="www.gogreen.gov.sg">www.gogreen.gov.sg</a> from 31 May, and register from 5 June on World Environment Day. Activities will be progressively updated on the website. See <a href="/resources/Media-Release-Online-Registration-for-Go-Green-SG-2024-Activities-Starts-from-5-June-2024.pdf">Annex</a> for details of some Go Green SG activities organised by MSE’s 3P sector partners.
 
 **Go Green SG Jingle Galvanises Collective Action towards Good Public Hygiene**
 
-8  With 2024 designated as the Year of Public Hygiene, related Go Green SG publicity materials aim to nudge the public to do their part for a cleaner and greener Singapore. These include a song collaboration with local artists Annette Lee and Glenn Yong encouraging everyone to take simple everyday actions including not littering, binning our trash properly, returning our trays and clearing tables after our meals at hawker centres, coffeeshops and food courts, and keeping our public toilets clean for ourselves and other users. The jingle will be released on 31 May. Viewing link: https://youtu.be/jKVtIQkIgo4.
+8  With 2024 designated as the Year of Public Hygiene, related Go Green SG publicity materials aim to nudge the public to do their part for a cleaner and greener Singapore. These include a song collaboration with local artists Annette Lee and Glenn Yong encouraging everyone to take simple everyday actions including not littering, binning our trash properly, returning our trays and clearing tables after our meals at hawker centres, coffeeshops and food courts, and keeping our public toilets clean for ourselves and other users. The jingle will be released on 31 May. Viewing link: <a href="https://youtu.be/jKVtIQkIgo4">https://youtu.be/jKVtIQkIgo4</a>.
 
 ***
 
-<sup id="fn1">1. [Translations of Go Green SG: Chinese [绿动新加坡], Malay [Ayuh Hijau SG], Tamil [பசுமையாவ ாை் சிங்கப்பூர்]]</sup>
+<sup id="fn1">1. Translations of Go Green SG: Chinese [绿动新加坡], Malay [Ayuh Hijau SG], Tamil [பசுமையாவ ாை் சிங்கப்பூர்]</sup>
