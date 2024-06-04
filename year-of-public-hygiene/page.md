@@ -48,6 +48,9 @@ input:checked + label + .accordion-content {
 <!-- End of accordion -->
 
 <h1>Year of Public Hygiene</h1>
+
+<center><img src="https://www.mse.gov.sg/images/YOPH_FC_Web-Colour.png" alt="Year of Public Hygiene Logo"></center>
+
 <p>MSE has designated 2024 as the Year of Public Hygiene to highlight our commitment to raising the standards of public cleanliness and hygiene across our environment, air, water and food. It also emphasises the importance of collective responsibility from both government and the community in maintaining a clean, safe and liveable environment for everyone.</p>
 
 <p>The four key focus areas for the Year of Public Hygiene are: <b>Clean Environment, Clean Water, Clean Air, and Safe Food.</b> MSE will work alongside NEA, PUB and SFA to tackle inconsiderate behaviour and address pain points in the following areas:</p>
