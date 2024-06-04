@@ -97,6 +97,7 @@ input:checked + label + .accordion-content {
 <p>Click <a href="/year-of-public-hygiene/YoPH-social-media-frame-template-and-guide.pptx">here</a> to download the frame, and a guide on how to add the frame to your profile image.</p>
 
 <h2>Other Resources</h2>
+<p><a href="https://www.gogreen.gov.sg/year-of-public-hygiene/">Selected Year of Public Hygiene Activities from Go Green SG</a></p>
 <p><a href="http://www.nea.gov.sg/our-services/year-of-public-hygiene">NEA's Year of Public Hygiene webpage </a></p>
 <p><a href="http://www.publichygienecouncil.sg/">Public Hygiene Council's website</a></p>
 <p><a href="http://www.cgs.gov.sg/">Clean & Green Singapore</a></p>
