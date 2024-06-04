@@ -49,7 +49,7 @@ input:checked + label + .accordion-content {
 
 <h1>Year of Public Hygiene</h1>
 
-![Year of Public Hygiene Logo](/images/YOPH_FC_Web-Colour.png)
+<center> ![Year of Public Hygiene Logo](/images/YOPH_FC_Web-Colour.png)</center>
 
 <p>MSE has designated 2024 as the Year of Public Hygiene to highlight our commitment to raising the standards of public cleanliness and hygiene across our environment, air, water and food. It also emphasises the importance of collective responsibility from both government and the community in maintaining a clean, safe and liveable environment for everyone.</p>
 
