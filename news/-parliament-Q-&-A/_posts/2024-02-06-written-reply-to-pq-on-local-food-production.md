@@ -1,5 +1,5 @@
 ---
-title: Written Reply to Parliamentary Question on carbon credits by Ms Grace Fu, Minister for Sustainability and the Environment
+title: Written Reply to Parliamentary Question on local food production by Ms Grace Fu, Minister for Sustainability and the Environment
 permalink: /resource-room/category/2024-02-06-written-reply-to-pq-on-local-food-production/
 image:
 file_url:
