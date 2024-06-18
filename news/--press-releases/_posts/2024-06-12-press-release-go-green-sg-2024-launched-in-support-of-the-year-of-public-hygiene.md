@@ -43,5 +43,3 @@ description: Go Green SG 2024 Launched in Support of the Year of Public Hygiene
 **About Go Green SG 2024**
 
 13  Go Green SG 2024 features more than 360 activities organised by some 180 partners from across the 3P sectors. The public was invited to view early this year’s Go Green SG activities from 31 May 2024, with online registration commencing on 5 June 2024 (World Environment Day). The list of Go Green SG 2024 activities can be found at www.gogreen.gov.sg. Activities are being progressively updated on the website.
-
-
