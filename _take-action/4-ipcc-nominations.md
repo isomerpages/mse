@@ -8,6 +8,4 @@ The [Intergovernmental Panel on Climate Change (IPCC)](https://www.ipcc.ch/) is 
 Singapore has been invited to nominate experts to participate in the Scoping Meeting to draft the outlines for the Seventh Assessment Report (AR7). The meeting is tentatively scheduled to take place in December 2024 at Kuala Lumpur, Malaysia. The Ministry of Sustainability and the Environment, as the IPCC Focal Point for Singapore, is shortlisting experts for Singapore’s nominations, for submission to the IPCC. 
 The nominations will be subject to a further selection process by the IPCC.
 
-The call for nominations for the Scoping Meeting is currently open. Should you wish to nominate experts in your organisation to participate in the Scoping Meeting, please fill in the form for each nomination by 31 May 2024:
-
-<center><a class="button_david" href="https://go.gov.sg/ipcc-ar7-scoping-meeting-sg-nominations">APPLY HERE</a></center>
+Thank you for your interest. The call for nominations for the Scoping Meeting is now closed. 
