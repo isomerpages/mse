@@ -6,7 +6,7 @@ file_url:
 description: 
 ---
 
-### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Singapore Business Forum at Singapore International Water Week on 20 June 2024
+### Opening Remarks by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Singapore Business Forum at Singapore International Water Week on 20 June 2024
 
 Datuk Liwan Lagang, Deputy Minister for Utility and Telecommunication, Sarawak,
 
