@@ -9,4 +9,4 @@ Singapore has been invited to nominate experts to participate in a Scoping Meeti
 
 The call for nominations for the Scoping Meeting is <b>currently open</b>. Should you wish to nominate experts in your organisation to participate in the Scoping Meeting, download the nomination template <a href="/files/nomination_cdr.xlsx">here</a>. Please fill in the form for each nomination by 12 July 2024:
 
-<a class="button_david" href="https://go.gov.sg/ipcc-cdr-ccus-scoping-meeting-sg-nominations">APPLY HERE</a></center>
+<center><a class="button_david" href="https://go.gov.sg/ipcc-cdr-ccus-scoping-meeting-sg-nominations">APPLY HERE</a></center>
