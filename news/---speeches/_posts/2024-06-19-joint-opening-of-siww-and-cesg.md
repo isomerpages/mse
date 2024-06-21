@@ -1,5 +1,5 @@
 ---
-title: Joint Opening of Singapore International Water Week and CleanEnviro Summit 
+title: Joint Opening of Singapore International Water Week and CleanEnviro Summit - Ms Grace Fu
 permalink: /resource-room/category/2024-06-19-joint-opening-of-siww-and-cesg
 image: 
 file_url: 

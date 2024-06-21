@@ -1,5 +1,5 @@
 ---
-title: Singapore Business Forum at Singapore International Water Week
+title: Singapore Business Forum at Singapore International Water Week - Dr Amy Khor
 permalink: /resource-room/category/2024-06-20-singapore-business-forum-siww
 image: 
 file_url: 

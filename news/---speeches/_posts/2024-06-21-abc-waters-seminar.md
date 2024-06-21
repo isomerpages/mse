@@ -1,5 +1,5 @@
 ---
-title: ABC Waters Seminar
+title: ABC Waters Seminar - Dr Amy Khor
 permalink: /resource-room/category/2024-06-21-abc-waters-seminar
 image: 
 file_url: 
