@@ -6,7 +6,7 @@ file_url:
 description: 
 ---
 
-### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the Coastal and Flood Resilience Leaders Summit on 20 June 2024
+### Opening Address by Ms Grace Fu, Minister for Sustainability and the Environment, at the Coastal and Flood Resilience Leaders Summit on 20 June 2024
 
 Good morning. I am very happy to join you today for the inaugural Coastal and Flood Resilience Leaders Summit, held in conjunction with the Singapore International Water Week 2024.
 
