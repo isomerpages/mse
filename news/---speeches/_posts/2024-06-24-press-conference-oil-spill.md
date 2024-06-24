@@ -1,10 +1,11 @@
 ---
 title: Press Conference on Updates to Oil Spill Clean-up Operations – Ms Grace Fu 
-permalink: /resource-room/category/20240624-press-conference-oil-spill/
+permalink: /resource-room/category/2024-06-24-press-conference-oil-spill
 image:
 file_url:
 description:
 ---
+
 #### Remarks by Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations at the Press Conference on udpates to the oil spill clean-up operations on 24 June 2024 at the National Press Centre
 
 1 I will first address the land-based cleaning operations, the challenges involved, and our emphasis on worker safety.
