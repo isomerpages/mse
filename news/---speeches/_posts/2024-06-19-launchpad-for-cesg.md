@@ -6,7 +6,7 @@ file_url:
 description: 
 ---
 
-### Speech by Dr Amy Khor, Senior Minister of State, Ministry of Sustainability and the Environment, at the Launchpad for the CleanEnviro Summit Singapore on 19 June 2024
+### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at the Launchpad for the CleanEnviro Summit Singapore on 19 June 2024
 
 Distinguished guests, ladies, and gentlemen,
 
