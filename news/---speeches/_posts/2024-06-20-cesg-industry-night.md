@@ -1,5 +1,5 @@
 ---
-title: CleanEnviro Summit Singapore 2024 Industry Night- Dr Amy Khor
+title: CleanEnviro Summit Singapore 2024 Industry Night - Dr Amy Khor
 permalink: /resource-room/category/2024-06-20-cesg-industry-night
 image: 
 file_url: 
