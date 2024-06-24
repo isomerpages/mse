@@ -6,7 +6,7 @@ file_url:
 description: 
 ---
 
-### Speech by Dr Amy Khor, Senior Minister of State, Ministry of Sustainability and the Environment, at CleanEnviro Summit Singapore 2024 Industry Night on 20 June 2024
+### Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at CleanEnviro Summit Singapore 2024 Industry Night on 20 June 2024
 
 **Introduction**
 
