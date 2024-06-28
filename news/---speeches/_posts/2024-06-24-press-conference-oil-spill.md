@@ -52,7 +52,7 @@ description:
 
 20 There could also be secondary contamination from the cleaning of other areas. So, we will need to continue with the regular cleaning of beaches even as we embark on more specialised cleaning.
 
-21 The next phase of clean-up operations commenced on the rock bunds at Siloso beach on 21 Jun. In the coming weeks, similar operations will be carried out at Sentosa Cove, Siloso Beach, Labrador Nature Reserve, and East Coast Park. We will test out various cleaning methods to find the most suitable ones for respective sites and refine our operations as we go along.
+21 The next phase of clean-up operations commenced on the rock bunds at Siloso beach on 21 Jun. In the coming weeks, similar operations will be carried out at Sentosa Cove, Palawan Beach, Labrador Nature Reserve, and East Coast Park. We will test out various cleaning methods to find the most suitable ones for respective sites and refine our operations as we go along.
 
 22 We expect to take around three months to complete this next phase of cleaning, after which we will progressively reopen affected public areas. For less affected areas, we hope to open earlier.
 
