@@ -118,4 +118,4 @@ description:
 
 47 I would like to thank our service providers and contractors who have responded quickly to the incident, the cleaners and workers who have worked tirelessly to clean the oil sleeks under trying conditions, and our staff and team for monitoring, testing the air, water and fish, and preparing for contingencies round the clock 24-7 over the past week.
 
-48 When we are ready for the next phase of operation, we hope that Singaporeans will volunteer to help with the clean-up so that we can return the beaches clean and safe to the public soonest possible.3
+48 When we are ready for the next phase of operation, we hope that Singaporeans will volunteer to help with the clean-up so that we can return the beaches clean and safe to the public soonest possible.
