@@ -125,6 +125,15 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div>  
 	
+		<div class="card">
+        <a href="/resources/zero-waste-sg-report-transparent-bin-pilot.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>Zero Waste SG Report on Transparent Bin Pilot</h5>
+            </div>
+          <img src="/images/zero-waste-sg-transparent-bin-pilot-cover.jpg" alt="Zero Waste SG Report on Transparent Bin Pilot" style="width:300px;">
+        </a>
+    </div>  
+    
 	
     <div class="card">
         <a href="/resources/environmentally-friendly-events-guidelines.pdf" target="_blank">  
@@ -200,14 +209,6 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
                 <h5>Sustainable Singapore Blueprint</h5>
             </div>
         <img src="/images/ssb-logo.jpeg" alt="Sustainable Singapore Blueprint" style="width:300px;">
-        </a>
-    </div>
-    <div class="card">
-        <a href="https://www.towardszerowaste.gov.sg/resources/" target="_blank">  
-            <div class="card-content">
-                <h5>Towards Zero Waste (Infographics, Videos)</h5>
-            </div>
-        <img src="/images/towards-zero-waste.png" alt="Towards Zero Waste" style="width:300px;">
         </a>
     </div>
     <div class="card">
