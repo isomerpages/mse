@@ -1,5 +1,5 @@
 ---
-title: Opening Remarks by SMS Amy Khor at YTL PowerSeraya Screening of The Human Element at Botanic Gardens
+title: YTL PowerSeraya Screening of The Human Element - Dr Amy Khor
 permalink: /resource-room/category/2024-06-29-sms-amy-khor-remarks-ytl-powerseraya/
 image:
 file_url:
