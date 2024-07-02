@@ -1,6 +1,6 @@
-![image](https://github.com/isomerpages/mse/assets/107536040/db97cad4-af9b-4485-8a6d-946fd84177df)---
-title: Opening Remarks by SMS Amy Khor at YTL Powerseraya's Screening of The Human Element at Botanic Gardens
-permalink: /resource-room/category/2024-06-29-sms-amy-khor-remarks-ytl-powerseraya
+---
+title: Opening Remarks by SMS Amy Khor at YTL PowerSeraya Screening of The Human Element at Botanic Gardens
+permalink: /resource-room/category/2024-06-29-sms-amy-khor-remarks-ytl-powerseraya/
 image:
 file_url:
 description:
