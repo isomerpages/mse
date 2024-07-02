@@ -35,7 +35,7 @@ Mr Speaker,
 
 10 The cleaning methods for the second phase have been decided jointly between the oil spill consultants and the cleaning contractors. These methods may be refined along the way as the shoreline of each affected area may be different. For ecologically sensitive locations, NParks is consulted on the methods to be deployed. Once the second phase of cleaning operation is completed, we will move to the final phase, where we remove tar balls from the beaches and inspect the affected areas for any remaining oil stains.
 
-11 We expect the clean-up to take around three months. But this will vary for each area, depending on the extent they are affected. One Degree 15 Marina and the Marina at Keppel Bay have re-opened as clean-up efforts continue to progress. The cordoned-off areas of the beaches at Sentosa, along East Coast Park, and Southern Islands will progressively open for land-based activities.
+11 We expect the clean-up to take around three months. But this will vary for each area, depending on the extent they are affected. One Degree 15 Marina and the Marina at Keppel Bay have re-opened as clean-up efforts continue to progress. The cordoned-off areas of the beaches at Sentosa, along East Coast Park, and Southern Islands will progressively open for land-based activities<sup>1<sup>.
 
 12 We will test the water quality to ensure that it is back to normal and stable for at least a week before resuming swimming and other primary contact sea activities.
 
@@ -65,3 +65,4 @@ Mr Speaker,
 
 21 In conclusion, our agencies will continue to press on with cleaning operations, and monitor the quality of our air, food, and water, as well as the impact on affected stakeholders. I would like to thank the many cleaning personnel, supervisors and public officers who have worked tirelessly in the clean-up operations. I am also thankful for the support from service partners, volunteers and the public. We look forward to the next and final phase of operations, where we would be inviting volunteers to help with the clean-up, so that we can nurse our cherished environment back to health as soon as possible.
 
+<sup>1</sup> The cordoned-off areas include the foreshore of the beaches where clean-up is ongoing. When the clean-up is complete, the cordons will be removed. Unaffected areas of beaches, especially towards the backshore, have remained open throughout this period.
