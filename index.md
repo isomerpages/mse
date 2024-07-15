@@ -11,13 +11,6 @@ sections:
   - infobar:
       title: Sustainable. Resource-Efficient. Climate-Resilient.
   - infopic:
-      title: Go Green SG
-      description: Go Green SG returns this year from June 12 to July 14, with more activities related to public cleanliness, the environment and sustainability, in support of the Year of Public Hygiene.
-      button: Learn more
-      url: https://www.gogreen.gov.sg
-      image: /images/gogreensg_logo.png
-      alt: Go Green SG
-  - infopic:
       title: Singapore Green Plan 2030
       description: Climate change is a global challenge, and Singapore is taking firm
         actions to do our part to build a sustainable future. Singapore Green
