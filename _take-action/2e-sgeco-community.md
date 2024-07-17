@@ -37,7 +37,8 @@ Check out the full list of SG Eco Fund recipients below:
 - [Grant Call 1](/files/sgecofund/SGEF-GC1.pdf)  
 - [Grant Call 2](/files/sgecofund/SGEF-GC2.pdf)  
 - [Grant Call 3](/files/sgecofund/SGEF-GC3.pdf)  
-- [Grant Call 4](/files/sgecofund/SGEF-GC4.pdf)   
+- [Grant Call 4](/files/sgecofund/SGEF-GC4.pdf)
+- [Grant Call 5](/files/sgecofund/SGEF-GC5.pdf)   
 
 <img src="/files/sgecofund/sgeco-community-seed-bank.jpeg" alt="photo of community seed bank"><br>
 <img src="/files/sgecofund/sgeco-mykilio.jpeg" alt="photo of mykilio"><br>
