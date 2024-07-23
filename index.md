@@ -3,7 +3,7 @@ layout: homepage
 title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
 notification: <p><a style="font-family:'Arial'"
-  href="https://www.mse.gov.sg/year-of-public-hygiene/page"><b>MSE marks 2024 as The Year of Public Hygiene</b></a></p>
+  href="https://www.mse.gov.sg//resource-room/category/2024-07-23-impersonation-of-investment-platform-genzero"><b>Scam Advisory: Impersonation of Investment Platform GenZero</b></a></p>
 permalink: /
 sections:
   - hero:
