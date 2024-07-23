@@ -1,8 +1,8 @@
----  
+---
+layout: resources-alt
 title: Scam Advisory
-permalink: /scam-advisory.md
-third_nav_title: Scam Advisory
----  
+description: Scam Advisories
+---
 
 
 <style>
