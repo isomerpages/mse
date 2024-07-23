@@ -4,7 +4,6 @@ title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
 notification: <p><a style="font-family:'Arial'"
   href="https://www.mse.gov.sg/year-of-public-hygiene/page"><b>MSE marks 2024 as The Year of Public Hygiene</b></a></p>
-notification: <p><b>There is a scam impersonating investment platform GenZero, which encourages users to buy carbon credits through a mobile application. <u>This is a scam.</u> MSE, MND and NEA are not affiliated with any such schemes or apps. If you receive such emails and wish to verify their authenticity, please call the MSE Hotline at <u>1800-738-4622</u>.</b></a></p>
 permalink: /
 sections:
   - hero:
