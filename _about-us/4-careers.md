@@ -9,13 +9,13 @@ permalink: /about-us/careers/
 <div>
 <center>	  
 	  <a href="#meaningfulwork">Meaningful work rooted in purpose</a> | 
-	  <a href="#grow">Grow With Us</a> | 
+	  <a href="#growwithus">Grow With Us</a> | 
 	  <a href="#benefits">Benefits</a> 
 </center>
 </div>
 
 
-<h2><a name="meaningfulwork">Meaningful work rooted in purpose</a></h2>
+<h2><a name="meaningfulwork"></a><Meaningful work rooted in purpose/h2>
 
 #### Join a place where there is meaningful work rooted in purpose with everyday impact.
 
@@ -47,7 +47,7 @@ In the MSE Family, we encourage committment towards environmental sustainability
 Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).
 
 
-<h2><a name="growwithus">Grow With Us </a></h2>
+<h2><a name="growwithus"></a>Grow With Us </h2>
 -----
 #### Join a place where you can grow.
 
@@ -81,9 +81,7 @@ The Singapore Sustainability Scholarship is open to Singapore Citizens/Permanent
 
 For more information on how you can apply to be a Singapore Sustainability Scholar, please visit [Singapore Sustainability Scholarship](https://brightsparks.com.sg/profile/nea_pub_sfa/index.php).  
 
------
-
-<h2><a name="benefits">Benefits</a></h2>
+<h2><a name="benefits"></a>Benefits</h2>
 -----
 #### Join a place where we help you to deliver your best work.
 
