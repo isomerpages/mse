@@ -6,10 +6,16 @@ permalink: /about-us/careers/
 ![MSE Banner - Our Sustainability, Our Resilience, Our Everyday](/images/mse-career-banner.jpg)
 
 
-[Meaningful work rooted in purpose](#meaningfulwork) | [Grow With Us](#growwithus) | [Benefits](#benefits)
+<div>
+<center>	  
+	  <a href="#meaningfulwork">Meaningful work rooted in purpose</a> | 
+	  <a href="#grow">Grow With Us</a> | 
+	  <a href="#benefits">Benefits</a> 
+</center>
+</div>
 
 
-### <a name="meaningfulwork"></a>**Meaningful work rooted in purpose**
+<h2><a name="meaningfulwork">Meaningful work rooted in purpose</a></h2>
 #### Join a place where there is meaningful work rooted in purpose with everyday impact.
 
 Our Sustainability, Our Resilience, Our Everyday
