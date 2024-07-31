@@ -6,11 +6,10 @@ permalink: /about-us/careers/
 ![MSE Banner - Our Sustainability, Our Resilience, Our Everyday](/images/mse-career-banner.jpg)
 
 	  
-<p align="center">[Meaningful work rooted in purpose](#meaningfulwork) | [Grow With Us](#growwithus) | [Benefits](#benefits)</p>
+[Meaningful work rooted in purpose](#meaningfulwork) | [Grow With Us](#growwithus) | [Benefits](#benefits)
 
 
 ### <a name="meaningfulwork"></a>**Meaningful work rooted in purpose**
-
 #### Join a place where there is meaningful work rooted in purpose with everyday impact.
 
 Our Sustainability, Our Resilience, Our Everyday
@@ -42,7 +41,6 @@ Want to make a direct impact on the everyday lives of Singaporeans, and work tow
 
 -----
 ### <a name="growwithus"></a>Grow With Us
-
 #### Join a place where you can grow.
 
 **We help you grow future-relevant competencies**
@@ -78,7 +76,6 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 -----
 
 ### <a name="benefits"></a>Benefits
-
 #### Join a place where we help you to deliver your best work.
 
 At the MSE family, we care deeply about officers' well-being and safety, and we have measures in place to make sure you feel supported and protected. 
