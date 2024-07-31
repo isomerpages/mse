@@ -14,9 +14,8 @@ permalink: /about-us/careers/
 </center>
 </div>
 
-
-<h2><a name="meaningfulwork"></a><Meaningful work rooted in purpose/h2>
-
+<h2><a name="meaningfulwork"></a>Meaningful work rooted in purpose</h2>
+-----
 #### Join a place where there is meaningful work rooted in purpose with everyday impact.
 
 Our Sustainability, Our Resilience, Our Everyday
