@@ -46,8 +46,9 @@ In the MSE Family, we encourage committment towards environmental sustainability
 
 Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).
 
+
+<h2><a name="growwithus">Grow With Us </a></h2>
 -----
-### <a name="growwithus"></a>Grow With Us 
 #### Join a place where you can grow.
 
 **We help you grow future-relevant competencies**
@@ -82,7 +83,8 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 -----
 
-### <a name="benefits"></a>Benefits
+<h2><a name="benefits">Benefits</a></h2>
+-----
 #### Join a place where we help you to deliver your best work.
 
 At the MSE family, we care deeply about officers' well-being and safety, and we have measures in place to make sure you feel supported and protected. 
