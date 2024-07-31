@@ -5,13 +5,9 @@ permalink: /about-us/careers/
 
 ![MSE Banner - Our Sustainability, Our Resilience, Our Everyday](/images/mse-career-banner.jpg)
 
-<div>
-<center>	  
-	  [Meaningful work rooted in purpose](#meaningfulwork) 
-	  <a href="#grow">Grow With Us</a> | 
-	  <a href="#benefits">Benefits</a> 
-</center>
-</div>
+	  
+[Meaningful work rooted in purpose](#meaningfulwork) | [Grow With Us](#growwithus) | [Benefits](#benefits)
+
 
 ### <a name="meaningfulwork"></a>Meaningful work rooted in purpose
 
@@ -45,7 +41,7 @@ In the MSE Family, we encourage committment towards environmental sustainability
 Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).
 
 -----
-<h2><a id="grow">Grow with us</a></h2>
+### <a name="growwithus"></a>Grow With Us
 
 <font color="#70AD47"> <h3> Join a place where you can grow. </h3> </font>
 
@@ -81,7 +77,7 @@ For more information on how you can apply to be a Singapore Sustainability Schol
 
 -----
 
-<h2><a id="benefits">Benefits</a></h2> 
+### <a name="benefits"></a>Benefits
 
 <font color="#70AD47"> <h3> Join a place where we help you to deliver your best work. </h3> </font>
 
