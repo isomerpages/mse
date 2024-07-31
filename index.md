@@ -2,7 +2,7 @@
 layout: homepage
 title: Home - MSE
 description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
-notification: Scam Alert: Beware of scams involving third-party apps selling carbon credits. MSE, MND, and NEA have no affiliation with these apps nor schemes. The public is advised to stay vigilant and disregard such messages. For more advice, visit scamalert.sg.
+notification: Scam Alert - Beware of scams involving third-party apps selling carbon credits. MSE, MND, and NEA have no affiliation with these apps nor schemes. The public is advised to stay vigilant and disregard such messages. For more advice, visit scamalert.sg.
 permalink: /
 sections:
   - hero:
