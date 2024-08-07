@@ -3,7 +3,7 @@ title: Careers
 permalink: /about-us/careers/
 ---
 
-![MSE Banner - Our Sustainability, Our Resilience, Our Everyday](/images/mse-career-banner.jpg)
+![MSE Banner - Our Sustainability, Our Resilience, Our Everyday](/images/mse-careers-banner.jpg)
 
 
 <div>
@@ -18,21 +18,20 @@ permalink: /about-us/careers/
 -----
 #### Join a place where there is meaningful work rooted in purpose with everyday impact.
 
-Our Sustainability, Our Resilience, Our Everyday
-Make a direct impact on the daily lives of every Singaporean. 
-As part of MSE Family, you will be at the forefront of innovation, driving sustainability and resilience initiatives that will have a direct and meaningful impact on the daily lives of every Sinagporean. 
+<b>Make a direct impact on the daily lives of every Singaporean.</b>
+As part of MSE Family which comprises of Ministry of Sustainability and the Environment (MSE), National Environment Agency (NEA), Singapore’s National Water Agency (PUB) and Singapore Food Agency (SFA), you will be at the forefront of innovation, driving sustainability and resilience initiatives that will have a direct and meaningful impact on the daily lives of every Singaporean. 
 
-Innovation is at the heart of what we do. To prepare for an uncertain future and global changes, we are forward-thinking and constantly seek new solutions to address evolving challenges. 
+<b>Innovation is at the heart of what we do.</b> To prepare for an uncertain future and global changes, we are forward-thinking and constantly seek new solutions to address evolving challenges. 
 
-We are dedicated to continuous growth and learning. We stay ahead of the curve, developing our skills and careers to adapt to a rapidly evolving world. 
+<b>We are dedicated to continuous growth and learning.</b> We stay ahead of the curve, developing our skills and careers to adapt to a rapidly evolving world. 
 
-As a team, we look out for one another and strive towards an inclusive, safe, and supportive MSE Family that values our staff and prioritises workplace safety and health. 
-
-Together, we champion Singapore's efforts to create a greener, more sustainable and resilient future for ourselves and generations to come. 
+<b>As a team, we look out for one another and strive towards an inclusive, safe, and supportive MSE Family that values our staff and prioritises workplace safety and health. </b>
 
 **Journey alongside a committed and diverse team with us at MSE Family.**
 
-In the MSE Family, we encourage committment towards environmental sustainability and the community through SPIRIT*-based activities such as: 
+In the MSE Family, we have diverse roles ranging from policy to operations, but we are connected with one mission: <b>to secure our every day together.</b>
+
+We encourage commitment towards environmental sustainability and the community through SPIRIT*-based activities such as: 
 
 * Vertical Challenge,
 * Coastal clean-ups,
@@ -40,6 +39,8 @@ In the MSE Family, we encourage committment towards environmental sustainability
 * Provision of time-off for community involvement activities up to twice a year.
 
 *SPIRIT stands for: Service, Professionalism, Integrity, Respect, Innovation and Teamwork
+
+Together, we champion Singapore's efforts to create a greener, more sustainable and resilient future for ourselves and generations to come. 
 
 ![MSE Family](/images/IMG-20240412-WA0003.jpg)
 
@@ -72,7 +73,7 @@ For more information, check out [Careers@Gov](http://www.careers.gov.sg).
 
 #### Scholarships
 
-The Singapore Sustainability Scholarship offers aspiring young talents an exciting career across the three statutory boards: National Environment Agency (NEA), PUB, Singapore’s National Water Agency, and the Singapore Food Agency (SFA).  
+The Singapore Sustainability Scholarship offers aspiring young talents an exciting career across the three statutory boards under the MSE Family: National Environment Agency (NEA), PUB, Singapore’s National Water Agency, and the Singapore Food Agency (SFA).  
 
 Upon graduation, scholars will experience a diverse range of portfolios including addressing climate change, encouraging energy efficiency, developing Singapore’s water resources, ensuring sustainable supply of safe food, fostering industry and technology development and engaging the People, Private and Public sectors.  
 
@@ -89,10 +90,7 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
 | <img src="/images/icon1.png" style="width:57px"> | <img src="/images/icon2.png" style="width:57px"> | <img src="/images/icon3.png" style="width:57px"> | <img src="/images/icon4.png" style="width:57px"> |
 | :--------:|:--------:|:--------:|:--------:|
 | **Where you feel safe to come to work** | **Where you can strike a balance** | **Where you can feel supported emotionally** | **Health and protection** |
-| Regular communication efforts on Workplace Safety & Health (WSH) practices, and safety walkabouts to mitigate WSH risks in our workplace; MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices)| Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership) | Providing access to programmes and services (e.g. WOG Wellness Ambassadors network, WOG Counselling Services) to support the health and mental well-being of our officers | Subsidised Outpatient and Dental Treatment <br> Additional 2% Medisave Contribution, subject to a cap of $140 per month <br> Public Officers Group Insurance Scheme
-
-
-**Leave entitlement**
+| Regular communication efforts on Workplace Safety & Health (WSH) practices, and safety walkabouts to mitigate WSH risks in our workplace; MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices)| Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership) **Leave entitlement**
 * 14 days/18 days annual vacation leave, depending on your scheme of service
 * Marriage Leave
 * Maternity and Paternity Leave
@@ -101,6 +99,9 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
 * Childcare/Infant Care Leave
 * Sick leave and Hospitalisation Leave
 * Study Leave
-* Leave for Representation Games
+* Leave for Representation Games | Providing access to programmes and services (e.g. WOG Wellness Ambassadors network, WOG Counselling Services) to support the health and mental well-being of our officers | Subsidised Outpatient and Dental Treatment <br> Additional 2% Medisave Contribution, subject to a cap of $140 per month <br> Public Officers Group Insurance Scheme
+
+
+
 
 
