@@ -88,7 +88,9 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title6"  /><label for="title6">The Issue</label>
 	<div class="accordion-content">
-		<p>The build-up of greenhouse gases, such as carbon dioxide, in the atmosphere has trapped more heat, resulting in a warmer planet. Temperatures in Singapore have risen by 0.25<sup>o</sup>C per decade from 1948 to 2015, while 2016 and 2019 were the hottest years recorded thus far. A warmer climate leads to the thermal expansion of the sea and melting of glaciers and ice caps, which lead to rising sea levels, threatening our island nation. There may also be more frequent extreme weather events.</p>
+		<p>The build-up of greenhouse gases, such as carbon dioxide, in the atmosphere has trapped more heat, resulting in a warmer planet. Temperatures in Singapore have risen by 0.24<sup>o</sup>C per decade from 1984 to 2023, while 2016 and 2019 were the hottest years <sup><a href="#fn1" id="ref1">1</a></sup> recorded thus far. A warmer climate leads to the thermal expansion of the sea and melting of glaciers and ice caps, which lead to rising sea levels, threatening our island nation. There may also be more frequent extreme weather events.</p>
+
+<sup id="fn1">1. Hottest year is calculated based on the annual mean temperature for each year. Both 2016 and 2019 experienced an annual mean temperature of 28.4<sup>o</sup>C</sup>
 	</div>
 	<input type="checkbox" id="title7"  /><label for="title7">The Challenge</label>
 	<div class="accordion-content">
@@ -96,7 +98,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title8"  /><label for="title8">Our Efforts</label>
 	<div class="accordion-content">
-		<p>The Centre for Climate Research Singapore (CCRS) under the Meteorological Service Singapore (MSS) is one of the few dedicated tropical climate research centres, and a key node for climate and weather research in Singapore. CCRS runs high-resolution regional climate models to produce long-term projections of rainfall, temperature, wind and sea level in Singapore. CCRS has just embarked on the Third National Climate Change Study to provide an update of the projections.</p>
+		<p>The Centre for Climate Research Singapore (CCRS) under the Meteorological Service Singapore (MSS) is one of the few dedicated tropical climate research centres, and a key node for climate and weather research in Singapore. CCRS runs high-resolution regional climate models to produce long-term projections of rainfall, temperature, wind and sea level in Singapore. CCRS has released the results of <a href="www.mss-int.sg/v3-climate-projections">Singapore's Third National Climate Change Study (V3)</a> in 2024 to provide an update of the projections.</p>
 	</div>
 </div>
 
@@ -122,12 +124,12 @@ input:checked + label + .accordion-content {
 <div>
 	<input type="checkbox" id="title11"  /><label for="title11">The Issue</label>
 	<div class="accordion-content">
-		<p>Singapore is particularly vulnerable to the threat of rising sea levels, with 30% of our island less than 5 metres above sea level. Based on CCRS’s Second National Climate Change Study, we could experience a mean sea level rise by up to about 1 metre by 2100.</p>
+		<p>Singapore is particularly vulnerable to the threat of rising sea levels, with 30% of our island less than 5 metres above sea level. Based on CCRS’s V3 results, we could experience a mean sea level rise by 0.23m to 1.15m by 2100 under the low to high emission scenarios, and by up to around 2m by 2150 under the high emission scenario.</p>
 	</div>
 	<input type="checkbox" id="title12"  /><label for="title12">Our Efforts</label>
 	<div class="accordion-content">
 		<p>Since April 2020, PUB, Singapore’s National Water Agency, has taken on the role of the national Coastal Protection Agency. By combining coastal protection responsibilities with its stormwater management functions, PUB will look at inland and coastal flooding holistically to strengthen Singapore’s resilience against climate change.</p>
-		<p>The Coastal Adaptation Study (CAS) was commissioned by the Building & Construction Authority (BCA) to better understand the potential impacts of rising sea levels. This study was completed in 2019 and has helped us to prioritise vulnerable areas in our coastal protection plans. PUB will embark on site-specific engineering studies and work with other stakeholders to develop strategies and engineering designs for coastal protection measures. The first of these studies at City-East Coast and Jurong Island is due to commence after 2020.</p>
+		<p>The Coastal Adaptation Study (CAS) was commissioned by the Building & Construction Authority (BCA) to better understand the potential impacts of rising sea levels. This study was completed in 2019 and has helped us to prioritise vulnerable areas in our coastal protection plans. Building on these earlier efforts, the Government is progressively conducting site-specific studies and working with other stakeholders to develop strategies and engineering designs for coastal protection measures. The first of these studies at City-East Coast commenced in 2021. The studies now also cover the entire north-west coast from Tuas to Woodlands, as well as Sentosa and Jurong Island.</p>
 	</div>
 </div>
 
@@ -136,5 +138,7 @@ input:checked + label + .accordion-content {
 	<li><p>CARBON PRICING ACT</p>
 	</li>
 	<li><p>ENVIRONMENTAL PROTECTION AND MANAGEMENT ACT</p>
+	</li>
+	<li><p>SEWERAGE AND DRAINAGE ACT</p>
 	</li>
 </ol>
