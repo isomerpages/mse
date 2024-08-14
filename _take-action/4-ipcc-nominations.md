@@ -15,7 +15,7 @@ The call for author nominations follows agreement on the outlines and timelines 
 a. [Outline of IPCC Special Report on Climate Change and Cities](https://www.ipcc.ch/site/assets/uploads/2024/08/Decision_Cities.pdf); and <br>
 b. [Outline of 2027 IPCC Methodology Report on Inventories for Short-lived Climate Forcers](https://www.ipcc.ch/site/assets/uploads/2024/08/Decision_SLCF.pdf)
  
-Coordinating Lead Authors and Lead Authors are responsible for drafting the different chapters of the reports and revising those based on comments submitted during the review process, while review editors are responsible for assisting the Working Group/Task Force Bureau in identifying reviewers for the expert review process. Please refer to the [IPCC website](https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles=appendix-a-final.pdf) (Annex 1) for more details of the roles and responsibilities for the various authors.
+Coordinating Lead Authors and Lead Authors are responsible for drafting the different chapters of the reports and revising those based on comments submitted during the review process, while review editors are responsible for assisting the Working Group/Task Force Bureau in identifying reviewers for the expert review process. Please refer to the [IPCC website](https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles-appendix-a-final.pdf) (Annex 1) for more details of the roles and responsibilities for the various authors.
  
 The Ministry of Sustainability and the Environment, as the IPCC Focal Point for Singapore, is shortlisting experts for Singapore’s nominations, for submission to the IPCC Secretariat. The nominations will be subject to a further selection process by the IPCC. 
 
