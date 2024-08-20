@@ -25,8 +25,7 @@ description:
 7 Members of public are strongly urged to comply with the elevated safe distancing measures imposed from 7 April to 4 May 2020. Non-compliance is an offence. **If a member of public is found in breach of these measures, an EO will take down his or her particulars and issue a written stern warning. Subsequent offences by the offender will result in a composition fine or prosecution. The Police may also be contacted for follow-up action.**  
 
 8 Let us all do the right thing. The health of all depends on each one of us.  
-
-9 Visit this MEWR website for the latest information on safe distancing measures: <http://mewr.gov.sg/safe-distancing>.  
+  
 
 **MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES  
 8 APRIL 2020**
