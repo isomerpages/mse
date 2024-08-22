@@ -18,5 +18,5 @@ _Projects will advance environmental sustainability and contribute towards the S
 
 4 The SG Eco Fund supports the Singapore Green Plan 2030, which is a national roadmap to advance the Singapore sustainability agenda. Building an active Green Citizenry, where individuals, communities and businesses play an active role for sustainability, is a key enabler in successfully implementing the strategies and meeting our targets under the Green Plan. The SG Eco Fund aims to empower everyone across the 3P sectors to take ownership of the environment and do their part to ensure Singapore remains a green and liveable home for our future generations.
 
-5 Interested parties can find out more about the SG Eco Fund at [www.sgeco.gov.sg](http://www.sgeco.gov.sg/). More details on the SG Eco Fund&#39;s second grant call will be released at a later date.
+5 Interested parties can find out more about the SG Eco Fund at [www.mse.gov.sg/sgecofund](https://www.mse.gov.sg/sgecofund). More details on the SG Eco Fund&#39;s second grant call will be released at a later date.
 
