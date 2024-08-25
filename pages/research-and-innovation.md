@@ -152,7 +152,7 @@ input:checked + label + .accordion-content {
 			<ul>
 				<li><a href="https://www.ipi-singapore.org/about-us">IPI About Us</a></li>
 				<li><a href="https://www.ipi-singapore.org/innovation-advisors-programme">Innovation Advisors Programme</a></li>
-				<li><a href="https://www.ipi-singapore.org/marketplace">Innovation Marketplace</a></li>
+				<li><a href="https://www.ipi-singapore.org/innovation-marketplace">Innovation Marketplace</a></li>
 			</ul>
 		</ul>
 	</div>
