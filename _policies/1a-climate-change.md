@@ -98,7 +98,7 @@ input:checked + label + .accordion-content {
 	</div>
 	<input type="checkbox" id="title8"  /><label for="title8">Our Efforts</label>
 	<div class="accordion-content">
-		<p>The Centre for Climate Research Singapore (CCRS) under the Meteorological Service Singapore (MSS) is one of the few dedicated tropical climate research centres, and a key node for climate and weather research in Singapore. CCRS runs high-resolution regional climate models to produce long-term projections of rainfall, temperature, wind and sea level in Singapore. CCRS has released the results of <a href="www.mss-int.sg/v3-climate-projections">Singapore's Third National Climate Change Study (V3)</a> in 2024 to provide an update of the projections.</p>
+		<p>The Centre for Climate Research Singapore (CCRS) under the Meteorological Service Singapore (MSS) is one of the few dedicated tropical climate research centres, and a key node for climate and weather research in Singapore. CCRS runs high-resolution regional climate models to produce long-term projections of rainfall, temperature, wind and sea level in Singapore. CCRS has released the results of [Singapore's Third National Climate Change Study (V3)](https://www.mss-int.sg/v3-climate-projections) in 2024 to provide an update of the projections.</p>
 	</div>
 </div>
 
