@@ -57,7 +57,6 @@ input:checked + label + .accordion-content {
 <div>
     <p>Find technology solutions in <br />(1) <a href="https://www.ipi-singapore.org/tech-offers?name=&categories%5B%5D=15649&categories%5B%5D=15641&categories%5B%5D=911&categories%5B%5D=11851&categories%5B%5D=11846&categories%5B%5D=11841&categories%5B%5D=11836&categories%5B%5D=1051">Agri-Food</a> <br />(2) <a href="https://www.ipi-singapore.org/tech-offers?name=&categories%5B%5D=15646&categories%5B%5D=15641&categories%5B%5D=15642&categories%5B%5D=851&categories%5B%5D=15643&categories%5B%5D=811&categories%5B%5D=931&categories%5B%5D=956&categories%5B%5D=946&categories%5B%5D=15640&categories%5B%5D=941&categories%5B%5D=1006">Environmental Services</a> <br />(3) <a href="https://www.ipi-singapore.org/tech-offers?name=&categories%5B%5D=931&categories%5B%5D=956&categories%5B%5D=946&categories%5B%5D=15640&categories%5B%5D=941">Water</a></p>
     <p>Connect with innovation advisors in <br />(1) <a href="https://www.ipi-singapore.org/innovation-advisors-programme?iap_sector%5B%5D=4#innovation-advisors">Agri-Food</a> <br />(2) <a href="https://www.ipi-singapore.org/tech-experts?name=&categories%5B%5D=4&categories%5B%5D=8">Environmental Services</a> <br />(3) <a href="https://www.ipi-singapore.org/tech-experts?name=&categories%5B%5D=4&categories%5B%5D=8">Water</a> </p>
-    <p>Read about <a href="https://www.ipi-singapore.org/success-stories">case studies</a> </p></div>
 
 <h2 id="key-partners">Connect with Key Partners</h2>
 <div>
