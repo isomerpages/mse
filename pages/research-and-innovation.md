@@ -60,7 +60,7 @@ input:checked + label + .accordion-content {
 
 <h2 id="key-partners">Connect with Key Partners</h2>
 <div>
-    <p>Reach out to <a href="https://www.ipi-singapore.org/enquiry">IPI</a> and the <a href="https://www.linkedin.com/company/uss-ieo/posts/?feedView=all">USS I&E Office</a> for assistance on sustainability technologies and innovation.</p>
+    <p>Reach out to <a href="https://www.ipi-singapore.org/enquiry">IPI</a> and the <a href="https://www.linkedin.com/company/uss-ieo/">USS I&E Office</a> for assistance on sustainability technologies and innovation.</p>
 </div>
 
 <h2 id="waste-to-resource">Waste to Resource</h2>
