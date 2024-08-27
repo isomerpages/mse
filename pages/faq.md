@@ -224,7 +224,7 @@ GreenGov.SG strives to raise the bar on sustainability through three pillars, or
 	</div>
 	<input type="checkbox" id="ptitle1"  /><label for="ptitle1">What are the MSE awards that recognise water and environmental sustainability efforts?</label>
 	<div class="accordion-content">
-		<p>The Ministry of Sustainability and the Environment (MSE) organises the biennial <a href="https://www.mse.gov.sg/pae/">President's Award for the Environment</a> (PAE), Singapore's highest environmental accolade. It recognises and honours sustained contributions by environmental champions from the People, Private and Public (3P) sectors, and aims to inspire more community partners to come forward to address our environmental challenge. <br />&nbsp;<br />
+		<p>The Ministry of Sustainability and the Environment (MSE) organises the biennial [President's Award for the Environment (PAE)](https://www.mse.gov.sg/pae/), Singapore's highest environmental accolade. It recognises and honours sustained contributions by environmental champions from the People, Private and Public (3P) sectors, and aims to inspire more community partners to come forward to address our environmental challenge. <br />&nbsp;<br />
 The National Environment Agency (NEA) organises the <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/ecofriend-awards">EcoFriend Awards</a> to recognise environmentally proactive individuals in Singapore who have contributed significantly to environmental sustainability.
 		</p>
 	</div>	
