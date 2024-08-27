@@ -323,34 +323,5 @@ Living close to one another necessitates good neighbourly behaviour so that we c
 	</div>
 </div>
 
-<a name="safe-mgmt"></a>
-<h1><b>Safe Management Measures</b></h1>
-<div>
-  	<input type="checkbox" id="smtitle1"  /><label for="smtitle1">How do I report breaches of Safe Management Measures or poor practices at the workplace?</label>
-	<div class="accordion-content">
-	<p>You may wish to refer to the Requirements for Safe Management Measures at Workplace Advisory from the Ministry of Manpower (MOM), regarding compliance of vendors in their workplace.</p>
-<p>Please report any breaches to <a href="mailto:mom_oshd@mom.gov.sg">mom_oshd@mom.gov.sg</a> via email or visit the MOM website for public reporting of workplace safety and health issues <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting">here</a>.</p>
-	</div>
-  	<input type="checkbox" id="smtitle2"  /><label for="smtitle2">Where can I find the latest information on the COVID-19 advisories?</label>
-	<div class="accordion-content">
-	<p>You may refer to the Ministry of Health's list of Frequently Asked Questions at <a href="https://www.moh.gov.sg/covid-19/faqs">https://www.moh.gov.sg/covid-19/faqs</a> for the latest information.</p>
-	</div>
-  	<input type="checkbox" id="smtitle3"  /><label for="smtitle3">How do I report on misconduct on Safe Distancing personnel?</label>
-	<div class="accordion-content">
-		<p>We require further details such as the name, contact number, and where the Safe Distancing Ambassador (SDA) was deployed at for the relevant agencies to investigate on the matters raised. You may also share with us photos and screenshots of the conversations to aid investigations.</p>
-<p>You may wish to report such encounters with MSE. We take such feedback seriously and our agencies will investigate feedback of inappropriate actions made against SDAs or enforcement officers. Appropriate actions will be taken after the investigation is completed.</p>
-	</div>
-  	<input type="checkbox" id="smtitle4"  /><label for="smtitle4">What is the protocol for Safe Distancing personnel to take enforcement action?</label>
-	<div class="accordion-content">
-		<p>Safe Distancing Enforcement Officers (SDEOs) may take enforcement action against offenders for breaches of Safe Management Measures (SMMs). Members of public are required to cooperate with SDEOs&rsquo; requests for personal particulars, including showing their NRICs as proof of their identity. In some instances, SDEOs may also take photos of the NRICs as part of the enforcement process. Nevertheless, safeguards are in place to ensure that the photos are used strictly for investigation purposes only and will be disposed of in a proper manner.</p>
-<p>When SDEOs perform their duties, they are required to put on their SDEO passes. Members of public who wish to verify the identities of SDEOs may request to see their photo ID cards and Letters of Appointment from the Ministry of Health (MOH). These documents are proof that the SDEOs are authorised to perform their roles as SDEOs. Depending on operational requirements, SDEOs may also put on red armbands when performing their duties.</p>
-	</div>	
-  	<input type="checkbox" id="smtitle5"  /><label for="smtitle5">Where can I find SMM guidelines for sector-specific requirements for businesses?</label>
-	<div class="accordion-content">
-		<p>To ensure a safe working environment, businesses are required to abide by nation-wide general requirements for workplaces. Businesses are also required to adhere to sector-specific requirements and comply with measures to facilitate contact tracing.&nbsp; You may wish to refer to the SMM guidelines on Sector-Specific Requirements for businesses <a href="http://www.gobusiness.gov.sg/safemanagement/sector/">here</a>.</p>
-	</div>	
-	
-<p><i>Information accurate as of 16 August 2022.</i></p>
-	
 </div>
 </div>
