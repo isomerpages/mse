@@ -242,7 +242,7 @@ input:checked + label + .accordion-content {
 		<p>Water samples are collected and tested by NEA weekly at monitored recreational beaches. These tests help ensure that our beach water quality meets our recreational water quality guidelines.</p>
 		<p>Singapore's recreational water quality guidelines are adopted from World Health Organisation guidelines for Safe Recreational Waters. The local guidelines were established in 2008 after a careful study of the WHO guidelines, analysis of data gathered over a few years, and consultation and collaboration with other relevant agencies.</p>
 		<p>NEA also has regular cleaning regimes for our beaches.</p></p>
-		<p>More information on Singapore's water quality guidelines for recreational beaches, as well as updates on the latest beach gradings and advisories can be found <a href="www.nea.gov.sg/our-services/pollution-control/water-quality/recreational-beaches/"> here.</a></p>
+		<p>More information on Singapore's water quality guidelines for recreational beaches, as well as updates on the latest beach gradings and advisories can be found [here](https://www.nea.gov.sg/our-services/pollution-control/water-quality/recreational-beaches)</p>
 	</div>
 </div>
 

@@ -53,6 +53,16 @@ input:checked + label + .accordion-content {
 <p>Research & Innovation is a key enabler for Singapore to overcome our natural constraints. The Ministry of Sustainability and the Environment (MSE) and our statutory boards - the National Environment Agency (NEA), PUB, Singapore’s National Water Agency, and the Singapore Food Agency (SFA) - invests in Research & Development and builds Science & Technology capabilities to address climate change, environmental sustainability, water and food security issues, and other challenges.</p>
 <p>We welcome the private sector and research partners to join us to co-develop innovative solutions and technologies to address these complex, cross-cutting challenges.</p>
 
+<h2 id="sustainability-technologies">Sustainability Technologies</h2>
+<div>
+    <p>Find technology solutions in <br />(1) <a href="https://www.ipi-singapore.org/tech-offers?name=&categories%5B%5D=15649&categories%5B%5D=15641&categories%5B%5D=911&categories%5B%5D=11851&categories%5B%5D=11846&categories%5B%5D=11841&categories%5B%5D=11836&categories%5B%5D=1051">Agri-Food</a> <br />(2) <a href="https://www.ipi-singapore.org/tech-offers?name=&categories%5B%5D=15646&categories%5B%5D=15641&categories%5B%5D=15642&categories%5B%5D=851&categories%5B%5D=15643&categories%5B%5D=811&categories%5B%5D=931&categories%5B%5D=956&categories%5B%5D=946&categories%5B%5D=15640&categories%5B%5D=941&categories%5B%5D=1006">Environmental Services</a> <br />(3) <a href="https://www.ipi-singapore.org/tech-offers?name=&categories%5B%5D=931&categories%5B%5D=956&categories%5B%5D=946&categories%5B%5D=15640&categories%5B%5D=941">Water</a></p>
+    <p>Connect with innovation advisors in <br />(1) <a href="https://www.ipi-singapore.org/innovation-advisors-programme?iap_sector%5B%5D=4#innovation-advisors">Agri-Food</a> <br />(2) <a href="https://www.ipi-singapore.org/tech-experts?name=&categories%5B%5D=4&categories%5B%5D=8">Environmental Services</a> <br />(3) <a href="https://www.ipi-singapore.org/tech-experts?name=&categories%5B%5D=4&categories%5B%5D=8">Water</a> </p>
+
+<h2 id="key-partners">Connect with Key Partners</h2>
+<div>
+    <p>Reach out to <a href="https://www.ipi-singapore.org/enquiry">IPI</a> and the <a href="https://www.linkedin.com/company/uss-ieo/posts/?feedView=all">USS I&E Office</a> for assistance on sustainability technologies and innovation.</p>
+</div>
+
 <h2 id="waste-to-resource">Waste to Resource</h2>
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">R&D Programmes</label>
@@ -140,28 +150,5 @@ input:checked + label + .accordion-content {
 			<li>Its outcome supports air quality policy and regulatory formulation as well as NEA's monitoring and management capabilities, with the goal of meeting the World Health Organisation Air Quality Guidelines (WHO AQGs) for all air pollutants in the long term. It seeks to improve our liveability by reducing the number of unpleasant odour incidents.</li>
 			<li>For more information and enquiries, please click <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/research-innovation-and-enterprise-funding-initiatives/air-quality-monitoring-and-control-funding-initiative">here.</a></li>
 		</ul>
-	</div>
-</div>
-	
-<h2 id="key-partners">Key Partners</h2>
-<div>
-	<input type="checkbox" id="title13"  /><label for="title13">IPI Singapore</label>
-	<div class="accordion-content">
-		<ul><li>IPI is an innovation catalyst that creates opportunities for enterprises to grow beyond boundaries. A subsidiary of Enterprise Singapore, IPI accelerates the innovation process of enterprises through access to its global innovation ecosystem and advisory services. Its multidisciplinary team facilitates enterprises' innovation processes, including commercialisation and go-to-market strategies. </li>
-			<li>For more information, please visit: </li>
-			<ul>
-				<li><a href="https://www.ipi-singapore.org/about-us">IPI About Us</a></li>
-				<li><a href="https://www.ipi-singapore.org/innovation-advisors-programme">Innovation Advisors Programme</a></li>
-				<li><a href="https://www.ipi-singapore.org/innovation-marketplace">Innovation Marketplace</a></li>
-			</ul>
-		</ul>
-	</div>
-</div>
-
-<div>
-	<input type="checkbox" id="title14"  /><label for="title14">USS I&E Office</label>
-	<div class="accordion-content">
-		<ul><li>The USS I&E Office is a national platform jointly set up by MSE, MND, NRF and A*STAR to bring impactful technologies from laboratories to the market for the <a href="https://www.nrf.gov.sg/rie2025-plan/urban-solutions-and-sustainability">Urban Solutions and Sustainability</a> domain. It facilitates and coordinates the technology translation processes in partnership with Industries and Trade Associations & Chambers, Government Agencies, and various research performers (such as Institutes of Higher Learning and A*STAR Research Institutes). It also seeks to provide a technology and innovation edge to companies and technology owners.</li>
-			<li> For more information, please contact: Cedric Yon, Head USS I&E (cedric_yon@hq.a-star.edu.sg)</li></ul>
 	</div>
 </div>
