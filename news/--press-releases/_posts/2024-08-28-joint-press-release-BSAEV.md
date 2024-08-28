@@ -1,6 +1,6 @@
 ---  
 title: Joint Press Statement on the 17th Brunei Darussalam-Singapore Annual Exchange of Visits 
-permalink: /resource-room/category/20240828-joint-press-release-BSAEV
+permalink: /resource-room/category/2024-08-28-joint-press-release-BSAEV
 image:  
 file_url:  
 description: Joint Press Statement on the 17th Brunei Darussalam-Singapore Annual Exchange of Visits 
