@@ -14,7 +14,7 @@ Mr Vivek Kumar, CEO, World Wildlife Fund (WWF) Singapore
 
 Distinguished guests   
 
-	Good morning, everyone. It is my pleasure to join you today at the opening of the revamped FairPrice outlet at City Square Mall. This is FairPrice Group’s flagship store for environmentally conscious design, featuring a wide range of sustainability features and initiatives. I commend FairPrice Group for putting sustainability as a key consideration for the revamp of this store.         
+1	Good morning, everyone. It is my pleasure to join you today at the opening of the revamped FairPrice outlet at City Square Mall. This is FairPrice Group’s flagship store for environmentally conscious design, featuring a wide range of sustainability features and initiatives. I commend FairPrice Group for putting sustainability as a key consideration for the revamp of this store.            
 
 2	Supermarkets are an integral part of our daily lives. Beyond just places where we buy groceries, supermarkets can help to promote environmental stewardship through its business operations and practices; shape sustainable consumer behaviour through the products and services they offer; and even educate consumers, including our young, on caring for the environment through an eco-friendly shopping experience. By leveraging this influence, supermarkets can be sustainability role-models for other businesses, and nudge Singaporeans to adopt a more environmentally friendly lifestyle. Let me share some examples on how supermarkets can drive positive change in terms of sustainability.    
 
