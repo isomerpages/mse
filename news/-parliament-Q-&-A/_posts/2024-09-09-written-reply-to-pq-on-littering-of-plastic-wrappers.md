@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Questions on Littering Of Plastic Wrappers
-permalink: /resource-room/category/2024-09-09-written-Reply-to-PQ-on-Littering-Of-Plastic-Wrappers
+permalink: /resource-room/category/2024-09-09-written-reply-to-pq-on-littering-of-plastic-wrappers
 file_url:
 description:
 ---
