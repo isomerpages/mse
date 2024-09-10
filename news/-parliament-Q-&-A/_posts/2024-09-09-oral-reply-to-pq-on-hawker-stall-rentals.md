@@ -22,7 +22,7 @@ expected patronage, and operating hours. NEA does not set any reserve rent or
 minimum bid price for these tenders.
 
 
-2 The recent tender for the cooked food stalls at Marine Parade Central
+2 The recent tender for the cooked food stall at Marine Parade Central
 Hawker Centre attracted over 40 bids. The bids were quite competitive, with the
 top five bids above $8,000. Overall, this is a popular centre as it is open for three
 meals throughout the day and has good footfall, especially given the recent
