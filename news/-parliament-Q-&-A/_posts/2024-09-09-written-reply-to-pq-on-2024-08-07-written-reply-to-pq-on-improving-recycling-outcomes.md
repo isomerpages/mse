@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on Improving Recycling Outcomes
-permalink: /resource-room/category/2024-08-07-written-reply-to-pq-on-improving-recycling-outcomes
+permalink: /resource-room/category/2024-09-09-written-reply-to-pq-on-improving-recycling-outcomes
 file_url:
 description:
 ---
