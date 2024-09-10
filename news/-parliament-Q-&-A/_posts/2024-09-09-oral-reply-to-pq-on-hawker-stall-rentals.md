@@ -1,6 +1,6 @@
 ---
 title: Oral Reply to Parliamentary Questions on Hawker Stall Rentals
-permalink: /resource-room/category/2024-09-09-Oral-Reply-to-PQ-on-Hawker-Stall-Rentals
+permalink: /resource-room/category/2024-09-09-oral-reply-to-pq-on-hawker-stall-rentals
 file_url:
 description:
 ---
