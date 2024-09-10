@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Questions on Construction Noise
-permalink: /resource-room/category/2024-09-09-written-Reply-to-PQ-on-Construction-Noise
+permalink: /resource-room/category/2024-09-09-written-reply-to-pq-on-construction-noise
 file_url:
 description:
 ---
