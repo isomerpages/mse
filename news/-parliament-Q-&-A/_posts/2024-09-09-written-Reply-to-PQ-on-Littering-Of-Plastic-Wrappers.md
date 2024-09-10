@@ -1,11 +1,11 @@
 ---
-title: Oral Reply to Parliamentary Questions on Littering Of Plastic Wrappers
-permalink: /resource-room/category/2024-09-09-Oral-Reply-to-PQ-on-Littering-Of-Plastic-Wrappers
+title: Written Reply to Parliamentary Questions on Littering Of Plastic Wrappers
+permalink: /resource-room/category/2024-09-09-written-Reply-to-PQ-on-Littering-Of-Plastic-Wrappers
 file_url:
 description:
 ---
  
-#### Oral Reply to Parliamentary Questions on Littering Of Plastic Wrappers
+#### Written Reply to Parliamentary Questions on Littering Of Plastic Wrappers by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Mr Lim Biow Chuan:** To ask the Minister for Sustainability and the
 Environment whether NEA will ban the use of plastic wrappers for chopsticks
