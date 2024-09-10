@@ -1,11 +1,11 @@
 ---
-title: Oral Reply to Parliamentary Questions on Construction Noise
-permalink: /resource-room/category/2024-09-09-Oral-Reply-to-PQ-on-Construction-Noise
+title: Written Reply to Parliamentary Questions on Construction Noise
+permalink: /resource-room/category/2024-09-09-written-Reply-to-PQ-on-Construction-Noise
 file_url:
 description:
 ---
  
-#### Oral Reply to Parliamentary Questions on Construction Noise
+#### Written Reply to Parliamentary Questions on Construction Noise by Ms Grace Fu, Minister for Sustainability and the Environment
 
 **Mr Don Wee:** To ask the Minister for Sustainability and the Environment
 whether NEA will permit construction worksites that utilise electric cranes, electric
