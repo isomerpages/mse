@@ -44,7 +44,7 @@ Together, we champion Singapore's efforts to create a greener, more sustainable 
 
 ![MSE Family](/images/IMG-20240412-WA0003.jpg)
 
-Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](http://www.careers.gov.sg/what-we-do/build-our-environment/).
+Want to make a direct impact on the everyday lives of Singaporeans, and work towards a greener and more sustainable future for all? Join our purpose-driven team now! To view our current job openings, please visit [Careers@Gov](https://jobs.careers.gov.sg/?a=Ministry+of+Sustainability+and+the+Environment;National+Environment+Agency;Singapore+Food+Agency;PUB,+The+National+Water+Agency&amp;p=3). 
 
 
 <h2><a name="growwithus"></a>Grow With Us </h2>
@@ -90,9 +90,17 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
 | <img src="/images/icon1.png" style="width:57px"> | <img src="/images/icon2.png" style="width:57px"> | <img src="/images/icon3.png" style="width:57px"> | <img src="/images/icon4.png" style="width:57px"> |
 | :--------:|:--------:|:--------:|:--------:|
 | **Where you feel safe to come to work** | **Where you can strike a balance** | **Where you can feel supported emotionally** | **Health and protection** |
-| Regular communication efforts on Workplace Safety & Health (WSH) practices, and safety walkabouts to mitigate WSH risks in our workplace; MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices)| Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership) **Leave entitlement** - 14 days/18 days annual vacation leave, depending on your scheme of service - Marriage Leave - Maternity and Paternity Leave - Parent-care Leave - Compassionate Leave - Childcare/Infant Care Leave - Sick leave and Hospitalisation Leave - Study Leave - Leave for Representation Games | Providing access to programmes and services (e.g. WOG Wellness Ambassadors network, WOG Counselling Services) to support the health and mental well-being of our officers | Subsidised Outpatient and Dental Treatment <br> Additional 2% Medisave Contribution, subject to a cap of $140 per month <br> Public Officers Group Insurance Scheme
+| Regular communication efforts on Workplace Safety & Health (WSH) practices, and safety walkabouts to mitigate WSH risks in our workplace; MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices)| Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership)  | Providing access to programmes and services (e.g. WOG Wellness Ambassadors network, WOG Counselling Services) to support the health and mental well-being of our officers | Subsidised Outpatient and Dental Treatment <br> Additional 2% Medisave Contribution, subject to a cap of $140 per month <br> Public Officers Group Insurance Scheme
 
-
+#### Leave entitlement 
+* 14 days/18 days annual vacation leave, depending on your scheme of service
+* Marriage Leave
+* Maternity and Paternity Leave
+* Parent-care Leave * Compassionate Leave
+* Childcare/Infant Care Leave
+* Sick leave and Hospitalisation Leave
+* Study Leave
+* Leave for Representation Games
 
 
 
