@@ -1,6 +1,6 @@
 ---  
 title: Senior Minister Of State For Sustainability And Environment Dr Koh Poh Koon To Participate in the G20 Agriculture Ministerial Meeting in Cuiabá, Brazil
-permalink: /resource-room/category/2024-09-22-press-release-sms-koh-g20-agriculture
+permalink: /resource-room/category/2024-09-12-press-release-sms-koh-g20-agriculture
 image:  
 file_url:  
 description: Senior Minister Of State For Sustainability And Environment Dr Koh Poh Koon To Participate in the G20 Agriculture Ministerial Meeting in Cuiabá, Brazil
