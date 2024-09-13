@@ -30,7 +30,7 @@ View the SG Eco Fund [Press Release]() -->
 
 <b>Be <u>In</u>spired</b>
 
-Discover the inspiring projects and stories of our grant recipients in this <a href="https://youtu.be/Vd5HCvYFPAg">video!</a>
+Discover the inspiring projects and stories of our grant recipients in this <a href="https://youtu.be/RkG6-H4gZ_4?si=XqdAOt2K8A9oJHvm">video</a>!
 
 Read [stories](https://medium.com/greenplan/tagged/sg-eco-fund){:target="_blank"} about past SG Eco Fund recipients.
 
