@@ -8,7 +8,9 @@ description:
 
 #### SPEECH BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE 65 YEARS OF SAFE AND SECURE FOOD SUPPLY EXHIBITION AT OUR TAMPINES HUB
 
-Distinguished Guests, Ladies and Gentlemen,
+Distinguished Guests, 
+
+Ladies and Gentlemen,
 
 1 Good morning
 
@@ -68,4 +70,6 @@ Distinguished Guests, Ladies and Gentlemen,
 
 25 Let me end by thanking everyone who has contributed significantly to Singapore’s food journey, whether as industry partners, consumers or officers at the various agencies past and present.
 
-26 I would especially like to thank our pioneering staff at PPD and AVA for their grit and determination in laying the excellent foundation that we continue to reap benefits today. I would also like to express my appreciation to
+26 I would especially like to thank our pioneering staff at PPD and AVA for their grit and determination in laying the excellent foundation that we continue to reap benefits today. I would also like to express my appreciation to to partner agencies such as NEA, HSA, HPB, MOH, NParks and PUB, for their continued support of SFA and for contributing to food safety and public health in Singapore.
+
+27 Our Singapore Food Story is a story of survival, resilience, and unwavering commitment. Let us all continue to play a part in writing the next chapter of our Singapore Food Story for future generations of Singaporeans. Thank you and congratulations.
