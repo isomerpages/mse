@@ -20,15 +20,11 @@ Good evening. I am pleased to join you this evening at the Singapore Packaging S
 
 2 Packaging is integral to businesses and consumers as it protects and preserves products and provides users with important product information. Companies also leverage packaging for marketing purposes to establish brand identity. However, as the global packaging industry grows, it becomes crucial to not only innovate but also consider the long-term sustainability of our packaging practices. This is why addressing packaging waste is important to ensure both business resilience and environmental sustainability.
 
-3 Packaging waste constitutes a significant portion of waste generated worldwide. In Singapore, packaging waste makes up about one-third of our domestic waste. In 2022, 60% of packaging waste was plastic, while 30% was paper. The remaining 10% was made from other packaging materials like metal and glass. Singapore’s only landfill, Semakau is expected to fill up by 2035.
-
-With the domestic recycling rate at just 12% in 2022, improving recycling rates and reducing waste are essential to safeguarding our environment. This is why packaging waste is a priority waste stream under our Zero Waste Masterplan.
+3 Packaging waste constitutes a significant portion of waste generated worldwide. In Singapore, packaging waste makes up about one-third of our domestic waste. In 2022, 60% of packaging waste was plastic, while 30% was paper. The remaining 10% was made from other packaging materials like metal and glass. Singapore’s only landfill, Semakau is expected to fill up by 2035. With the domestic recycling rate at just 12% in 2022, improving recycling rates and reducing waste are essential to safeguarding our environment. This is why packaging waste is a priority waste stream under our Zero Waste Masterplan.
 
 4 To tackle the issue of packaging waste, we introduced the Resource Sustainability Act (RSA) in 2019 and implemented Mandatory Packaging Reporting (MPR). As producers annually report on the packaging they introduce to the market, and their 3R plans, it raises awareness and encourages companies to innovate sustainable designs to reduce costs and minimise waste. The MPR lays the foundation for an Extended Producer Responsibility (EPR) framework to manage packaging waste.
 
-5 At the core of these initiatives is resource circularity – creating a sustainable system where materials are reduced, reused, and recycled.
-
-The beverage container return scheme is an example of how we are working towards promoting resource circularity by ensuring materials like beverage containers are collected and recycled, reducing the need for raw materials and minimising waste sent to Semakau Landfill.
+5 At the core of these initiatives is resource circularity – creating a sustainable system where materials are reduced, reused, and recycled. The beverage container return scheme is an example of how we are working towards promoting resource circularity by ensuring materials like beverage containers are collected and recycled, reducing the need for raw materials and minimising waste sent to Semakau Landfill.
 
 **Beverage container return scheme (BCRS)**
 
@@ -56,9 +52,7 @@ The beverage container return scheme is an example of how we are working towards
 
 15 Tonight’s award winners are shining examples of what can be achieved when innovation meets environmental responsibility. Lam Soon Singapore Pte Ltd, winner of the Singapore Packaging Star Awards (SPSA) for Commercial Sales and Display category and the WorldStar Award, is recognised for its Bio-Home Laundry Sheet Detergent, which embodies the principles of sustainable packaging. The detergent is packaged in a compact, paper-based box, with each pre-measured sheet dissolving completely with no residue. Compared to traditional water-based laundry detergent packaged in large plastic containers, this product reducespackaging waste while maintaining functionality.
 
-16 Recognised for its reusable pallet lid, winning the SPSA for Commercial Environmentally Sustainable Packaging category and the WorldStar Award is Syspex Technologies. With a unique interlocking design, the reusable pallet lid ensures goods are secured on pallets without the need for single-use banding or stretch wrap.
-
-This innovative product is made from durable, high-quality materials and can be reused multiple times, significantly reducing packaging waste in the logistics sector.
+16 Recognised for its reusable pallet lid, winning the SPSA for Commercial Environmentally Sustainable Packaging category and the WorldStar Award is Syspex Technologies. With a unique interlocking design, the reusable pallet lid ensures goods are secured on pallets without the need for single-use banding or stretch wrap. This innovative product is made from durable, high-quality materials and can be reused multiple times, significantly reducing packaging waste in the logistics sector.
 
 17 Another award winner, Greenpac (Singapore) Pte Ltd, wins the SPSA for the Commercial Transportation and Protection category and the WorldStar Award for its packaging solution for the Liquid Chromatography Instrument. Its solution includes unique handles for a one-step unboxing and reduces the amount of material used by 50% compared to regular boxes. The compact packaging design allows more equipment to be packaged, lowering the freight cost and carbon footprint. Greenpac’s contribution showcases how businesses can enhance operational efficiency and sustainability while maintaining product protection.
 
