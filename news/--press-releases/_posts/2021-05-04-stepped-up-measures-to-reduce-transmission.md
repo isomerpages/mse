@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-![](RackMultipart20210504-4-1gag0mk_html_68d95fc8b482815f.png)
 
 **14 Premises and 74 Individuals Penalised for Breaching Safe Management Measures;Stepped-up Measures to Reduce the Risk of Community Transmission**
 
