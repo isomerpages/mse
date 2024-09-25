@@ -79,7 +79,7 @@ Upon graduation, scholars will experience a diverse range of portfolios includin
 
 The Singapore Sustainability Scholarship is open to Singapore Citizens/Permanent Residents and is tenable for overseas or local universities.  
 
-For more information on how you can apply to be a Singapore Sustainability Scholar, please visit [Singapore Sustainability Scholarship](https://brightsparks.com.sg/profile/nea_pub_sfa/index.php).  
+For more information on how you can apply to be a Singapore Sustainability Scholar, please visit [Singapore Sustainability Scholarship](https://brightsparks.com.sg/profile/nea_pub_sfa/).  
 
 <h2><a name="benefits"></a>Benefits</h2>
 -----
