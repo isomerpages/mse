@@ -5,7 +5,7 @@ image:
 file_url:  
 description: Singapore and Ghana Launch First Call for Project Applications Under Implementation Agreement on Carbon Credits Cooperation
 --- 
-
+ 
 Singapore, 30 September 2024 — Singapore and Ghana have set out the processes for authorising carbon credit projects under their Implementation Agreement on carbon d credits cooperation, in accordance with Article 6 of the Paris Agreement. Applications may be submitted through Singapore’s Carbon Markets Cooperation website, at www.carbonmarkets-cooperation.gov.sg.
 
 2	The carbon credit projects authorised under the Implementation Agreement will channel financing towards emissions reduction or removal projects in Ghana. These projects can promote sustainable development and generate benefits for local communities, including job creation, clean water access, improvements to energy security, and reducing environmental pollution (See Annex A for potential project types). 
