@@ -5,8 +5,6 @@ image:
 file_url:  
 description: Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations Ms Grace Fu to Attend the 79th Session of the United Nations General Assembly High-Level Week and New York Climate Week
 --- 
-
-
 **Singapore, 23 September 2024** – Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations, will be in New York, United States of America from 23 to 27 September 2024 for the 79th session of the United Nations General Assembly High-Level Week and the New York Climate Week. 
 
 2  Minister Fu will speak at several events, including (i) the Climate Leaders’ Assembly organised by Carbonless Asia, and co-hosted by Bain & Company, GenZero, and Singapore’s National Climate Change Secretariat; and (ii) the Leaders’ Panel on the Voluntary Carbon Markets Day co-organised by the Integrity Council for the Voluntary Carbon Market (ICVCM), Voluntary Carbon Markets Integrity Initiative (VCMI), and Global Carbon Market Utility (GCMU). 
