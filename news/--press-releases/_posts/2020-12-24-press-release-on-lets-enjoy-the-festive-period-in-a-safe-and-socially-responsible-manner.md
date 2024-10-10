@@ -42,7 +42,7 @@ b) Ensure you are a safe distance from other groups (i.e. 1-metre distance).
 
 c) Members of public who wish to visit Sentosa’s beaches on Saturdays, Sundays and public holidays are required to reserve entry into the beaches via [here](https://www.sentosa.com.sg/beachreservations). You may make a reservation up to five days before your beach visits. If you are intending to visit only the premises of Sentosa’s beach F&B outlets without going onto the beach, you are not required to reserve beach entry slots. However, you are encouraged to make reservations with the F&B outlets directly to be assured of a table.  
 
-d) Before heading down to gardens, parks and nature reserves managed by the National Parks Board (NParks), check the Safe Distance @ Parks [portal](https://safedistparks.nparks.gov.sg) for the latest updates on visitorship levels and temporary closures. Please also refer to the NParks [website](https://www.nparks.gov.sg) for the latest advisories. Some gardens, parks, beaches and facilities such as car parks managed by NParks may be closed temporarily in order to ensure safe distancing.   
+d) Before heading down to gardens, parks and nature reserves managed by the National Parks Board (NParks), check the Safe Distance @ Parks for the latest updates on visitorship levels and temporary closures. Please also refer to the NParks [website](https://www.nparks.gov.sg) for the latest advisories. Some gardens, parks, beaches and facilities such as car parks managed by NParks may be closed temporarily in order to ensure safe distancing.   
 
 7 If you wish to celebrate the holidays at home, keep visitors to a maximum of five per household. The current group size limit will apply until Phase Three takes effect from 28 December 2020.  
 

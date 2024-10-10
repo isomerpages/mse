@@ -16,8 +16,7 @@ You can <a href="https://youtu.be/ousYLD2ehVg">view a recording</a> of our recen
 
 Access our collection of [resources](/resources/){:target="_blank"} that cover key environmental issues in Singapore (useful for those looking for an issue to get involved in or looking for more stats and evidence for their own proposals)
 
-Need help getting your ground-up initiative off the ground? Find curated resources and support through <a href="https://www.groundupcentral.sg" target="_blank">GroundUp Central</a> managed by the National Volunteer and Philanthropy Centre (NVPC).
- 
+Need help getting your ground-up initiative off the ground? Find curated resources and support through <a href="https://www.groundupcentral.sg" target="_blank">BAGUS Together</a> managed by the National Volunteer and Philanthropy Centre (NVPC).
 
 <!--View the [slides](/resources/SG-Eco-Fund-workshop-slides.pdf){:target="_blank"} presented at our workshop.
 
@@ -31,15 +30,22 @@ View the SG Eco Fund [Press Release]() -->
 
 <b>Be <u>In</u>spired</b>
 
+Discover the inspiring projects and stories of our grant recipients in this <a href="https://youtu.be/RkG6-H4gZ_4?si=XqdAOt2K8A9oJHvm">video</a>!
+
 Read [stories](https://medium.com/greenplan/tagged/sg-eco-fund){:target="_blank"} about past SG Eco Fund recipients.
+
+Check out the full list of SG Eco Fund recipients below:  
+- [Grant Call 1](/files/sgecofund/SGEF-GC1.pdf)  
+- [Grant Call 2](/files/sgecofund/SGEF-GC2.pdf)  
+- [Grant Call 3](/files/sgecofund/SGEF-GC3.pdf)  
+- [Grant Call 4](/files/sgecofund/SGEF-GC4.pdf)
+- [Grant Call 5](/files/sgecofund/SGEF-GC5.pdf)   
 
 <img src="/files/sgecofund/sgeco-community-seed-bank.jpeg" alt="photo of community seed bank"><br>
 <img src="/files/sgecofund/sgeco-mykilio.jpeg" alt="photo of mykilio"><br>
 <img src="/files/sgecofund/sgeco-engineering-good.jpg" alt="photo of engineering good">
 
-Check out the [complete list of SG Eco Fund recipients](/files/sgecofund/SGEF-GC1-4-Sprout2-awarded-projects-public.pdf){:target="_blank"}.
-
 <b>Be <u>In</u>volved</b>
  
-Looking for collaborators or other eco-warriors in your neighbourhood? Check out GroundUp Central’s [list of community and groundup initiatives](https://www.groundupcentral.sg/collaborate){:target="_blank"}.
+Looking for collaborators or other eco-warriors in your neighbourhood? Check out BAGUS Together’s [list of community and groundup initiatives](https://www.groundupcentral.sg/collaborate){:target="_blank"}.
  
