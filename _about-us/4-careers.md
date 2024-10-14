@@ -121,7 +121,6 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
             MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices) </td>
             <td>Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership)
 
-
 **Leave Entitlement**
 - 14 days/18 days annual vacation leave, depending on your scheme of service
 - Marriage Leave
@@ -137,7 +136,6 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
     Additional 2% Medisave Contribution, subject to a cap of $140 per month
 Public Officers Group Insurance Scheme</td>
 
-    
 </table>
 
 
