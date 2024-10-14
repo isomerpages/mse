@@ -69,7 +69,7 @@ An annual budget is set aside for your specialised learning needs and developmen
 
 MSE offers internship opportunities from time to time, subject to organisational needs. The duration of each internship typically lasts between a few weeks to several months, depending on the nature of the project and the availability of the candidate. 
 
-For more information, check out [Careers@Gov](http://www.careers.gov.sg).  
+For more information, check out [Careers@Gov](https://jobs.careers.gov.sg/?a=Ministry+of+Sustainability+and+the+Environment;National+Environment+Agency;Singapore+Food+Agency;PUB,+The+National+Water+Agency&amp;p=3).  
 
 #### Scholarships
 
@@ -102,5 +102,42 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
 * Study Leave
 * Leave for Representation Games
 
+<table class="table">
+    <thead>
+        <tr>
+            <th><img src="/images/icon1.png" style="width:57px">
+            Where you feel safe to come to work</th>
+            <th><img src="/images/icon2.png" style="width:57px">
+            Where you can strike a balance</th>
+	    <th><img src="/images/icon3.png" style="width:57px">
+	    Where you can feel supported emotionally</th>
+	    <th><img src="/images/icon4.png" style="width:57px">
+	    Health and protection</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Regular communication efforts on Workplace Safety & Health (WSH) practices, and safety walkabouts to mitigate WSH risks in our workplace
+            MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices) </td>
+            <td>Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership)
+
+
+**Leave Entitlement**
+- 14 days/18 days annual vacation leave, depending on your scheme of service
+- Marriage Leave
+- Maternity and Paternity Leave
+- Parent-care Leave 
+- Compassionate Leave
+- Childcare/Infant Care Leave
+- Sick leave and Hospitalisation Leave
+- Study Leave
+- Leave for Representation Games </td>
+	    <td>Providing access to programmes and services (e.g. WOG Wellness Ambassadors network, WOG Counselling Services) to support the health and mental well-being of our officers</td>
+		<td>Subsidised Outpatient and Dental Treatment
+    Additional 2% Medisave Contribution, subject to a cap of $140 per month
+Public Officers Group Insurance Scheme</td>
+
+    
+</table>
 
 
