@@ -119,8 +119,8 @@ At the MSE family, we care deeply about officers' well-being and safety, and we 
         <tr>
             <td>Regular communication efforts on Workplace Safety & Health (WSH) practices, and safety walkabouts to mitigate WSH risks in our workplace
             MSE Family WSH Day (to reinforce commitment to WSH and learn from best practices) </td>
-            <td>Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership)
-
+            <td>Staff well-being initiatives to support officers in balancing work, personal and family commitments (e.g. 'Eat With Your Family' Day, Focus Fridays, flexible working hours and telecommuting policies, Work Reduction Movement, Government holiday bungalows, Civil Service Club Membership) 
+\
 **Leave Entitlement**
 - 14 days/18 days annual vacation leave, depending on your scheme of service
 - Marriage Leave
