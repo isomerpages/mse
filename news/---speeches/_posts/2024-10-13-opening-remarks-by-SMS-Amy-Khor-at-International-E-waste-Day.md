@@ -1,62 +1,68 @@
 ---  
-title: Opening Remarks at International E-waste Day - Dr. Amy Khor
+title: Opening Remarks at International E-waste Day - Dr Amy Khor
 permalink: /resource-room/category/2024-10-13-opening-remarks-by-SMS-Amy-Khor-at-International-E-waste-Day
 image:  
 file_url:  
 description:  
 ---
-#### Speech by Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations, at the Advancing Maritime Resilience - No One Is Left Behind Seminar and Wavelink Maritime Simulation Centre Launch on 29 February 2024
+#### Opening Remarks by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment, at International E-waste Day on 13 October 2024 at Westgate
 
-Brother Rahim Jaffar, President, Singapore Maritime Officers’ Union (SMOU),
+Ladies and gentlemen, 
+ 
+	Good morning. It is my pleasure to join you today to commemorate International E-waste Day 2024.
+ 
+Importance of E-waste recycling
 
-Sister Mary Liew, General Secretary, SMOU,
+2	Every year, millions of electrical and electronic devices such as laptops and mobile phones are discarded as products become obsolete or are no longer in working condition.
 
-Brother Thomas Tay, Emeritus General Secretary, SMOU, and Chairman, Wavelink Co-operative Ltd,
+3	There has been a global surge in such E-waste due to shorter product lifecycles and the proliferation of electrical and electronic devices. It is quite common to see a person owning and using multiple electronic devices. 
+Regardless of the number of devices we own or how long they are used, it is important to ensure that they are properly treated and recycled when they are discarded.
 
-Brother Tan Hoe Soon, Assistant Chief Executive, MPA,
+4	E-waste contains heavy metals and hazardous substances, and improper disposal can contaminate the environment and harm public health. E-waste also contains metals and other materials that should be recovered for the manufacture of new products. This reduces the need to extract more raw materials.
 
-Sister Caroline Yang, President, Singapore Shipping Association (SSA),
+5	Recycling is, therefore, an important way to manage the E-waste problem by ensuring the proper end-of-life handling and extraction of resources.  
 
-Brother Stephen Cotton, General Secretary, International Transport Workers’ Federation (ITF),
+Assuring Data Security of E-waste
+ 
+6	So why aren’t more people recycling E-waste?  According to the United Nation’s Global E-waste Monitor published earlier this year, only about 22 percent of the E-waste generated was recycled. 
+This is expected to drop further to 20 percent by 2030 due to the widening difference in recycling efforts relative to the staggering growth of E-waste generation worldwide. From feedback that I have received, in Singapore, data security is a key concern. This is understandable given that our devices, such as mobile phones, tablets and laptops tend to store much confidential and personal information. 
 
-Distinguished Guests,
+7	Due to data security concerns, those old, unwanted or spoilt electronic devices are often left forgotten in the cupboard at home.  
 
-Ladies and gentlemen,
+8	It is therefore very apt that the theme for this year’s International E-waste Day is on data security, to create awareness of how you can safeguard your personal data before you send your data-bearing devices for recycling.
 
-A very good morning to all on this ‘leap day’.
+9	For example, before recycling your mobile phones or laptops, remember to back up your data and log out of all your personal accounts to protect your privacy and security. 
+You should also remove your SIM card and external storage media and perform a factory reset to remove all the data and files before dropping your device in an E-waste recycling bin. 
 
-2 I am delighted to join the SMOU, alongside tripartite partners, at the “Advancing Maritime Resilience: No One Is Left Behind” seminar and launch of the Wavelink Maritime Simulation Centre.
+10	I am happy to share that in Singapore as required by law, all data-bearing devices that are sent for recycling at licensed recyclers must first undergo data sanitisation and physical dismantling to ensure that these devices are recycled in a secure manner. I hope that this provides you with the assurance and confidence that your E-waste can be recycled securely. 
 
-**Impetus For Maritime Decarbonisation**
+11	I encourage you to visit the exhibition area for more information on how you can recycle your E-waste securely. You can also drop off your E-waste for recycling in exchange for instant prizes.
 
-3 The impetus for the decarbonisation of the maritime industry is clear. We have seen the adverse effects of climate change affecting shipping routes and maritime operations. For instance, severe droughts during the past summer led to critically low water levels in the Panama Canals, reducing traffic by 40% and slowing the global trade of goods. At the same time, global shipping accounts for about 3% of global greenhouse gas emissions. And its emissions are expected to continue to rise.
 
-4 The maritime industry thus has a key role to play in reducing its emissions and contributing to the fight against climate change. The International Maritime Organization (or IMO) has set out enhanced ambitions for international shipping to reach net-zero emissions by or around 2050, among other emissions reduction measures and targets. There are a variety of opportunities to enhance the energy efficiency of ships, optimise maritime operations, and scale the use of new green fuels.
 
-5 As a maritime nation whose story is inextricably linked to the sea, Singapore will play our part. We have been a strong supporter of global efforts to decarbonise the maritime industry. And we will continue to actively contribute to and facilitate consensus at the IMO. We are also working with like-minded partners to create sustainable maritime ecosystems, such as through establishing green and digital shipping corridors and developing harmonised standards and regulations for the safe handling and bunkering of future marine fuels. And domestically, we are decarbonising our port and harbourcraft operations in line with Singapore’s national climate target to achieve net-zero emissions by 2050, pioneering technology adoption in the process.
 
-**Importance of Just Transition**
+International E-waste Day 2024 event
 
-6 As we transit towards sustainable shipping, we must not forget that people are at the heart of the industry. We will need to ensure that our maritime workforce is ready and equipped to support the sector’s inclusive transformation.
+12	As the opening satellite event for Clean & Green Singapore (CGS), today’s International E-waste Day event recognises the efforts of the stakeholders who have contributed to E-waste management and the Extended Producer Responsibility (EPR) scheme in Singapore. We will also be presenting Certificates of Appreciation to the Town Councils today for the key role they have played in the collection of bulky E-waste from households and their help in organising E-waste collection drives in their respective housing estates. I thank them for their continual support. 
 
-7 The Government has been working with industry players, unions, and Institutes of Higher Learning to build a strong, future-ready workforce to ride this wave of change. The Maritime Just Transition Task Force, founded by international organisations and the Singapore Maritime Foundation (SMF) as its program partner, was set up to bring together government agencies, unions, employers, and academia, to help shipping companies look at future skills required for seafarers in the green transition. MPA and SMF have also worked with Pacific Carriers Limited, Pacific International Lines, and Ernst & Young to develop and publish the Maritime Workforce Transformation Guidebook. The Guidebook was distilled from key findings and actionable recommendations of a job redesign pilot conducted in 2022. It offers a practical approach for companies in the maritime sector to embark on job redesign and transform their workforce to meet the evolving needs of the industry.
+13	We also want to recognise participants of the inaugural community E-waste recycling drive, where Non-Governmental Organisations (NGOs), community and interest groups got together to participate in a 1-day collection drive to raise awareness and spur the community to recycle their E-waste. Through their efforts, a total of close to 950kg of E-waste was collected.  
+14        It is encouraging to know that more organisations are stepping up efforts to promote sustainable E-waste management. For instance, electronics store Gain City is running their Go Green campaign alongside the International E-waste Day. Besides creating awareness of how E-waste is properly disposed off and recycled, rebates were offered to customers who traded in their old appliances. Sony, a producer of electrical and electronic equipment, is also raising awareness through organising educational talks on E-waste recycling for our next generation. Both organisations have set up booths today at the exhibition area, and I look forward to visiting them later. 
 
-**SMOU’s Efforts**
+Update on Extended Producer Responsibility scheme for E-waste and ALBA free doorstep bulky E-waste collection
 
-8 This leaves me to thank the SMOU for organising today’s seminar and bringing the focus on training and tripartism. Indeed, ‘people’ and ‘partnership’ will be ever more important in ensuring that the industry adapts well to global trends such as sustainability and digitalisation; and our workforce is equipped with the skills to perform their roles effectively and seize opportunities in the transition.
+15	This marks the third year since NEA implemented the EPR Scheme for E-waste management.
 
-9 The Wavelink Maritime Institute, SMOU’s training arm, remains poised to support the industry. Since 2007, the Wavelink Maritime Institute has trained over 25,000 officers and cadets. This includes young cadets choosing to pursue seafaring as a career, and existing officers who wish to upgrade their skills and competency as part of their Continuing Education and Training.
+ The total amount of E-waste collected has increased steadily from 3,500 tonnes in February 2022 to more than 22,300 tonnes as of September 2024. There is also an increase from 300 collection points to about 870 collection points located across Singapore in places such as electronics stores, shopping malls, community centres, supermarkets, as well as government and commercial buildings. 
 
-10 The enhancement of the Wavelink Maritime Simulation Centre marks a new chapter in SMOU’s mission of preparing future-ready seafarers. I was pleased to witness the immersive learning experience that the new simulation centre offers. The simulation of real-world scenarios enables seafarers to develop decision-making abilities and refine their operational proficiency. The engine simulator is tailored to train seafarers for the complexities of handling alternative fuels such as LNG, methanol, and ammonia; while the bridge simulator offers a range of scenarios for seafarers. This enhances the integration and collaboration in training and cooperation between Deck and Engineering officers.
+16	We are continuing to do more. To make it even more convenient to recycle E-waste, ALBA, NEA’s appointed Producer Responsibility Scheme Operator or PRS Operator, will be offering free doorstep collection of bulky E-waste such as refrigerators, air-conditioners, washing machines, dryers and televisions for all households across Singapore starting 2025. This is in addition to existing E-waste collection avenues such as the Retailers’ 1-for-1 (pronounced as “one for one”) Takeback Scheme and the Town Councils’ bulky waste removal service. 
+I strongly encourage everyone to make full use of these free services to get rid of your unwanted large household appliances at home!
 
-11 Let me also thank the SMOU for your important contributions in advocating for our seafarers, and in maintaining excellent relations with both employers and the Government. Our strong tripartite partnership is one of our key competitive advantages. And it will continue to serve us well as we prepare our workforce for the future of shipping.
+Conclusion 
 
-**Conclusion**
+17	As we commemorate International E-waste Day, let’s all do our part on the E-waste recycling journey because proper management of E-waste contributes to a Clean and Green Singapore. 
 
-12 Let me conclude. Many of us would know that today, 29 February, was inserted as an additional day to sync our calendars with the length of the natural year. Without ‘leap days’, our calendars would fall out of sync with the seasons – by about 24 days after 100 years!
+18	Today’s International E-waste Day event kickstarts this year’s CGS campaign. There will be a few more events in the coming weeks leading up to the flagship event, CGS Day, which will be held on 3 November 2024. CGS aims to inspire Singaporeans to care for and protect our environment by adopting a clean, green, and sustainable lifestyle. Each of us can adopt greener practices, champion a sustainable way of life, and contribute to a more gracious society.
 
-13 And yet, climate change has altered many of the seasonal patterns that countries are used to – shifting the timing of spring snowmelt, the flowering of cherry blossoms, the length of time that lakes stay frozen, and more.
-
-14 The time for action is now – if we want to avoid the worse impacts of climate change and ensure a liveable world for future generations. I encourage the maritime industry to continue to take bold leaps forward, with everyone onboard.
-
-15 Thank you again for having me, and I wish everyone a productive day ahead. Thank you.
+19	I would once again like to express my heartfelt congratulations to all the award recipients. By playing our part to recycle our E-waste responsibly, we can build a greener and more sustainable Singapore. 
+ 
+Thank you. 
