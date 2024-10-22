@@ -10,9 +10,9 @@ third_nav_title: SG Eco Fund
 
 Check out some <a href="/resources/SG Eco Fund GC3 briefing deck 2022.pdf">tips and tricks</a> for writing a good application.
 
-You can <a href="https://youtu.be/ousYLD2ehVg">view a recording</a> of our recent workshop webinar. 
+You can <a href="https://www.youtube.com/watch?v=ousYLD2ehVg">view a recording</a> of our recent workshop webinar. 
 
-<a href="https://youtu.be/Vd5HCvYFPAg">Hear from SG Eco Fund grant recipients</a> on their lessons learnt and factors that contributed to a successful application.
+<a href="https://www.youtube.com/watch?v=Vd5HCvYFPAg">Hear from SG Eco Fund grant recipients</a> on their lessons learnt and factors that contributed to a successful application.
 
 Access our collection of [resources](/resources/){:target="_blank"} that cover key environmental issues in Singapore (useful for those looking for an issue to get involved in or looking for more stats and evidence for their own proposals)
 
