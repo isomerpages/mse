@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-![](RackMultipart20210430-4-1s22to6_html_68d95fc8b482815f.png)
 
 **Enforcement Will be Stepped Up and Collective Vigilance Remains Critical;** **15**  **Premises and 57 Individuals Penalised for Breaching Safe Management Measures**
 
