@@ -109,7 +109,7 @@ input:checked + label + .accordion-content {
 			</li>
 			<li><p><a href="https://www.sfa.gov.sg/food-for-thought">Food for Thought content hub</a></p>
 			</li>
-			<li><p>Food safety educational materials, food alerts and recalls, labelling information:<a href="https://www.sfa.gov.sg/food-information"> Food Information</a></p>
+			<li><p>Food safety tips:<a href="https://www.sfa.gov.sg/food-safety-tips">Food Safety Tips</a></p>
 			</li>
 			<li><p>Track records (hygiene grading, number of demerit points and suspension history) of the food establishment:<a href="https://www.sfa.gov.sg/food-retail/licensing-permits"> Food Retail Licence</a></p>
 			</li>

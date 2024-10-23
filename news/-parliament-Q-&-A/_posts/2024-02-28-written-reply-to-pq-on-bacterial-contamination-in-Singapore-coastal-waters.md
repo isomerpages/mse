@@ -1,6 +1,6 @@
 ---
 title: Written Reply to Parliamentary Question on bacterial contamination in Singapore's coastal waters
-permalink: /resource-room/category/2024-02-28-written-reply-to-pq-on-bacterial-contamination-in-Singapore's-coastal-waters/
+permalink: /resource-room/category/2024-02-28-written-reply-to-pq-on-bacterial-contamination-in-Singapore-coastal-waters/
 file_url:
 description:
 ---
