@@ -1,5 +1,5 @@
 ---   
-title: Speech at RICS X REDAS - Dr Amy Khor
+title: Speech at RICS X REDAS Conference - Dr Amy Khor
 permalink: /resource-room/category/2024-10-23-speech-by-SMS-Amy-Khor-at-the-Annual-RICS-X-REDAS-Conference
 image:  
 file_url:  
