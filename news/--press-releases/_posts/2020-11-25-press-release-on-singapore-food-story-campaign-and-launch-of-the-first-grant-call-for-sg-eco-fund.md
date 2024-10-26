@@ -88,7 +88,7 @@ The SG Eco Fund works on a co-funding basis. If the application is approved, the
 
 5 **Fund Application**  
 
-The SG Eco Fund opens for application on 25 November 2020 and will close on 31 January 2021. The applications will be evaluated in two batches. Applications received by 31 December 2020 will be processed earlier, while applications received after 31 December 2020 will be processed later. Applicants can visit <http://www.sgeco.gov.sg> to find out more about the application process.  
+The SG Eco Fund opens for application on 25 November 2020 and will close on 31 January 2021. The applications will be evaluated in two batches. Applications received by 31 December 2020 will be processed earlier, while applications received after 31 December 2020 will be processed later. Applicants can visit <https://www.mse.gov.sg/sgecofund/> to find out more about the application process.  
 
 Applicants may submit more than one project application, but will have to show that they have enough manpower and resources to manage multiple projects.  
 

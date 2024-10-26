@@ -12,7 +12,7 @@ description:
 
 **Details of Offences**
 
-2 Details of the offences at the three F&B outlets and orders for closure are below (please refer to Annex for photos):
+2 Details of the offences at the three F&B outlets and orders for closure are below:
 
 a.|  On 12 September, officers detected a group of 15 individuals inside a restaurant at 39 Hong Kong Street, at 9.10pm. The group had organised a private dinner event and was split across four tables, with intermingling observed. The Urban Redevelopment Authority (URA) issued an order on 17 September 2020 requiring the operator to close the premises from 18 September 2020 for a period of 10 days until 27 September 2020 (both dates inclusive).
 
@@ -28,54 +28,6 @@ c.|  On 19 September, officers observed patrons consuming alcohol at10.55pm at t
 
 5 F&B operators and premises owners are responsible for implementing SMMs, and should not be requesting Enforcement Officers or Safe Distancing Ambassadors to engage their patrons on SMMs on their behalf. While the majority of F&B operators and premises owners have ensured that SMMs are properly implemented, there remains a minority which continue to breach SMMs. The government will continue to step up enforcement checks at F&B outlets around Singapore toensure that they remain safe spaces for all. We also urge patrons to be socially responsible and observe the SMMs.
 
-6 As stated in the “Advisory for Phase 2 Reopening of Food & Beverage Establishments” ([https://covid.gobusiness.gov.sg/guides/fbestablishments3.PDF](https://covid.gobusiness.gov.sg/guides/fbestablishments3.PDF)), gatherings or groups involving more than five persons in total**are not allowed**, even if they are split across multiple tables. F&B operators are also not permitted to accept such reservations. Exceptions can only be made if all members of the group are from the same household. In such cases, the group will need to be seated at multiple tables, with no more than five persons per table, with at least 1 metre spacing between the tables. Establishments can request to verify diners’ claims that they are from the same household, and can reject entry of diners at their discretion.
+6 As stated in the “Advisory for Phase 2 Reopening of Food & Beverage Establishments”, gatherings or groups involving more than five persons in total**are not allowed**, even if they are split across multiple tables. F&B operators are also not permitted to accept such reservations. Exceptions can only be made if all members of the group are from the same household. In such cases, the group will need to be seated at multiple tables, with no more than five persons per table, with at least 1 metre spacing between the tables. Establishments can request to verify diners’ claims that they are from the same household, and can reject entry of diners at their discretion.
 
 -End-
-
-**Annex**
-
-15 individuals found inside the restaurant at 39 Hong Kong Street seated across four tables and intermingling on 12 September 2020 at 9.10pm.
-
-![](https://www.mse.gov.sg/images/default-source/default-album/speeches/22-sep-press-release/22-sep-1.jpg)
-
-(Photo credit: Urban Redevelopment Authority)
-
-  
-
-The Beer Factory admitted three groups of patrons, each comprising more than five persons, with one group comprising eight people on 12 September 2020 at 9.50pm
-
-![](https://www.mse.gov.sg/images/default-source/default-album/speeches/22-sep-press-release/22-sep-2.jpg)
-
-(Photo credit: Urban Redevelopment Authority)
-
-  
-
-On 19 September 2020, officers observed patrons consuming alcohol at 10.55pm at two tables in the outdoor refreshment area at Blk 261, Serangoon Central Drive.
-
-![](https://www.mse.gov.sg/images/default-source/default-album/speeches/22-sep-press-release/22-sep-3.jpg)
-
-(Photo credit: Singapore Food Agency)
-
-  
-
-On 18 September 2020 at 7.15pm, officers observed that patrons at two different tables in an F&B outlet in Chinatown were seated less than 1 metre apart.
-
-![](https://www.mse.gov.sg/images/default-source/default-album/speeches/22-sep-press-release/22-sep-4.jpg)
-
-(Photo credit: Singapore Food Agency)
-
-  
-
-On 19 September 2020 at 9.40pm, officers observed that there was no 1 metre safe distancing between different groups of diners in an F&B outlet along Beach Road.
-
-![](https://www.mse.gov.sg/images/default-source/default-album/speeches/22-sep-press-release/22-sep-5.jpg)
-
-(Photo credit: Enterprise Singapore)
-
-  
-
-On the afternoon of 20 September 2020, officers observed an F&B outlet in Clementi that did not ensure 1 metre between groups of customers and had two groups of three persons seated at the same table.
-
-![](https://www.mse.gov.sg/images/default-source/default-album/speeches/22-sep-press-release/22-sep-6.jpg)
-
-(Photo credit: Singapore Food Agency)
