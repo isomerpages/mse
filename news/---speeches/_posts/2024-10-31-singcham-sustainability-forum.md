@@ -1,6 +1,6 @@
 ---
 title: 2024 SingCham Sustainability Forum - Ms Grace Fu
-permalink: /resource-room/category/2024-09-31-singcham-sustainability-forum
+permalink: /resource-room/category/2024-10-31-singcham-sustainability-forum
 image:
 file_url:
 description:
