@@ -35,11 +35,11 @@ Discover the inspiring projects and stories of our grant recipients in this <a h
 Read [stories](https://medium.com/greenplan/tagged/sg-eco-fund){:target="_blank"} about past SG Eco Fund recipients.
 
 Check out the full list of SG Eco Fund recipients below:  
-- [Grant Call 1](/files/sgecofund/SGEF-GC1.pdf)  
-- [Grant Call 2](/files/sgecofund/SGEF-GC2.pdf)  
-- [Grant Call 3](/files/sgecofund/SGEF-GC3.pdf)  
-- [Grant Call 4](/files/sgecofund/SGEF-GC4.pdf)
-- [Grant Call 5](/files/sgecofund/SGEF-GC5.pdf)   
+- [Awarded Projects for SG Eco Fund <b>Grant Call 5</b>](/files/sgecofund/SGEF-GC5.pdf)
+- [Awarded Projects for SG Eco Fund <b>Grant Call 4</b>](/files/sgecofund/SGEF-GC4.pdf)
+- [Awarded Projects for SG Eco Fund <b>Grant Call 3</b>](/files/sgecofund/SGEF-GC3.pdf)
+- [Awarded Projects for SG Eco Fund <b>Grant Call 2</b>](/files/sgecofund/SGEF-GC2.pdf)  
+- [Awarded Projects for SG Eco Fund <b>Grant Call 1</b>](/files/sgecofund/SGEF-GC1.pdf)  
 
 <img src="/files/sgecofund/sgeco-community-seed-bank.jpeg" alt="photo of community seed bank"><br>
 <img src="/files/sgecofund/sgeco-mykilio.jpeg" alt="photo of mykilio"><br>
