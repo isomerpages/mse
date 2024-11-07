@@ -6,7 +6,7 @@ file_url:
 description:
 ---
 
-### OPENING REMARKS BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT AND MINISTER-IN-CHARGE OF TRADE RELATIONS, AT SINGCHAM SUSTAINABILITY FORUM
+#### Opening Remarks by Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations, at SingCham Sustainability Forum
 
 1 早安。 Good morning. I am delighted to speak once again at this Forum.
 
