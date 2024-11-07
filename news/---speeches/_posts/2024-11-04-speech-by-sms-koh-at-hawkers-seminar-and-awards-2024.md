@@ -6,7 +6,7 @@ file_url:
 description:
 ---
 
-### SPEECH BY DR KOH POH KOON, SENIOR MINISTER OF STATE, SUSTAINABILITY AND THE ENVIRONMENT, AT HAWKERS' SEMINAR AND AWARDS 2024
+#### Speech by Dr Koh Poh Koon, Senior Minister of State for Sustainability and the Environment at Hawkers' Seminar and Awards 2024
 
 Mr Yeo Hiang Meng, President of FMAS
 
@@ -22,7 +22,7 @@ Ladies and Gentlemen
 
 3 Today, we recognise our most outstanding and enterprising hawkers. As we honour your contributions, we also look ahead to see how we can nurture future generations to be excited about the hawker trade. We remain committed to supporting all of you, so that we can keep our rich hawker culture alive. I will take the opportunity later to outline new measures that we are putting in place to support this.
 
-### Recognising Hawkers and Hawker Centres
+**Recognising Hawkers and Hawker Centres**
 
 4 I am pleased that FMAS will be presenting four categories of awards today to celebrate our hawkers.
   
@@ -36,13 +36,13 @@ Ladies and Gentlemen
 
 9 The Singapore Hawkers’ Awards is a recognition of your tireless dedication to the hawker craft. Congratulations to all award winners who will be receiving your awards shortly.
 
-### Supporting the Hawker Trade
+**Supporting the Hawker Trade**
 
 10 In many ways, entering the hawker trade is a calling. The work can be physically demanding and involve long hours of preparation, but all of you continue to show up each day so that Singaporeans can enjoy our favourite Chicken Rice, Mee Rebus and Roti Prata at affordable price points. At the same time, you may be worried about earning a fair living while trying to keep prices competitive. As the government, we share the same concerns. This is a tension that we need to balance as a society – keeping hawker fare affordable, while ensuring that hawkers earn a decent livelihood. At the end of the day, how much a hawker can sell a bowl of noodles for, is very much dependent on how much Singaporeans are prepared to pay.
 
 11 On our part, Government strives to support hawkers by providing a conducive operating environment from which our hawkers operate. We do so in two main ways – improving your access to manpower, and keeping rental affordable.
 
-### Manpower
+**Manpower**
 
 12 Let me start with manpower. The number of meals you can serve is dependent on how much manpower you have, especially during peak hours. I know finding stall assistants is a challenge for some of you. So, we made some enhancements recently.
 
@@ -56,7 +56,7 @@ Ladies and Gentlemen
 
 14 By providing access to a larger pool of potential stall assistants and partnering you to improve your productivity, we can help ease your livelihood. With greater productivity, we also hope that you spend fewer hours doing food preparation so that you can have more rest and leisure time.
 
-### Rental
+**Rental**
 
 15 I will next move on to rental. We have kept stall rentals at NEA’s hawker centres generally affordable. There is no reserve rent and minimum bid price for stalls today. Some stalls have gone as low as $1. Median rent is around $1,200 per month, and this has remained relatively stable for the past 10 years. Subsidised stallholders pay only about $300 per month. The cost of building hawker centres is not recovered through rental. This is something that is borne by government.
   
@@ -82,7 +82,7 @@ Ladies and Gentlemen
 
 23 We will continue to monitor the tender bidding behaviour closely, and review the tenancy policies regularly to ensure that they stay relevant.
 
-### Social Compact
+**Social Compact**
 
 24 I have spoken about how Government is providing a conducive operating environment for our hawkers through improving your access to manpower and keeping rent affordable. We will continue to find more ways to support all of you. But let me turn back to the balance we need to strike as a society in terms of keeping hawker fare affordable, while ensuring that hawkers earn a fair living.
 
@@ -96,7 +96,7 @@ Ladies and Gentlemen
 
 29 There are also other private sector initiatives to support hawkers and consumers, such as the ongoing DBS PayLah app’s Support Our Heartlands initiative and the earlier DBS’s 5 Million Hawker Meals scheme, which offer users cashback if they used the PayLah app to pay for their hawker meals on designated days. We are deeply encouraged by these initiatives, which affirm our hawkers while supporting the community, and hope to see many more of them as we continue to uplift and safeguard our hawker culture.
 
-### Conclusion
+**Conclusion**
 
 30 2025 will be our 60<sup>th</sup> year as an independent country. Hawkers have always played an integral role in building our country, and hawker culture has been an important part of our Singaporean identity. 2025 will also mark the 5<sup>th</sup> anniversary since Hawker Culture in Singapore was successfully inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. In conjunction with these milestones, the Government will be reviewing measures to further support hawkers and revitalise our Hawker Culture. Preserving our hawker culture and supporting our hawkers remain important priorities. We are committed to work together with our hawker community and stakeholders to do so. I thank FMAS for organising this year’s Singapore Hawkers’ Seminar and Awards, and would like to convey my heartfelt congratulations to all award winners and nominees again.
 
