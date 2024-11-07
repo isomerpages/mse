@@ -46,13 +46,13 @@ Ladies and Gentlemen
 
 12 Let me start with manpower. The number of meals you can serve is dependent on how much manpower you have, especially during peak hours. I know finding stall assistants is a challenge for some of you. So, we made some enhancements recently.
 
-    a. I announced in Parliament last month that NEA will be relaxing our manpower policy to allow hawkers to hire long-term visit pass holders with Letter of Consent/ Pre-Approved Letter of Consent regardless of familial ties, starting from 1 January 2025.
+ a. I announced in Parliament last month that NEA will be relaxing our manpower policy to allow hawkers to hire long-term visit pass holders with Letter of Consent/ Pre-Approved Letter of Consent regardless of familial ties, starting from 1 January 2025.
 
-    b. Although being a hawker stallholder remains reserved for Singaporeans and PRs to safeguard the local identity of our hawker culture, we hope that expanding the pool of potential stall assistants from which hawker stall operators can hire will help to address some of the manpower challenges you face.
+ b. Although being a hawker stallholder remains reserved for Singaporeans and PRs to safeguard the local identity of our hawker culture, we hope that expanding the pool of potential stall assistants from which hawker stall operators can hire will help to address some of the manpower challenges you face.
   
 13 But there is another dimension to manpower, which is to make each person more productive.
 
-    a. In this regard, I am glad that some hawker centres and hawkers have tapped on NEA’s productivity support measures. These include the Productive Hawker Centres programme, which provides up to 70% tiered subsidy for hawker centres to adopt centralised dishwashing, as well as the Hawkers Productivity Grant, which provides 80% co- funding for individual hawkers to purchase kitchen automation equipment and digital solutions. Some operators from Socially Conscious Enterprise Hawker Centres, or SEHCs, have also tapped on their industry networks to offer bulk purchasing services to better manage raw material costs.
+ a. In this regard, I am glad that some hawker centres and hawkers have tapped on NEA’s productivity support measures. These include the Productive Hawker Centres programme, which provides up to 70% tiered subsidy for hawker centres to adopt centralised dishwashing, as well as the Hawkers Productivity Grant, which provides 80% co- funding for individual hawkers to purchase kitchen automation equipment and digital solutions. Some operators from Socially Conscious Enterprise Hawker Centres, or SEHCs, have also tapped on their industry networks to offer bulk purchasing services to better manage raw material costs.
 
 14 By providing access to a larger pool of potential stall assistants and partnering you to improve your productivity, we can help ease your livelihood. With greater productivity, we also hope that you spend fewer hours doing food preparation so that you can have more rest and leisure time.
 
@@ -70,11 +70,11 @@ Ladies and Gentlemen
 
 20 This is why going forward, to encourage more realistic bidding behaviour that better consider actual market conditions, we will make two changes to our policy:
 
-    a. First, we will make available more information and online business cost estimation tools for prospective bidders. This is to assist tenderers to make a more informed decision when they submit a tender bid for a hawker stall. We are working on the details, which we plan to make public early next year.
+ a. First, we will make available more information and online business cost estimation tools for prospective bidders. This is to assist tenderers to make a more informed decision when they submit a tender bid for a hawker stall. We are working on the details, which we plan to make public early next year.
 
-    b. Second, to discourage unrealistic bidding behaviour that banks on tendered rental being lowered after three years, we will stagger its downward adjustment over a longer period. After the initial three years, stall rental will be adjusted to 50% of the difference between bid price and AMR when tenancy is renewed. This rental rate will be in place for three more years, the duration of the second tenancy, before it is fully adjusted to AMR from the 7<sup>th</sup> year onwards (the 3<sup>rd</sup> tenancy term).
+ b. Second, to discourage unrealistic bidding behaviour that banks on tendered rental being lowered after three years, we will stagger its downward adjustment over a longer period. After the initial three years, stall rental will be adjusted to 50% of the difference between bid price and AMR when tenancy is renewed. This rental rate will be in place for three more years, the duration of the second tenancy, before it is fully adjusted to AMR from the 7<sup>th</sup> year onwards (the 3<sup>rd</sup> tenancy term).
 
-    c. For example, if the tendered rent is $5,000 in the first 3 years and AMR is $1,000, the rent will be adjusted downwards to $3,000 in the next three years from Years 4 to 6, and will only reach $1,000 from Year 7 onwards.
+ c. For example, if the tendered rent is $5,000 in the first 3 years and AMR is $1,000, the rent will be adjusted downwards to $3,000 in the next three years from Years 4 to 6, and will only reach $1,000 from Year 7 onwards.
 
 21 This new policy will take effect from the next tender exercise in November 2024. It will only be applied prospectively. Existing hawkers will not be affected.
 
