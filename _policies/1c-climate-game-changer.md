@@ -101,7 +101,7 @@ input:checked + label + .accordion-content {
 		<p>The contrast between the wet months (Nov to Jan) and dry months (Feb and Jun to Sep) will likely become more pronounced in the future. Increasing trends in both intensity and frequency of heavy rainfall events and dry spells are expected as the world gets warmer.</p>
 		<h4>How else can climate change affect Singapore?</h4>
 		<p><strong>Coastal and Inland Floods</strong></p>
-		<p>Climate change could cause mean sea-level rise of up to 1.15 metre by 2100 in Singapore. If there is a confluence of extreme high tides and storm surges, sea levels could rise transiently by up to 4 to 5 metres above mean sea level If there is a confluence of extreme high tides and storm surges, some projections suggest that sea levels could rise transiently by up to 4 to 5 metres above mean sea level. This is high enough to potentially flood one-third of Singapore.</p>
+		<p>Climate change could cause mean sea-level rise of up to 1.15 metre by 2100 in Singapore. If there is a confluence of extreme high tides and storm surges, sea levels could rise transiently by up to 4 to 5 metres above mean sea level. This is high enough to potentially flood one-third of Singapore.</p>
 		<p><strong>Our Water Supply</strong></p>
 		<p>An increase in the intensity of weather variability could present significant challenges to the management of our water resources. Episodes of intense rainfall could overwhelm our drainage system and lead to flash floods.</p>
 		<p><strong>Our Food Supply</strong></p>
