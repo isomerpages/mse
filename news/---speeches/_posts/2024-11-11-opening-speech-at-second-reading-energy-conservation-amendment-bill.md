@@ -74,4 +74,4 @@ description:
 
 27 Mr Speaker, to conclude, the EC Bill will ensure that our energy efficiency remains the cornerstone for the sustainable future of our industry. Enhancing industrial energy efficiency is a win-win solution for both businesses and Singapore. Using less energy to do more will go a long way to reduce business costs, power up Singapore’s energy security, and help us meet our climate ambitions. 
 
-28. With that, Sir, I beg to move.
+28 With that, Sir, I beg to move.
