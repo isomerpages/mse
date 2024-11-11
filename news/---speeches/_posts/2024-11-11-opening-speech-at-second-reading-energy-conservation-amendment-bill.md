@@ -1,6 +1,6 @@
 ---
 title: Opening Speech at 2nd Reading of the Energy Conservation (Amendment) Bill - Mr Baey Yam Keng 
-permalink: /resource-room/category/2024-11-11-opening-speech-at-second-reading-energy-conservation-amendment-bill/
+permalink: /resource-room/category/2024-11-11-opening-speech-at-second-reading-energy-conservation-amendment-bill/ 
 image:
 file_url:
 description:
