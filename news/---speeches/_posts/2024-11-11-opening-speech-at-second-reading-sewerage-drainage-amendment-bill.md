@@ -10,7 +10,7 @@ description:
 
 **INTRODUCTION**
 
-Mr Speaker, Sir, on behalf of the Minister for Sustainability and the Environment, I beg to move, “That the Bill be now read a Second Time.”
+1  Mr Speaker, Sir, on behalf of the Minister for Sustainability and the Environment, I beg to move, “That the Bill be now read a Second Time.”
 
 2  The Sewerage and Drainage Act, or SDA for short, was enacted in 1999, and the last Sewerage and Drainage (Amendment) Bill was in 2012. The SDA provides powers to regulate the construction, maintenance, improvement, operation and use of sewerage and drainage systems, and the discharge of sewage and trade effluent.
 
