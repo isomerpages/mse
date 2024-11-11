@@ -1,5 +1,5 @@
 ---
-title: 2nd Reading of the Sewerage and Drainage (Amendment) Bill - Opening Speech 
+title: Opening Speech at 2nd Reading of the Sewerage and Drainage (Amendment) Bill - Dr Amy Khor
 permalink: /resource-room/category/2024-11-11-opening-speech-at-second-reading-sewerage-drainage-amendment-bill
 image:
 file_url:
