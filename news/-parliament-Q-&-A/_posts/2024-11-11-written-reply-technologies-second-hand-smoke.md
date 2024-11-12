@@ -1,11 +1,11 @@
 ---
-title: Written Reply on Parliamentary Question on Technologies to detect Second Hand Smoke
+title: Written Reply to Parliamentary Question on Technologies to detect Second Hand Smoke
 permalink: /resource-room/category/2024-11-11-written-reply-technologies-second-hand-smoke/
 image:
 file_url:
 description:
 ---
-### Written Reply on Parliamentary Question on Technologies to detect Second Hand Smoke by Ms Grace Fu Minister for Sustainability and the Environment
+### Written Reply to Parliamentary Question on Technologies to detect Second Hand Smoke by Ms Grace Fu Minister for Sustainability and the Environment
 **Mr Louis Ng Kok Kwang:** To ask the Minister for Sustainability and the Environment (a) what technology is presently available to detect second-hand smoke in homes; (b) what are the limitations preventing the use of such technology, if any; and (c) when did the Ministry last conduct a review on the technology available to detect second-hand smoke in homes which is causing disamenities to neighbours.
 
 **Answer:**
