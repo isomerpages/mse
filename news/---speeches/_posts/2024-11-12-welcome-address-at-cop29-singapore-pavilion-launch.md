@@ -1,6 +1,6 @@
 ---
 title: Welcome Address at the COP29 Singapore Pavilion Launch - Ms Grace Fu 
-permalink: /resource-room/category/2024-12-11-welcome-address-at-cop29-singapore-pavilion-launch/ 
+permalink: /resource-room/category/2024-11-12-welcome-address-at-cop29-singapore-pavilion-launch/ 
 image:
 file_url:
 description:
