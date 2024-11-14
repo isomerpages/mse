@@ -1,6 +1,6 @@
 ---
 title: Response to Motion on Hawker Culture by Dr Koh Poh Koon, Senior Minister of State for Sustainability and the Environment 
-permalink: /resource-room/category/2024-11-13-written-reply-water-quality-advisories-oil-chemical-spills
+permalink: /resource-room/category/2024-11-13-response-to-motion-on-hawker-culture-by-senior-minister-of-state-ministry-of-sustainability-and-the-environment-dr-koh-poh-koon
 image:
 file_url:
 description: Response to Motion on Hawker Culture by Dr Koh Poh Koon, Senior Minister of State for Sustainability and the Environment 
