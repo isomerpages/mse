@@ -138,7 +138,5 @@ _4.2 Regularising PUB’s Existing Practices and Other Amendments_
 
 50  The proposed amendments to the SDA I have elaborated on will provide PUB with the legislative powers to do so, and I invite premise owners, developers and stakeholders to work with us and play a part in securing our water future together. 
 
-51  The proposed amendments related to PUB’s operations will allow PUB to be more effective in fulfilling its mission to tame stormwater, reclaim used water, and ensure a safe and reliable supply of water for all.
-
-52  Sir, I beg to move.
+51  Sir, I beg to move.
 
