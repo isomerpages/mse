@@ -1,5 +1,5 @@
 ---
-title: Response to Motion on Hawker Culture by Dr Koh Poh Koon, Senior Minister of State for Sustainability and the Environment 
+title: Response to Motion on Hawker Culture - Dr Koh Poh Koon
 permalink: /resource-room/category/2024-11-13-response-to-motion-on-hawker-culture-by-senior-minister-of-state-ministry-of-sustainability-and-the-environment-dr-koh-poh-koon
 image:
 file_url:
