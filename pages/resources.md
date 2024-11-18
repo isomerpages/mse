@@ -98,6 +98,15 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
 
+                <div class="card">
+        <a href="/files/resources/greengovsg-report-fy2023.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>GreenGov.SG Report for FY2023</h5>
+            </div>
+          <img src="/images/greengovsg-report-fy2023.png" alt="GreenGov.SG Report for FY2023" style="width:300px;">
+        </a>
+    </div>  
+
 		<div class="card">
         <a href="/resources/ggsg-2024-partners-package.pdf" target="_blank">  
             <div class="card-content">
@@ -110,9 +119,9 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 		<div class="card">
         <a href="/files/resources/greengovsg-report-fy2022.pdf" target="_blank">  
             <div class="card-content">
-            <h5>GreenGov.SG Report for FY 2022</h5>
+            <h5>GreenGov.SG Report for FY2022</h5>
             </div>
-          <img src="/images/greengovsg-report-fy2022.jpg" alt="GreenGov.SG Report for FY 2022" style="width:300px;">
+          <img src="/images/greengovsg-report-fy2022.jpg" alt="GreenGov.SG Report for FY2022" style="width:300px;">
         </a>
     </div>  
     
