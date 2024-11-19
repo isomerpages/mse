@@ -22,7 +22,7 @@ Mr President,
 
 6 Carbon credits are another innovative source of finance. We are working with partners to develop a well-functioning and credible carbon market, including through the co-facilitation of the Paris Agreement Article 6 negotiations, and building a pipeline of high-quality, high integrity credits.
 
-7 Mr President, Singapore reaffirms our full support for your leadership and the UNFCCC.
+7 Mr President, Singapore reaffirms our full support for your leadership and the UNFCCC. 
 
 8 We are committed to taking action. We have submitted our first Biennial Transparency Report and will submit our 2035 Nationally Determined Contribution on time.
 
