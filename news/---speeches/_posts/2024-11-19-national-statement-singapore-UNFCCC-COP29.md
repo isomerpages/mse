@@ -1,5 +1,5 @@
 ---
-title: National Statement of Singapore delivered by Ms Grace Fu, Minister for Sustainability and the Environment, at the UNFCCC COP29 Resumed High-Level Segment on 19 November 2024, Baku, Azerbaijan
+title: National Statement of Singapore at the UNFCCC COP29 Resumed High-Level Segment - Ms Grace Fu
 permalink: /resource-room/category/2024-11-19-national-statement-singapore-UNFCCC-COP29
 image: 
 file_url:
