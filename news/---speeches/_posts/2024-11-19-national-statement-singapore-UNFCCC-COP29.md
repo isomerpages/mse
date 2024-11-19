@@ -20,12 +20,12 @@ Mr President,
 
 5 Singapore is fully committed to doing our part, in line with the Paris Agreement, to mobilise private capital towards supporting Asia’s transition. Last year, we launched the FAST-P, or Financing Asia’s Transition Partnership. At COP29, we pledged up to US$500 million to crowd in other concessional capital from public, private and philanthropic sources of an equal amount. This will catalyse a much larger amount of private capital, to support green and transition projects. 
 
-6	Carbon credits are another innovative source of finance. We are working with partners to develop a well-functioning and credible carbon market, including through the co-facilitation of the Paris Agreement Article 6 negotiations, and building a pipeline of high-quality, high integrity credits.
+6 Carbon credits are another innovative source of finance. We are working with partners to develop a well-functioning and credible carbon market, including through the co-facilitation of the Paris Agreement Article 6 negotiations, and building a pipeline of high-quality, high integrity credits.
 
 7 Mr President, Singapore reaffirms our full support for your leadership and the UNFCCC.
 
 8 We are committed to taking action. We have submitted our first Biennial Transparency Report and will submit our 2035 Nationally Determined Contribution on time.
 
-9	Together with our friends and partners, let us turn our climate ambitions into reality.
+9 Together with our friends and partners, let us turn our climate ambitions into reality.
 
-10	Thank you.
+10 Thank you.
