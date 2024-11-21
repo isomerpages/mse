@@ -1,5 +1,5 @@
 ---
-title: Sustaining Access to Drinking Water Amid Climate Change at the COP29 Singapore Pavilion - Ms Grace Fu
+title: From Singapore to the Amazon - Breakthroughs in Rainforest Conservation Through Xprize - Ms Grace Fu
 permalink: /resource-room/category/2024-11-21-speech-breakthrough-rainforest-conservation
 image: 
 file_url:
