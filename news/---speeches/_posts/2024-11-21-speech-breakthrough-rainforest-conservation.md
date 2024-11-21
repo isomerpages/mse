@@ -8,6 +8,7 @@ description: From Singapore to the Amazon - Breakthroughs in Rainforest Conserva
 #### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the “From Singapore to the Amazon: Breakthroughs in Rainforest Conservation Through Xprize” Event at the COP29 Singapore Pavilion in Baku, Azerbaijan, on 21 Nov 2024 
 
 Ambassador Andre Correa do Lago, 
+
 Ladies and gentlemen,
 
 1 Good afternoon and a warm welcome to our Singapore Pavilion at COP29.
