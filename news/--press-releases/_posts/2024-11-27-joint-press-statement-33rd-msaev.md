@@ -6,7 +6,7 @@ file_url:
 description: Joint Press Statement for the 33rd Malaysia-Singapore Annual Exchange of Visits 
 --- 
 
-**Singapore, 27 Novmember 2024** - At the invitation of Ms Grace Fu, Minister of Sustainability and the Environment of Singapore, Mr Nik Nazmi Nik Ahmad, Minister for Natural Resources and Environmental Sustainability of Malaysia visited Singapore from 26 to 27 November 2024 for the Malaysia-Singapore Annual Exchange of Visits (MSAEV) between the Environment Ministries of Malaysia and Singapore. Since 1979, the MSAEV has facilitated closer ties and cooperation between the two ministries in environment-related matters.
+**Singapore, 27 November 2024** - At the invitation of Ms Grace Fu, Minister of Sustainability and the Environment of Singapore, Mr Nik Nazmi Nik Ahmad, Minister for Natural Resources and Environmental Sustainability of Malaysia visited Singapore from 26 to 27 November 2024 for the Malaysia-Singapore Annual Exchange of Visits (MSAEV) between the Environment Ministries of Malaysia and Singapore. Since 1979, the MSAEV has facilitated closer ties and cooperation between the two ministries in environment-related matters.
 
 2 The Malaysia delegation led by Mr Nik Nazmi Nik Ahmad comprised Secretary-General Datuk Dr Ching Thoo A/L Kim and senior officials from the Ministry of Natural Resources and Environmental Sustainability, Department of Environment and other government agencies.
 
