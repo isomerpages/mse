@@ -98,6 +98,15 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <h1 style="text-align:center"><b>Resources</b></h1>
 <div class="cards">
 
+		<div class="card">
+        <a href="/files/resources/key-environmental-statistics-2024.pdf" target="_blank">  
+            <div class="card-content">
+            <h5>Key Environmental Statistics 2024</h5>
+            </div>
+          <img src="/images/key-environmental-statistics-2024.png" alt="Key Environmental Statistics 2024" style="width:300px;">
+        </a>
+    </div> 
+
                 <div class="card">
         <a href="/files/resources/greengovsg-report-fy2023.pdf" target="_blank">  
             <div class="card-content">
