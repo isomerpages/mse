@@ -128,9 +128,9 @@ DAVID: END OF ISSUES PAGE CARDS FLEXBOX LAYOUT AND STYLES
 		<div class="card">
         <a href="/files/resources/greengovsg-report-fy2022.pdf" target="_blank">  
             <div class="card-content">
-            <h5>Key Environmental Statistics 2024</h5>
+            <h5>GreenGov.SG Report for FY2022</h5>
             </div>
-          <img src="/images/greengovsg-report-fy2022.jpg" alt="Key Environmental Statistics 2024" style="width:300px;">
+          <img src="/images/greengovsg-report-fy2022.jpg" alt="GreenGov.SG Report for FY2022" style="width:300px;">
         </a>
     </div>  
     
