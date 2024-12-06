@@ -54,14 +54,14 @@ permalink: /take-action/organisations/
             <div>
             <h5><i class="fas fa-universal-access"></i></h5></div>
             <div>
-                <h5><a href="https://sec.org.sg/our-programmes/eco-certifications/">Build Organisational Awareness</a></h5>
+                <h5><a href="https://sec.org.sg/eco-certifications.html">Build Organisational Awareness</a></h5>
             </div>
         </div>
         <div class='grid-column'>
             <div>
             <h5><i class="fas fa-shopping-cart"></i></h5></div>
             <div>
-                <h5><a href="https://sec.org.sg/our-programmes/eco-certifications/">Conscious Purchasing</a></h5>
+                <h5><a href="https://sec.org.sg/eco-certifications.html">Conscious Purchasing</a></h5>
             </div>
         </div>
     </div>

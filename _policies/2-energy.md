@@ -81,7 +81,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title4"  /><label for="title4">Our Efforts</label>
 	<div class="accordion-content">
 		<p><strong>Households</strong><br>  Major energy consuming household appliances must carry an energy efficiency label to allow consumers to make informed purchases. These appliances must also meet minimum energy performance standards before they can be sold in Singapore. In 2020, we launched the Climate-Friendly Household Programme to assist 1-room to 3-room HDB households to switch to more resource-efficient appliances.</p>
-		<p><strong>Industries</strong><br>  The Energy Efficiency National Partnership offers resources and learning activities to help companies improve energy efficiency, and recognises those that have performed well. NEA administers an Energy Efficiency Fund (E2F) which offers grants to support measures to improve energy efficiency.</p>
+		<p><strong>Industries</strong><br>  The Energy Efficiency National Partnership offers resources and learning activities to help companies improve energy efficiency, and recognises those that have performed well.</p>
 		<p><strong>Public Sector</strong><br>  The public sector is taking the lead in improving energy efficiency. We have set targets for energy efficiency, and retrofitted buildings to achieve Green Mark standards. We are also greening our procurement process by purchasing energy efficient lighting, appliances and ICT equipment, as well as asking for guaranteed energy savings when contracting for retrofits of chilled-water systems.</p>
 	</div>
 </div>
