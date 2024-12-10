@@ -70,7 +70,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
     <div class='grid-column' style="background-color:#FFF1CC;">
         <div class="lists">
             <h2><b>Sprout</b></h2>
-            <h4>You are seeking a <b>maximum grant of $8,000</b> (maximum project budget of $10,000)</b>:</h4>
+            <h4>You are seeking a <b>maximum grant of $8,000</b> (maximum project budget of $10,000):</h4>
             <div>
                 <p>1) Complete the <a href="https://form.gov.sg/62305c9b09260b00127b63d4" target="_blank">application form.</a></p>
                 <a href="/resources/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
