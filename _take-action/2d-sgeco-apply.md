@@ -5,7 +5,9 @@ third_nav_title: SG Eco Fund
 ---
 
 
-The SG Eco Fund has two categories: Sprout (Up to $10,000) and Main (more than $10,000). 
+The SG Eco Fund has two categories: Sprout (maximum grant of $8,000*) and Main (maximum grant of $1 million).
+
+*In celebration of Singapore’s 60th anniversary (SG60), applications submitted from 1 January 2025 to 31 December 2025 will be eligible for a maximum grant of $30,000.
 
 Sprout applications can be submitted throughout the year, while Main applications can be submitted between 1 May and 31 August each year. 
 
@@ -68,7 +70,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
     <div class='grid-column' style="background-color:#FFF1CC;">
         <div class="lists">
             <h2><b>Sprout</b></h2>
-            <h4>Your requested funding is <b>$10,000 or less</b>:</h4>
+            <h4>You are seeking a <b>maximum grant of $8,000</b> (maximum project budget of $10,000):</h4>
             <div>
                 <p>1) Complete the <a href="https://form.gov.sg/62305c9b09260b00127b63d4" target="_blank">application form.</a></p>
                 <a href="/resources/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
@@ -86,7 +88,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
     <div class='grid-column' style="background-color:#C5DFB3;">
         <div class="lists">
         <h2><b>Main</b></h2>
-        <h4>Your requested funding is <b>more than $10,000</b>:</h4>
+        <h4>You are seeking a grant that is <b>greater than $8,000</b>:</h4>
         <div>
           
           
