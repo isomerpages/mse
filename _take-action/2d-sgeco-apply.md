@@ -7,7 +7,7 @@ third_nav_title: SG Eco Fund
 
 The SG Eco Fund has two categories: Sprout (maximum grant of $8,000*) and Main (maximum grant of $1 million).
 
-*In celebration of Singapore’s 60th anniversary (SG60), applications submitted from 1 January 2025 to 31 December 2025 will be eligible for a maximum grant of $30,000.
+<i>*In celebration of Singapore’s 60th anniversary (SG60), applications submitted from 1 January 2025 to 31 December 2025 will be eligible for a maximum grant of $30,000.</i>
 
 Sprout applications can be submitted throughout the year, while Main applications can be submitted between 1 May and 31 August each year. 
 
