@@ -19,7 +19,7 @@ permalink: /terms-of-use/
     
 
 4.  **RESTRICTIONS ON USE OF CONTENTS**  
-    Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of MEWR.
+    Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of MSE.
     
     Subject to Clause 4.3, to use any parts of the Contents of this Site, the user must seek permission in writing, stating the:
     

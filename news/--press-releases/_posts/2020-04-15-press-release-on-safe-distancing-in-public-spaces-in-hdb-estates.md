@@ -30,7 +30,7 @@ description:
 
 10 We thank members of public who have been sending Government agencies feedback on safe distancing. Members of public may also use the OneService App, which now has a dedicated function for reporting cases where safe distancing is not being practised. The information provided will help relevant agencies identify hotspots which require further patrols. Please provide specific details and photographs of the issue when submitting feedback. We urge members of the public to only send photographs taken by themselves, and not those forwarded to them, or found online. This will ensure that the cases flagged are current, and not already addressed by our officers.  
 
-11 The Ministry of Health’s website has a comprehensive set of FAQs on the COVID-19 situation, including [FAQs](https://www.moh.gov.sg/covid-19/faqs) on safe distancing measures.  
+11 The Ministry of Health’s website has a comprehensive set of FAQs on the COVID-19 situation, including FAQs on safe distancing measures.  
 
 [1] Mask-wearing is not recommended for young children below the age of two for child safety reasons. Individuals may remove their masks while engaging in strenuous exercise outdoors but must put them back on after completing their exercise.  
 
