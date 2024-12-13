@@ -89,7 +89,7 @@ input:checked + label + .accordion-content {
 <li>It is our individual actions that determine collective outcomes. Our consumption patterns drive industry. If we avoid disposables, buy locally produced food, and choose energy-efficient appliances, greener and more sustainable businesses will emerge.</li>
 <li>There are new business and job opportunities across the economy that will benefit Singapore and Singaporeans.</li>
 </ol>
-<p>The Government will continue to engage members of the public to rally and drive collective actions for sustainability through campaigns, consultations, and co-creation opportunities. MSE initiatives with opportunities for individuals and organisations to play a part include the ongoing <a href="http://www.greenplan.gov.sg">Singapore Green Plan</a>, the annual <a href="http://www.mse.gov.sg/climate-action-week/">Climate Action Week</a>, and <a href="http://www.mse.gov.sg/partnering-community">Citizens&rsquo; Workgroups </a>. MSE also launched the <a href="http://www.sgeco.gov.sg/">SG Eco Fund</a> in 2020 to support individuals and organisations in starting ground-up initiatives.</p>
+<p>The Government will continue to engage members of the public to rally and drive collective actions for sustainability through campaigns, consultations, and co-creation opportunities. MSE initiatives with opportunities for individuals and organisations to play a part include the ongoing <a href="http://www.greenplan.gov.sg">Singapore Green Plan</a>, the annual <a href="https://www.mse.gov.sg/gogreensg">Go Green Singapore</a>, and <a href="http://www.mse.gov.sg/partnering-community">Citizens&rsquo; Workgroups </a>. MSE also launched the <a href="http://www.mse.gov.sg/sgecofund/">SG Eco Fund</a> in 2020 to support individuals and organisations in starting ground-up initiatives.</p>
 <p>We invite <a href="http://www.greenplan.gov.sg/take-action/as-individual">individuals</a> and <a href="http://www.greenplan.gov.sg/take-action/as-an-organisation">organisations</a> to join us in playing your part to take environmentally-friendly actions.</p>
 <p>You can keep a lookout and participate in opportunities to co-create and co-deliver sustainability solutions by following us @msesingapore on our social media channels (LinkedIn, Twitter, Instagram, TikTok and Facebook).</p>
 	</div>
@@ -224,14 +224,14 @@ GreenGov.SG strives to raise the bar on sustainability through three pillars, or
 	</div>
 	<input type="checkbox" id="ptitle1"  /><label for="ptitle1">What are the MSE awards that recognise water and environmental sustainability efforts?</label>
 	<div class="accordion-content">
-		<p>The Ministry of Sustainability and the Environment (MSE) organises the biennial <a href="https://www.pae.gov.sg/">President's Award for the Environment</a> (PAE), Singapore's highest environmental accolade. It recognises and honours sustained contributions by environmental champions from the People, Private and Public (3P) sectors, and aims to inspire more community partners to come forward to address our environmental challenge. <br />&nbsp;<br />
+		<p>The Ministry of Sustainability and the Environment (MSE) organises the biennial [President's Award for the Environment (PAE)](https://www.mse.gov.sg/pae/), Singapore's highest environmental accolade. It recognises and honours sustained contributions by environmental champions from the People, Private and Public (3P) sectors, and aims to inspire more community partners to come forward to address our environmental challenge. <br />&nbsp;<br />
 The National Environment Agency (NEA) organises the <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/ecofriend-awards">EcoFriend Awards</a> to recognise environmentally proactive individuals in Singapore who have contributed significantly to environmental sustainability.
 		</p>
 	</div>	
 	
 	<input type="checkbox" id="ptitle3"  /><label for="ptitle3">Where can I seek funding and grants to support my environmental campaigns and events?</label>
 	<div class="accordion-content">
-		<p>MSE has launched a $50 million <a href="http://www.mse.gov.sg/sgecofund/">SG Eco Fund</a> in 2020 to support the co-creation of solutions that advance environmental sustainability and involve the community. Through the SG Eco Fund, we hope to empower everyone across the People, Public and Private sectors to take ownership of the environment and enable our community to build a sustainable Singapore.<br />&nbsp;<br />
+		<p>MSE has launched a $50 million <a href="https://www.mse.gov.sg/sgecofund/">SG Eco Fund</a> in 2020 to support the co-creation of solutions that advance environmental sustainability and involve the community. Through the SG Eco Fund, we hope to empower everyone across the People, Public and Private sectors to take ownership of the environment and enable our community to build a sustainable Singapore.<br />&nbsp;<br />
 
 The SG Eco Fund has two categories. The 'Sprout' category, which offers funding support of up to $10,000 is open for application throughout the year. Projects that require funding support of more than $10,000 may submit their applications through the 'Main' category grant call from May to August every year. If you have a query about the SG Eco Fund, please reach out to <a href="mailto:sg_eco_fund@mse.gov.sg">sg_eco_fund@mse.gov.sg</a>.<br />&nbsp;<br />
 
@@ -323,34 +323,5 @@ Living close to one another necessitates good neighbourly behaviour so that we c
 	</div>
 </div>
 
-<a name="safe-mgmt"></a>
-<h1><b>Safe Management Measures</b></h1>
-<div>
-  	<input type="checkbox" id="smtitle1"  /><label for="smtitle1">How do I report breaches of Safe Management Measures or poor practices at the workplace?</label>
-	<div class="accordion-content">
-	<p>You may wish to refer to the Requirements for Safe Management Measures at Workplace Advisory from the Ministry of Manpower (MOM), regarding compliance of vendors in their workplace.</p>
-<p>Please report any breaches to <a href="mailto:mom_oshd@mom.gov.sg">mom_oshd@mom.gov.sg</a> via email or visit the MOM website for public reporting of workplace safety and health issues <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting">here</a>.</p>
-	</div>
-  	<input type="checkbox" id="smtitle2"  /><label for="smtitle2">Where can I find the latest information on the COVID-19 advisories?</label>
-	<div class="accordion-content">
-	<p>You may refer to the Ministry of Health's list of Frequently Asked Questions at <a href="https://www.moh.gov.sg/covid-19/faqs">https://www.moh.gov.sg/covid-19/faqs</a> for the latest information.</p>
-	</div>
-  	<input type="checkbox" id="smtitle3"  /><label for="smtitle3">How do I report on misconduct on Safe Distancing personnel?</label>
-	<div class="accordion-content">
-		<p>We require further details such as the name, contact number, and where the Safe Distancing Ambassador (SDA) was deployed at for the relevant agencies to investigate on the matters raised. You may also share with us photos and screenshots of the conversations to aid investigations.</p>
-<p>You may wish to report such encounters with MSE. We take such feedback seriously and our agencies will investigate feedback of inappropriate actions made against SDAs or enforcement officers. Appropriate actions will be taken after the investigation is completed.</p>
-	</div>
-  	<input type="checkbox" id="smtitle4"  /><label for="smtitle4">What is the protocol for Safe Distancing personnel to take enforcement action?</label>
-	<div class="accordion-content">
-		<p>Safe Distancing Enforcement Officers (SDEOs) may take enforcement action against offenders for breaches of Safe Management Measures (SMMs). Members of public are required to cooperate with SDEOs&rsquo; requests for personal particulars, including showing their NRICs as proof of their identity. In some instances, SDEOs may also take photos of the NRICs as part of the enforcement process. Nevertheless, safeguards are in place to ensure that the photos are used strictly for investigation purposes only and will be disposed of in a proper manner.</p>
-<p>When SDEOs perform their duties, they are required to put on their SDEO passes. Members of public who wish to verify the identities of SDEOs may request to see their photo ID cards and Letters of Appointment from the Ministry of Health (MOH). These documents are proof that the SDEOs are authorised to perform their roles as SDEOs. Depending on operational requirements, SDEOs may also put on red armbands when performing their duties.</p>
-	</div>	
-  	<input type="checkbox" id="smtitle5"  /><label for="smtitle5">Where can I find SMM guidelines for sector-specific requirements for businesses?</label>
-	<div class="accordion-content">
-		<p>To ensure a safe working environment, businesses are required to abide by nation-wide general requirements for workplaces. Businesses are also required to adhere to sector-specific requirements and comply with measures to facilitate contact tracing.&nbsp; You may wish to refer to the SMM guidelines on Sector-Specific Requirements for businesses <a href="http://www.gobusiness.gov.sg/safemanagement/sector/">here</a>.</p>
-	</div>	
-	
-<p><i>Information accurate as of 16 August 2022.</i></p>
-	
 </div>
 </div>
