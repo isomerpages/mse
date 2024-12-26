@@ -36,7 +36,7 @@ c) **Drinks Emporium** , operated by AdamousePte Ltd (83 Club Street), was found
 
 7 In Chinatown, where there have been heavier crowds over the weekends, STB, together with relevant agencies and community partners like the Chinatown Business Association and Chinatown Festivals Organising Committee, will implement additional measures to better space out the crowds. **These additional measures include:**
 
-a) The Chinatown Chinese New Year street light-up along South Bridge Road, New Bridge Road and Eu Tong Sen Street will not be turned on from 5 to 7 February and 11 February. Visitors who wish to observe the street light-up are encouraged to visit during the weekdays, or to visit the [Chinatown Festivals website](https://chinatownfestivals.sg/programmes/#360-virtual-tour-and-heritage-trail) instead for a 360-degree virtual tour of the Chinatown Chinese New Year street light-up, starting from 5 February 2021.
+a) The Chinatown Chinese New Year street light-up along South Bridge Road, New Bridge Road and Eu Tong Sen Street will not be turned on from 5 to 7 February and 11 February. Visitors who wish to observe the street light-up are encouraged to visit during the weekdays, or to visit the [Chinatown Festivals website](https://chinatownfestivals.sg/) instead for a 360-degree virtual tour of the Chinatown Chinese New Year street light-up, starting from 5 February 2021.
 
 b) To manage the flow of passengers entering directly onto Pagoda Street, the up-riding escalator at Chinatown MRT Exit A to Pagoda Street will be closed from time to time, depending on street-level crowd situation. Passengers will be guided by station staff to alternative exits at Chinatown MRT.
 

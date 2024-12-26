@@ -38,7 +38,7 @@ f. **Zam Zam** (**697-699 North Bridge Road)** was found to have seated differen
 
 **Enforcement against SMM breaches by 73 individuals at parks and beaches**
 
-6 A total of 73 individuals were fined $300 each for breaching SMMs on 6 and 7 February 2021 in parks and beaches managed by the National Parks Board (NParks). These breaches include gathering in groups of more than eight people and intermingling between groups. In Changi Beach Park alone, 39 individuals were fined, including 17 who were caught gathering in one group(photo in Annex A).
+6 A total of 73 individuals were fined $300 each for breaching SMMs on 6 and 7 February 2021 in parks and beaches managed by the National Parks Board (NParks). These breaches include gathering in groups of more than eight people and intermingling between groups. In Changi Beach Park alone, 39 individuals were fined, including 17 who were caught gathering in one group.
 
 **Continued crowd management measures and advisory for festive period**
 
@@ -52,52 +52,6 @@ f. **Zam Zam** (**697-699 North Bridge Road)** was found to have seated differen
 
 11 Multiple table bookings at F&amp;B premises for groups larger than eight persons are also strictly prohibited, unless the diners are from the same household. Intermingling across different tables is not allowed. We strongly advise F&amp;B operators to double-check the reservations they have already received to ensure that the bookings are in order. We also urge diners to not try to circumvent the rules, for the sake of their loved ones and the well-being of the community. We will not hesitate to take firm enforcement action. Let us be socially responsible in observing all these measures to prevent a resurgence in community transmission.
 
-
-
-**Annex A**
-
-Ah Yat Seafood Restaurant (200 Turf Club Road) was found to have allowed a company dinner comprising 65 people seated across nine tables on 6 February 2021.
-
-_(Photo credit: Singapore Land Authority)_
-
-![](/news/news-images/press-release-2021-02-10-image-1.jpg)
-
-East Treasure Chinese Restaurant (3B River Valley Road,#01-16) was found to have accepted a group of 16 customers seated across two tables on 29 January 2021.
-
-_(Photo credit: Urban Redevelopment Authority)_
-
-![](/news/news-images/press-release-2021-02-10-image-2.jpg)
-
-Crystal Jade Jiang Nan (VivoCity, #01-52) was found to have accepted a booking for 16 diners from different households and seated them across two tables on 6 February 2021.
-
-_(Photo credit: Enterprise Singapore)_
-
-![](/news/news-images/press-release-2021-02-10-image-3.jpg)
-
-Ding Garden (191B New Bridge Road) was found to have accepted a booking for 13 diners and seated them across three tables when they arrived together on 5 February 2021.
-
-_(Photo credit: Singapore Tourism Board)_
-
-![](/news/news-images/press-release-2021-02-10-image-4.jpg)
-
-Wangzi Music Restaurant (19 New Bridge Road) was found to have alloweddiners to consume alcohol at 2:30am on 6 February 2021.
-
-_(Photo credit: Singapore Tourism Board)_
-
-![](/news/news-images/press-release-2021-02-10-image-5.jpg)
-![](/news/news-images/press-release-2021-02-10-image-6.jpg)
-
-Zam Zam (697-699 North Bridge Road) was found to have seated different groups of diners less than 1 metre apart on 5 February 2021.
-
-_(Photo credit: Urban Redevelopment Authority)_
-
-![](/news/news-images/press-release-2021-02-10-image-7.jpg)
-
-39 individuals were each fined $300 at Changi Beach Park on 6 and 7 February 2021, including 17 individuals who were caught gathering in one group.
-
-_(Photo credit: National Parks Board)_
-
-![](/news/news-images/press-release-2021-02-10-image-8.jpg)
 
 **Annex B**
 

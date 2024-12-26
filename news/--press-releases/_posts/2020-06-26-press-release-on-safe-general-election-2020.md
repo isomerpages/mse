@@ -8,7 +8,7 @@ description:
 
 #### Advisory to Members of Public to Ensure a Safe General Election 2020  
 
-1 Political parties and candidates can be expected to ramp up their campaigning activities after Nomination Day on 30 June 2020, in the run up to Polling Day on 10 July 2020. The Elections Department has issued [guidelines](https://www.eld.gov.sg/pdf/GE2020/Advisory_on_Safe_Physical_Campaigning_During_General_Election_2020.PDF) on how political parties and candidates can campaign effectively and safely under the current circumstances. This advisory serves to also remind and encourage all members of public to continue to observe safe distancing measures, so as to ensure a safe General Election (GE) for all.  
+1 Political parties and candidates can be expected to ramp up their campaigning activities after Nomination Day on 30 June 2020, in the run up to Polling Day on 10 July 2020. The Elections Department has issued guidelines on how political parties and candidates can campaign effectively and safely under the current circumstances. This advisory serves to also remind and encourage all members of public to continue to observe safe distancing measures, so as to ensure a safe General Election (GE) for all.  
 
 2 Under Phase 2 of our re-opening, all members of public are required to abide by general safe distancing measures in public spaces and premises such as town centres, markets, eating places and malls, as announced earlier by the Ministry of Health. These measures include:  
 

@@ -5,7 +5,6 @@ image:
 file_url:  
 description:  
 ---  
-![](RackMultipart20210323-4-5kz679_html_68d95fc8b482815f.png)
 
 **31 Individuals and Five**  **Food and Beverage Premises Penalised for Breaching**
 

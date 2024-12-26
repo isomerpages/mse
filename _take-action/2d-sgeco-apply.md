@@ -5,7 +5,9 @@ third_nav_title: SG Eco Fund
 ---
 
 
-The SG Eco Fund has two categories: Sprout (Up to $10,000) and Main (more than $10,000). 
+The SG Eco Fund has two categories: Sprout (maximum grant of $8,000*) and Main (maximum grant of $1 million).
+
+<i>*In celebration of Singapore’s 60th anniversary (SG60), Sprout applications submitted from 1 January 2025 to 31 December 2025 will be eligible for a maximum grant of $30,000.</i>
 
 Sprout applications can be submitted throughout the year, while Main applications can be submitted between 1 May and 31 August each year. 
 
@@ -68,14 +70,14 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
     <div class='grid-column' style="background-color:#FFF1CC;">
         <div class="lists">
             <h2><b>Sprout</b></h2>
-            <h4>Your requested funding is <b>$10,000 or less</b>:</h4>
+            <h4>You are seeking a <b>maximum grant of $8,000</b> (with a maximum project budget of $10,000):</h4>
             <div>
                 <p>1) Complete the <a href="https://form.gov.sg/62305c9b09260b00127b63d4" target="_blank">application form.</a></p>
                 <a href="/resources/SG-Eco-Fund-Sample-Form-(Sprout).pdf">View sample form</a>
                 <p> You will also be required to submit the following supporting documents:</p>
                 <ul>
                 <li>Pitch deck <a href="/files/sgecofund/SG-Eco-Fund-Pitch-Deck-Template.pptx" target="_blank">(pitch deck template)</a></li>
-                <li>Budget <a href="/files/sgecofund/SG-Eco-Fund-Budget-Template-2022.xlsx" target="_blank">(budget template)</a></li>
+                <li>Budget <a href="/files/sgecofund/Oct-2024-SG-Eco-Fund-Budget-Template-Main-n-Sprout.xlsx" target="_blank">(budget template)</a></li>
                 </ul>
                 <p>Please refer to the pitch deck template for details on what to include. Your pitch deck should not exceed 10 slides.</p>
                 <p>2) If your project is shortlisted, you will be invited to give a 10-minute pitch using your previously submitted deck.</p>
@@ -86,7 +88,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
     <div class='grid-column' style="background-color:#C5DFB3;">
         <div class="lists">
         <h2><b>Main</b></h2>
-        <h4>Your requested funding is <b>more than $10,000</b>:</h4>
+        <h4>You are seeking a grant that is <b>greater than $8,000</b>:</h4>
         <div>
           
           
@@ -96,7 +98,7 @@ Please note that the application form on FormSG **cannot** be saved as a draft. 
           
             <p>You will also be required to submit the following supporting documents:</p>
             <ul>
-            <li>Budget <a href="/files/sgecofund/SG-Eco-Fund-Budget-Template-2022.xlsx" target="_blank">(budget template)</a></li>
+            <li>Budget <a href="/files/sgecofund/Oct-2024-SG-Eco-Fund-Budget-Template-Main-n-Sprout.xlsx" target="_blank">(budget template)</a></li>
             <li>ACRA business profile report or ROS profile;</li>
             <li>Audited financial report for the last three years* (for organisations only);</li>
             <li>CV of key project team members (not required for public agencies).</li>
